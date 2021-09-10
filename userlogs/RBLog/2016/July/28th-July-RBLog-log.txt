@@ -1,0 +1,10 @@
+Date: 28-07-2016 01:43:15 AM  Account : kosuvjus User : Freestyleus Reward: 9774;32;646454;0;, RB: 17, Item Used:9931 Item Replaced:9931;33;5;0; 
+Date: 28-07-2016 06:37:33 AM  Account : kosuvjus User : Freestyleus Reward: 9774;32;646454;0;, RB: 18, Item Used:9690 Item Replaced:9690;33;14;0; 
+Date: 28-07-2016 10:58:24 AM  Account : rex1000 User : R2D2 Reward: 9772;32;646454;0;, RB: 9, Item Used:9666,9667 Item Replaced:9666;33;9667;0;9667;34;61611104;1; 
+Date: 28-07-2016 12:54:48 PM  Account : porche123 User : Scarlett Reward: 9772;32;646454;0;, RB: 8, Item Used:9665 Item Replaced:9665;35;;0; 
+Date: 28-07-2016 02:51:17 PM  Account : branchew User : Teresa Reward: -, RB: 2, Item Used:none Item Replaced:none 
+Date: 28-07-2016 04:10:39 PM  Account : ramps1432 User : Rangemage Reward: 9774;32;646454;0;, RB: 16, Item Used:9650 Item Replaced:9650;33;17;0; 
+Date: 28-07-2016 07:53:07 PM  Account : etiquet User : Avenged Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 28-07-2016 08:21:53 PM  Account : etiquet User : Avenged Reward: -, RB: 2, Item Used:none Item Replaced:none 
+Date: 28-07-2016 09:20:32 PM  Account : rex1000 User : R2D2 Reward: 9772;32;646454;0;, RB: 10, Item Used:9668 Item Replaced:9668;34;33954;0; 
+Date: 28-07-2016 10:19:33 PM  Account : sandy007 User : Shock Reward: -, RB: 5, Item Used:none Item Replaced:none 

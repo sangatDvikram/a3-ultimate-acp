@@ -1,0 +1,16 @@
+Date: 30-01-2016 05:20:00 AM  Account : z3alot User : Intelligency Reward: -, RB: 2, Item Used:none Item Replaced:none 
+Date: 30-01-2016 07:56:00 AM  Account : austin1 User : Powerstar Reward: 9774;32;646454;0;, RB: 16, Item Used:9650 Item Replaced:9650;33;5176;0; 
+Date: 30-01-2016 07:56:35 AM  Account : austin1 User : Powerstar Reward: 9774;32;646454;0;, RB: 17, Item Used:9931 Item Replaced:9931;33;5176;0; 
+Date: 30-01-2016 07:57:01 AM  Account : austin1 User : Powerstar Reward: 9774;32;646454;0;, RB: 18, Item Used:9690 Item Replaced:9690;33;5176;0; 
+Date: 30-01-2016 09:20:41 AM  Account : SHOOTER User : Satana Reward: -, RB: 4, Item Used:none Item Replaced:none 
+Date: 30-01-2016 11:52:58 AM  Account : wildone User : Wildvvitch Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 30-01-2016 01:13:21 PM  Account : vishnuv007 User : Himura Reward: 9773;32;646454;0;, RB: 14, Item Used:9683 Item Replaced:9683;33;17;0; 
+Date: 30-01-2016 02:12:23 PM  Account : wolfpoison User : Aragorn Reward: 9772;32;646454;0;, RB: 10, Item Used:9668 Item Replaced:9668;35;5;0; 
+Date: 30-01-2016 02:21:01 PM  Account : ultipoison User : venomageUA Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;33;5;0; 
+Date: 30-01-2016 02:56:59 PM  Account : wildone User : Wildvvitch Reward: -, RB: 2, Item Used:none Item Replaced:none 
+Date: 30-01-2016 04:35:39 PM  Account : founder User : Treasurer Reward: 9772;32;646454;0;, RB: 8, Item Used:9665 Item Replaced:9665;33;5169;0; 
+Date: 30-01-2016 04:35:45 PM  Account : solaiappa User : Suren Reward: 9773;32;646454;0;, RB: 11, Item Used:9669 Item Replaced:9669;33;33861;0; 
+Date: 30-01-2016 04:41:01 PM  Account : wildone User : Wildvvitch Reward: -, RB: 3, Item Used:none Item Replaced:none 
+Date: 30-01-2016 04:49:38 PM  Account : ravinoob User : Jedi Reward: -, RB: 2, Item Used:none Item Replaced:none 
+Date: 30-01-2016 08:06:05 PM  Account : SHOOTER User : Satana Reward: -, RB: 5, Item Used:none Item Replaced:none 
+Date: 30-01-2016 10:23:22 PM  Account : ravinoob User : Jedi Reward: -, RB: 3, Item Used:none Item Replaced:none 

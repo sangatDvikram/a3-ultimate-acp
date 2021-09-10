@@ -1,0 +1,12 @@
+Date: 03-01-2017 12:18:21 AM  Account : rajeev2r2 User : Zorawar Reward: 9772;32;646454;0;, RB: 8, Item Used:9665 Item Replaced:9665;33;9666;0; 
+Date: 03-01-2017 04:16:26 AM  Account : ritesh User : Doomranger Reward: 9772;32;646454;0;, RB: 8, Item Used:9665 Item Replaced:9665;33;17;0; 
+Date: 03-01-2017 05:53:25 AM  Account : MegaDeath User : Elven Reward: 9774;32;646454;0;, RB: 16, Item Used:9650 Item Replaced:9650;33;17;0; 
+Date: 03-01-2017 12:44:27 PM  Account : sodasoda User : Lilly Reward: -, RB: 3, Item Used:none Item Replaced:none 
+Date: 03-01-2017 02:55:32 PM  Account : thegame1 User : Lannister Reward: 9774;32;646454;0;, RB: 18, Item Used:9690 Item Replaced:9690;33;5;0; 
+Date: 03-01-2017 04:37:22 PM  Account : komalraj User : Yamarcher Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;744626352;1; 
+Date: 03-01-2017 05:17:01 PM  Account : sanjeevp User : Ghostking Reward: -, RB: 2, Item Used:none Item Replaced:none 
+Date: 03-01-2017 05:17:47 PM  Account : MegaDeath User : Elven Reward: 9774;32;646454;0;, RB: 17, Item Used:9931 Item Replaced:9931;33;4;0; 
+Date: 03-01-2017 08:23:12 PM  Account : thegame1 User : Lannister Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 03-01-2017 09:38:47 PM  Account : luansouza User : Marieta Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 03-01-2017 11:06:00 PM  Account : Leitao05 User : Bungalu Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 03-01-2017 11:54:26 PM  Account : luansouza User : Marieta Reward: -, RB: 2, Item Used:none Item Replaced:none 

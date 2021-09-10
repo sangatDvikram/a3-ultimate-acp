@@ -1,0 +1,10 @@
+Date: 13-02-2017 05:26:08 AM  Account : MegaDeath User : Elven Reward: 9774;32;646454;0;, RB: 17, Item Used:9931 Item Replaced:9931;33;1190;0; 
+Date: 13-02-2017 07:05:04 AM  Account : evilrobot User : Evilrobot Reward: 9773;32;646454;0;, RB: 13, Item Used:9682 Item Replaced:9682;33;4;0; 
+Date: 13-02-2017 07:17:28 AM  Account : evilrobot User : Evilrobot Reward: 9773;32;646454;0;, RB: 14, Item Used:9683 Item Replaced:9683;33;4;0; 
+Date: 13-02-2017 07:18:05 AM  Account : evilrobot User : Sexyrobot Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 13-02-2017 07:28:04 AM  Account : evilrobot User : Evilrobot Reward: 9773;32;646454;0;, RB: 15, Item Used:9649 Item Replaced:9649;33;4;0; 
+Date: 13-02-2017 08:24:59 AM  Account : evilrobot User : Evilrobot Reward: 9774;32;646454;0;, RB: 16, Item Used:9650 Item Replaced:9650;33;9931;0; 
+Date: 13-02-2017 08:34:19 AM  Account : evilrobot User : Evilrobot Reward: 9774;32;646454;0;, RB: 17, Item Used:9931 Item Replaced:9931;33;14;0; 
+Date: 13-02-2017 09:36:58 AM  Account : kardion12 User : Maxrage Reward: 9773;32;646454;0;, RB: 12, Item Used:9681 Item Replaced:9681;33;17;0; 
+Date: 13-02-2017 10:47:26 AM  Account : dibesh User : Options Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 13-02-2017 11:40:07 AM  Account : hardy1982 User : Hz Reward: -, RB: 3, Item Used:none Item Replaced:none 

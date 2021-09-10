@@ -1,0 +1,4 @@
+Date: 30-08-2016 12:41:08 AM  Account : mulfari User : Maiv Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;642260592;1; 
+Date: 30-08-2016 02:55:49 AM  Account : scam1492 User : Scam Reward: -, RB: 5, Item Used:none Item Replaced:none 
+Date: 30-08-2016 06:20:43 PM  Account : shastri01 User : Priyanka Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 30-08-2016 08:18:58 PM  Account : shastri01 User : Priyanka Reward: -, RB: 2, Item Used:none Item Replaced:none 

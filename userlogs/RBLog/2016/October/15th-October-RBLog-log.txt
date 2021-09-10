@@ -1,0 +1,10 @@
+Date: 15-10-2016 03:52:34 AM  Account : avinaships User : Evilrage Reward: 9773;32;646454;0;, RB: 12, Item Used:9681 Item Replaced:9681;33;5;0; 
+Date: 15-10-2016 05:17:09 AM  Account : blacksmok User : Meanarrow Reward: -, RB: 2, Item Used:none Item Replaced:none 
+Date: 15-10-2016 10:30:37 AM  Account : leonardus User : Kronos Reward: 9773;32;646454;0;, RB: 15, Item Used:9649 Item Replaced:9649;33;2164;0; 
+Date: 15-10-2016 10:34:59 AM  Account : munuliki User : Elli Reward: 9773;32;646454;0;, RB: 12, Item Used:9681 Item Replaced:9681;33;33958;0; 
+Date: 15-10-2016 01:46:18 PM  Account : thegame1 User : Lannister Reward: 9774;32;646454;0;, RB: 16, Item Used:9650 Item Replaced:9650;32;5;0; 
+Date: 15-10-2016 03:24:33 PM  Account : beast619 User : Oppe Reward: 9772;32;646454;0;, RB: 9, Item Used:9666,9667 Item Replaced:9666;33;9667;0;9667;33;68423312;1; 
+Date: 15-10-2016 06:48:00 PM  Account : youngmoney13 User : MaYa Reward: 9774;32;646454;0;, RB: 16, Item Used:9650 Item Replaced:9650;34;17;0; 
+Date: 15-10-2016 07:45:43 PM  Account : lovelyzar User : Rexar Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 15-10-2016 08:34:57 PM  Account : youngmoney13 User : MaYa Reward: 9774;32;646454;0;, RB: 17, Item Used:9931 Item Replaced:9931;35;17;0; 
+Date: 15-10-2016 10:40:34 PM  Account : beast619 User : Oppe Reward: 9772;32;646454;0;, RB: 10, Item Used:9668 Item Replaced:9668;33;5;0; 

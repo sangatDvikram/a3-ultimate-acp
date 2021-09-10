@@ -1,0 +1,17 @@
+Date: 19-04-2015 05:17:05 AM  Account : rockers User : Revenger Reward: 9773;32;646454;0;, RB: 14, Item Used:9683 Item Replaced:9683;33;33958;0; 
+Date: 19-04-2015 06:29:03 AM  Account : sumana User : Redalert Reward: 9774;32;646454;0;, RB: 17, Item Used:9931 Item Replaced:9931;33;33913;0; 
+Date: 19-04-2015 07:45:50 AM  Account : zaxidan User : Archery Reward: 9773;32;646454;0;, RB: 13, Item Used:9682 Item Replaced:9682;33;5176;0; 
+Date: 19-04-2015 07:59:25 AM  Account : baskaran72 User : CuteARCHER Reward: 9773;32;646454;0;, RB: 12, Item Used:9681 Item Replaced:9681;33;17;0; 
+Date: 19-04-2015 08:18:50 AM  Account : ankit145 User : Spinalcord Reward: 9774;32;646454;0;, RB: 18, Item Used:9690 Item Replaced:9690;33;33856;0; 
+Date: 19-04-2015 08:38:43 AM  Account : account User : Nawaab Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 19-04-2015 08:58:45 AM  Account : nani001 User : Rebel Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 19-04-2015 11:05:53 AM  Account : archer02 User : Monsterslaye Reward: 9774;32;646454;0;, RB: 18, Item Used:9690 Item Replaced:9690;33;17;0; 
+Date: 19-04-2015 11:34:35 AM  Account : akashlove User : Nikky Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;1276253231;1; 
+Date: 19-04-2015 12:21:57 PM  Account : flower User : Radkri Reward: 9773;32;646454;0;, RB: 11, Item Used:9669 Item Replaced:9669;33;5;0; 
+Date: 19-04-2015 01:59:57 PM  Account : jagankrrj User : Teni Reward: 9773;32;646454;0;, RB: 12, Item Used:9681 Item Replaced:9681;33;17;0; 
+Date: 19-04-2015 02:35:06 PM  Account : dd2n1234 User : Kungen Reward: 9772;32;646454;0;, RB: 9, Item Used:9666,9667 Item Replaced:9666;35;9667;0;9667;33;114428735;1; 
+Date: 19-04-2015 03:47:13 PM  Account : mubarak User : Lickmycritzz Reward: 9773;32;646454;0;, RB: 12, Item Used:9681 Item Replaced:9681;33;33954;0; 
+Date: 19-04-2015 06:25:52 PM  Account : jagank User : Atlantes Reward: 9773;32;646454;0;, RB: 14, Item Used:9683 Item Replaced:9683;33;;0; 
+Date: 19-04-2015 06:36:14 PM  Account : bravesoul User : Dreamwalker Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 19-04-2015 07:04:28 PM  Account : chitlaymg User : Fatalarrow Reward: 9774;32;646454;0;, RB: 18, Item Used:9690 Item Replaced:9690;32;14;0; 
+Date: 19-04-2015 09:15:40 PM  Account : pooltime741 User : Bluearrow Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;1387008063;1; 

@@ -1,0 +1,9 @@
+Date: 27-10-2015 12:19:16 AM  Account : makesure User : Stepney Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 27-10-2015 12:44:43 AM  Account : Alpha11 User : Jackknight Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;35;36744;0; 
+Date: 27-10-2015 02:45:51 AM  Account : kosmosis User : Kosmo Reward: 9772;32;646454;0;, RB: 8, Item Used:9665 Item Replaced:9665;34;9568;0; 
+Date: 27-10-2015 03:33:07 AM  Account : IamSudip User : Whirlwind Reward: 9772;32;646454;0;, RB: 9, Item Used:9666,9667 Item Replaced:9666;35;9667;0;9667;34;9182111;1; 
+Date: 27-10-2015 05:11:33 AM  Account : rohit22 User : Sharife Reward: -, RB: 2, Item Used:none Item Replaced:none 
+Date: 27-10-2015 05:12:48 AM  Account : Alpha11 User : Jackknight Reward: 9772;32;646454;0;, RB: 8, Item Used:9665 Item Replaced:9665;33;1118;0; 
+Date: 27-10-2015 12:52:05 PM  Account : renjimax User : ShanK Reward: 9772;32;646454;0;, RB: 8, Item Used:9665 Item Replaced:9665;33;5;0; 
+Date: 27-10-2015 01:06:23 PM  Account : IamSudip User : Whirlwind Reward: 9772;32;646454;0;, RB: 10, Item Used:9668 Item Replaced:9668;33;5;0; 
+Date: 27-10-2015 09:53:32 PM  Account : sami1991 User : Yoindi Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;84024223;1; 

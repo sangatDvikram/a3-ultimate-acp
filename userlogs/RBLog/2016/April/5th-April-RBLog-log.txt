@@ -1,0 +1,13 @@
+Date: 05-04-2016 03:54:56 AM  Account : Kelsier User : Shadzzzz Reward: 9774;32;646454;0;, RB: 17, Item Used:9931 Item Replaced:9931;34;5;0; 
+Date: 05-04-2016 06:04:53 AM  Account : crystal User : Magegame Reward: 9772;32;646454;0;, RB: 10, Item Used:9668 Item Replaced:9668;34;5;0; 
+Date: 05-04-2016 09:47:35 AM  Account : piyush6 User : Queenlizaa Reward: -, RB: 4, Item Used:none Item Replaced:none 
+Date: 05-04-2016 11:45:56 AM  Account : wargasm User : Rudradaman Reward: 9772;32;646454;0;, RB: 9, Item Used:9666,9667 Item Replaced:9666;35;9667;0;9667;34;35915056;1; 
+Date: 05-04-2016 01:00:58 PM  Account : gho5t8 User : Ghosty Reward: 9772;32;646454;0;, RB: 10, Item Used:9668 Item Replaced:9668;32;9830;0; 
+Date: 05-04-2016 01:42:47 PM  Account : piyush6 User : Queenlizaa Reward: -, RB: 5, Item Used:none Item Replaced:none 
+Date: 05-04-2016 04:24:17 PM  Account : shabbo User : Serafina Reward: 9772;32;646454;0;, RB: 9, Item Used:9666,9667 Item Replaced:9666;33;9667;0;9667;33;36308272;1; 
+Date: 05-04-2016 06:32:34 PM  Account : ck2910 User : Warstorm Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;34;5;0; 
+Date: 05-04-2016 06:58:11 PM  Account : abhiruls User : Sherlock Reward: 9773;32;646454;0;, RB: 11, Item Used:9669 Item Replaced:9669;33;33922;0; 
+Date: 05-04-2016 07:23:26 PM  Account : warma111 User : Deathnight Reward: -, RB: 5, Item Used:none Item Replaced:none 
+Date: 05-04-2016 09:54:08 PM  Account : crystal User : Magegame Reward: 9773;32;646454;0;, RB: 11, Item Used:9669 Item Replaced:9669;33;5;0; 
+Date: 05-04-2016 11:35:05 PM  Account : wargasm User : Rudradaman Reward: 9772;32;646454;0;, RB: 10, Item Used:9668 Item Replaced:9668;35;17;0; 
+Date: 05-04-2016 11:42:47 PM  Account : League1 User : Godofwar Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;915802526;1; 

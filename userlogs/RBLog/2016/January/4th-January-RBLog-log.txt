@@ -1,0 +1,13 @@
+Date: 04-01-2016 08:12:28 AM  Account : mylove User : Zedge Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;113640448;1; 
+Date: 04-01-2016 09:51:38 AM  Account : donbhai User : Iamkiller Reward: 9772;32;646454;0;, RB: 8, Item Used:9665 Item Replaced:9665;34;17;0; 
+Date: 04-01-2016 12:09:23 PM  Account : austin1 User : Powerstar Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 04-01-2016 12:50:28 PM  Account : austin1 User : Powerstar Reward: -, RB: 2, Item Used:none Item Replaced:none 
+Date: 04-01-2016 12:50:57 PM  Account : austin1 User : Powerstar Reward: -, RB: 3, Item Used:none Item Replaced:none 
+Date: 04-01-2016 12:51:17 PM  Account : austin1 User : Powerstar Reward: -, RB: 4, Item Used:none Item Replaced:none 
+Date: 04-01-2016 12:51:39 PM  Account : austin1 User : Powerstar Reward: -, RB: 5, Item Used:none Item Replaced:none 
+Date: 04-01-2016 01:57:45 PM  Account : kaushik20 User : Raino Reward: 9773;32;646454;0;, RB: 15, Item Used:9649 Item Replaced:9649;33;9773;0; 
+Date: 04-01-2016 02:16:50 PM  Account : kaushik20 User : Raino Reward: 9774;32;646454;0;, RB: 16, Item Used:9650 Item Replaced:9650;34;9773;0; 
+Date: 04-01-2016 02:18:27 PM  Account : nikhil2012 User : Akaruz Reward: 9772;32;646454;0;, RB: 8, Item Used:9665 Item Replaced:9665;35;33905;0; 
+Date: 04-01-2016 04:10:26 PM  Account : kaushik20 User : Raino Reward: 9774;32;646454;0;, RB: 17, Item Used:9931 Item Replaced:9931;34;9690;0; 
+Date: 04-01-2016 04:14:20 PM  Account : kaushik20 User : Raino Reward: 9774;32;646454;0;, RB: 18, Item Used:9690 Item Replaced:9690;33;9774;0; 
+Date: 04-01-2016 08:28:14 PM  Account : robinreji User : Valladin Reward: 9773;32;646454;0;, RB: 12, Item Used:9681 Item Replaced:9681;33;5;0; 

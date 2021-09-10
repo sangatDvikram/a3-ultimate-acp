@@ -1,0 +1,7 @@
+Date: 11-01-2016 06:32:39 AM  Account : vishnuv007 User : Himura Reward: 9772;32;646454;0;, RB: 9, Item Used:9666,9667 Item Replaced:9666;34;9667;0;9667;33;14158592;1; 
+Date: 11-01-2016 07:06:46 AM  Account : austin User : Lastholy Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;32;9665;0; 
+Date: 11-01-2016 07:07:18 AM  Account : austin User : Lastholy Reward: 9772;32;646454;0;, RB: 8, Item Used:9665 Item Replaced:9665;32;9666;0; 
+Date: 11-01-2016 07:08:00 AM  Account : austin User : Lastholy Reward: 9772;32;646454;0;, RB: 9, Item Used:9666,9667 Item Replaced:9666;32;9667;0;9667;32;99890046;1; 
+Date: 11-01-2016 07:08:32 AM  Account : austin User : Lastholy Reward: 9772;32;646454;0;, RB: 10, Item Used:9668 Item Replaced:9668;32;9772;0; 
+Date: 11-01-2016 07:38:20 AM  Account : magerb10 User : Blackspiral Reward: -, RB: 5, Item Used:none Item Replaced:none 
+Date: 11-01-2016 08:05:33 AM  Account : austin1 User : Powerstar Reward: 9773;32;646454;0;, RB: 11, Item Used:9669 Item Replaced:9669;32;1071;0; 

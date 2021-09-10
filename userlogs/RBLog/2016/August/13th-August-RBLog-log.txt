@@ -1,0 +1,10 @@
+Date: 13-08-2016 07:24:57 AM  Account : crusader User : Anupriya Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;631901552;1; 
+Date: 13-08-2016 07:35:00 AM  Account : tatd118 User : Matrix Reward: 9773;32;646454;0;, RB: 14, Item Used:9683 Item Replaced:9683;34;5;0; 
+Date: 13-08-2016 01:06:10 PM  Account : meera143 User : Shilly Reward: 9772;32;646454;0;, RB: 8, Item Used:9665 Item Replaced:9665;33;17;0; 
+Date: 13-08-2016 01:59:49 PM  Account : Banani User : Jarberaa Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 13-08-2016 02:00:10 PM  Account : raja610 User : Carlsbarg Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 13-08-2016 02:46:49 PM  Account : Popping User : Wardevil Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;33;9684;0; 
+Date: 13-08-2016 03:33:23 PM  Account : tatd118 User : Matrix Reward: 9773;32;646454;0;, RB: 15, Item Used:9649 Item Replaced:9649;35;5;0; 
+Date: 13-08-2016 04:39:12 PM  Account : hitman23 User : Samael Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 13-08-2016 08:47:41 PM  Account : meera143 User : Shilly Reward: 9772;32;646454;0;, RB: 9, Item Used:9666,9667 Item Replaced:9666;33;9667;0;9667;33;63704688;1; 
+Date: 13-08-2016 11:08:00 PM  Account : porche123 User : Scarlett Reward: 9773;32;646454;0;, RB: 14, Item Used:9683 Item Replaced:9683;33;33921;0; 

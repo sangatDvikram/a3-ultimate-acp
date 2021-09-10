@@ -1,0 +1,11 @@
+Date: 31-07-2015 06:14:59 AM  Account : saikat123 User : Sophia Reward: -, RB: 4, Item Used:none Item Replaced:none 
+Date: 31-07-2015 08:29:20 AM  Account : rozer2292 User : Godgift Reward: -, RB: 5, Item Used:none Item Replaced:none 
+Date: 31-07-2015 09:50:19 AM  Account : register User : Crat Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;35266159;1; 
+Date: 31-07-2015 04:01:03 PM  Account : abhiruls User : Sherlock Reward: 9773;32;646454;0;, RB: 13, Item Used:9682 Item Replaced:9682;33;33913;0; 
+Date: 31-07-2015 05:50:57 PM  Account : musa12345 User : Creative Reward: 9773;32;646454;0;, RB: 14, Item Used:9683 Item Replaced:9683;33;33922;0; 
+Date: 31-07-2015 08:54:33 PM  Account : rahulk User : Undeadmage Reward: 9773;32;646454;0;, RB: 14, Item Used:9683 Item Replaced:9683;33;5;0; 
+Date: 31-07-2015 09:02:24 PM  Account : rajever User : Hukka Reward: 9773;32;646454;0;, RB: 13, Item Used:9682 Item Replaced:9682;33;5;0; 
+Date: 31-07-2015 09:02:34 PM  Account : munuliki User : Elli Reward: 9773;32;646454;0;, RB: 13, Item Used:9682 Item Replaced:9682;33;9568;0; 
+Date: 31-07-2015 09:15:57 PM  Account : rozer2292 User : Godgift Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;33;35397487;1; 
+Date: 31-07-2015 09:33:17 PM  Account : rstar425 User : Kirsten Reward: 9773;32;646454;0;, RB: 15, Item Used:9649 Item Replaced:9649;33;1118;0; 
+Date: 31-07-2015 09:47:47 PM  Account : Raghav User : Mastery Reward: -, RB: 2, Item Used:none Item Replaced:none 

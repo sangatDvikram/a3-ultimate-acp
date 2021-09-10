@@ -1,0 +1,8 @@
+Date: 14-11-2017 01:52:56 AM  Account : kiranoob1 User : Rogueknight Reward: 9772;32;646454;0;, RB: 17, Item Used:9931 Item Replaced:9931;33;17;0; 
+Date: 14-11-2017 09:08:37 AM  Account : lalapapu1 User : Noob Reward: 9772;32;646454;0;, RB: 13, Item Used:9682 Item Replaced:9682;35;5;0; 
+Date: 14-11-2017 12:26:53 PM  Account : Alpha11 User : Jackknight Reward: 9772;32;646454;0;, RB: 17, Item Used:9931 Item Replaced:9931;35;17;0; 
+Date: 14-11-2017 04:12:58 PM  Account : sck9010 User : Smile Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;35;17;0; 
+Date: 14-11-2017 05:00:41 PM  Account : rasputin1 User : Ladymage Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;1791102625;1; 
+Date: 14-11-2017 06:49:16 PM  Account : gamemaster User : Redbeauty Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;1791233697;1; 
+Date: 14-11-2017 07:12:47 PM  Account : booster4 User : Redfour Reward: -, RB: 5, Item Used:none Item Replaced:none 
+Date: 14-11-2017 07:56:57 PM  Account : booster4 User : Redfour Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;1791364769;1; 

@@ -1,0 +1,4 @@
+Date: 10-12-2016 08:27:00 AM  Account : another1 User : Melania Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;33;36199;0; 
+Date: 10-12-2016 09:26:41 AM  Account : blacklisted User : DeadlyDoN Reward: 9772;32;646454;0;, RB: 8, Item Used:9665 Item Replaced:9665;33;17;0; 
+Date: 10-12-2016 01:12:53 PM  Account : samyudi User : Sexylord Reward: -, RB: 3, Item Used:none Item Replaced:none 
+Date: 10-12-2016 01:28:21 PM  Account : Ankit16 User : Heracles Reward: -, RB: 2, Item Used:none Item Replaced:none 

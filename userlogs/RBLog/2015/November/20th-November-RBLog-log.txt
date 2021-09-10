@@ -1,0 +1,7 @@
+Date: 20-11-2015 02:16:26 AM  Account : ghouse User : Dragonrider Reward: -, RB: 2, Item Used:none Item Replaced:none 
+Date: 20-11-2015 04:02:34 AM  Account : Moumita User : Zeussknight Reward: 9773;32;646454;0;, RB: 13, Item Used:9682 Item Replaced:9682;33;5;0; 
+Date: 20-11-2015 05:28:56 AM  Account : savio21 User : Majin Reward: -, RB: 2, Item Used:none Item Replaced:none 
+Date: 20-11-2015 07:20:20 AM  Account : mannukuk User : Lallu Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;94900911;1; 
+Date: 20-11-2015 11:33:02 AM  Account : wolverine User : Eadda Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;95294639;1; 
+Date: 20-11-2015 05:43:30 PM  Account : store007 User : Safaari Reward: 9773;32;646454;0;, RB: 15, Item Used:9649 Item Replaced:9649;34;17;0; 
+Date: 20-11-2015 06:54:07 PM  Account : Alpha11 User : Jackknight Reward: 9773;32;646454;0;, RB: 14, Item Used:9683 Item Replaced:9683;33;36557;0; 

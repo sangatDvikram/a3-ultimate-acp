@@ -1,0 +1,10 @@
+Date: 01-09-2016 04:52:18 AM  Account : mulfari User : Maiv Reward: 9772;32;646454;0;, RB: 8, Item Used:9665 Item Replaced:9665;33;5;0; 
+Date: 01-09-2016 06:17:21 AM  Account : raac99 User : Mephirot Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 01-09-2016 07:01:51 AM  Account : shastri01 User : Priyanka Reward: -, RB: 4, Item Used:none Item Replaced:none 
+Date: 01-09-2016 08:14:54 AM  Account : raac99 User : Mephirot Reward: -, RB: 2, Item Used:none Item Replaced:none 
+Date: 01-09-2016 12:11:35 PM  Account : zaxidan User : Archery Reward: 9774;32;646454;0;, RB: 16, Item Used:9650 Item Replaced:9650;35;17;0; 
+Date: 01-09-2016 12:14:36 PM  Account : porche123 User : Scarlett Reward: 9772;32;646454;0;, RB: 8, Item Used:9665 Item Replaced:9665;35;1190;0; 
+Date: 01-09-2016 04:28:29 PM  Account : zaxidan User : Archery Reward: 9774;32;646454;0;, RB: 17, Item Used:9931 Item Replaced:9931;34;17;0; 
+Date: 01-09-2016 06:34:14 PM  Account : sarita User : Saritaa Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 01-09-2016 09:52:10 PM  Account : rahul22 User : Eko Reward: 9773;32;646454;0;, RB: 14, Item Used:9683 Item Replaced:9683;33;17;0; 
+Date: 01-09-2016 10:58:13 PM  Account : raac99 User : Mephirot Reward: -, RB: 3, Item Used:none Item Replaced:none 

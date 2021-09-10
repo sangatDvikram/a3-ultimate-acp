@@ -1,0 +1,9 @@
+Date: 25-01-2016 05:15:47 AM  Account : akashn User : Sticks Reward: -, RB: 5, Item Used:none Item Replaced:none 
+Date: 25-01-2016 06:38:10 AM  Account : rohith94 User : Kryztal Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;33;4;0; 
+Date: 25-01-2016 10:03:49 AM  Account : vishal11 User : Scorch Reward: -, RB: 5, Item Used:none Item Replaced:none 
+Date: 25-01-2016 10:24:27 AM  Account : wolfpoison User : Aragorn Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;33;5;0; 
+Date: 25-01-2016 11:46:50 AM  Account : gladiatorxxx User : LittleStar Reward: 9773;32;646454;0;, RB: 15, Item Used:9649 Item Replaced:9649;33;5;0; 
+Date: 25-01-2016 04:19:18 PM  Account : Founders User : Forex Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;33;9646;0;9646;33;137238784;1; 
+Date: 25-01-2016 05:01:58 PM  Account : founder User : Treasurer Reward: -, RB: 2, Item Used:none Item Replaced:none 
+Date: 25-01-2016 05:42:46 PM  Account : akashn User : Sticks Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;33;137632000;1; 
+Date: 25-01-2016 06:29:16 PM  Account : Aryan8077 User : Avaiya Reward: -, RB: 2, Item Used:none Item Replaced:none 

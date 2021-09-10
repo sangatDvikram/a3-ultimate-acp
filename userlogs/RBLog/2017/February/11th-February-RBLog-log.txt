@@ -1,0 +1,10 @@
+Date: 11-02-2017 03:13:59 AM  Account : evilrobot User : Evilrobot Reward: 9772;32;646454;0;, RB: 10, Item Used:9668 Item Replaced:9668;33;5;0; 
+Date: 11-02-2017 03:24:23 AM  Account : evilrobot User : Evilrobot Reward: 9773;32;646454;0;, RB: 11, Item Used:9669 Item Replaced:9669;33;5;0; 
+Date: 11-02-2017 12:07:05 PM  Account : sri4488 User : Bluepetal Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 11-02-2017 12:14:24 PM  Account : sri4488 User : Bluepetal Reward: -, RB: 2, Item Used:none Item Replaced:none 
+Date: 11-02-2017 12:19:04 PM  Account : dibesha User : Dibesh Reward: -, RB: 3, Item Used:none Item Replaced:none 
+Date: 11-02-2017 01:11:41 PM  Account : parth007 User : Melody Reward: 9774;32;646454;0;, RB: 18, Item Used:9690 Item Replaced:9690;33;;0; 
+Date: 11-02-2017 05:14:09 PM  Account : Sanojch User : Sealbreaker Reward: 9772;32;646454;0;, RB: 8, Item Used:9665 Item Replaced:9665;33;10652;0; 
+Date: 11-02-2017 05:37:56 PM  Account : ghostexe User : Wanzu Reward: 9772;32;646454;0;, RB: 10, Item Used:9668 Item Replaced:9668;33;4;0; 
+Date: 11-02-2017 06:44:15 PM  Account : ghostcom User : Goong Reward: -, RB: 3, Item Used:none Item Replaced:none 
+Date: 11-02-2017 07:45:55 PM  Account : xxxroxx User : Beowolf Reward: 9772;32;646454;0;, RB: 8, Item Used:9665 Item Replaced:9665;33;33930;0; 

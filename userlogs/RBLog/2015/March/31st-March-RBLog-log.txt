@@ -1,0 +1,17 @@
+Date: 31-03-2015 12:49:28 AM  Account : mubarak User : Lickmycritzz Reward: 9774;32;646454;0;, RB: 16, Item Used:9650 Item Replaced:9650;35;33913;0; 
+Date: 31-03-2015 06:49:25 AM  Account : piyush2 User : Gamora Reward: -, RB: 2, Item Used:none Item Replaced:none 
+Date: 31-03-2015 06:52:23 AM  Account : rockers User : Revenger Reward: 9774;32;646454;0;, RB: 16, Item Used:9650 Item Replaced:9650;35;9821;0; 
+Date: 31-03-2015 07:32:43 AM  Account : archer02 User : Monsterslaye Reward: 9773;32;646454;0;, RB: 13, Item Used:9682 Item Replaced:9682;34;17;0; 
+Date: 31-03-2015 07:41:11 AM  Account : piyush3 User : Dabbang Reward: -, RB: 4, Item Used:none Item Replaced:none 
+Date: 31-03-2015 08:21:18 AM  Account : kingwarr User : Blaze Reward: 9772;32;646454;0;, RB: 8, Item Used:9665 Item Replaced:9665;33;5;0; 
+Date: 31-03-2015 08:46:48 AM  Account : ankit143 User : Sammy Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 31-03-2015 11:45:56 AM  Account : beta15432 User : Kilingknight Reward: 9772;32;646454;0;, RB: 8, Item Used:9665 Item Replaced:9665;35;1091;0; 
+Date: 31-03-2015 12:28:13 PM  Account : fairy123 User : Gambit Reward: 9772;32;646454;0;, RB: 8, Item Used:9665 Item Replaced:9665;33;9667;0; 
+Date: 31-03-2015 01:17:01 PM  Account : sumana User : Redalert Reward: 9773;32;646454;0;, RB: 13, Item Used:9682 Item Replaced:9682;33;1118;0; 
+Date: 31-03-2015 02:55:58 PM  Account : sorathiya User : Girl Reward: 9773;32;646454;0;, RB: 13, Item Used:9682 Item Replaced:9682;33;5;0; 
+Date: 31-03-2015 05:37:55 PM  Account : badpolice User : Diedmage Reward: 9773;32;646454;0;, RB: 13, Item Used:9682 Item Replaced:9682;33;5;0; 
+Date: 31-03-2015 05:42:48 PM  Account : kaushik30 User : Mekro Reward: -, RB: 3, Item Used:none Item Replaced:none 
+Date: 31-03-2015 05:44:40 PM  Account : rockers User : Revenger Reward: 9774;32;646454;0;, RB: 17, Item Used:9931 Item Replaced:9931;34;9684;0; 
+Date: 31-03-2015 08:05:48 PM  Account : mubarak User : Lickmycritzz Reward: 9774;32;646454;0;, RB: 17, Item Used:9931 Item Replaced:9931;33;5;0; 
+Date: 31-03-2015 09:19:58 PM  Account : piyush2 User : Gamora Reward: -, RB: 3, Item Used:none Item Replaced:none 
+Date: 31-03-2015 09:41:06 PM  Account : samisback User : Snowhite Reward: 9772;32;646454;0;, RB: 10, Item Used:9668 Item Replaced:9668;33;17;0; 

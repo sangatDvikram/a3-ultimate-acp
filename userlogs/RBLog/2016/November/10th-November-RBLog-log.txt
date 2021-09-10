@@ -1,0 +1,8 @@
+Date: 10-11-2016 06:05:45 AM  Account : a4321a User : Alcoholic Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 10-11-2016 10:20:15 AM  Account : chanchan User : Blindshot Reward: 9772;32;646454;0;, RB: 9, Item Used:9666,9667 Item Replaced:9666;33;9667;0;9667;33;70781344;1; 
+Date: 10-11-2016 10:21:12 AM  Account : Gowttham User : Draceagle Reward: 9773;32;646454;0;, RB: 12, Item Used:9681 Item Replaced:9681;33;4;0; 
+Date: 10-11-2016 01:41:08 PM  Account : raja610 User : Carlsbarg Reward: 9773;32;646454;0;, RB: 11, Item Used:9669 Item Replaced:9669;33;17;0; 
+Date: 10-11-2016 02:03:15 PM  Account : Banani User : Jarberaa Reward: 9772;32;646454;0;, RB: 9, Item Used:9666,9667 Item Replaced:9666;32;9667;0;9667;33;70912672;1; 
+Date: 10-11-2016 02:05:13 PM  Account : tanushree User : Roseberry Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 10-11-2016 06:24:14 PM  Account : chanchan User : Blindshot Reward: 9772;32;646454;0;, RB: 10, Item Used:9668 Item Replaced:9668;33;33958;0; 
+Date: 10-11-2016 07:38:32 PM  Account : ritesh User : Doomranger Reward: 9773;32;646454;0;, RB: 14, Item Used:9683 Item Replaced:9683;33;17;0; 

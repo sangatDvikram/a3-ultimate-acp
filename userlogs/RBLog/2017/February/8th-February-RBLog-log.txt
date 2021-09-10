@@ -1,0 +1,5 @@
+Date: 08-02-2017 09:15:08 AM  Account : kinggomzy User : Kinggomzy Reward: 9772;32;646454;0;, RB: 9, Item Used:9666,9667 Item Replaced:9666;33;9667;0;9667;33;81004561;1; 
+Date: 08-02-2017 09:58:50 AM  Account : dibesha User : Dibesh Reward: -, RB: 2, Item Used:none Item Replaced:none 
+Date: 08-02-2017 10:53:03 AM  Account : kardion12 User : Maxrage Reward: 9772;32;646454;0;, RB: 9, Item Used:9666,9667 Item Replaced:9666;33;9667;0;9667;34;43522096;1; 
+Date: 08-02-2017 06:20:30 PM  Account : MegaDeath User : Elven Reward: 9774;32;646454;0;, RB: 16, Item Used:9650 Item Replaced:9650;33;1190;0; 
+Date: 08-02-2017 06:52:06 PM  Account : evilrobot User : Evilrobot Reward: 9772;32;646454;0;, RB: 8, Item Used:9665 Item Replaced:9665;33;9677;0; 

@@ -1,0 +1,4 @@
+Date: 17-01-2018 12:42:18 AM  Account : siddz1958 User : Bugreport Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;1882194946;1; 
+Date: 17-01-2018 08:19:29 AM  Account : redneck User : Snow Reward: 9772;32;646454;0;, RB: 8, Item Used:9665 Item Replaced:9665;33;33913;0; 
+Date: 17-01-2018 11:54:57 AM  Account : satej79 User : Evie Reward: -, RB: 5, Item Used:none Item Replaced:none 
+Date: 17-01-2018 12:03:28 PM  Account : siddz1958 User : Bugreport Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;34;14;0; 

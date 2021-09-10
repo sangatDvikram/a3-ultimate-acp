@@ -1,0 +1,15 @@
+Date: 02-02-2017 12:16:00 AM  Account : anantrp User : Fianchetto Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 02-02-2017 12:58:00 AM  Account : anantrp User : Fianchetto Reward: -, RB: 2, Item Used:none Item Replaced:none 
+Date: 02-02-2017 05:28:25 AM  Account : evilrobot User : Evilrobot Reward: -, RB: 3, Item Used:none Item Replaced:none 
+Date: 02-02-2017 06:58:15 AM  Account : stylekid User : Patanjali Reward: -, RB: 3, Item Used:none Item Replaced:none 
+Date: 02-02-2017 07:53:55 AM  Account : daynight User : Daynight Reward: 9772;32;646454;0;, RB: 8, Item Used:9665 Item Replaced:9665;33;1143;0; 
+Date: 02-02-2017 09:36:54 AM  Account : shuaku2 User : Shavik Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;765854225;1; 
+Date: 02-02-2017 01:08:57 PM  Account : Infamous User : Lyalie Reward: -, RB: 2, Item Used:none Item Replaced:none 
+Date: 02-02-2017 01:10:56 PM  Account : ajitesh User : Babaru Reward: -, RB: 3, Item Used:none Item Replaced:none 
+Date: 02-02-2017 01:12:30 PM  Account : kinggomzy User : Kinggomzy Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;764550657;1; 
+Date: 02-02-2017 01:23:59 PM  Account : evilrobot User : Evilrobot Reward: -, RB: 4, Item Used:none Item Replaced:none 
+Date: 02-02-2017 01:45:45 PM  Account : kardion12 User : Maxrage Reward: -, RB: 3, Item Used:none Item Replaced:none 
+Date: 02-02-2017 01:52:09 PM  Account : MegaDeath User : Elven Reward: 9773;32;646454;0;, RB: 15, Item Used:9649 Item Replaced:9649;33;17;0; 
+Date: 02-02-2017 01:57:36 PM  Account : samyudi User : Sexylord Reward: 9772;32;646454;0;, RB: 10, Item Used:9668 Item Replaced:9668;33;17;0; 
+Date: 02-02-2017 07:31:35 PM  Account : xxxroxx User : Beowolf Reward: 9774;32;646454;0;, RB: 16, Item Used:9650 Item Replaced:9650;33;33930;0; 
+Date: 02-02-2017 08:17:19 PM  Account : lumia535 User : Leoknight Reward: 9773;32;646454;0;, RB: 11, Item Used:9669 Item Replaced:9669;33;17;0; 

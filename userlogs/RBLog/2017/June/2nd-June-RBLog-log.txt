@@ -1,0 +1,8 @@
+Date: 02-06-2017 05:17:07 AM  Account : opwala User : Slice Reward: -, RB: 4, Item Used:none Item Replaced:none 
+Date: 02-06-2017 05:22:56 AM  Account : opwalab User : Sliceb Reward: -, RB: 4, Item Used:none Item Replaced:none 
+Date: 02-06-2017 05:25:52 AM  Account : opwalac User : Slicec Reward: -, RB: 4, Item Used:none Item Replaced:none 
+Date: 02-06-2017 11:56:56 AM  Account : navneetxi User : Revenant Reward: 9772;32;646454;0;, RB: 10, Item Used:9668 Item Replaced:9668;33;4;0; 
+Date: 02-06-2017 06:20:50 PM  Account : rram555 User : Sharmili Reward: -, RB: 3, Item Used:none Item Replaced:none 
+Date: 02-06-2017 07:16:56 PM  Account : andy786 User : Masterrange Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;32;;0; 
+Date: 02-06-2017 07:36:38 PM  Account : hardfuck User : Hogg Reward: 9773;32;646454;0;, RB: 14, Item Used:9683 Item Replaced:9683;33;17;0; 
+Date: 02-06-2017 09:05:39 PM  Account : leonardus User : Kronos Reward: 9774;32;646454;0;, RB: 18, Item Used:9690 Item Replaced:9690;33;5;0; 

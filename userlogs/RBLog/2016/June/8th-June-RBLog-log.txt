@@ -1,0 +1,15 @@
+Date: 08-06-2016 01:12:11 AM  Account : kronos54 User : Rina Reward: 9773;32;646454;0;, RB: 12, Item Used:9681 Item Replaced:9681;33;17;0; 
+Date: 08-06-2016 06:55:29 AM  Account : riya1995 User : Blackthunder Reward: 9772;32;646454;0;, RB: 9, Item Used:9666,9667 Item Replaced:9666;33;9667;0;9667;33;53348432;1; 
+Date: 08-06-2016 07:53:47 AM  Account : shubhada User : Sagar Reward: 9773;32;646454;0;, RB: 12, Item Used:9681 Item Replaced:9681;33;5;0; 
+Date: 08-06-2016 08:02:18 AM  Account : inferno User : Evanescence Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 08-06-2016 08:45:15 AM  Account : shadow User : Shadowhk Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 08-06-2016 09:10:32 AM  Account : shadow User : Shadowhk Reward: -, RB: 2, Item Used:none Item Replaced:none 
+Date: 08-06-2016 09:50:30 AM  Account : shadow User : Shadowhk Reward: -, RB: 3, Item Used:none Item Replaced:none 
+Date: 08-06-2016 10:57:37 AM  Account : romeodon User : Survivor Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 08-06-2016 04:08:12 PM  Account : dinesh2 User : Anjalika Reward: -, RB: 4, Item Used:none Item Replaced:none 
+Date: 08-06-2016 05:16:42 PM  Account : smognb User : Hector Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;525076560;1; 
+Date: 08-06-2016 08:55:53 PM  Account : riya1995 User : Blackthunder Reward: 9772;32;646454;0;, RB: 10, Item Used:9668 Item Replaced:9668;33;17;0; 
+Date: 08-06-2016 09:41:10 PM  Account : navneetxn User : Kaali Reward: 9774;32;646454;0;, RB: 18, Item Used:9690 Item Replaced:9690;33;5;0; 
+Date: 08-06-2016 10:14:48 PM  Account : kidnapper User : LastShadow Reward: 9772;32;646454;0;, RB: 10, Item Used:9668 Item Replaced:9668;33;5;0; 
+Date: 08-06-2016 10:16:49 PM  Account : inferno User : Evanescence Reward: -, RB: 2, Item Used:none Item Replaced:none 
+Date: 08-06-2016 11:18:42 PM  Account : inferno User : Evanescence Reward: -, RB: 3, Item Used:none Item Replaced:none 

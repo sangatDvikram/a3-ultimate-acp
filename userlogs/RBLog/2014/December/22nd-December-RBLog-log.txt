@@ -1,0 +1,10 @@
+Date: 22-12-2014 01:40:03 AM  Account : zxcvbnm User : Arrowti Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;926550942;1; 
+Date: 22-12-2014 12:27:28 PM  Account : ctg50000 User : Dangerous Reward: 9773;32;646454;0;, RB: 14, Item Used:9683 Item Replaced:9683;33;4;0; 
+Date: 22-12-2014 03:29:38 PM  Account : jaideep1 User : Aggressor Reward: 9772;32;646454;0;, RB: 10, Item Used:9668 Item Replaced:9668;33;33922;0; 
+Date: 22-12-2014 03:36:25 PM  Account : rasputin User : Valentine Reward: 9772;32;646454;0;, RB: 9, Item Used:9666,9667 Item Replaced:9666;34;9667;0;9667;34;86382270;1; 
+Date: 22-12-2014 03:43:17 PM  Account : beta15432 User : Kilingknight Reward: 9773;32;646454;0;, RB: 13, Item Used:9682 Item Replaced:9682;33;5;0; 
+Date: 22-12-2014 04:51:16 PM  Account : goldenvikas User : Realking Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 22-12-2014 04:52:49 PM  Account : zxcvbnm User : Arrowti Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;33;9577;0; 
+Date: 22-12-2014 04:59:10 PM  Account : din3626 User : Magera Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 22-12-2014 07:54:23 PM  Account : goldenvikas User : Goodboy Reward: -, RB: 3, Item Used:none Item Replaced:none 
+Date: 22-12-2014 09:38:47 PM  Account : goldenvikas User : Realking Reward: -, RB: 2, Item Used:none Item Replaced:none 

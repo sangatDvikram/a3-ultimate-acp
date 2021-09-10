@@ -1,0 +1,8 @@
+Date: 31-12-2016 06:20:47 AM  Account : blacklisted User : DeadlyDoN Reward: 9774;32;646454;0;, RB: 18, Item Used:9690 Item Replaced:9690;33;9826;0; 
+Date: 31-12-2016 08:12:26 AM  Account : Gowttham User : Draceagle Reward: 9772;32;646454;0;, RB: 10, Item Used:9668 Item Replaced:9668;35;14;0; 
+Date: 31-12-2016 09:26:44 AM  Account : Sanojch User : Sealbreaker Reward: 9773;32;646454;0;, RB: 12, Item Used:9681 Item Replaced:9681;33;17;0; 
+Date: 31-12-2016 11:28:42 AM  Account : MegaDeath User : Elven Reward: 9773;32;646454;0;, RB: 13, Item Used:9682 Item Replaced:9682;33;1186;0; 
+Date: 31-12-2016 12:37:55 PM  Account : thegame1 User : Lannister Reward: 9774;32;646454;0;, RB: 17, Item Used:9931 Item Replaced:9931;33;5;0; 
+Date: 31-12-2016 06:10:58 PM  Account : komalraj User : Yamarcher Reward: -, RB: 5, Item Used:none Item Replaced:none 
+Date: 31-12-2016 08:14:24 PM  Account : Evilraider User : Squash Reward: -, RB: 2, Item Used:none Item Replaced:none 
+Date: 31-12-2016 09:50:11 PM  Account : jaredrag User : Eviscerate Reward: 9774;32;646454;0;, RB: 18, Item Used:9690 Item Replaced:9690;33;17;0; 

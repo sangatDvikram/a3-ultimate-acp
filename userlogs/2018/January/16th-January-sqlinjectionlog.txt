@@ -1,0 +1,841 @@
+Date: 16-01-2018 12:55:26 PM IP: 223.229.162.163 User : f        Code: 1½, Fixed: 1, Link: http://www.a3ultimate.com/new-auction.php
+Date: 16-01-2018 01:00:24 PM IP: 223.229.162.163 User : f        Code: 2', <?php  function reverse_number($number) {         /* Typecast the number into string. */       $snum = (string) $number;       /* Reverse the string. */       $revstr = strrev($snum);       /* Typecast string into int. */       $reverse = (int) $revstr;        return $reverse; }, Fixed: 2, ?php  function reverse_number($number)          /* Typecast the number into string. */       $snum = (string) $number;       /* Reverse the string. */       $revstr = strrev($snum);       /* Typecast string into int. */       $reverse = (int) $revstr;        return $reverse; , Link: http://www.a3ultimate.com/new-auction.php
+Date: 16-01-2018 01:04:30 PM IP: 223.229.162.163 User : f        Code: 50',<?phpfunction reverse_number($number){       /* Typecast the number into string. */     $snum = (string) $number;     /* Reverse the string. */     $revstr = strrev($snum);     /* Typecast string into int. */     $reverse = (int) $revstr;      return $reverse;}, Fixed: 50,?phpfunction reverse_number($number)       /* Typecast the number into string. */     $snum = (string) $number;     /* Reverse the string. */     $revstr = strrev($snum);     /* Typecast string into int. */     $reverse = (int) $revstr;      return $reverse;, Link: http://www.a3ultimate.com/statchanger.php
+Date: 16-01-2018 01:13:04 PM IP: 223.229.162.163 User : f        Code: 1',<?php  function reverse_number($number) {         /* Typecast the number into string. */       $snum = (string) $number;       /* Reverse the string. */       $revstr = strrev($snum);       /* Typecast string into int. */       $reverse = (int) $revstr;        return $reverse; }    echo reverse_number(2039);  ?>, Fixed: 1,?php  function reverse_number($number)          /* Typecast the number into string. */       $snum = (string) $number;       /* Reverse the string. */       $revstr = strrev($snum);       /* Typecast string into int. */       $reverse = (int) $revstr;        return $reverse;     echo reverse_number(2039);  ?, Link: http://www.a3ultimate.com/new-auction.php
+Date: 16-01-2018 01:16:18 PM IP: 223.229.162.163 User : f        Code: <?php
+
+function reverse_number($number)
+{
+    
+   /* Typecast the number into string. */
+ 
+    $snum = (string) $number;
+ 
+    /* Reverse the string. */
+ 
+    $revstr = strrev($snum);
+ 
+    /* Typecast string into int. */
+ 
+    $reverse = (int) $revstr;
+ 
+     return $reverse;
+}
+ 
+ echo reverse_number(2039);
+
+?>, Fixed: ?php
+
+function reverse_number($number)
+
+    
+   /* Typecast the number into string. */
+ 
+    $snum = (string) $number;
+ 
+    /* Reverse the string. */
+ 
+    $revstr = strrev($snum);
+ 
+    /* Typecast string into int. */
+ 
+    $reverse = (int) $revstr;
+ 
+     return $reverse;
+
+ 
+ echo reverse_number(2039);
+
+?, Link: http://www.a3ultimate.com/new-auction.php
+Date: 16-01-2018 01:18:11 PM IP: 223.229.162.163 User : f        Code: 1',<?php
+
+function reverse_number($number)
+{
+    
+   /* Typecast the number into string. */
+ 
+    $snum = (string) $number;
+ 
+    /* Reverse the string. */
+ 
+    $revstr = strrev($snum);
+ 
+    /* Typecast string into int. */
+ 
+    $reverse = (int) $revstr;
+ 
+     return $reverse;
+}
+ 
+ echo reverse_number(2039);
+
+?>, Fixed: 1,?php
+
+function reverse_number($number)
+
+    
+   /* Typecast the number into string. */
+ 
+    $snum = (string) $number;
+ 
+    /* Reverse the string. */
+ 
+    $revstr = strrev($snum);
+ 
+    /* Typecast string into int. */
+ 
+    $reverse = (int) $revstr;
+ 
+     return $reverse;
+
+ 
+ echo reverse_number(2039);
+
+?, Link: http://www.a3ultimate.com/new-auction-buy.php
+Date: 16-01-2018 01:21:49 PM IP: 122.171.36.105 User : Not loggedin Code: mandilol], Fixed: mandilol, Link: http://www.a3ultimate.com/login.php
+Date: 16-01-2018 01:26:07 PM IP: 223.229.162.163 User : x       Code: 2',<?php
+
+function reverse_number($number)
+{
+    
+   /* Typecast the number into string. */
+ 
+    $snum = (string) $number;
+ 
+    /* Reverse the string. */
+ 
+    $revstr = strrev($snum);
+ 
+    /* Typecast string into int. */
+ 
+    $reverse = (int) $revstr;
+ 
+     return $reverse;
+}
+ 
+ echo reverse_number(2039);
+
+?>, Fixed: 2,?php
+
+function reverse_number($number)
+
+    
+   /* Typecast the number into string. */
+ 
+    $snum = (string) $number;
+ 
+    /* Reverse the string. */
+ 
+    $revstr = strrev($snum);
+ 
+    /* Typecast string into int. */
+ 
+    $reverse = (int) $revstr;
+ 
+     return $reverse;
+
+ 
+ echo reverse_number(2039);
+
+?, Link: http://www.a3ultimate.com/new-auction-buy.php
+Date: 16-01-2018 01:27:38 PM IP: 223.229.162.163 User : x       Code: 2',<?php
+
+function reverse_number($number)
+{
+    
+   /* Typecast the number into string. */
+ 
+    $snum = (string) $number;
+ 
+    /* Reverse the string. */
+ 
+    $revstr = strrev($snum);
+ 
+    /* Typecast string into int. */
+ 
+    $reverse = (int) $revstr;
+ 
+     return $reverse;
+}
+ 
+ echo reverse_number(2039);
+
+?>, Fixed: 2,?php
+
+function reverse_number($number)
+
+    
+   /* Typecast the number into string. */
+ 
+    $snum = (string) $number;
+ 
+    /* Reverse the string. */
+ 
+    $revstr = strrev($snum);
+ 
+    /* Typecast string into int. */
+ 
+    $reverse = (int) $revstr;
+ 
+     return $reverse;
+
+ 
+ echo reverse_number(2039);
+
+?, Link: http://www.a3ultimate.com/new-auction-buy.php
+Date: 16-01-2018 01:29:51 PM IP: 223.229.162.163 User : x       Code: 2',<?php
+
+function reverse_number($number)
+{
+    
+   /* Typecast the number into string. */
+ 
+    $snum = (string) $number;
+ 
+    /* Reverse the string. */
+ 
+    $revstr = strrev($snum);
+ 
+    /* Typecast string into int. */
+ 
+    $reverse = (int) $revstr;
+ 
+     return $reverse;
+}
+ 
+ echo reverse_number(2039);
+
+?>, Fixed: 2,?php
+
+function reverse_number($number)
+
+    
+   /* Typecast the number into string. */
+ 
+    $snum = (string) $number;
+ 
+    /* Reverse the string. */
+ 
+    $revstr = strrev($snum);
+ 
+    /* Typecast string into int. */
+ 
+    $reverse = (int) $revstr;
+ 
+     return $reverse;
+
+ 
+ echo reverse_number(2039);
+
+?, Link: http://www.a3ultimate.com/new-auction-buy.php
+Date: 16-01-2018 01:30:45 PM IP: 223.229.162.163 User : x       Code: 2,'<?php
+
+function reverse_number($number)
+{
+    
+   /* Typecast the number into string. */
+ 
+    $snum = (string) $number;
+ 
+    /* Reverse the string. */
+ 
+    $revstr = strrev($snum);
+ 
+    /* Typecast string into int. */
+ 
+    $reverse = (int) $revstr;
+ 
+     return $reverse;
+}
+ 
+ echo reverse_number(2039);
+
+?>, Fixed: 2,?php
+
+function reverse_number($number)
+
+    
+   /* Typecast the number into string. */
+ 
+    $snum = (string) $number;
+ 
+    /* Reverse the string. */
+ 
+    $revstr = strrev($snum);
+ 
+    /* Typecast string into int. */
+ 
+    $reverse = (int) $revstr;
+ 
+     return $reverse;
+
+ 
+ echo reverse_number(2039);
+
+?, Link: http://www.a3ultimate.com/new-auction-buy.php
+Date: 16-01-2018 01:30:59 PM IP: 223.229.162.163 User : x       Code: 2,'<?php
+
+function reverse_number($number)
+{
+    
+   /* Typecast the number into string. */
+ 
+    $snum = (string) $number;
+ 
+    /* Reverse the string. */
+ 
+    $revstr = strrev($snum);
+ 
+    /* Typecast string into int. */
+ 
+    $reverse = (int) $revstr;
+ 
+     return $reverse;
+}
+ 
+ echo reverse_number(2039);
+
+?>, Fixed: 2,?php
+
+function reverse_number($number)
+
+    
+   /* Typecast the number into string. */
+ 
+    $snum = (string) $number;
+ 
+    /* Reverse the string. */
+ 
+    $revstr = strrev($snum);
+ 
+    /* Typecast string into int. */
+ 
+    $reverse = (int) $revstr;
+ 
+     return $reverse;
+
+ 
+ echo reverse_number(2039);
+
+?, Link: http://www.a3ultimate.com/new-auction-buy.php
+Date: 16-01-2018 01:32:24 PM IP: 223.229.162.163 User : f        Code: 0,'<?php
+
+function reverse_number($number)
+{
+    
+   /* Typecast the number into string. */
+ 
+    $snum = (string) $number;
+ 
+    /* Reverse the string. */
+ 
+    $revstr = strrev($snum);
+ 
+    /* Typecast string into int. */
+ 
+    $reverse = (int) $revstr;
+ 
+     return $reverse;
+}
+ 
+ echo reverse_number(2039);
+
+?>, Fixed: 0,?php
+
+function reverse_number($number)
+
+    
+   /* Typecast the number into string. */
+ 
+    $snum = (string) $number;
+ 
+    /* Reverse the string. */
+ 
+    $revstr = strrev($snum);
+ 
+    /* Typecast string into int. */
+ 
+    $reverse = (int) $revstr;
+ 
+     return $reverse;
+
+ 
+ echo reverse_number(2039);
+
+?, Link: http://www.a3ultimate.com/new-auction-buy.php
+Date: 16-01-2018 01:33:22 PM IP: 223.229.162.163 User : f        Code: 1,'<?php
+
+function reverse_number($number)
+{
+    
+   /* Typecast the number into string. */
+ 
+    $snum = (string) $number;
+ 
+    /* Reverse the string. */
+ 
+    $revstr = strrev($snum);
+ 
+    /* Typecast string into int. */
+ 
+    $reverse = (int) $revstr;
+ 
+     return $reverse;
+}
+ 
+ echo reverse_number(2039);
+
+?>, Fixed: 1,?php
+
+function reverse_number($number)
+
+    
+   /* Typecast the number into string. */
+ 
+    $snum = (string) $number;
+ 
+    /* Reverse the string. */
+ 
+    $revstr = strrev($snum);
+ 
+    /* Typecast string into int. */
+ 
+    $reverse = (int) $revstr;
+ 
+     return $reverse;
+
+ 
+ echo reverse_number(2039);
+
+?, Link: http://www.a3ultimate.com/new-auction-buy.php
+Date: 16-01-2018 01:35:40 PM IP: 223.229.162.163 User : f        Code: 2,'<?php
+
+function reverse_number($number)
+{
+    
+   /* Typecast the number into string. */
+ 
+    $snum = (string) $number;
+ 
+    /* Reverse the string. */
+ 
+    $revstr = strrev($snum);
+ 
+    /* Typecast string into int. */
+ 
+    $reverse = (int) $revstr;
+ 
+     return $reverse;
+}
+ 
+ echo reverse_number(2039);
+
+?>, Fixed: 2,?php
+
+function reverse_number($number)
+
+    
+   /* Typecast the number into string. */
+ 
+    $snum = (string) $number;
+ 
+    /* Reverse the string. */
+ 
+    $revstr = strrev($snum);
+ 
+    /* Typecast string into int. */
+ 
+    $reverse = (int) $revstr;
+ 
+     return $reverse;
+
+ 
+ echo reverse_number(2039);
+
+?, Link: http://www.a3ultimate.com/new-auction-buy.php
+Date: 16-01-2018 01:37:40 PM IP: 223.229.162.163 User : f        Code: 2,'<?php
+
+function reverse_number($number)
+{
+    
+   /* Typecast the number into string. */
+ 
+    $snum = (string) $number;
+ 
+    /* Reverse the string. */
+ 
+    $revstr = strrev($snum);
+ 
+    /* Typecast string into int. */
+ 
+    $reverse = (int) $revstr;
+ 
+     return $reverse;
+}
+ 
+ echo reverse_number(2039);
+
+?>, Fixed: 2,?php
+
+function reverse_number($number)
+
+    
+   /* Typecast the number into string. */
+ 
+    $snum = (string) $number;
+ 
+    /* Reverse the string. */
+ 
+    $revstr = strrev($snum);
+ 
+    /* Typecast string into int. */
+ 
+    $reverse = (int) $revstr;
+ 
+     return $reverse;
+
+ 
+ echo reverse_number(2039);
+
+?, Link: http://www.a3ultimate.com/new-auction-buy.php
+Date: 16-01-2018 01:38:34 PM IP: 223.229.162.163 User : f        Code: 8,'<?php
+
+function reverse_number($number)
+{
+    
+   /* Typecast the number into string. */
+ 
+    $snum = (string) $number;
+ 
+    /* Reverse the string. */
+ 
+    $revstr = strrev($snum);
+ 
+    /* Typecast string into int. */
+ 
+    $reverse = (int) $revstr;
+ 
+     return $reverse;
+}
+ 
+ echo reverse_number(2039);
+
+?>, Fixed: 8,?php
+
+function reverse_number($number)
+
+    
+   /* Typecast the number into string. */
+ 
+    $snum = (string) $number;
+ 
+    /* Reverse the string. */
+ 
+    $revstr = strrev($snum);
+ 
+    /* Typecast string into int. */
+ 
+    $reverse = (int) $revstr;
+ 
+     return $reverse;
+
+ 
+ echo reverse_number(2039);
+
+?, Link: http://www.a3ultimate.com/new-auction-buy.php
+Date: 16-01-2018 01:55:17 PM IP: 223.229.162.163 User : f        Code: 5000,'<?phpfunction reverse_number($number){       /* Typecast the number into string. */     $snum = (string) $number;     /* Reverse the string. */     $revstr = strrev($snum);     /* Typecast string into int. */     $reverse = (int) $revstr;      return $reverse;}  echo reverse_number(2039);?>, Fixed: 5000,?phpfunction reverse_number($number)       /* Typecast the number into string. */     $snum = (string) $number;     /* Reverse the string. */     $revstr = strrev($snum);     /* Typecast string into int. */     $reverse = (int) $revstr;      return $reverse;  echo reverse_number(2039);?, Link: http://www.a3ultimate.com/statchanger.php
+Date: 16-01-2018 01:55:56 PM IP: 223.229.162.163 User : f        Code: 5000,'<?phpfunction reverse_number($number){       /* Typecast the number into string. */     $snum = (string) $number;     /* Reverse the string. */     $revstr = strrev($snum);     /* Typecast string into int. */     $reverse = (int) $revstr;      return $reverse;}  echo reverse_number(2039);?>, Fixed: 5000,?phpfunction reverse_number($number)       /* Typecast the number into string. */     $snum = (string) $number;     /* Reverse the string. */     $revstr = strrev($snum);     /* Typecast string into int. */     $reverse = (int) $revstr;      return $reverse;  echo reverse_number(2039);?, Link: http://www.a3ultimate.com/statchanger.php
+Date: 16-01-2018 01:57:30 PM IP: 223.229.162.163 User : f        Code: Asdasdqweqe         ,'<?php
+
+function reverse_number($number)
+{
+    
+   /* Typecast the number into string. */
+ 
+    $snum = (string) $number;
+ 
+    /* Reverse the string. */
+ 
+    $revstr = strrev($snum);
+ 
+    /* Typecast string into int. */
+ 
+    $reverse = (int) $revstr;
+ 
+     return $reverse;
+}
+ 
+ echo reverse_number(2039);
+
+?>, Fixed: Asdasdqweqe         ,?php
+
+function reverse_number($number)
+
+    
+   /* Typecast the number into string. */
+ 
+    $snum = (string) $number;
+ 
+    /* Reverse the string. */
+ 
+    $revstr = strrev($snum);
+ 
+    /* Typecast string into int. */
+ 
+    $reverse = (int) $revstr;
+ 
+     return $reverse;
+
+ 
+ echo reverse_number(2039);
+
+?, Link: http://www.a3ultimate.com/rb.php
+Date: 16-01-2018 02:45:10 PM IP: 223.229.162.163 User : Not loggedin Code: 9,'<?php
+
+function reverse_number($number)
+{
+    
+   /* Typecast the number into string. */
+ 
+    $snum = (string) $number;
+ 
+    /* Reverse the string. */
+ 
+    $revstr = strrev($snum);
+ 
+    /* Typecast string into int. */
+ 
+    $reverse = (int) $revstr;
+ 
+     return $reverse;
+}
+ 
+ echo reverse_number(2039);
+
+?>, Fixed: 9,?php
+
+function reverse_number($number)
+
+    
+   /* Typecast the number into string. */
+ 
+    $snum = (string) $number;
+ 
+    /* Reverse the string. */
+ 
+    $revstr = strrev($snum);
+ 
+    /* Typecast string into int. */
+ 
+    $reverse = (int) $revstr;
+ 
+     return $reverse;
+
+ 
+ echo reverse_number(2039);
+
+?, Link: http://www.a3ultimate.com/new-auction-buy.php
+Date: 16-01-2018 02:48:47 PM IP: 223.229.162.163 User : y       Code: 2,'<?php
+
+function reverse_number($number)
+{
+    
+   /* Typecast the number into string. */
+ 
+    $snum = (string) $number;
+ 
+    /* Reverse the string. */
+ 
+    $revstr = strrev($snum);
+ 
+    /* Typecast string into int. */
+ 
+    $reverse = (int) $revstr;
+ 
+     return $reverse;
+}
+ 
+ echo reverse_number(2039);
+
+?>, Fixed: 2,?php
+
+function reverse_number($number)
+
+    
+   /* Typecast the number into string. */
+ 
+    $snum = (string) $number;
+ 
+    /* Reverse the string. */
+ 
+    $revstr = strrev($snum);
+ 
+    /* Typecast string into int. */
+ 
+    $reverse = (int) $revstr;
+ 
+     return $reverse;
+
+ 
+ echo reverse_number(2039);
+
+?, Link: http://www.a3ultimate.com/new-auction-buy.php
+Date: 16-01-2018 02:50:24 PM IP: 223.229.162.163 User : h        Code: 2,'<?php
+
+function reverse_number($number)
+{
+    
+   /* Typecast the number into string. */
+ 
+    $snum = (string) $number;
+ 
+    /* Reverse the string. */
+ 
+    $revstr = strrev($snum);
+ 
+    /* Typecast string into int. */
+ 
+    $reverse = (int) $revstr;
+ 
+     return $reverse;
+}
+ 
+ echo reverse_number(2039);
+
+?>, Fixed: 2,?php
+
+function reverse_number($number)
+
+    
+   /* Typecast the number into string. */
+ 
+    $snum = (string) $number;
+ 
+    /* Reverse the string. */
+ 
+    $revstr = strrev($snum);
+ 
+    /* Typecast string into int. */
+ 
+    $reverse = (int) $revstr;
+ 
+     return $reverse;
+
+ 
+ echo reverse_number(2039);
+
+?, Link: http://www.a3ultimate.com/new-auction-buy.php
+Date: 16-01-2018 02:51:16 PM IP: 223.229.162.163 User : h        Code: 2,'1, Fixed: 2,1, Link: http://www.a3ultimate.com/new-auction-buy.php
+Date: 16-01-2018 02:58:13 PM IP: 223.229.162.163 User : Not loggedin Code: 9',<?php
+
+function reverse_number($number)
+{
+    
+   /* Typecast the number into string. */
+ 
+    $snum = (string) $number;
+ 
+    /* Reverse the string. */
+ 
+    $revstr = strrev($snum);
+ 
+    /* Typecast string into int. */
+ 
+    $reverse = (int) $revstr;
+ 
+     return $reverse;
+}
+ 
+ echo reverse_number(2039);
+
+?>, Fixed: 9,?php
+
+function reverse_number($number)
+
+    
+   /* Typecast the number into string. */
+ 
+    $snum = (string) $number;
+ 
+    /* Reverse the string. */
+ 
+    $revstr = strrev($snum);
+ 
+    /* Typecast string into int. */
+ 
+    $reverse = (int) $revstr;
+ 
+     return $reverse;
+
+ 
+ echo reverse_number(2039);
+
+?, Link: http://www.a3ultimate.com/new-auction-buy.php
+Date: 16-01-2018 03:15:59 PM IP: 223.229.162.163 User : g        Code: Asdqasdqwe          ',<select name=, Fixed: Asdqasdqwe          ,select name=, Link: http://www.a3ultimate.com/new-auction-buy.php
+Date: 16-01-2018 03:46:37 PM IP: 223.229.162.163 User : i        Code: ', Fixed: , Link: http://www.a3ultimate.com/statchanger.php
+Date: 16-01-2018 03:47:14 PM IP: 223.229.162.163 User : i        Code: 50', Fixed: 50, Link: http://www.a3ultimate.com/statchanger.php
+Date: 16-01-2018 03:48:10 PM IP: 223.229.162.163 User : i        Code: 50', 1-1, Fixed: 50, 1-1, Link: http://www.a3ultimate.com/statchanger.php
+Date: 16-01-2018 03:50:31 PM IP: 223.229.162.163 User : gamer1 Code: 50',+5000, Fixed: 50,+5000, Link: http://www.a3ultimate.com/statchanger.php
+Date: 16-01-2018 04:03:52 PM IP: 223.229.162.163 User : gamer1 Code: <?php    $a=10; $b=20; $c=$a+$b;  echo "Sum: ",$c;  ?>, Fixed: ?php    $a=10; $b=20; $c=$a+$b;  echo Sum: ,$c;  ?, Link: http://www.a3ultimate.com/new-auction.php
+Date: 16-01-2018 04:04:23 PM IP: 223.229.162.163 User : gamer1 Code: <?php  $a=10;$b=20;$c=$a+$b;echo , Fixed: ?php  $a=10;$b=20;$c=$a+$b;echo , Link: http://www.a3ultimate.com/statchanger.php
+Date: 16-01-2018 04:04:41 PM IP: 223.229.162.163 User : gamer1 Code: 50'<?php  $a=10;$b=20;$c=$a+$b;echo , Fixed: 50?php  $a=10;$b=20;$c=$a+$b;echo , Link: http://www.a3ultimate.com/statchanger.php
+Date: 16-01-2018 04:06:00 PM IP: 223.229.162.163 User : gamer1 Code: 50'<?php  $a=10;$b=20;$c=$a+$b;echo , Fixed: 50?php  $a=10;$b=20;$c=$a+$b;echo , Link: http://www.a3ultimate.com/statchanger.php
+Date: 16-01-2018 04:08:56 PM IP: 223.229.162.163 User : gamer1 Code: 50';5000;5000;5000;, Fixed: 50;5000;5000;5000;, Link: http://www.a3ultimate.com/statchanger.php
+Date: 16-01-2018 04:09:34 PM IP: 223.229.162.163 User : gamer1 Code: 50';5000;5000;5000;, Fixed: 50;5000;5000;5000;, Link: http://www.a3ultimate.com/statchanger.php
+Date: 16-01-2018 04:12:48 PM IP: 223.229.162.163 User : gamer  Code: 50'5000;5000;5000;, Fixed: 505000;5000;5000;, Link: http://www.a3ultimate.com/statchanger.php
+Date: 16-01-2018 04:13:18 PM IP: 223.229.162.163 User : gamer  Code: 50'50;50;50;, Fixed: 5050;50;50;, Link: http://www.a3ultimate.com/statchanger.php
+Date: 16-01-2018 04:14:03 PM IP: 223.229.162.163 User : gamer  Code: 50'5*5;5*5;5*5, Fixed: 505*5;5*5;5*5, Link: http://www.a3ultimate.com/statchanger.php
+Date: 16-01-2018 04:25:18 PM IP: 223.229.162.163 User : r        Code: 0', c_status='A', Fixed: 0, c_status=A, Link: http://www.a3ultimate.com/statchanger.php
+Date: 16-01-2018 04:45:35 PM IP: 223.229.162.163 User : w        Code: 20;65535;15000;60000;15000;0;46164;60000;100000;100000', c_sheaderc='165', Fixed: 20;65535;15000;60000;15000;0;46164;60000;100000;100000, c_sheaderc=165, Link: http://www.a3ultimate.com/statchanger.php
+Date: 16-01-2018 04:48:10 PM IP: 223.229.162.163 User : w        Code: 20;15000;15000;15000;15000;0;46164;15000;100000;100000', c_sheaderc='165', Fixed: 20;15000;15000;15000;15000;0;46164;15000;100000;100000, c_sheaderc=165, Link: http://www.a3ultimate.com/statchanger.php
+Date: 16-01-2018 04:48:54 PM IP: 223.229.162.163 User : w        Code: 60;25535;15000;60000;15000;0;46164;60000;100000;100000', c_sheaderc='165', Fixed: 60;25535;15000;60000;15000;0;46164;60000;100000;100000, c_sheaderc=165, Link: http://www.a3ultimate.com/statchanger.php
+Date: 16-01-2018 04:49:35 PM IP: 223.229.162.163 User : q       Code: 60;25535;15000;60000;15000;0;46164;60000;100000;100000', c_sheaderc='165', Fixed: 60;25535;15000;60000;15000;0;46164;60000;100000;100000, c_sheaderc=165, Link: http://www.a3ultimate.com/statchanger.php
+Date: 16-01-2018 04:50:58 PM IP: 223.229.162.163 User : q       Code: 50;25535;15000;60000;15000;0;46164;60000;100000;100000", c_sheaderc="165", Fixed: 50;25535;15000;60000;15000;0;46164;60000;100000;100000, c_sheaderc=165, Link: http://www.a3ultimate.com/statchanger.php
+Date: 16-01-2018 05:10:44 PM IP: 223.229.162.163 User : t       Code: 345' DROP TABLE ASD --, Fixed: 345 DROP TABLE ASD --, Link: http://www.a3ultimate.com/statchanger.php
+Date: 16-01-2018 05:13:53 PM IP: 223.229.162.163 User : m       Code: 0 " DROP TABLE ASD --, Fixed: 0  DROP TABLE ASD --, Link: http://www.a3ultimate.com/statchanger.php
+Date: 16-01-2018 05:14:17 PM IP: 223.229.162.163 User : m       Code: 0 ' DROP TABLE ASD --, Fixed: 0  DROP TABLE ASD --, Link: http://www.a3ultimate.com/statchanger.php
+Date: 16-01-2018 05:37:53 PM IP: 223.229.162.163 User : pritam ## Code: 444666', c_status='X', Fixed: 444666, c_status=X, Link: http://www.a3ultimate.com/profile.php
+Date: 16-01-2018 05:37:53 PM IP: 223.229.162.163 User : pritam ## Code: 444666', c_status='X', Fixed: 444666, c_status=X, Link: http://www.a3ultimate.com/profile.php
+Date: 16-01-2018 05:38:04 PM IP: 223.229.162.163 User : Not loggedin Code: 444666', c_status='X', Fixed: 444666, c_status=X, Link: http://www.a3ultimate.com/login.php
+Date: 16-01-2018 05:39:04 PM IP: 223.229.162.163 User : pritam ## Code: 444666', c_status='X', Fixed: 444666, c_status=X, Link: http://www.a3ultimate.com/profile.php
+Date: 16-01-2018 05:39:04 PM IP: 223.229.162.163 User : pritam ## Code: 008008",c_status="X", Fixed: 008008,c_status=X, Link: http://www.a3ultimate.com/profile.php
+Date: 16-01-2018 05:39:04 PM IP: 223.229.162.163 User : pritam ## Code: 008008",c_status="X", Fixed: 008008,c_status=X, Link: http://www.a3ultimate.com/profile.php
+Date: 16-01-2018 05:39:10 PM IP: 223.229.162.163 User : Not loggedin Code: 008008",c_status="X", Fixed: 008008,c_status=X, Link: http://www.a3ultimate.com/login.php
+Date: 16-01-2018 05:39:29 PM IP: 223.229.162.163 User : pritam ## Code: 008008",c_status="X", Fixed: 008008,c_status=X, Link: http://www.a3ultimate.com/profile.php
+Date: 16-01-2018 06:13:51 PM IP: 223.229.162.163 User : ma       Code: 1;32383' UPDATE charac0 SET c_status= 'A' --, Fixed: 1;32383 UPDATE charac0 SET c_status= A --, Link: http://www.a3ultimate.com/tp.php
+Date: 16-01-2018 06:17:37 PM IP: 223.229.162.163 User : ma       Code: 1;32383'; UPDATE account SET c_status= 'A' WHERE c_id= 'gamemaster', Fixed: 1;32383; UPDATE account SET c_status= A WHERE c_id= gamemaster, Link: http://www.a3ultimate.com/tp.php
+Date: 16-01-2018 06:27:15 PM IP: 223.229.162.163 User : ma       Code: 9934'; UPDATE account SET c_status= 'A' WHERE c_id= 'gamemaster', Fixed: 9934; UPDATE account SET c_status= A WHERE c_id= gamemaster, Link: http://www.a3ultimate.com/goldbar.php
+Date: 16-01-2018 06:36:01 PM IP: 223.229.162.163 User : ma       Code: Qweqweadasd         'UPDATE account SET c_status= 'A' WHERE c_id= 'gamemaster', Fixed: Qweqweadasd         UPDATE account SET c_status= A WHERE c_id= gamemaster, Link: http://www.a3ultimate.com/lore.php
+Date: 16-01-2018 06:36:39 PM IP: 223.229.162.163 User : ma       Code: 1;32383'UPDATE account SET c_status= 'A' WHERE c_id= 'gamemaster', Fixed: 1;32383UPDATE account SET c_status= A WHERE c_id= gamemaster, Link: http://www.a3ultimate.com/tp.php
+Date: 16-01-2018 06:37:38 PM IP: 223.229.162.163 User : ma       Code: Qweqzffdswer        'UPDATE account SET c_status= 'A' WHERE c_id= 'gamemaster', Fixed: Qweqzffdswer        UPDATE account SET c_status= A WHERE c_id= gamemaster, Link: http://www.a3ultimate.com/rb.php
+Date: 16-01-2018 06:38:18 PM IP: 223.229.162.163 User : ma       Code: Qweqzffdswer        ;UPDATE account SET c_status= 'A' WHERE c_id= 'gamemaster', Fixed: Qweqzffdswer        ;UPDATE account SET c_status= A WHERE c_id= gamemaster, Link: http://www.a3ultimate.com/skills.php
+Date: 16-01-2018 06:38:37 PM IP: 223.229.162.163 User : ma       Code: Qweqzffdswer        '; UPDATE account SET c_status= 'A' WHERE c_id= 'gamemaster', Fixed: Qweqzffdswer        ; UPDATE account SET c_status= A WHERE c_id= gamemaster, Link: http://www.a3ultimate.com/skills.php
+Date: 16-01-2018 06:39:07 PM IP: 223.229.162.163 User : ma       Code: Qweqzffdswer        ';UPDATE account SET c_status= 'A' WHERE c_id= 'gamemaster', Fixed: Qweqzffdswer        ;UPDATE account SET c_status= A WHERE c_id= gamemaster, Link: http://www.a3ultimate.com/skills.php
+Date: 16-01-2018 06:41:47 PM IP: 223.229.162.163 User : ma       Code: UPDATE account SET c_status= 'A' WHERE c_id= 'gamemaster', Fixed: UPDATE account SET c_status= A WHERE c_id= gamemaster, Link: http://www.a3ultimate.com/skills.php
+Date: 16-01-2018 06:43:29 PM IP: 223.229.162.163 User : ma       Code: UPDATE acocunt SET c_status='A' WHERE c_id='gamemaster', Fixed: UPDATE acocunt SET c_status=A WHERE c_id=gamemaster, Link: http://www.a3ultimate.com/skills.php
+Date: 16-01-2018 06:47:57 PM IP: 223.229.162.163 User : ma       Code: maaaaa'UPDATE acocunt SET c_status='A' WHERE c_id='gamemaster', Fixed: maaaaaUPDATE acocunt SET c_status=A WHERE c_id=gamemaster, Link: http://www.a3ultimate.com/profile.php
+Date: 16-01-2018 06:49:38 PM IP: 223.229.162.163 User : ma       Code: UPDATE acocunt SET c_status='A' WHERE c_id='gamemaster', Fixed: UPDATE acocunt SET c_status=A WHERE c_id=gamemaster, Link: http://www.a3ultimate.com/goldbar.php
+Date: 16-01-2018 06:50:29 PM IP: 223.229.162.163 User : ma       Code: UPDATE acocunt SET c_status='A' WHERE c_id='gamemaster', Fixed: UPDATE acocunt SET c_status=A WHERE c_id=gamemaster, Link: http://www.a3ultimate.com/selluniq.php
+Date: 16-01-2018 06:51:40 PM IP: 223.229.162.163 User : ma       Code: UPDATE acocunt SET c_status='A' WHERE c_id='gamemaster', Fixed: UPDATE acocunt SET c_status=A WHERE c_id=gamemaster, Link: http://www.a3ultimate.com/sss.php
+Date: 16-01-2018 06:55:42 PM IP: 223.229.162.163 User : ma       Code: UPDATE account SET c_status='A' WHERE c_id='gamemaster', Fixed: UPDATE account SET c_status=A WHERE c_id=gamemaster, Link: http://www.a3ultimate.com/goldbar.php
+Date: 16-01-2018 06:56:08 PM IP: 223.229.162.163 User : ma       Code: UPDATE account SET c_status='A' WHERE c_id='gamemaster', Fixed: UPDATE account SET c_status=A WHERE c_id=gamemaster, Link: http://www.a3ultimate.com/skills.php
+Date: 16-01-2018 06:56:19 PM IP: 223.229.162.163 User : ma       Code: UPDATE account SET c_status='A' WHERE c_id='gamemaster', Fixed: UPDATE account SET c_status=A WHERE c_id=gamemaster, Link: http://www.a3ultimate.com/skills.php
+Date: 16-01-2018 06:56:39 PM IP: 223.229.162.163 User : ma       Code: UPDATE account SET c_status='A' WHERE c_id='gamemaster', Fixed: UPDATE account SET c_status=A WHERE c_id=gamemaster, Link: http://www.a3ultimate.com/tp.php
+Date: 16-01-2018 06:57:21 PM IP: 223.229.162.163 User : ma       Code: UPDATE account SET c_status='A' WHERE c_id='gamemaster', Fixed: UPDATE account SET c_status=A WHERE c_id=gamemaster, Link: http://www.a3ultimate.com/lore.php
+Date: 16-01-2018 06:58:04 PM IP: 223.229.162.163 User : ma       Code: UPDATE account SET c_status='A' WHERE c_id='gamemaster', Fixed: UPDATE account SET c_status=A WHERE c_id=gamemaster, Link: http://www.a3ultimate.com/rb.php
+Date: 16-01-2018 07:00:19 PM IP: 223.229.162.163 User : ma       Code: 1,'UPDATE account SET c_status='A' WHERE c_id='gamemaster', Fixed: 1,UPDATE account SET c_status=A WHERE c_id=gamemaster, Link: http://www.a3ultimate.com/new-auction.php
+Date: 16-01-2018 07:01:22 PM IP: 223.229.162.163 User : ma       Code: 1',UPDATE account SET c_status='A' WHERE c_id='gamemaster', Fixed: 1,UPDATE account SET c_status=A WHERE c_id=gamemaster, Link: http://www.a3ultimate.com/new-auction.php
+Date: 16-01-2018 07:01:59 PM IP: 223.229.162.163 User : ma       Code: 1',UPDATE account SET c_status='A' WHERE c_id='gamemaster', Fixed: 1,UPDATE account SET c_status=A WHERE c_id=gamemaster, Link: http://www.a3ultimate.com/new-auction.php
+Date: 16-01-2018 07:02:20 PM IP: 223.229.162.163 User : ma       Code: UPDATE account SET c_status='A' WHERE c_id='gamemaster', Fixed: UPDATE account SET c_status=A WHERE c_id=gamemaster, Link: http://www.a3ultimate.com/new-auction.php
+Date: 16-01-2018 07:04:13 PM IP: 223.229.162.163 User : ma       Code: UPDATE account SET c_status='A' WHERE c_id='gamemaster', Fixed: UPDATE account SET c_status=A WHERE c_id=gamemaster, Link: http://www.a3ultimate.com/new-auction.php
+Date: 16-01-2018 07:13:23 PM IP: 223.229.162.163 User : ma       Code: UPDATE account SET c_status='A' WHERE c_id='gamemaster', Fixed: UPDATE account SET c_status=A WHERE c_id=gamemaster, Link: http://www.a3ultimate.com/profile.php
+Date: 16-01-2018 07:13:32 PM IP: 223.229.162.163 User : ma       Code: UPDATE account SET c_status='A' WHERE c_id='gamemaster', Fixed: UPDATE account SET c_status=A WHERE c_id=gamemaster, Link: http://www.a3ultimate.com/profile.php
+Date: 16-01-2018 07:13:59 PM IP: 223.229.162.163 User : ma       Code: UPDATE account SET c_status='A' WHERE c_id='gamemaster', Fixed: UPDATE account SET c_status=A WHERE c_id=gamemaster, Link: http://www.a3ultimate.com/profile.php
+Date: 16-01-2018 07:14:42 PM IP: 223.229.162.163 User : ma       Code: '; UPDATE account SET c_status='A' WHERE c_id='gamemaster' --, Fixed: ; UPDATE account SET c_status=A WHERE c_id=gamemaster --, Link: http://www.a3ultimate.com/profile.php
+Date: 16-01-2018 07:15:42 PM IP: 223.229.162.163 User : ma       Code: Asdqweqweghh        '; UPDATE account SET c_status='A' WHERE c_id='gamemaster' --, Fixed: Asdqweqweghh        ; UPDATE account SET c_status=A WHERE c_id=gamemaster --, Link: http://www.a3ultimate.com/gos.php
+Date: 16-01-2018 07:16:12 PM IP: 223.229.162.163 User : ma       Code: 9934'; UPDATE account SET c_status='A' WHERE c_id='gamemaster' --, Fixed: 9934; UPDATE account SET c_status=A WHERE c_id=gamemaster --, Link: http://www.a3ultimate.com/goldbar.php
+Date: 16-01-2018 07:17:28 PM IP: 223.229.162.163 User : ma       Code: Asdqweqweghh        '; UPDATE account SET c_status='A' WHERE c_id='gamemaster' --, Fixed: Asdqweqweghh        ; UPDATE account SET c_status=A WHERE c_id=gamemaster --, Link: http://www.a3ultimate.com/sss.php
+Date: 16-01-2018 07:19:34 PM IP: 223.229.162.163 User : ma       Code: Asdqweqweghh        '; UPDATE account SET c_status='A' WHERE c_id='gamemaster' --, Fixed: Asdqweqweghh        ; UPDATE account SET c_status=A WHERE c_id=gamemaster --, Link: http://www.a3ultimate.com/gold.php
+Date: 16-01-2018 07:21:04 PM IP: 223.229.162.163 User : ma       Code: Asdqweqweghh        '; UPDATE account SET c_status='X' WHERE c_id='gamemaster' --, Fixed: Asdqweqweghh        ; UPDATE account SET c_status=X WHERE c_id=gamemaster --, Link: http://www.a3ultimate.com/gold.php
+Date: 16-01-2018 07:21:53 PM IP: 223.229.162.163 User : ma       Code: Asdqweqweghh        '; UPDATE account SET c_status='X' WHERE c_id='gamemaster' --, Fixed: Asdqweqweghh        ; UPDATE account SET c_status=X WHERE c_id=gamemaster --, Link: http://www.a3ultimate.com/gold.php
+Date: 16-01-2018 07:38:08 PM IP: 223.229.162.163 User : ma       Code: Asdqweqweghh        '; UPDATE account SET c_status='A' WHERE c_id='gameboy' --, Fixed: Asdqweqweghh        ; UPDATE account SET c_status=A WHERE c_id=gameboy --, Link: http://www.a3ultimate.com/gos.php

@@ -1,0 +1,6 @@
+Date: 23-08-2015 06:33:02 AM  Account : ashishkr User : Huntress Reward: 9773;32;646454;0;, RB: 14, Item Used:9683 Item Replaced:9683;33;5;0; 
+Date: 23-08-2015 11:31:38 AM  Account : Hetalsexy User : DarkRider Reward: 9774;32;646454;0;, RB: 16, Item Used:9650 Item Replaced:9650;33;5176;0; 
+Date: 23-08-2015 12:32:06 PM  Account : pritam User : Chkstat Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 23-08-2015 08:32:25 PM  Account : munuliki User : Elli Reward: 9774;32;646454;0;, RB: 16, Item Used:9650 Item Replaced:9650;33;33912;0; 
+Date: 23-08-2015 10:37:58 PM  Account : ashishkr User : Huntress Reward: 9773;32;646454;0;, RB: 15, Item Used:9649 Item Replaced:9649;33;5;0; 
+Date: 23-08-2015 10:59:59 PM  Account : rasputin1 User : Ladymage Reward: 9774;32;646454;0;, RB: 18, Item Used:9690 Item Replaced:9690;33;9559;0; 

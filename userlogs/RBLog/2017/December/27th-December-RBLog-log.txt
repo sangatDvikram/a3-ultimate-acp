@@ -1,0 +1,16 @@
+Date: 27-12-2017 01:25:16 AM  Account : ston3r User : Prophecy Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;34;17;0; 
+Date: 27-12-2017 03:01:12 AM  Account : inferno17 User : Holyinferno Reward: 9772;32;646454;0;, RB: 14, Item Used:9683 Item Replaced:9683;34;5;0; 
+Date: 27-12-2017 03:22:37 AM  Account : ston3r User : Prophecy Reward: 9772;32;646454;0;, RB: 8, Item Used:9665 Item Replaced:9665;33;17;0; 
+Date: 27-12-2017 04:39:49 AM  Account : dineshkha User : Dilruba Reward: 9772;32;646454;0;, RB: 11, Item Used:9669 Item Replaced:9669;33;17;0; 
+Date: 27-12-2017 10:28:15 AM  Account : khushjazz User : Megika Reward: 9772;32;646454;0;, RB: 10, Item Used:9668 Item Replaced:9668;34;5;0; 
+Date: 27-12-2017 02:01:17 PM  Account : booster7 User : Sniperking Reward: -, RB: 2, Item Used:none Item Replaced:none 
+Date: 27-12-2017 02:29:59 PM  Account : hokage7 User : Ping Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;65989085;1; 
+Date: 27-12-2017 02:30:24 PM  Account : hokage7 User : Ping Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;32;14;0; 
+Date: 27-12-2017 02:30:47 PM  Account : hokage7 User : Ping Reward: 9772;32;646454;0;, RB: 8, Item Used:9665 Item Replaced:9665;32;14;0; 
+Date: 27-12-2017 02:58:49 PM  Account : cherish2 User : Redhawk Reward: 9772;32;646454;0;, RB: 9, Item Used:9666,9667 Item Replaced:9666;34;9667;0;9667;33;156375985;1; 
+Date: 27-12-2017 03:03:11 PM  Account : Niko123 User : Ruby Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 27-12-2017 04:58:36 PM  Account : Smokej User : Graykandn Reward: 9772;32;646454;0;, RB: 10, Item Used:9668 Item Replaced:9668;33;17;0; 
+Date: 27-12-2017 05:50:46 PM  Account : booster7 User : Sniperking Reward: -, RB: 3, Item Used:none Item Replaced:none 
+Date: 27-12-2017 06:35:45 PM  Account : cherish2 User : Redhawk Reward: 9772;32;646454;0;, RB: 10, Item Used:9668 Item Replaced:9668;33;1144;0; 
+Date: 27-12-2017 06:59:07 PM  Account : booster7 User : Sniperking Reward: -, RB: 4, Item Used:none Item Replaced:none 
+Date: 27-12-2017 07:37:24 PM  Account : booster7 User : Sniperking Reward: -, RB: 5, Item Used:none Item Replaced:none 

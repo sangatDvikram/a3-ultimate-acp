@@ -1,0 +1,11 @@
+Date: 05-09-2016 12:02:38 AM  Account : mulfari User : Maiv Reward: 9773;32;646454;0;, RB: 11, Item Used:9669 Item Replaced:9669;32;4;0; 
+Date: 05-09-2016 02:16:16 AM  Account : raac99 User : Mephirot Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;35;33856;0; 
+Date: 05-09-2016 04:20:11 AM  Account : scam1492 User : Scam Reward: 9773;32;646454;0;, RB: 11, Item Used:9669 Item Replaced:9669;33;5;0; 
+Date: 05-09-2016 05:21:54 AM  Account : raac99 User : Mephirot Reward: 9772;32;646454;0;, RB: 8, Item Used:9665 Item Replaced:9665;33;33856;0; 
+Date: 05-09-2016 08:45:06 AM  Account : shivansh User : QueenArrow Reward: -, RB: 2, Item Used:none Item Replaced:none 
+Date: 05-09-2016 03:25:06 PM  Account : beast619 User : Oppe Reward: 9772;32;646454;0;, RB: 9, Item Used:9666,9667 Item Replaced:9666;33;9667;0;9667;33;64750976;1; 
+Date: 05-09-2016 05:14:31 PM  Account : vishal11 User : Scorch Reward: 9773;32;646454;0;, RB: 11, Item Used:9669 Item Replaced:9669;33;33905;0; 
+Date: 05-09-2016 05:55:09 PM  Account : nkarch User : Genesis Reward: 9772;32;646454;0;, RB: 10, Item Used:9668 Item Replaced:9668;35;33958;0; 
+Date: 05-09-2016 09:17:52 PM  Account : grishma User : Demonic Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 05-09-2016 09:36:55 PM  Account : n00b14 User : Altec Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 05-09-2016 09:44:28 PM  Account : sarita User : Saritaa Reward: -, RB: 5, Item Used:none Item Replaced:none 

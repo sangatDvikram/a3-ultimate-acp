@@ -1,0 +1,10 @@
+Date: 21-06-2016 05:14:44 AM  Account : ramps1432 User : Rangemage Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;33;17;0; 
+Date: 21-06-2016 06:15:36 AM  Account : jaggadaku User : Blueangel Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;33;886;0; 
+Date: 21-06-2016 11:35:13 AM  Account : rohit786 User : Jacobknight Reward: 9772;32;646454;0;, RB: 8, Item Used:9665 Item Replaced:9665;34;5;0; 
+Date: 21-06-2016 12:21:03 PM  Account : fearsome User : Fantasymage Reward: 9772;32;646454;0;, RB: 10, Item Used:9668 Item Replaced:9668;33;5;0; 
+Date: 21-06-2016 02:18:59 PM  Account : ramps1432 User : Rangemage Reward: 9772;32;646454;0;, RB: 8, Item Used:9665 Item Replaced:9665;33;17;0; 
+Date: 21-06-2016 03:02:46 PM  Account : rex1000 User : R2D2 Reward: 9773;32;646454;0;, RB: 15, Item Used:9649 Item Replaced:9649;33;33912;0; 
+Date: 21-06-2016 03:49:34 PM  Account : stoner1 User : Leaf Reward: 9772;32;646454;0;, RB: 8, Item Used:9665 Item Replaced:9665;33;17;0; 
+Date: 21-06-2016 07:38:41 PM  Account : lycklycc User : Lycck Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;65988835;1; 
+Date: 21-06-2016 09:11:59 PM  Account : abultimate01 User : RoseY Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 21-06-2016 11:18:16 PM  Account : hexenxxx User : Nagini Reward: -, RB: 1, Item Used:none Item Replaced:none 

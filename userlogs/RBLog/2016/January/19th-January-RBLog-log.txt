@@ -1,0 +1,17 @@
+Date: 19-01-2016 05:56:05 AM  Account : rahul22 User : Eko Reward: -, RB: 3, Item Used:none Item Replaced:none 
+Date: 19-01-2016 08:01:58 AM  Account : Intarios User : Urana Reward: 9772;32;646454;0;, RB: 8, Item Used:9665 Item Replaced:9665;35;9807;0; 
+Date: 19-01-2016 10:37:49 AM  Account : austin1 User : Powerstar Reward: 9773;32;646454;0;, RB: 13, Item Used:9682 Item Replaced:9682;33;9649;0; 
+Date: 19-01-2016 10:38:39 AM  Account : austin1 User : Powerstar Reward: 9773;32;646454;0;, RB: 14, Item Used:9683 Item Replaced:9683;33;9773;0; 
+Date: 19-01-2016 10:39:15 AM  Account : austin1 User : Powerstar Reward: 9773;32;646454;0;, RB: 15, Item Used:9649 Item Replaced:9649;33;9773;0; 
+Date: 19-01-2016 01:04:46 PM  Account : flamstriker User : Dhruva Reward: 9773;32;646454;0;, RB: 11, Item Used:9669 Item Replaced:9669;34;3977;0; 
+Date: 19-01-2016 01:30:39 PM  Account : robinreji User : Valladin Reward: 9774;32;646454;0;, RB: 16, Item Used:9650 Item Replaced:9650;33;17;0; 
+Date: 19-01-2016 02:46:34 PM  Account : Akash007 User : Khalnayak Reward: 9773;32;646454;0;, RB: 13, Item Used:9682 Item Replaced:9682;33;33934;0; 
+Date: 19-01-2016 02:54:24 PM  Account : Akash007 User : Khalnayak Reward: 9773;32;646454;0;, RB: 14, Item Used:9683 Item Replaced:9683;33;33934;0; 
+Date: 19-01-2016 03:20:56 PM  Account : Akash007 User : Khalnayak Reward: 9773;32;646454;0;, RB: 15, Item Used:9649 Item Replaced:9649;33;33934;0; 
+Date: 19-01-2016 04:49:40 PM  Account : Akash007 User : Khalnayak Reward: 9774;32;646454;0;, RB: 16, Item Used:9650 Item Replaced:9650;33;33934;0; 
+Date: 19-01-2016 05:33:27 PM  Account : bubai1995 User : Cleric Reward: 9772;32;646454;0;, RB: 8, Item Used:9665 Item Replaced:9665;33;5;0; 
+Date: 19-01-2016 07:46:56 PM  Account : god250 User : Darksoulz Reward: 9772;32;646454;0;, RB: 10, Item Used:9668 Item Replaced:9668;34;5;0; 
+Date: 19-01-2016 08:32:03 PM  Account : maskblade User : Apolo Reward: -, RB: 2, Item Used:none Item Replaced:none 
+Date: 19-01-2016 09:09:18 PM  Account : callmage User : Panmagee Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 19-01-2016 10:10:29 PM  Account : rahul22 User : Eko Reward: -, RB: 4, Item Used:none Item Replaced:none 
+Date: 19-01-2016 10:11:20 PM  Account : rohith94 User : Kryztal Reward: -, RB: 5, Item Used:none Item Replaced:none 

@@ -1,0 +1,16 @@
+Date: 09-12-2017 01:57:08 AM  Account : rocky6036 User : Oracle Reward: 9772;32;646454;0;, RB: 11, Item Used:9669 Item Replaced:9669;33;33910;0; 
+Date: 09-12-2017 11:25:07 AM  Account : deadzone User : Wolf Reward: 9772;32;646454;0;, RB: 17, Item Used:9931 Item Replaced:9931;32;5;0; 
+Date: 09-12-2017 11:51:55 AM  Account : xdhelloz User : Friend Reward: -, RB: 3, Item Used:none Item Replaced:none 
+Date: 09-12-2017 01:01:16 PM  Account : ikkians17 User : Queen Reward: -, RB: 3, Item Used:none Item Replaced:none 
+Date: 09-12-2017 02:52:07 PM  Account : jnj159 User : Lucy Reward: 9772;32;646454;0;, RB: 11, Item Used:9669 Item Replaced:9669;33;33913;0; 
+Date: 09-12-2017 02:54:10 PM  Account : jnj159 User : Lucy Reward: 9772;32;646454;0;, RB: 12, Item Used:9681 Item Replaced:9681;33;33913;0; 
+Date: 09-12-2017 02:55:43 PM  Account : jnj159 User : Lucy Reward: 9772;32;646454;0;, RB: 13, Item Used:9682 Item Replaced:9682;35;33913;0; 
+Date: 09-12-2017 02:56:27 PM  Account : jnj159 User : Lucy Reward: 9772;32;646454;0;, RB: 14, Item Used:9683 Item Replaced:9683;33;33913;0; 
+Date: 09-12-2017 02:57:29 PM  Account : jnj159 User : Lucy Reward: 9772;32;646454;0;, RB: 15, Item Used:9649 Item Replaced:9649;34;33913;0; 
+Date: 09-12-2017 03:07:56 PM  Account : jnj159 User : Lucy Reward: 9772;32;646454;0;, RB: 16, Item Used:9650 Item Replaced:9650;35;5;0; 
+Date: 09-12-2017 03:48:32 PM  Account : iphonex User : Meruem Reward: 9772;32;646454;0;, RB: 17, Item Used:9931 Item Replaced:9931;35;14;0; 
+Date: 09-12-2017 04:45:18 PM  Account : online11 User : Fu Reward: -, RB: 5, Item Used:none Item Replaced:none 
+Date: 09-12-2017 04:45:33 PM  Account : online111 User : C Reward: -, RB: 5, Item Used:none Item Replaced:none 
+Date: 09-12-2017 06:07:00 PM  Account : online2 User : Fo Reward: -, RB: 3, Item Used:none Item Replaced:none 
+Date: 09-12-2017 09:08:46 PM  Account : swap007 User : Marishka Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 09-12-2017 10:25:21 PM  Account : dineshkha User : Dilruba Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;1824917937;1; 

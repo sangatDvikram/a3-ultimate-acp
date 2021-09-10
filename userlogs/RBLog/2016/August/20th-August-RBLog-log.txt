@@ -1,0 +1,6 @@
+Date: 20-08-2016 07:50:04 AM  Account : raja610 User : Carlsbarg Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;636884080;1; 
+Date: 20-08-2016 07:59:29 AM  Account : Banani User : Jarberaa Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;637015152;1; 
+Date: 20-08-2016 08:10:24 AM  Account : sarkarmed User : Aqua Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;33;5;0; 
+Date: 20-08-2016 11:38:33 AM  Account : porche123 User : Scarlett Reward: -, RB: 2, Item Used:none Item Replaced:none 
+Date: 20-08-2016 08:34:05 PM  Account : sarita User : Saritaa Reward: 9774;32;646454;0;, RB: 17, Item Used:9931 Item Replaced:9931;33;33954;0; 
+Date: 20-08-2016 09:30:53 PM  Account : shaikh User : Leelaa Reward: 9772;32;646454;0;, RB: 10, Item Used:9668 Item Replaced:9668;33;17;0; 

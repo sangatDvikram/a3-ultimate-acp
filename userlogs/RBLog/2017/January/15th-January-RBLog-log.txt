@@ -1,0 +1,10 @@
+Date: 15-01-2017 12:15:43 AM  Account : jaredrag User : Eviscerate Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;33;33913;0; 
+Date: 15-01-2017 12:20:19 AM  Account : jaredrag User : Eviscerate Reward: 9772;32;646454;0;, RB: 8, Item Used:9665 Item Replaced:9665;33;9666;0; 
+Date: 15-01-2017 12:27:15 AM  Account : jaredrag User : Eviscerate Reward: 9772;32;646454;0;, RB: 9, Item Used:9666,9667 Item Replaced:9666;33;9667;0;9667;33;78778113;1; 
+Date: 15-01-2017 03:02:46 AM  Account : rajeev2r2 User : Zorawar Reward: 9772;32;646454;0;, RB: 10, Item Used:9668 Item Replaced:9668;33;3681;0; 
+Date: 15-01-2017 07:59:35 AM  Account : MegaDeath User : Elven Reward: 9772;32;646454;0;, RB: 8, Item Used:9665 Item Replaced:9665;33;1186;0; 
+Date: 15-01-2017 10:22:37 AM  Account : umangj User : Archerxs Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 15-01-2017 03:38:18 PM  Account : dineshkha User : Khurafatii Reward: 9772;32;646454;0;, RB: 9, Item Used:9666,9667 Item Replaced:9666;33;9667;0;9667;33;78909185;1; 
+Date: 15-01-2017 04:12:39 PM  Account : ramps153 User : Magexxxs Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;584977248;1; 
+Date: 15-01-2017 05:09:26 PM  Account : vijay3105 User : Xarchangelx Reward: -, RB: 5, Item Used:none Item Replaced:none 
+Date: 15-01-2017 07:14:22 PM  Account : lleoman User : Harley Reward: -, RB: 1, Item Used:none Item Replaced:none 

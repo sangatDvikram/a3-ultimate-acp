@@ -1,0 +1,16 @@
+Date: 13-10-2016 12:22:10 AM  Account : hitman23 User : Samael Reward: 9773;32;646454;0;, RB: 12, Item Used:9681 Item Replaced:9681;33;17;0; 
+Date: 13-10-2016 07:24:49 AM  Account : beast316 User : Cake Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 13-10-2016 09:58:31 AM  Account : beast316 User : Cake Reward: -, RB: 2, Item Used:none Item Replaced:none 
+Date: 13-10-2016 10:15:20 AM  Account : beast619 User : Oppe Reward: -, RB: 5, Item Used:none Item Replaced:none 
+Date: 13-10-2016 10:27:02 AM  Account : Coldsteel User : Drunknmaster Reward: -, RB: 3, Item Used:none Item Replaced:none 
+Date: 13-10-2016 01:39:16 PM  Account : oraw1992 User : Spgod Reward: -, RB: 2, Item Used:none Item Replaced:none 
+Date: 13-10-2016 02:44:04 PM  Account : Coldsteel User : Drunknmaster Reward: -, RB: 4, Item Used:none Item Replaced:none 
+Date: 13-10-2016 04:03:43 PM  Account : beast316 User : Cake Reward: -, RB: 3, Item Used:none Item Replaced:none 
+Date: 13-10-2016 06:08:53 PM  Account : raja610 User : Carlsbarg Reward: 9772;32;646454;0;, RB: 9, Item Used:9666,9667 Item Replaced:9666;33;9667;0;9667;33;68291984;1; 
+Date: 13-10-2016 06:13:36 PM  Account : rex1000 User : R2D2 Reward: 9774;32;646454;0;, RB: 18, Item Used:9690 Item Replaced:9690;33;17;0; 
+Date: 13-10-2016 06:50:39 PM  Account : sanxxx User : Redruby Reward: -, RB: 3, Item Used:none Item Replaced:none 
+Date: 13-10-2016 07:21:18 PM  Account : oraw1992 User : Spgod Reward: -, RB: 3, Item Used:none Item Replaced:none 
+Date: 13-10-2016 07:24:31 PM  Account : beast316 User : Cake Reward: -, RB: 4, Item Used:none Item Replaced:none 
+Date: 13-10-2016 08:07:38 PM  Account : ritesh User : Doomranger Reward: -, RB: 5, Item Used:none Item Replaced:none 
+Date: 13-10-2016 08:10:56 PM  Account : beast619 User : Oppe Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;33;681708944;1; 
+Date: 13-10-2016 09:12:57 PM  Account : alioth User : Moneymaiden Reward: 9772;32;646454;0;, RB: 10, Item Used:9668 Item Replaced:9668;33;5;0; 

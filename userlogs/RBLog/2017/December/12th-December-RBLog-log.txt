@@ -1,0 +1,16 @@
+Date: 12-12-2017 12:33:58 AM  Account : opwalad User : Missssssssss Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;1828064177;1; 
+Date: 12-12-2017 12:39:45 AM  Account : opwalad User : Adfdsas Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;1827802033;1; 
+Date: 12-12-2017 12:42:20 AM  Account : opwalad User : Japandd Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;1827933105;1; 
+Date: 12-12-2017 10:21:52 AM  Account : firemet User : Fire Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;32;9665;0; 
+Date: 12-12-2017 10:22:29 AM  Account : firemet User : Fire Reward: 9772;32;646454;0;, RB: 8, Item Used:9665 Item Replaced:9665;32;9666;0; 
+Date: 12-12-2017 10:23:00 AM  Account : firemet User : Fire Reward: 9772;32;646454;0;, RB: 9, Item Used:9666,9667 Item Replaced:9666;32;9667;0;9667;32;99890377;1; 
+Date: 12-12-2017 10:23:32 AM  Account : firemet User : Fire Reward: 9772;32;646454;0;, RB: 10, Item Used:9668 Item Replaced:9668;32;9669;0; 
+Date: 12-12-2017 10:24:03 AM  Account : firemet User : Fire Reward: 9772;32;646454;0;, RB: 11, Item Used:9669 Item Replaced:9669;32;14;0; 
+Date: 12-12-2017 03:59:46 PM  Account : REXXXX User : Rexy Reward: 9772;32;646454;0;, RB: 8, Item Used:9665 Item Replaced:9665;35;4;0; 
+Date: 12-12-2017 04:14:34 PM  Account : firemet User : Fire Reward: 9772;32;646454;0;, RB: 12, Item Used:9681 Item Replaced:9681;32;3977;0; 
+Date: 12-12-2017 04:48:35 PM  Account : cherish User : Hitech Reward: 9772;32;646454;0;, RB: 9, Item Used:9666,9667 Item Replaced:9666;33;9667;0;9667;35;120330337;1; 
+Date: 12-12-2017 04:51:07 PM  Account : cherish User : Hitech Reward: 9772;32;646454;0;, RB: 10, Item Used:9668 Item Replaced:9668;33;33911;0; 
+Date: 12-12-2017 05:38:23 PM  Account : cherish User : Hitech Reward: 9772;32;646454;0;, RB: 11, Item Used:9669 Item Replaced:9669;33;14;0; 
+Date: 12-12-2017 07:06:57 PM  Account : firemet User : Fire Reward: 9772;32;646454;0;, RB: 13, Item Used:9682 Item Replaced:9682;32;9683;0; 
+Date: 12-12-2017 07:10:41 PM  Account : firemet User : Fire Reward: 9772;32;646454;0;, RB: 14, Item Used:9683 Item Replaced:9683;32;9649;0; 
+Date: 12-12-2017 07:19:58 PM  Account : firemet User : Fire Reward: 9772;32;646454;0;, RB: 15, Item Used:9649 Item Replaced:9649;32;5;0; 

@@ -1,0 +1,10 @@
+Date: 29-07-2016 06:02:56 AM  Account : nkarch User : Genesis Reward: -, RB: 5, Item Used:none Item Replaced:none 
+Date: 29-07-2016 10:26:18 AM  Account : rex1000 User : R2D2 Reward: 9773;32;646454;0;, RB: 11, Item Used:9669 Item Replaced:9669;33;5;0; 
+Date: 29-07-2016 10:29:52 AM  Account : sarkarmed User : Aqua Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 29-07-2016 11:07:56 AM  Account : ramps1432 User : Rangemage Reward: 9774;32;646454;0;, RB: 17, Item Used:9931 Item Replaced:9931;33;17;0; 
+Date: 29-07-2016 12:28:40 PM  Account : Banani User : Jarberaa Reward: 9774;32;646454;0;, RB: 17, Item Used:9931 Item Replaced:9931;33;33913;0; 
+Date: 29-07-2016 01:38:19 PM  Account : savana User : Soulkiller Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 29-07-2016 03:55:47 PM  Account : rex1000 User : R2D2 Reward: 9773;32;646454;0;, RB: 12, Item Used:9681 Item Replaced:9681;33;5;0; 
+Date: 29-07-2016 04:45:27 PM  Account : madmax112 User : Dragonslayer Reward: -, RB: 5, Item Used:none Item Replaced:none 
+Date: 29-07-2016 04:59:29 PM  Account : rahul124 User : Foxxy Reward: 9772;32;646454;0;, RB: 10, Item Used:9668 Item Replaced:9668;33;17;0; 
+Date: 29-07-2016 11:05:33 PM  Account : porche123 User : Scarlett Reward: 9772;32;646454;0;, RB: 9, Item Used:9666,9667 Item Replaced:9666;35;9667;0;9667;33;61742688;1; 

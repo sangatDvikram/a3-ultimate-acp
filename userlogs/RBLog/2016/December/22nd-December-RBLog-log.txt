@@ -1,0 +1,15 @@
+Date: 22-12-2016 05:01:47 AM  Account : ritesh User : Doomranger Reward: -, RB: 4, Item Used:none Item Replaced:none 
+Date: 22-12-2016 07:02:53 AM  Account : suvo95 User : Missuniverse Reward: 9773;32;646454;0;, RB: 15, Item Used:9649 Item Replaced:9649;33;17;0; 
+Date: 22-12-2016 10:12:43 AM  Account : celtic User : Celtic Reward: -, RB: 2, Item Used:none Item Replaced:none 
+Date: 22-12-2016 11:28:23 AM  Account : Sanojch User : Sealbreaker Reward: -, RB: 4, Item Used:none Item Replaced:none 
+Date: 22-12-2016 11:37:56 AM  Account : blacklisted User : DeadlyDoN Reward: 9773;32;646454;0;, RB: 13, Item Used:9682 Item Replaced:9682;33;33958;0; 
+Date: 22-12-2016 01:16:37 PM  Account : kiniboy User : Goosy Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;33;3977;0; 
+Date: 22-12-2016 03:32:22 PM  Account : aroraajay User : Ldrago Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;65988842;1; 
+Date: 22-12-2016 03:33:04 PM  Account : ajayarora User : Ajayboss Reward: -, RB: 5, Item Used:none Item Replaced:none 
+Date: 22-12-2016 04:10:10 PM  Account : vitormdo User : Rayleen Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 22-12-2016 05:04:46 PM  Account : Prince1 User : Darkness Reward: 9773;32;646454;0;, RB: 14, Item Used:9683 Item Replaced:9683;33;1190;0; 
+Date: 22-12-2016 06:26:24 PM  Account : fanatic User : Crusherx Reward: -, RB: 3, Item Used:none Item Replaced:none 
+Date: 22-12-2016 07:30:14 PM  Account : Prince1 User : Darkness Reward: 9773;32;646454;0;, RB: 15, Item Used:9649 Item Replaced:9649;33;17;0; 
+Date: 22-12-2016 08:13:33 PM  Account : suvo95 User : Missuniverse Reward: 9774;32;646454;0;, RB: 16, Item Used:9650 Item Replaced:9650;33;1031;0; 
+Date: 22-12-2016 08:16:08 PM  Account : vinoth185 User : Sniper Reward: 9774;32;646454;0;, RB: 16, Item Used:9650 Item Replaced:9650;33;33958;0; 
+Date: 22-12-2016 08:25:04 PM  Account : Gowttham User : Draceagle Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;744232880;1; 

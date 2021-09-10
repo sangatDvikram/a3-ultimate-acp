@@ -1,0 +1,17 @@
+Date: 19-12-2014 08:00:19 AM  Account : Bharath1 User : Six Reward: 9773;32;646454;0;, RB: 11, Item Used:9669 Item Replaced:9669;33;34974;0; 
+Date: 19-12-2014 08:10:07 AM  Account : dashinger User : Cruel Reward: -, RB: 5, Item Used:none Item Replaced:none 
+Date: 19-12-2014 11:19:53 AM  Account : kaushik20 User : Raino Reward: 9772;32;646454;0;, RB: 8, Item Used:9665 Item Replaced:9665;33;5;0; 
+Date: 19-12-2014 12:12:04 PM  Account : beta15432 User : Kilingknight Reward: 9773;32;646454;0;, RB: 12, Item Used:9681 Item Replaced:9681;33;5;0; 
+Date: 19-12-2014 12:21:06 PM  Account : ctg50000 User : Dangerous Reward: 9773;32;646454;0;, RB: 13, Item Used:9682 Item Replaced:9682;34;;0; 
+Date: 19-12-2014 12:29:47 PM  Account : jeelbhai101 User : Blackskull Reward: 9773;32;646454;0;, RB: 11, Item Used:9669 Item Replaced:9669;33;9681;0; 
+Date: 19-12-2014 12:30:35 PM  Account : jeelbhai101 User : Blackskull Reward: 9773;32;646454;0;, RB: 12, Item Used:9681 Item Replaced:9681;33;33915;0; 
+Date: 19-12-2014 01:09:23 PM  Account : Morphine User : Chaosmage Reward: 9772;32;646454;0;, RB: 9, Item Used:9666,9667 Item Replaced:9666;34;9667;0;9667;35;85857214;1; 
+Date: 19-12-2014 03:01:25 PM  Account : Blacky101 User : Aa Reward: -, RB: 2, Item Used:none Item Replaced:none 
+Date: 19-12-2014 03:28:00 PM  Account : baskaran72 User : CuteARCHER Reward: -, RB: 5, Item Used:none Item Replaced:none 
+Date: 19-12-2014 07:40:54 PM  Account : Blacky101 User : Aa Reward: -, RB: 3, Item Used:none Item Replaced:none 
+Date: 19-12-2014 07:53:15 PM  Account : rahul007 User : Blackcat Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 19-12-2014 08:56:36 PM  Account : Mustang User : Kingstone Reward: 9773;32;646454;0;, RB: 11, Item Used:9669 Item Replaced:9669;33;17;0; 
+Date: 19-12-2014 08:59:42 PM  Account : zxcvbnm User : Arrowti Reward: -, RB: 5, Item Used:none Item Replaced:none 
+Date: 19-12-2014 09:07:52 PM  Account : rasputin User : Valentine Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;35;17;0; 
+Date: 19-12-2014 09:10:22 PM  Account : rahul007 User : Blackcat Reward: -, RB: 2, Item Used:none Item Replaced:none 
+Date: 19-12-2014 10:17:32 PM  Account : ctg70000 User : Beautifly Reward: 9772;32;646454;0;, RB: 10, Item Used:9668 Item Replaced:9668;34;9576;0; 

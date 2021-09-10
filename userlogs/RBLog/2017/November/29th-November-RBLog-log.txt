@@ -1,0 +1,11 @@
+Date: 29-11-2017 09:43:46 AM  Account : dineshkha User : Dilruba Reward: -, RB: 5, Item Used:none Item Replaced:none 
+Date: 29-11-2017 12:47:41 PM  Account : rudraa User : Skan Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;35;36294;0; 
+Date: 29-11-2017 12:58:05 PM  Account : deadzone User : Wolf Reward: -, RB: 3, Item Used:none Item Replaced:none 
+Date: 29-11-2017 02:45:22 PM  Account : arpan10 User : Pintu Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;1764892049;1; 
+Date: 29-11-2017 05:02:57 PM  Account : rasputin1 User : Celebrity Reward: 9772;32;646454;0;, RB: 12, Item Used:9681 Item Replaced:9681;33;2107;0; 
+Date: 29-11-2017 05:27:05 PM  Account : deadzone User : Wolf Reward: -, RB: 4, Item Used:none Item Replaced:none 
+Date: 29-11-2017 05:31:20 PM  Account : deadzone User : Wolf Reward: -, RB: 5, Item Used:none Item Replaced:none 
+Date: 29-11-2017 05:31:59 PM  Account : deadzone User : Wolf Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;65989078;1; 
+Date: 29-11-2017 07:10:00 PM  Account : Rahul1642 User : Ufc Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;1633160833;1; 
+Date: 29-11-2017 08:45:11 PM  Account : inferno17 User : Holyinferno Reward: 9772;32;646454;0;, RB: 10, Item Used:9668 Item Replaced:9668;33;4;0; 
+Date: 29-11-2017 08:49:06 PM  Account : rasputin1 User : Celebrity Reward: 9772;32;646454;0;, RB: 13, Item Used:9682 Item Replaced:9682;35;9673;0; 

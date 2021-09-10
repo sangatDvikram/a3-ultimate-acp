@@ -1,0 +1,17 @@
+Date: 12-04-2015 04:32:48 AM  Account : AdarshWAR User : Lilith Reward: 9773;32;646454;0;, RB: 15, Item Used:9649 Item Replaced:9649;33;5;0; 
+Date: 12-04-2015 06:15:41 AM  Account : rockers User : Revenger Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;1359611967;1; 
+Date: 12-04-2015 06:42:34 AM  Account : jagankrrj User : Teni Reward: 9773;32;646454;0;, RB: 11, Item Used:9669 Item Replaced:9669;33;;0; 
+Date: 12-04-2015 07:43:57 AM  Account : gmbr123 User : Ceasefire Reward: 9773;32;646454;0;, RB: 13, Item Used:9682 Item Replaced:9682;33;17;0; 
+Date: 12-04-2015 09:47:02 AM  Account : romsoni User : Zorphia Reward: 9773;32;646454;0;, RB: 12, Item Used:9681 Item Replaced:9681;33;34877;0; 
+Date: 12-04-2015 11:35:23 AM  Account : ritesh123 User : Magearcena Reward: 9772;32;646454;0;, RB: 8, Item Used:9665 Item Replaced:9665;33;5;0; 
+Date: 12-04-2015 12:50:45 PM  Account : xithyll User : Selene Reward: 9772;32;646454;0;, RB: 8, Item Used:9665 Item Replaced:9665;33;17;0; 
+Date: 12-04-2015 01:34:26 PM  Account : zeus17 User : Windhunt Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;35;4;0; 
+Date: 12-04-2015 02:03:33 PM  Account : ankit145 User : Spinalcord Reward: 9774;32;646454;0;, RB: 16, Item Used:9650 Item Replaced:9650;33;33861;0; 
+Date: 12-04-2015 02:06:07 PM  Account : rockers User : Revenger Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;33;9645;0; 
+Date: 12-04-2015 04:51:19 PM  Account : ultimatez User : Sansa Reward: -, RB: 5, Item Used:none Item Replaced:none 
+Date: 12-04-2015 05:26:57 PM  Account : the619 User : Spectacular Reward: 9773;32;646454;0;, RB: 14, Item Used:9683 Item Replaced:9683;33;9539;0; 
+Date: 12-04-2015 05:41:55 PM  Account : beta15432 User : Kilingknight Reward: 9772;32;646454;0;, RB: 10, Item Used:9668 Item Replaced:9668;33;5;0; 
+Date: 12-04-2015 06:07:43 PM  Account : kingjack User : Loveneo Reward: 9772;32;646454;0;, RB: 8, Item Used:9665 Item Replaced:9665;35;4;0; 
+Date: 12-04-2015 09:00:09 PM  Account : victory User : Jinn Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;1369443647;1; 
+Date: 12-04-2015 09:55:24 PM  Account : archer02 User : Monsterslaye Reward: 9773;32;646454;0;, RB: 14, Item Used:9683 Item Replaced:9683;33;34942;0; 
+Date: 12-04-2015 10:19:20 PM  Account : awesome User : Martini Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;33;10413;0; 

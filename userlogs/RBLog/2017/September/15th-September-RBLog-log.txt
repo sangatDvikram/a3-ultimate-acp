@@ -1,0 +1,12 @@
+Date: 15-09-2017 01:16:06 AM  Account : tazftw User : Solitaire Reward: 9772;32;646454;0;, RB: 8, Item Used:9665 Item Replaced:9665;33;17;0; 
+Date: 15-09-2017 01:20:15 AM  Account : hackin User : Angrybird Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 15-09-2017 08:18:43 AM  Account : garena User : Stolen Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;1634209409;1; 
+Date: 15-09-2017 09:55:59 AM  Account : arjun11 User : Asguardian Reward: 9772;32;646454;0;, RB: 9, Item Used:9666,9667 Item Replaced:9666;35;9667;0;9667;33;141430657;1; 
+Date: 15-09-2017 10:22:53 AM  Account : Rahul1642 User : Evilfighter Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 15-09-2017 10:24:26 AM  Account : spirit User : Redace Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;1637224321;1; 
+Date: 15-09-2017 03:13:44 PM  Account : Rahul1642 User : Evilfighter Reward: -, RB: 2, Item Used:none Item Replaced:none 
+Date: 15-09-2017 04:51:03 PM  Account : rohansaw User : Anarchy Reward: 9772;32;646454;0;, RB: 11, Item Used:9669 Item Replaced:9669;35;5;0; 
+Date: 15-09-2017 05:45:58 PM  Account : Nx0007 User : Nx Reward: 9772;32;646454;0;, RB: 8, Item Used:9665 Item Replaced:9665;34;5;0; 
+Date: 15-09-2017 06:32:02 PM  Account : Rahul1642 User : Evilfighter Reward: -, RB: 3, Item Used:none Item Replaced:none 
+Date: 15-09-2017 09:55:41 PM  Account : rahul007 User : Reload Reward: 9772;32;646454;0;, RB: 12, Item Used:9681 Item Replaced:9681;35;231480;0; 
+Date: 15-09-2017 11:27:37 PM  Account : Japji47 User : Lustt Reward: 9772;32;646454;0;, RB: 11, Item Used:9669 Item Replaced:9669;35;17;0; 

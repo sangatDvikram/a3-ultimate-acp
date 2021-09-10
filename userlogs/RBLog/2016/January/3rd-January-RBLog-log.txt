@@ -1,0 +1,8 @@
+Date: 03-01-2016 09:19:55 AM  Account : austin2 User : Ilana Reward: 9773;32;646454;0;, RB: 13, Item Used:9682 Item Replaced:9682;33;1144;0; 
+Date: 03-01-2016 10:43:22 AM  Account : bubai1995 User : Cleric Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;33;34877;0; 
+Date: 03-01-2016 11:18:49 AM  Account : austin2 User : Ilana Reward: 9773;32;646454;0;, RB: 14, Item Used:9683 Item Replaced:9683;33;5;0; 
+Date: 03-01-2016 11:19:24 AM  Account : austin2 User : Ilana Reward: 9773;32;646454;0;, RB: 15, Item Used:9649 Item Replaced:9649;33;5;0; 
+Date: 03-01-2016 12:20:30 PM  Account : kardion12 User : Live Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;1468405071;1; 
+Date: 03-01-2016 07:01:21 PM  Account : warma111 User : Deathnight Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 03-01-2016 07:44:07 PM  Account : ykumar47 User : Durga Reward: 9773;32;646454;0;, RB: 14, Item Used:9683 Item Replaced:9683;33;33912;0; 
+Date: 03-01-2016 08:51:36 PM  Account : munuliki User : Elli Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;34;33954;0; 

@@ -1,0 +1,2 @@
+Date: 27-10-2016 03:52:09 PM IP: 115.118.221.12 User : Not loggedin Code: <script>alert("hello")</script>, Fixed: scriptalert(hello)/script, Link: http://www.a3ultimate.com/register.php
+Date: 27-10-2016 03:52:09 PM IP: 115.118.221.12 User : Not loggedin Code: <script>alert("hello")</script>, Fixed: scriptalert(hello)/script, Link: http://www.a3ultimate.com/register.php

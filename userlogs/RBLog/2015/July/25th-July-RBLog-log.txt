@@ -1,0 +1,12 @@
+Date: 25-07-2015 01:26:02 AM  Account : leonardus User : Kronos Reward: 9772;32;646454;0;, RB: 10, Item Used:9668 Item Replaced:9668;33;5;0; 
+Date: 25-07-2015 06:51:41 AM  Account : saikat124 User : Michael Reward: 9773;32;646454;0;, RB: 11, Item Used:9669 Item Replaced:9669;35;17;0; 
+Date: 25-07-2015 08:52:16 AM  Account : samkirat User : Nazgul Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;33;17;0; 
+Date: 25-07-2015 10:46:03 AM  Account : arjunsehu User : Tarminator Reward: 9773;32;646454;0;, RB: 12, Item Used:9681 Item Replaced:9681;33;33907;0; 
+Date: 25-07-2015 11:04:51 AM  Account : parth00 User : Bountyhunter Reward: -, RB: 5, Item Used:none Item Replaced:none 
+Date: 25-07-2015 11:35:06 AM  Account : mohitbvrs User : Coldfire Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 25-07-2015 11:53:19 AM  Account : bikash100 User : Nikkybakshi Reward: 9773;32;646454;0;, RB: 12, Item Used:9681 Item Replaced:9681;33;17;0; 
+Date: 25-07-2015 12:02:30 PM  Account : baskaran72 User : CuteARCHER Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 25-07-2015 12:06:48 PM  Account : parth00 User : Bountyhunter Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;19272559;1; 
+Date: 25-07-2015 12:42:44 PM  Account : parth00 User : Bountyhunter Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;33;1190;0; 
+Date: 25-07-2015 05:15:25 PM  Account : dkdhamal User : Nessaj Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 25-07-2015 07:11:53 PM  Account : mohitbvrs User : Coldfire Reward: -, RB: 2, Item Used:none Item Replaced:none 

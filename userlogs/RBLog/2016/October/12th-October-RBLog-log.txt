@@ -1,0 +1,6 @@
+Date: 12-10-2016 11:35:08 AM  Account : alioth User : Moneymaiden Reward: 9772;32;646454;0;, RB: 9, Item Used:9666,9667 Item Replaced:9666;33;9667;0;9667;33;68160656;1; 
+Date: 12-10-2016 12:01:18 PM  Account : munuliki User : Elli Reward: 9773;32;646454;0;, RB: 11, Item Used:9669 Item Replaced:9669;33;33958;0; 
+Date: 12-10-2016 12:30:10 PM  Account : Coldsteel User : Drunknmaster Reward: -, RB: 2, Item Used:none Item Replaced:none 
+Date: 12-10-2016 02:36:01 PM  Account : oraw1992 User : Spgod Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 12-10-2016 04:27:28 PM  Account : tejeshpatil2 User : Tenchanter Reward: -, RB: 3, Item Used:none Item Replaced:none 
+Date: 12-10-2016 09:36:33 PM  Account : shastri01 User : Rhaegar Reward: 9772;32;646454;0;, RB: 10, Item Used:9668 Item Replaced:9668;33;17;0; 

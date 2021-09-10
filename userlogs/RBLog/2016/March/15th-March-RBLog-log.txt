@@ -1,0 +1,16 @@
+Date: 15-03-2016 12:14:40 AM  Account : wargasm User : Rudradaman Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 15-03-2016 05:09:31 AM  Account : chocoboy User : Rand Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 15-03-2016 05:24:08 AM  Account : crystal User : Magegame Reward: 9774;32;646454;0;, RB: 18, Item Used:9690 Item Replaced:9690;33;5;0; 
+Date: 15-03-2016 06:34:00 AM  Account : chocoboy User : Rand Reward: -, RB: 2, Item Used:none Item Replaced:none 
+Date: 15-03-2016 06:53:13 AM  Account : raviii12 User : Mindgame Reward: 9773;32;646454;0;, RB: 14, Item Used:9683 Item Replaced:9683;33;33913;0; 
+Date: 15-03-2016 07:44:27 AM  Account : chocoboy User : Rand Reward: -, RB: 3, Item Used:none Item Replaced:none 
+Date: 15-03-2016 08:02:02 AM  Account : mannukuk User : Lallu Reward: 9773;32;646454;0;, RB: 11, Item Used:9669 Item Replaced:9669;33;17;0; 
+Date: 15-03-2016 01:25:10 PM  Account : ParthS User : Dhanurdhar Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 15-03-2016 02:00:04 PM  Account : nofear User : Nofeargame Reward: 9772;32;646454;0;, RB: 10, Item Used:9668 Item Replaced:9668;35;17;0; 
+Date: 15-03-2016 04:14:35 PM  Account : ravigamer User : Icegame Reward: 9773;32;646454;0;, RB: 11, Item Used:9669 Item Replaced:9669;33;17;0; 
+Date: 15-03-2016 05:33:21 PM  Account : milubha User : Exportgame Reward: 9772;32;646454;0;, RB: 10, Item Used:9668 Item Replaced:9668;33;17;0; 
+Date: 15-03-2016 05:43:09 PM  Account : ramps1432 User : Rangemage Reward: 9772;32;646454;0;, RB: 10, Item Used:9668 Item Replaced:9668;33;2164;0; 
+Date: 15-03-2016 08:15:46 PM  Account : wargasm User : Rudradaman Reward: -, RB: 2, Item Used:none Item Replaced:none 
+Date: 15-03-2016 09:42:18 PM  Account : dinesh2 User : Anjalika Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 15-03-2016 10:31:23 PM  Account : wargasm User : Rudradaman Reward: -, RB: 3, Item Used:none Item Replaced:none 
+Date: 15-03-2016 11:44:32 PM  Account : shabbo User : Serafina Reward: -, RB: 4, Item Used:none Item Replaced:none 

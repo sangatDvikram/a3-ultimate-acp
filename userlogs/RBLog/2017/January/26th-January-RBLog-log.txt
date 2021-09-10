@@ -1,0 +1,4 @@
+Date: 26-01-2017 10:28:24 AM  Account : thegame1 User : Lannister Reward: 9774;32;646454;0;, RB: 16, Item Used:9650 Item Replaced:9650;33;4;0; 
+Date: 26-01-2017 01:29:43 PM  Account : ashishlee User : Windifull Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;65988843;1; 
+Date: 26-01-2017 04:02:14 PM  Account : dineshkha User : Khurafatii Reward: 9774;32;646454;0;, RB: 16, Item Used:9650 Item Replaced:9650;33;33913;0; 
+Date: 26-01-2017 09:01:59 PM  Account : ghostexe User : Wanzu Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;35;4;0; 

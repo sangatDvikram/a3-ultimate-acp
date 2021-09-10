@@ -1,0 +1,13 @@
+Date: 13-08-2015 06:43:27 AM  Account : arjunsehu User : Tarminator Reward: 9773;32;646454;0;, RB: 15, Item Used:9649 Item Replaced:9649;33;17;0; 
+Date: 13-08-2015 09:08:42 AM  Account : saikat124 User : Michael Reward: 9773;32;646454;0;, RB: 14, Item Used:9683 Item Replaced:9683;33;17;0; 
+Date: 13-08-2015 11:01:12 AM  Account : saikat123 User : Sophia Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;33;17;0; 
+Date: 13-08-2015 11:27:18 AM  Account : musapatel User : Musa Reward: -, RB: 2, Item Used:none Item Replaced:none 
+Date: 13-08-2015 11:57:09 AM  Account : dkdhamal User : Bajheera Reward: 9772;32;646454;0;, RB: 9, Item Used:9666,9667 Item Replaced:9666;32;9667;0;9667;33;4853119;1; 
+Date: 13-08-2015 12:22:11 PM  Account : musapatel User : Musa Reward: -, RB: 3, Item Used:none Item Replaced:none 
+Date: 13-08-2015 02:01:05 PM  Account : shruthi76 User : Shru Reward: -, RB: 4, Item Used:none Item Replaced:none 
+Date: 13-08-2015 02:30:09 PM  Account : rasputin1 User : Ladymage Reward: 9774;32;646454;0;, RB: 17, Item Used:9931 Item Replaced:9931;33;9829;0; 
+Date: 13-08-2015 06:25:44 PM  Account : damnage User : Wardragon Reward: -, RB: 5, Item Used:none Item Replaced:none 
+Date: 13-08-2015 06:39:17 PM  Account : baskaran72 User : CuteARCHER Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;22811759;1; 
+Date: 13-08-2015 09:18:17 PM  Account : etiquet User : Reborn Reward: -, RB: 3, Item Used:none Item Replaced:none 
+Date: 13-08-2015 09:24:01 PM  Account : heden2632 User : VipEr Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 13-08-2015 11:31:20 PM  Account : ashishkr User : Huntress Reward: 9772;32;646454;0;, RB: 8, Item Used:9665 Item Replaced:9665;33;5;0; 

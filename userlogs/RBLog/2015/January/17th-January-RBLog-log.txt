@@ -1,0 +1,13 @@
+Date: 17-01-2015 04:45:09 AM  Account : AdarshWAR User : Hound Reward: 9772;32;646454;0;, RB: 8, Item Used:9665 Item Replaced:9665;33;5;0; 
+Date: 17-01-2015 09:24:54 AM  Account : wow726975 User : CrusioN Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;1036654526;1; 
+Date: 17-01-2015 09:46:09 AM  Account : Skyfiiii User : Skyfi Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;35;17;0; 
+Date: 17-01-2015 11:24:34 AM  Account : vivek6193 User : Cruelty Reward: 9773;32;646454;0;, RB: 11, Item Used:9669 Item Replaced:9669;33;17;0; 
+Date: 17-01-2015 11:26:19 AM  Account : lionheart1 User : Psychokiller Reward: -, RB: 2, Item Used:none Item Replaced:none 
+Date: 17-01-2015 11:45:44 AM  Account : Fonezone User : SriSai Reward: 9773;32;646454;0;, RB: 12, Item Used:9681 Item Replaced:9681;33;9821;0; 
+Date: 17-01-2015 02:21:45 PM  Account : weeteck User : Metal Reward: 9772;32;646454;0;, RB: 9, Item Used:9666,9667 Item Replaced:9666;33;9667;0;9667;34;93851919;1; 
+Date: 17-01-2015 02:32:00 PM  Account : AdarshWAR User : Hound Reward: 9772;32;646454;0;, RB: 9, Item Used:9666,9667 Item Replaced:9666;34;9667;0;9667;35;79957662;1; 
+Date: 17-01-2015 02:39:28 PM  Account : Hercules User : Deadpool Reward: -, RB: 3, Item Used:none Item Replaced:none 
+Date: 17-01-2015 04:29:30 PM  Account : mackwillarch User : Iezabel Reward: 9773;32;646454;0;, RB: 12, Item Used:9681 Item Replaced:9681;33;17;0; 
+Date: 17-01-2015 06:09:34 PM  Account : mitchell User : Mitchell Reward: 9774;32;646454;0;, RB: 18, Item Used:9690 Item Replaced:9690;35;5;0; 
+Date: 17-01-2015 09:24:10 PM  Account : rahul11 User : Ladyarcher Reward: 9774;32;646454;0;, RB: 18, Item Used:9690 Item Replaced:9690;33;17;0; 
+Date: 17-01-2015 10:25:19 PM  Account : axeaxe User : Bloodhund Reward: -, RB: 1, Item Used:none Item Replaced:none 

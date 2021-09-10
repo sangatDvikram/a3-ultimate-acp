@@ -1,0 +1,10 @@
+Date: 12-12-2014 02:36:30 AM  Account : AdarshHK User : Bittersteel Reward: -, RB: 3, Item Used:none Item Replaced:none 
+Date: 12-12-2014 03:56:25 AM  Account : hsrraw User : Starjet Reward: 9772;32;646454;0;, RB: 10, Item Used:9668 Item Replaced:9668;34;17;0; 
+Date: 12-12-2014 06:08:17 AM  Account : adityabala User : HanumaN Reward: 9774;32;646454;0;, RB: 16, Item Used:9650 Item Replaced:9650;32;33915;0; 
+Date: 12-12-2014 06:37:47 AM  Account : ctg70000 User : Beautifly Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;35;17;0; 
+Date: 12-12-2014 07:02:30 AM  Account : kaushik20 User : Raino Reward: -, RB: 5, Item Used:none Item Replaced:none 
+Date: 12-12-2014 10:30:22 AM  Account : kaushik20 User : Raino Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;1008995006;1; 
+Date: 12-12-2014 11:31:37 AM  Account : Toksick User : Epicshit Reward: 9773;32;646454;0;, RB: 14, Item Used:9683 Item Replaced:9683;33;17;0; 
+Date: 12-12-2014 01:11:56 PM  Account : ctg50000 User : Dangerous Reward: 9772;32;646454;0;, RB: 9, Item Used:9666,9667 Item Replaced:9666;33;9667;0;9667;33;84675774;1; 
+Date: 12-12-2014 03:27:49 PM  Account : ganu28 User : Mishka Reward: 9772;32;646454;0;, RB: 9, Item Used:9666,9667 Item Replaced:9666;33;9667;0;9667;33;11671390;1; 
+Date: 12-12-2014 04:04:17 PM  Account : codemasterxv User : KingArcher Reward: 9772;32;646454;0;, RB: 8, Item Used:9665 Item Replaced:9665;33;5;0; 

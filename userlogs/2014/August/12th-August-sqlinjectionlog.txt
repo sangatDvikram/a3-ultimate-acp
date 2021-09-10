@@ -1,0 +1,4 @@
+Date: 12-08-2014 02:10:18 PM IP: 101.58.146.147 User : Not loggedin Code: "or''=", Fixed: or=, Link: http://www.a3ultimate.com/login.php
+Date: 12-08-2014 02:10:18 PM IP: 101.58.146.147 User : Not loggedin Code: "or''=", Fixed: or=, Link: http://www.a3ultimate.com/login.php
+Date: 12-08-2014 09:01:06 PM IP: 223.196.224.100 User : Not loggedin Code: "1=", Fixed: 1=, Link: http://www.a3ultimate.com/login.php
+Date: 12-08-2014 09:04:20 PM IP: 223.196.224.100 User : Not loggedin Code: 'or' '=', Fixed: or =, Link: http://www.a3ultimate.com/login.php

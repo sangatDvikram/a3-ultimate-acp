@@ -1,0 +1,10 @@
+Date: 22-08-2015 01:02:42 AM  Account : ashishkr User : Huntress Reward: 9773;32;646454;0;, RB: 12, Item Used:9681 Item Replaced:9681;33;17;0; 
+Date: 22-08-2015 04:46:11 AM  Account : rustum531 User : Bambi Reward: 9772;32;646454;0;, RB: 8, Item Used:9665 Item Replaced:9665;33;17;0; 
+Date: 22-08-2015 10:47:32 AM  Account : sunyyy User : Xzone Reward: 9772;32;646454;0;, RB: 9, Item Used:9666,9667 Item Replaced:9666;33;9667;0;9667;33;5510783;1; 
+Date: 22-08-2015 10:49:17 AM  Account : abhiruls User : Sherlock Reward: 9773;32;646454;0;, RB: 15, Item Used:9649 Item Replaced:9649;33;33922;0; 
+Date: 22-08-2015 04:21:24 PM  Account : etiquet User : Reborn Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;43124095;1; 
+Date: 22-08-2015 04:30:26 PM  Account : damnage User : Wardragon Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;33;5;0; 
+Date: 22-08-2015 08:47:09 PM  Account : deepam333 User : Deathprophet Reward: 9772;32;646454;0;, RB: 9, Item Used:9666,9667 Item Replaced:9666;33;9667;0;9667;33;5642111;1; 
+Date: 22-08-2015 10:02:22 PM  Account : ashishkr User : Huntress Reward: 9773;32;646454;0;, RB: 13, Item Used:9682 Item Replaced:9682;33;5;0; 
+Date: 22-08-2015 10:35:34 PM  Account : munuhk User : Saroj Reward: -, RB: 2, Item Used:none Item Replaced:none 
+Date: 22-08-2015 10:57:07 PM  Account : deepam333 User : Deathprophet Reward: 9772;32;646454;0;, RB: 10, Item Used:9668 Item Replaced:9668;33;5;0; 

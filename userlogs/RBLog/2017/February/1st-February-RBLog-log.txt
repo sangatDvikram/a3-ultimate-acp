@@ -1,0 +1,11 @@
+Date: 01-02-2017 01:35:17 AM  Account : aladin User : Queenelf Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 01-02-2017 05:00:31 AM  Account : aladin User : Queenelf Reward: -, RB: 2, Item Used:none Item Replaced:none 
+Date: 01-02-2017 06:13:19 AM  Account : MegaDeath User : Elven Reward: 9773;32;646454;0;, RB: 14, Item Used:9683 Item Replaced:9683;33;17;0; 
+Date: 01-02-2017 07:50:19 AM  Account : ramps153 User : Magexxxs Reward: 9773;32;646454;0;, RB: 12, Item Used:9681 Item Replaced:9681;33;17;0; 
+Date: 01-02-2017 09:24:37 AM  Account : aladin User : Queenelf Reward: -, RB: 3, Item Used:none Item Replaced:none 
+Date: 01-02-2017 10:23:48 AM  Account : kardion12 User : Maxrage Reward: -, RB: 2, Item Used:none Item Replaced:none 
+Date: 01-02-2017 10:30:24 AM  Account : ramps143 User : Meenamma Reward: -, RB: 5, Item Used:none Item Replaced:none 
+Date: 01-02-2017 06:13:44 PM  Account : ajayarora User : Ajayboss Reward: 9773;32;646454;0;, RB: 14, Item Used:9683 Item Replaced:9683;33;17;0; 
+Date: 01-02-2017 06:21:55 PM  Account : daynight User : Daynight Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;33;1143;0; 
+Date: 01-02-2017 07:47:12 PM  Account : Infamous User : Lyalie Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 01-02-2017 10:36:11 PM  Account : Sanojch User : Sealbreaker Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;33;765723153;1; 

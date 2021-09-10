@@ -1,0 +1,12 @@
+Date: 25-11-2014 01:11:53 AM  Account : rack259 User : Rack Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;32;17;0; 
+Date: 25-11-2014 07:55:01 AM  Account : loverboy User : Miss Reward: 9773;32;646454;0;, RB: 12, Item Used:9681 Item Replaced:9681;33;5;0; 
+Date: 25-11-2014 07:57:07 AM  Account : vs1337 User : Caffeine Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;33;3554;0; 
+Date: 25-11-2014 10:47:32 AM  Account : soni1122 User : Mahii Reward: 9773;32;646454;0;, RB: 14, Item Used:9683 Item Replaced:9683;33;5;0; 
+Date: 25-11-2014 11:49:02 AM  Account : rohan666 User : Demigod Reward: 9773;32;646454;0;, RB: 11, Item Used:9669 Item Replaced:9669;33;33922;0; 
+Date: 25-11-2014 12:12:19 PM  Account : marshalarts User : HolyRock Reward: 9773;32;646454;0;, RB: 14, Item Used:9683 Item Replaced:9683;33;5;0; 
+Date: 25-11-2014 02:40:32 PM  Account : bichuu User : Bichuu Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;33;17;0; 
+Date: 25-11-2014 02:42:18 PM  Account : zach69 User : Temu Reward: 9772;32;646454;0;, RB: 8, Item Used:9665 Item Replaced:9665;35;33861;0; 
+Date: 25-11-2014 03:52:47 PM  Account : sivsud1977 User : SpicyAngel Reward: 9773;32;646454;0;, RB: 11, Item Used:9669 Item Replaced:9669;33;5;0; 
+Date: 25-11-2014 07:06:58 PM  Account : ajay001 User : Littlebaby Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;33;17;0; 
+Date: 25-11-2014 10:37:27 PM  Account : rasputin User : Valentine Reward: 9774;32;646454;0;, RB: 17, Item Used:9931 Item Replaced:9931;34;5;0; 
+Date: 25-11-2014 11:20:47 PM  Account : bichuu User : Bichuu Reward: 9772;32;646454;0;, RB: 8, Item Used:9665 Item Replaced:9665;33;17;0; 

@@ -1,0 +1,10 @@
+Date: 12-05-2016 05:07:20 AM  Account : Tiger.sk User : Olivia Reward: 9774;32;646454;0;, RB: 17, Item Used:9931 Item Replaced:9931;35;17;0; 
+Date: 12-05-2016 07:05:08 AM  Account : kronos54 User : Rina Reward: 9773;32;646454;0;, RB: 15, Item Used:9649 Item Replaced:9649;33;17;0; 
+Date: 12-05-2016 07:22:37 AM  Account : uday2013 User : COMPUTER Reward: -, RB: 3, Item Used:none Item Replaced:none 
+Date: 12-05-2016 09:12:33 AM  Account : rdpaul23 User : Osworld Reward: -, RB: 5, Item Used:none Item Replaced:none 
+Date: 12-05-2016 11:40:36 AM  Account : nisuu355 User : Kingboy Reward: 9772;32;646454;0;, RB: 8, Item Used:9665 Item Replaced:9665;33;5;0; 
+Date: 12-05-2016 11:55:07 AM  Account : abultimate007 User : Lily Reward: -, RB: 5, Item Used:none Item Replaced:none 
+Date: 12-05-2016 12:37:57 PM  Account : abultimate007 User : Lily Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;469371968;1; 
+Date: 12-05-2016 02:38:35 PM  Account : rdpaul23 User : Osworld Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;426645552;1; 
+Date: 12-05-2016 10:15:51 PM  Account : dragun User : Azumi Reward: -, RB: 2, Item Used:none Item Replaced:none 
+Date: 12-05-2016 11:16:42 PM  Account : dragun User : Azumi Reward: -, RB: 3, Item Used:none Item Replaced:none 

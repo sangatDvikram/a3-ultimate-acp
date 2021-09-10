@@ -1,0 +1,10 @@
+Date: 20-06-2016 06:18:54 AM  Account : madmax112 User : Akudo Reward: 9772;32;646454;0;, RB: 9, Item Used:9666,9667 Item Replaced:9666;33;9667;0;9667;35;55317584;1; 
+Date: 20-06-2016 06:36:40 AM  Account : lycklycc User : Lycck Reward: -, RB: 2, Item Used:none Item Replaced:none 
+Date: 20-06-2016 08:12:33 AM  Account : lycklycc User : Lycck Reward: -, RB: 3, Item Used:none Item Replaced:none 
+Date: 20-06-2016 08:24:22 AM  Account : gonxa2 User : Akeno Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;33;4;0; 
+Date: 20-06-2016 10:19:01 AM  Account : lycklycc User : Lycck Reward: -, RB: 4, Item Used:none Item Replaced:none 
+Date: 20-06-2016 01:32:10 PM  Account : lycklycc User : Lycck Reward: -, RB: 5, Item Used:none Item Replaced:none 
+Date: 20-06-2016 04:05:43 PM  Account : ramps1432 User : Rangemage Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;547624016;1; 
+Date: 20-06-2016 05:23:44 PM  Account : Banani User : Jarberaa Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;33;17;0; 
+Date: 20-06-2016 09:02:36 PM  Account : rdpaul23 User : Osworld Reward: 9773;32;646454;0;, RB: 15, Item Used:9649 Item Replaced:9649;33;9558;0; 
+Date: 20-06-2016 09:41:32 PM  Account : kosuvjus User : Freestyleus Reward: 9772;32;646454;0;, RB: 9, Item Used:9666,9667 Item Replaced:9666;35;9667;0;9667;33;55711056;1; 

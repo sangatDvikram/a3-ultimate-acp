@@ -1,0 +1,6 @@
+Date: 06-09-2016 04:47:41 AM  Account : wwweee User : Stormsprit Reward: 9772;32;646454;0;, RB: 8, Item Used:9665 Item Replaced:9665;33;9667;0; 
+Date: 06-09-2016 05:33:44 AM  Account : raac99 User : Mephirot Reward: 9772;32;646454;0;, RB: 9, Item Used:9666,9667 Item Replaced:9666;32;9667;0;9667;32;99890123;1; 
+Date: 06-09-2016 08:10:47 AM  Account : scam1492 User : Scam Reward: 9773;32;646454;0;, RB: 12, Item Used:9681 Item Replaced:9681;33;2109;0; 
+Date: 06-09-2016 03:59:52 PM  Account : grishma User : Demonic Reward: -, RB: 2, Item Used:none Item Replaced:none 
+Date: 06-09-2016 05:19:10 PM  Account : shastri01 User : Priyanka Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;33;17;0; 
+Date: 06-09-2016 10:18:22 PM  Account : hitman23 User : Samael Reward: 9772;32;646454;0;, RB: 9, Item Used:9666,9667 Item Replaced:9666;33;9667;0;9667;33;64882560;1; 

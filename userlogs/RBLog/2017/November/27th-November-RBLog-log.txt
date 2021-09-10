@@ -1,0 +1,6 @@
+Date: 27-11-2017 01:15:52 AM  Account : gomzy123 User : Qqqww Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;1805392801;1; 
+Date: 27-11-2017 11:58:28 AM  Account : deadzone User : Agathor Reward: 9772;32;646454;0;, RB: 11, Item Used:9669 Item Replaced:9669;32;9681;0; 
+Date: 27-11-2017 11:59:58 AM  Account : deadzone User : Agathor Reward: 9772;32;646454;0;, RB: 12, Item Used:9681 Item Replaced:9681;32;9682;0; 
+Date: 27-11-2017 12:04:39 PM  Account : deadzone User : Agathor Reward: 9772;32;646454;0;, RB: 13, Item Used:9682 Item Replaced:9682;32;9683;0; 
+Date: 27-11-2017 12:05:12 PM  Account : deadzone User : Agathor Reward: 9772;32;646454;0;, RB: 14, Item Used:9683 Item Replaced:9683;32;9649;0; 
+Date: 27-11-2017 04:03:16 PM  Account : inferno17 User : Holyinferno Reward: 9772;32;646454;0;, RB: 9, Item Used:9666,9667 Item Replaced:9666;34;9667;0;9667;33;152705953;1; 

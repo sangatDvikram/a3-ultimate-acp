@@ -1,0 +1,8 @@
+Date: 26-09-2016 07:27:59 AM  Account : shastri01 User : Rhaegar Reward: 9772;32;646454;0;, RB: 9, Item Used:9666,9667 Item Replaced:9666;33;9667;0;9667;33;66198144;1; 
+Date: 26-09-2016 11:56:07 AM  Account : a3vishnu User : Art2War Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;1519653215;1; 
+Date: 26-09-2016 12:37:30 PM  Account : vishal11 User : Scorch Reward: 9774;32;646454;0;, RB: 16, Item Used:9650 Item Replaced:9650;33;5;0; 
+Date: 26-09-2016 06:51:54 PM  Account : porche123 User : Scarlett Reward: 9773;32;646454;0;, RB: 15, Item Used:9649 Item Replaced:9649;33;33954;0; 
+Date: 26-09-2016 07:26:23 PM  Account : bhutboy User : Deathwalk Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 26-09-2016 08:33:53 PM  Account : leonardus User : Kronos Reward: 9773;32;646454;0;, RB: 12, Item Used:9681 Item Replaced:9681;33;5;0; 
+Date: 26-09-2016 09:56:51 PM  Account : porche123 User : Scarlett Reward: 9774;32;646454;0;, RB: 16, Item Used:9650 Item Replaced:9650;33;231;0; 
+Date: 26-09-2016 10:15:36 PM  Account : sarita User : Saritaa Reward: 9773;32;646454;0;, RB: 15, Item Used:9649 Item Replaced:9649;33;1190;0; 

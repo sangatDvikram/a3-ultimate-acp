@@ -1,0 +1,11 @@
+Date: 25-08-2015 08:16:15 AM  Account : hhimanshu User : Archerrock Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;34;4;0; 
+Date: 25-08-2015 10:45:35 AM  Account : hhimanshu User : Archerrock Reward: 9772;32;646454;0;, RB: 8, Item Used:9665 Item Replaced:9665;34;4;0; 
+Date: 25-08-2015 10:47:00 AM  Account : rozer2212 User : Arrowblast Reward: 9774;32;646454;0;, RB: 16, Item Used:9650 Item Replaced:9650;33;4;0; 
+Date: 25-08-2015 12:07:20 PM  Account : dkdhamal User : Bajheera Reward: 9773;32;646454;0;, RB: 13, Item Used:9682 Item Replaced:9682;33;1137;0; 
+Date: 25-08-2015 12:23:38 PM  Account : arjunsehu User : Tarminator Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;33;9665;0; 
+Date: 25-08-2015 12:32:01 PM  Account : l3ssness User : Phew Reward: -, RB: 2, Item Used:none Item Replaced:none 
+Date: 25-08-2015 04:07:50 PM  Account : hhimanshu User : Archerrock Reward: 9772;32;646454;0;, RB: 9, Item Used:9666,9667 Item Replaced:9666;35;9667;0;9667;34;6166911;1; 
+Date: 25-08-2015 04:40:38 PM  Account : boostkill User : Hunt Reward: 9772;32;646454;0;, RB: 9, Item Used:9666,9667 Item Replaced:9666;33;9667;0;9667;33;6297983;1; 
+Date: 25-08-2015 06:19:14 PM  Account : rstar425 User : Kirsten Reward: 9774;32;646454;0;, RB: 18, Item Used:9690 Item Replaced:9690;33;33922;0; 
+Date: 25-08-2015 06:33:19 PM  Account : sourav1992 User : Chery Reward: 9774;32;646454;0;, RB: 16, Item Used:9650 Item Replaced:9650;34;17;0; 
+Date: 25-08-2015 10:17:46 PM  Account : ashishkr User : Huntress Reward: 9774;32;646454;0;, RB: 18, Item Used:9690 Item Replaced:9690;33;17;0; 

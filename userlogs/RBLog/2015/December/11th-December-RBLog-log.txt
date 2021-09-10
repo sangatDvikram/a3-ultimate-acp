@@ -1,0 +1,4 @@
+Date: 11-12-2015 07:08:49 AM  Account : kaishanky User : Janis Reward: -, RB: 3, Item Used:none Item Replaced:none 
+Date: 11-12-2015 11:38:55 AM  Account : Raghav User : Mastery Reward: 9773;32;646454;0;, RB: 14, Item Used:9683 Item Replaced:9683;33;17;0; 
+Date: 11-12-2015 05:29:22 PM  Account : wolfpoison User : Aragorn Reward: 9774;32;646454;0;, RB: 18, Item Used:9690 Item Replaced:9690;33;36334;0; 
+Date: 11-12-2015 07:46:01 PM  Account : robinreji User : Valladin Reward: 9772;32;646454;0;, RB: 8, Item Used:9665 Item Replaced:9665;33;;0; 

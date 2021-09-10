@@ -1,0 +1,131 @@
+Date: 16-01-2018 01:05:20 PM IP: 223.229.162.163 User : f        Code: Asdasdqweqe         ',<?php
+
+function reverse_number($number)
+{
+    
+   /* Typecast the number into string. */
+ 
+    $snum = (string) $number;
+ 
+    /* Reverse the string. */
+ 
+    $revstr = strrev($snum);
+ 
+    /* Typecast string into int. */
+ 
+    $reverse = (int) $revstr;
+ 
+     return $reverse;
+}
+, Fixed: Asdasdqweqe         ,?php
+
+function reverse_number($number)
+
+    
+   /* Typecast the number into string. */
+ 
+    $snum = (string) $number;
+ 
+    /* Reverse the string. */
+ 
+    $revstr = strrev($snum);
+ 
+    /* Typecast string into int. */
+ 
+    $reverse = (int) $revstr;
+ 
+     return $reverse;
+
+, Link: http://www.a3ultimate.com/Stats/stats.php
+Date: 16-01-2018 01:10:30 PM IP: 223.229.162.163 User : f        Code: Asdasdqweqe         ',<?php
+
+function reverse_number($number)
+{
+    
+   /* Typecast the number into string. */
+ 
+    $snum = (string) $number;
+ 
+    /* Reverse the string. */
+ 
+    $revstr = strrev($snum);
+ 
+    /* Typecast string into int. */
+ 
+    $reverse = (int) $revstr;
+ 
+     return $reverse;
+}
+, Fixed: Asdasdqweqe         ,?php
+
+function reverse_number($number)
+
+    
+   /* Typecast the number into string. */
+ 
+    $snum = (string) $number;
+ 
+    /* Reverse the string. */
+ 
+    $revstr = strrev($snum);
+ 
+    /* Typecast string into int. */
+ 
+    $reverse = (int) $revstr;
+ 
+     return $reverse;
+
+, Link: http://www.a3ultimate.com/Stats/get_empty.php
+Date: 16-01-2018 01:57:14 PM IP: 223.229.162.163 User : f        Code: Asdasdqweqe         ,'<?php
+
+function reverse_number($number)
+{
+    
+   /* Typecast the number into string. */
+ 
+    $snum = (string) $number;
+ 
+    /* Reverse the string. */
+ 
+    $revstr = strrev($snum);
+ 
+    /* Typecast string into int. */
+ 
+    $reverse = (int) $revstr;
+ 
+     return $reverse;
+}
+ 
+ echo reverse_number(2039);
+
+?>, Fixed: Asdasdqweqe         ,?php
+
+function reverse_number($number)
+
+    
+   /* Typecast the number into string. */
+ 
+    $snum = (string) $number;
+ 
+    /* Reverse the string. */
+ 
+    $revstr = strrev($snum);
+ 
+    /* Typecast string into int. */
+ 
+    $reverse = (int) $revstr;
+ 
+     return $reverse;
+
+ 
+ echo reverse_number(2039);
+
+?, Link: http://www.a3ultimate.com/Stats/get_rbdetails.php
+Date: 16-01-2018 06:37:21 PM IP: 223.229.162.163 User : ma       Code: Qweqzffdswer        'UPDATE account SET c_status= 'A' WHERE c_id= 'gamemaster', Fixed: Qweqzffdswer        UPDATE account SET c_status= A WHERE c_id= gamemaster, Link: http://www.a3ultimate.com/Stats/get_rbdetails.php
+Date: 16-01-2018 06:57:44 PM IP: 223.229.162.163 User : ma       Code: UPDATE account SET c_status='A' WHERE c_id='gamemaster', Fixed: UPDATE account SET c_status=A WHERE c_id=gamemaster, Link: http://www.a3ultimate.com/Stats/get_rbdetails.php
+Date: 16-01-2018 07:00:15 PM IP: 223.229.162.163 User : ma       Code: 1,'UPDATE account SET c_status='A' WHERE c_id='gamemaster', Fixed: 1,UPDATE account SET c_status=A WHERE c_id=gamemaster, Link: http://www.a3ultimate.com/Stats/invtoptions.php
+Date: 16-01-2018 07:01:11 PM IP: 223.229.162.163 User : ma       Code: 1',UPDATE account SET c_status='A' WHERE c_id='gamemaster', Fixed: 1,UPDATE account SET c_status=A WHERE c_id=gamemaster, Link: http://www.a3ultimate.com/Stats/invtoptions.php
+Date: 16-01-2018 07:01:51 PM IP: 223.229.162.163 User : ma       Code: Asdqweqweghh        ',UPDATE account SET c_status='A' WHERE c_id='gamemaster', Fixed: Asdqweqweghh        ,UPDATE account SET c_status=A WHERE c_id=gamemaster, Link: http://www.a3ultimate.com/Stats/get-invt.php
+Date: 16-01-2018 07:02:16 PM IP: 223.229.162.163 User : ma       Code: UPDATE account SET c_status='A' WHERE c_id='gamemaster', Fixed: UPDATE account SET c_status=A WHERE c_id=gamemaster, Link: http://www.a3ultimate.com/Stats/invtoptions.php
+Date: 16-01-2018 07:39:46 PM IP: 119.76.22.205 User : Not loggedin Code: Kwaons ring �, Fixed: Kwaons ring , Link: http://www.a3ultimate.com/Stats/crafting.php
+Date: 16-01-2018 07:39:47 PM IP: 119.76.22.205 User : Not loggedin Code: Kwaons ring �, Fixed: Kwaons ring , Link: http://www.a3ultimate.com/Stats/crafting.php

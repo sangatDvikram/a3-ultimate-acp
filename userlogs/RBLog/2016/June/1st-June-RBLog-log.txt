@@ -1,0 +1,9 @@
+Date: 01-06-2016 10:49:16 AM  Account : ramps1432 User : Rangemage Reward: 9774;32;646454;0;, RB: 17, Item Used:9931 Item Replaced:9931;33;17;0; 
+Date: 01-06-2016 11:49:18 AM  Account : sourav91 User : Arrowsfight Reward: 9773;32;646454;0;, RB: 14, Item Used:9683 Item Replaced:9683;33;;0; 
+Date: 01-06-2016 01:26:35 PM  Account : inferno User : Maverick Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 01-06-2016 02:49:24 PM  Account : kidnapper User : LastShadow Reward: 9774;32;646454;0;, RB: 18, Item Used:9690 Item Replaced:9690;33;;0; 
+Date: 01-06-2016 03:05:49 PM  Account : smognb User : Hector Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 01-06-2016 05:50:49 PM  Account : mayurpros User : Linda Reward: -, RB: 4, Item Used:none Item Replaced:none 
+Date: 01-06-2016 08:14:52 PM  Account : argdut88 User : ZeusKnight Reward: 9774;32;646454;0;, RB: 17, Item Used:9931 Item Replaced:9931;33;5;0; 
+Date: 01-06-2016 08:33:50 PM  Account : argdut88 User : ZeusKnight Reward: 9774;32;646454;0;, RB: 18, Item Used:9690 Item Replaced:9690;34;5;0; 
+Date: 01-06-2016 08:35:33 PM  Account : kidnapper User : LastShadow Reward: -, RB: 1, Item Used:none Item Replaced:none 

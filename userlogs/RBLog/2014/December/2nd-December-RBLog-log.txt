@@ -1,0 +1,4 @@
+Date: 02-12-2014 01:06:04 AM  Account : royalmbc User : Reccia Reward: 9772;32;646454;0;, RB: 9, Item Used:9666,9667 Item Replaced:9666;35;9667;0;9667;33;9835358;1; 
+Date: 02-12-2014 09:48:15 AM  Account : jeetubaba User : Tauriel Reward: 9773;32;646454;0;, RB: 14, Item Used:9683 Item Replaced:9683;33;5;0; 
+Date: 02-12-2014 10:20:22 AM  Account : rack259 User : Rack Reward: 9772;32;646454;0;, RB: 8, Item Used:9665 Item Replaced:9665;35;17;0; 
+Date: 02-12-2014 02:53:58 PM  Account : beta15432 User : Kilingknight Reward: 9772;32;646454;0;, RB: 10, Item Used:9668 Item Replaced:9668;33;5;0; 

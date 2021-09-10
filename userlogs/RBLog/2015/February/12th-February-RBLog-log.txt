@@ -1,0 +1,13 @@
+Date: 12-02-2015 06:01:28 AM  Account : enrique User : Enrique Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;33;5;0; 
+Date: 12-02-2015 08:59:48 AM  Account : Parth12 User : Ultimetdj Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 12-02-2015 09:02:36 AM  Account : viroja User : Magicmage Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 12-02-2015 10:39:23 AM  Account : Parth12 User : Ultimetdj Reward: -, RB: 2, Item Used:none Item Replaced:none 
+Date: 12-02-2015 10:41:19 AM  Account : blackcobra User : NightXena Reward: 9773;32;646454;0;, RB: 15, Item Used:9649 Item Replaced:9649;33;9830;0; 
+Date: 12-02-2015 10:49:12 AM  Account : KingPatel User : Password Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 12-02-2015 11:09:07 AM  Account : musa12345 User : Creative Reward: 9774;32;646454;0;, RB: 17, Item Used:9931 Item Replaced:9931;33;5;0; 
+Date: 12-02-2015 11:17:07 AM  Account : viroja User : Magicmage Reward: -, RB: 2, Item Used:none Item Replaced:none 
+Date: 12-02-2015 03:25:36 PM  Account : sasukemax User : Speedster Reward: -, RB: 5, Item Used:none Item Replaced:none 
+Date: 12-02-2015 04:08:51 PM  Account : KingPatel User : Password Reward: -, RB: 2, Item Used:none Item Replaced:none 
+Date: 12-02-2015 04:58:59 PM  Account : sam39575 User : Alexzandriya Reward: 9774;32;646454;0;, RB: 18, Item Used:9690 Item Replaced:9690;35;9933;0; 
+Date: 12-02-2015 06:36:50 PM  Account : chenlazy8 User : Arachen Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;33;17;0; 
+Date: 12-02-2015 10:24:27 PM  Account : musa12345 User : Creative Reward: 9774;32;646454;0;, RB: 18, Item Used:9690 Item Replaced:9690;35;5;0; 

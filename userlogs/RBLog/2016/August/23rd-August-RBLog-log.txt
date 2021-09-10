@@ -1,0 +1,11 @@
+Date: 23-08-2016 10:37:04 AM  Account : nkarch User : Genesis Reward: 9772;32;646454;0;, RB: 9, Item Used:9666,9667 Item Replaced:9666;34;9667;0;9667;35;61085536;1; 
+Date: 23-08-2016 01:17:33 PM  Account : Banani User : Jarberaa Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;33;99449;0; 
+Date: 23-08-2016 01:19:10 PM  Account : raja610 User : Carlsbarg Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;33;17;0; 
+Date: 23-08-2016 07:08:08 PM  Account : etiquet User : Avenged Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;33;638064496;1; 
+Date: 23-08-2016 07:19:11 PM  Account : etiquet User : Reborn Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;33;100468;0; 
+Date: 23-08-2016 07:23:39 PM  Account : damnage User : Wardragon Reward: 9772;32;646454;0;, RB: 8, Item Used:9665 Item Replaced:9665;33;33915;0; 
+Date: 23-08-2016 08:28:40 PM  Account : sarita User : Saritaa Reward: 9774;32;646454;0;, RB: 18, Item Used:9690 Item Replaced:9690;33;33954;0; 
+Date: 23-08-2016 08:43:12 PM  Account : wwweee User : Stormsprit Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 23-08-2016 09:07:59 PM  Account : wwweee User : Stormsprit Reward: -, RB: 2, Item Used:none Item Replaced:none 
+Date: 23-08-2016 09:59:02 PM  Account : porche123 User : Scarlett Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;628492912;1; 
+Date: 23-08-2016 10:39:56 PM  Account : wwweee User : Stormsprit Reward: -, RB: 3, Item Used:none Item Replaced:none 

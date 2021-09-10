@@ -1,0 +1,16 @@
+Date: 16-01-2017 04:16:10 AM  Account : jaredrag User : Eviscerate Reward: 9772;32;646454;0;, RB: 10, Item Used:9668 Item Replaced:9668;33;33913;0; 
+Date: 16-01-2017 07:03:33 AM  Account : MegaDeath User : Elven Reward: 9772;32;646454;0;, RB: 9, Item Used:9666,9667 Item Replaced:9666;33;9667;0;9667;33;79040257;1; 
+Date: 16-01-2017 08:54:59 AM  Account : zaza2031 User : Darkvader Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 16-01-2017 09:34:19 AM  Account : evilrobot User : Evilrobot Reward: 9773;32;646454;0;, RB: 13, Item Used:9682 Item Replaced:9682;33;17;0; 
+Date: 16-01-2017 12:25:01 PM  Account : kardion12 User : Maxrage Reward: 9773;32;646454;0;, RB: 13, Item Used:9682 Item Replaced:9682;33;5;0; 
+Date: 16-01-2017 01:00:00 PM  Account : thegame1 User : Lannister Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;33;9646;0;9646;33;759304193;1; 
+Date: 16-01-2017 01:05:56 PM  Account : thegame1 User : Lannister Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;33;9558;0; 
+Date: 16-01-2017 01:14:00 PM  Account : thegame1 User : Lannister Reward: 9772;32;646454;0;, RB: 8, Item Used:9665 Item Replaced:9665;33;14;0; 
+Date: 16-01-2017 01:17:00 PM  Account : thegame1 User : Lannister Reward: 9772;32;646454;0;, RB: 9, Item Used:9666,9667 Item Replaced:9666;33;9667;0;9667;33;79302657;1; 
+Date: 16-01-2017 01:18:17 PM  Account : thegame1 User : Lannister Reward: 9772;32;646454;0;, RB: 10, Item Used:9668 Item Replaced:9668;33;3832;0; 
+Date: 16-01-2017 02:45:59 PM  Account : vijay3105 User : Xarchangelx Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;758779649;1; 
+Date: 16-01-2017 05:05:46 PM  Account : ghostexe User : Wanzu Reward: -, RB: 3, Item Used:none Item Replaced:none 
+Date: 16-01-2017 05:32:32 PM  Account : lolpik123 User : Arthodox Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 16-01-2017 05:52:29 PM  Account : aroraajay User : Ldrago Reward: 9772;32;646454;0;, RB: 10, Item Used:9668 Item Replaced:9668;33;5;0; 
+Date: 16-01-2017 09:44:29 PM  Account : thegame1 User : Lannister Reward: 9773;32;646454;0;, RB: 11, Item Used:9669 Item Replaced:9669;33;4;0; 
+Date: 16-01-2017 10:49:06 PM  Account : jaredrag User : Eviscerate Reward: 9773;32;646454;0;, RB: 11, Item Used:9669 Item Replaced:9669;33;17;0; 

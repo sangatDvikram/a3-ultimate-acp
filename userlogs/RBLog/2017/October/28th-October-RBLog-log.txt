@@ -1,0 +1,10 @@
+Date: 28-10-2017 01:11:55 AM  Account : sam236 User : Xorax Reward: 9772;32;646454;0;, RB: 14, Item Used:9683 Item Replaced:9683;33;;0; 
+Date: 28-10-2017 07:16:42 AM  Account : dibesha User : Chronoical Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;1759124625;1; 
+Date: 28-10-2017 08:50:35 AM  Account : SPNivas User : Suzuka Reward: 9772;32;646454;0;, RB: 12, Item Used:9681 Item Replaced:9681;34;;0; 
+Date: 28-10-2017 10:58:55 AM  Account : koolakash User : Arrowfighter Reward: 9772;32;646454;0;, RB: 14, Item Used:9683 Item Replaced:9683;33;33913;0; 
+Date: 28-10-2017 01:58:41 PM  Account : letfuck User : Guidefury Reward: 9772;32;646454;0;, RB: 14, Item Used:9683 Item Replaced:9683;34;9662;0; 
+Date: 28-10-2017 04:03:20 PM  Account : rahul11 User : Ladyarcher Reward: 9772;32;646454;0;, RB: 17, Item Used:9931 Item Replaced:9931;34;33913;0; 
+Date: 28-10-2017 05:36:45 PM  Account : arpan10 User : Pintu Reward: -, RB: 5, Item Used:none Item Replaced:none 
+Date: 28-10-2017 06:15:13 PM  Account : firemet User : Grace Reward: 9772;32;646454;0;, RB: 10, Item Used:9668 Item Replaced:9668;34;5;0; 
+Date: 28-10-2017 06:52:39 PM  Account : letfuck User : Guidefury Reward: 9772;32;646454;0;, RB: 15, Item Used:9649 Item Replaced:9649;34;9662;0; 
+Date: 28-10-2017 10:04:56 PM  Account : professor User : Professor Reward: 9772;32;646454;0;, RB: 10, Item Used:9668 Item Replaced:9668;34;33912;0; 

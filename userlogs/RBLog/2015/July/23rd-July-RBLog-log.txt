@@ -1,0 +1,11 @@
+Date: 23-07-2015 05:27:17 AM  Account : samkirat User : Nazgul Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;28186479;1; 
+Date: 23-07-2015 06:12:50 AM  Account : samsung69 User : Somone Reward: -, RB: 3, Item Used:none Item Replaced:none 
+Date: 23-07-2015 07:59:03 AM  Account : arjunsehu User : Tarminator Reward: 9773;32;646454;0;, RB: 11, Item Used:9669 Item Replaced:9669;33;1139;0; 
+Date: 23-07-2015 08:20:37 AM  Account : Inbox12 User : Brotherhood Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 23-07-2015 10:41:39 AM  Account : parth00 User : Bountyhunter Reward: 9774;32;646454;0;, RB: 18, Item Used:9690 Item Replaced:9690;33;5;0; 
+Date: 23-07-2015 01:28:49 PM  Account : saikat125 User : Holystromer Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 23-07-2015 09:22:42 PM  Account : Aaravsexy User : Rico Reward: 9774;32;646454;0;, RB: 18, Item Used:9690 Item Replaced:9690;33;1190;0; 
+Date: 23-07-2015 09:31:59 PM  Account : abhiruls User : Sherlock Reward: 9772;32;646454;0;, RB: 8, Item Used:9665 Item Replaced:9665;33;33913;0; 
+Date: 23-07-2015 09:36:03 PM  Account : bangbang User : Prosecution Reward: -, RB: 5, Item Used:none Item Replaced:none 
+Date: 23-07-2015 09:59:07 PM  Account : saikat125 User : Holystromer Reward: -, RB: 2, Item Used:none Item Replaced:none 
+Date: 23-07-2015 09:59:32 PM  Account : bangbang User : Prosecution Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;1029182910;1; 

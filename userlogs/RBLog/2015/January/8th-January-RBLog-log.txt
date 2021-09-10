@@ -1,0 +1,17 @@
+Date: 08-01-2015 02:06:45 AM  Account : legendary User : Shensai Reward: 9773;32;646454;0;, RB: 15, Item Used:9649 Item Replaced:9649;33;33913;0; 
+Date: 08-01-2015 02:16:57 AM  Account : ctg70000 User : Beautifly Reward: 9773;32;646454;0;, RB: 13, Item Used:9682 Item Replaced:9682;33;9223;0; 
+Date: 08-01-2015 05:29:30 AM  Account : ctg60002 User : Joey Reward: -, RB: 4, Item Used:none Item Replaced:none 
+Date: 08-01-2015 05:50:14 AM  Account : marshalarts User : HolyRock Reward: 9774;32;646454;0;, RB: 18, Item Used:9690 Item Replaced:9690;33;33861;0; 
+Date: 08-01-2015 06:00:17 AM  Account : rohan666 User : Demigod Reward: 9773;32;646454;0;, RB: 15, Item Used:9649 Item Replaced:9649;33;33922;0; 
+Date: 08-01-2015 10:58:17 AM  Account : wow726975 User : CrusioN Reward: -, RB: 2, Item Used:none Item Replaced:none 
+Date: 08-01-2015 11:20:30 AM  Account : ctg60002 User : Joey Reward: -, RB: 5, Item Used:none Item Replaced:none 
+Date: 08-01-2015 11:36:50 AM  Account : chandraa User : marryme Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 08-01-2015 11:42:42 AM  Account : wow726975 User : CrusioN Reward: -, RB: 3, Item Used:none Item Replaced:none 
+Date: 08-01-2015 12:41:18 PM  Account : wow726975 User : CrusioN Reward: -, RB: 4, Item Used:none Item Replaced:none 
+Date: 08-01-2015 02:06:59 PM  Account : jayesh55 User : H3llQu33N Reward: -, RB: 4, Item Used:none Item Replaced:none 
+Date: 08-01-2015 02:43:11 PM  Account : blkdrome User : Drome Reward: 9774;32;646454;0;, RB: 18, Item Used:9690 Item Replaced:9690;33;;0; 
+Date: 08-01-2015 03:13:04 PM  Account : 19staryeyed User : Newguy Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 08-01-2015 07:19:10 PM  Account : sumanchandra User : Avalon Reward: -, RB: 2, Item Used:none Item Replaced:none 
+Date: 08-01-2015 08:45:27 PM  Account : din3626 User : Magera Reward: 9772;32;646454;0;, RB: 8, Item Used:9665 Item Replaced:9665;34;;0; 
+Date: 08-01-2015 09:07:26 PM  Account : mrinmoy333 User : Blacky Reward: 9774;32;646454;0;, RB: 17, Item Used:9931 Item Replaced:9931;34;5;0; 
+Date: 08-01-2015 11:15:38 PM  Account : mackwillarch User : Iezabel Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;1073219855;1; 

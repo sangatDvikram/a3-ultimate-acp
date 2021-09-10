@@ -1,0 +1,10 @@
+Date: 02-01-2016 09:07:34 AM  Account : austin2 User : Ilana Reward: 9772;32;646454;0;, RB: 9, Item Used:9666,9667 Item Replaced:9666;32;9667;0;9667;32;99890045;1; 
+Date: 02-01-2016 10:22:23 AM  Account : munuliki User : Elli Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;112329216;1; 
+Date: 02-01-2016 10:37:28 AM  Account : austin2 User : Ilana Reward: 9772;32;646454;0;, RB: 10, Item Used:9668 Item Replaced:9668;32;17;0; 
+Date: 02-01-2016 10:47:12 AM  Account : austin User : Lastholy Reward: -, RB: 4, Item Used:none Item Replaced:none 
+Date: 02-01-2016 11:15:09 AM  Account : shen123 User : Shengazi Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;65988778;1; 
+Date: 02-01-2016 12:17:44 PM  Account : mannukuk User : Lallu Reward: 9772;32;646454;0;, RB: 9, Item Used:9666,9667 Item Replaced:9666;33;9667;0;9667;33;12456895;1; 
+Date: 02-01-2016 12:55:09 PM  Account : austin2 User : Ilana Reward: 9773;32;646454;0;, RB: 11, Item Used:9669 Item Replaced:9669;32;1144;0; 
+Date: 02-01-2016 12:55:37 PM  Account : austin2 User : Ilana Reward: 9773;32;646454;0;, RB: 12, Item Used:9681 Item Replaced:9681;32;1144;0; 
+Date: 02-01-2016 01:29:51 PM  Account : sadhon00 User : Ultimateq Reward: 9772;32;646454;0;, RB: 10, Item Used:9668 Item Replaced:9668;33;17;0; 
+Date: 02-01-2016 02:47:33 PM  Account : ajay001 User : Littlebaby Reward: 9773;32;646454;0;, RB: 12, Item Used:9681 Item Replaced:9681;33;17;0; 

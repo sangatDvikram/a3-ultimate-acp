@@ -1,0 +1,8 @@
+Date: 04-09-2016 01:52:13 AM  Account : scam1492 User : Scam Reward: 9772;32;646454;0;, RB: 9, Item Used:9666,9667 Item Replaced:9666;34;9667;0;9667;35;64488576;1; 
+Date: 04-09-2016 06:17:22 AM  Account : damnage User : Wardragon Reward: 9772;32;646454;0;, RB: 9, Item Used:9666,9667 Item Replaced:9666;33;9667;0;9667;33;64619648;1; 
+Date: 04-09-2016 08:28:08 AM  Account : linkinprk User : Wildfire Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 04-09-2016 11:42:50 AM  Account : beast619 User : Oppe Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;33;1091;0; 
+Date: 04-09-2016 11:46:19 AM  Account : tatd118 User : Matrix Reward: 9774;32;646454;0;, RB: 16, Item Used:9650 Item Replaced:9650;35;33958;0; 
+Date: 04-09-2016 02:00:01 PM  Account : damnage User : Wardragon Reward: 9772;32;646454;0;, RB: 10, Item Used:9668 Item Replaced:9668;33;33915;0; 
+Date: 04-09-2016 05:53:39 PM  Account : beast619 User : Oppe Reward: 9772;32;646454;0;, RB: 8, Item Used:9665 Item Replaced:9665;33;4;0; 
+Date: 04-09-2016 09:15:27 PM  Account : scam1492 User : Scam Reward: 9772;32;646454;0;, RB: 10, Item Used:9668 Item Replaced:9668;33;9547;0; 

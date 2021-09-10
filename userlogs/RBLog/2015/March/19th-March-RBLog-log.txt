@@ -1,0 +1,15 @@
+Date: 19-03-2015 05:19:42 AM  Account : piyush2 User : Gamora Reward: 9773;32;646454;0;, RB: 11, Item Used:9669 Item Replaced:9669;33;10492;0; 
+Date: 19-03-2015 06:09:47 AM  Account : gmbr123 User : Ceasefire Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;1267602223;1; 
+Date: 19-03-2015 12:42:46 PM  Account : zeus27 User : Redwitch Reward: 9772;32;646454;0;, RB: 9, Item Used:9666,9667 Item Replaced:9666;34;9667;0;9667;33;106435375;1; 
+Date: 19-03-2015 12:52:51 PM  Account : kiniboy User : Goosy Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;1262883375;1; 
+Date: 19-03-2015 12:57:08 PM  Account : warriour User : Goodgirl Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 19-03-2015 01:16:24 PM  Account : victory User : Jinn Reward: 9772;32;646454;0;, RB: 8, Item Used:9665 Item Replaced:9665;32;5;0; 
+Date: 19-03-2015 01:37:56 PM  Account : warriour User : Goodgirl Reward: -, RB: 2, Item Used:none Item Replaced:none 
+Date: 19-03-2015 03:25:10 PM  Account : neil007 User : Loverkid Reward: 9772;32;646454;0;, RB: 9, Item Used:9666,9667 Item Replaced:9666;33;9667;0;9667;35;106697519;1; 
+Date: 19-03-2015 04:49:04 PM  Account : gmbr123 User : Ceasefire Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;33;17;0; 
+Date: 19-03-2015 05:21:25 PM  Account : kingjack User : Loveneo Reward: -, RB: 4, Item Used:none Item Replaced:none 
+Date: 19-03-2015 07:36:11 PM  Account : ecmaker1 User : Csstriker Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 19-03-2015 08:18:43 PM  Account : samisback User : Snowhite Reward: 9772;32;646454;0;, RB: 8, Item Used:9665 Item Replaced:9665;35;17;0; 
+Date: 19-03-2015 08:31:53 PM  Account : badpolice User : Diedmage Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;33;34974;0; 
+Date: 19-03-2015 08:32:35 PM  Account : archer02 User : Monsterslaye Reward: 9772;32;646454;0;, RB: 10, Item Used:9668 Item Replaced:9668;34;17;0; 
+Date: 19-03-2015 08:39:07 PM  Account : ecmaker1 User : Csstriker Reward: -, RB: 2, Item Used:none Item Replaced:none 

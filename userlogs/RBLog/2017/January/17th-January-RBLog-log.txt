@@ -1,0 +1,10 @@
+Date: 17-01-2017 07:37:40 AM  Account : parth007 User : Melody Reward: 9773;32;646454;0;, RB: 12, Item Used:9681 Item Replaced:9681;33;3444;0; 
+Date: 17-01-2017 10:45:54 AM  Account : ramps153 User : Magexxxs Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;33;17;0; 
+Date: 17-01-2017 02:03:14 PM  Account : parth007 User : Melody Reward: 9773;32;646454;0;, RB: 13, Item Used:9682 Item Replaced:9682;33;9684;0; 
+Date: 17-01-2017 02:09:52 PM  Account : vijay3105 User : Xarchangelx Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;33;17;0; 
+Date: 17-01-2017 03:40:56 PM  Account : dineshkha User : Khurafatii Reward: 9772;32;646454;0;, RB: 10, Item Used:9668 Item Replaced:9668;32;3403;0; 
+Date: 17-01-2017 04:40:22 PM  Account : kritharth User : Krithajay Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 17-01-2017 06:34:43 PM  Account : ritesh User : Doomranger Reward: 9772;32;646454;0;, RB: 9, Item Used:9666,9667 Item Replaced:9666;33;9667;0;9667;33;79565057;1; 
+Date: 17-01-2017 07:14:04 PM  Account : vijay3105 User : Xarchangelx Reward: 9772;32;646454;0;, RB: 8, Item Used:9665 Item Replaced:9665;33;17;0; 
+Date: 17-01-2017 08:05:30 PM  Account : MegaDeath User : Elven Reward: 9772;32;646454;0;, RB: 10, Item Used:9668 Item Replaced:9668;33;1190;0; 
+Date: 17-01-2017 08:33:10 PM  Account : thegame1 User : Lannister Reward: 9773;32;646454;0;, RB: 12, Item Used:9681 Item Replaced:9681;33;4;0; 

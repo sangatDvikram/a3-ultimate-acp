@@ -1,0 +1,9 @@
+Date: 21-11-2015 12:52:40 AM  Account : Moumita User : Zeussknight Reward: 9773;32;646454;0;, RB: 14, Item Used:9683 Item Replaced:9683;33;5;0; 
+Date: 21-11-2015 01:44:53 AM  Account : Moumita User : Zeussknight Reward: 9773;32;646454;0;, RB: 15, Item Used:9649 Item Replaced:9649;33;5;0; 
+Date: 21-11-2015 01:48:56 AM  Account : Moumita User : Zeussknight Reward: 9774;32;646454;0;, RB: 16, Item Used:9650 Item Replaced:9650;33;5;0; 
+Date: 21-11-2015 01:53:49 AM  Account : Moumita User : Zeussknight Reward: 9774;32;646454;0;, RB: 17, Item Used:9931 Item Replaced:9931;33;5;0; 
+Date: 21-11-2015 06:02:15 AM  Account : jrk134353 User : ThalaThalapathi Reward: -, RB: 4, Item Used:none Item Replaced:none 
+Date: 21-11-2015 12:05:31 PM  Account : Raghav User : Mastery Reward: 9773;32;646454;0;, RB: 11, Item Used:9669 Item Replaced:9669;33;17;0; 
+Date: 21-11-2015 01:38:14 PM  Account : stg321 User : Leenaa Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;95163567;1; 
+Date: 21-11-2015 01:50:26 PM  Account : mannukuk User : Lallu Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;33;17;0; 
+Date: 21-11-2015 08:01:35 PM  Account : stg321 User : Leenaa Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;33;5;0; 

@@ -1,0 +1,7 @@
+Date: 26-10-2016 04:05:22 AM  Account : santosc User : Venezuela Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;687086224;1; 
+Date: 26-10-2016 07:06:04 AM  Account : Vinaya User : Khalina Reward: -, RB: 2, Item Used:none Item Replaced:none 
+Date: 26-10-2016 09:59:17 AM  Account : Lovesh User : Dragonbow Reward: -, RB: 3, Item Used:none Item Replaced:none 
+Date: 26-10-2016 02:51:31 PM  Account : santosc User : Venezuela Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;33;9558;0; 
+Date: 26-10-2016 03:49:02 PM  Account : avinaships User : Evilrage Reward: 9774;32;646454;0;, RB: 16, Item Used:9650 Item Replaced:9650;33;17;0; 
+Date: 26-10-2016 10:57:41 PM  Account : santosc User : Venezuela Reward: 9772;32;646454;0;, RB: 8, Item Used:9665 Item Replaced:9665;33;17;0; 
+Date: 26-10-2016 11:55:21 PM  Account : spawn2906 User : Divinity Reward: -, RB: 5, Item Used:none Item Replaced:none 

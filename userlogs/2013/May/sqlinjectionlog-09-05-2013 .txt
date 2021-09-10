@@ -1,0 +1,634 @@
+Date: 09-05-2013 08:12:50 AM IP: 117.195.7.207 Code: UPDATE ACCOUNT INFO, Fixed:  ACCOUNT INFO, Link: http://acp.a3ultimate.com/eacct.php
+Date: 09-05-2013 08:18:28 AM IP: 117.195.7.207 Code: UPDATE ACCOUNT INFO, Fixed:  ACCOUNT INFO, Link: http://acp.a3ultimate.com/eacct.php
+Date: 09-05-2013 08:20:20 AM IP: 117.195.7.207 Code: UPDATE ACCOUNT INFO, Fixed:  ACCOUNT INFO, Link: http://acp.a3ultimate.com/eacct.php
+Date: 09-05-2013 08:48:11 AM IP: 117.195.7.207 Code: UPDATE ACCOUNT INFO, Fixed:  ACCOUNT INFO, Link: http://acp.a3ultimate.com/eacct.php
+Date: 09-05-2013 08:48:44 AM IP: 117.195.7.207 Code: UPDATE ACCOUNT INFO, Fixed:  ACCOUNT INFO, Link: http://acp.a3ultimate.com/eacct.php
+Date: 09-05-2013 08:49:07 AM IP: 117.195.7.207 Code: UPDATE ACCOUNT INFO, Fixed:  ACCOUNT INFO, Link: http://acp.a3ultimate.com/eacct.php
+Date: 09-05-2013 08:51:12 AM IP: 125.63.78.194 Code: 03AHJ_VutQqDXuedtWikvCXhhYkV8AQwpm8axxvGajwW5cnSFzlGEjYiui-8m6UlHtoPLYqlk-VkvqbTSncsQYsOVdIgeCJCsAi_FUqpnF-DzY1mYnF-F1qegg5VsIqr5q0xDwNKUrq3gFHTigrYEbBBtedEPQF0q387oRPnEm7EA0f1CmKiVIHGw, Fixed: 03AHJ_VutQqDXuedtWikvCXhhYkV8AQwpm8axxvGajwW5cnSFzlGEjYiui-8m6UlHtoPLYqlk-VkvqbTSncsQYsOVdIgeCJCsAi_FUqpnF-DzY1mYnF-F1qegg5VsIqr5qDwNKUrq3gFHTigrYEbBBtedEPQF0q387oRPnEm7EA0f1CmKiVIHGw, Link: http://acp.a3ultimate.com/register.php
+Date: 09-05-2013 09:06:45 AM IP: 115.187.33.161 Code: actor123, Fixed: act123, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:06:52 AM IP: 115.187.33.161 Code: actor123, Fixed: act123, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:07:02 AM IP: 115.187.33.161 Code: actor123, Fixed: act123, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:07:33 AM IP: 115.187.33.161 Code: actor123, Fixed: act123, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:07:46 AM IP: 115.187.33.161 Code: actor123, Fixed: act123, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:07:54 AM IP: 115.187.33.161 Code: actor123, Fixed: act123, Link: http://acp.a3ultimate.com/forgot-password.php
+Date: 09-05-2013 09:08:19 AM IP: 115.187.33.161 Code: actor123, Fixed: act123, Link: http://acp.a3ultimate.com/forgot-password.php
+Date: 09-05-2013 09:08:46 AM IP: 115.187.33.161 Code: actor123, Fixed: act123, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:08:58 AM IP: 115.187.33.161 Code: actor1234, Fixed: act1234, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:09:15 AM IP: 115.187.33.161 Code: axesword2000, Fixed: axeswd2000, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:09:26 AM IP: 115.187.33.161 Code: actor123, Fixed: act123, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:11:10 AM IP: 125.63.78.194 Code: WorthIt        , Fixed: WthIt        , Link: http://acp.a3ultimate.com/auction-buy.php
+Date: 09-05-2013 09:11:19 AM IP: 115.187.33.161 Code: actor123, Fixed: act123, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:11:50 AM IP: 115.187.33.161 Code: actor123, Fixed: act123, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:11:59 AM IP: 115.187.33.161 Code: actor123, Fixed: act123, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:15:52 AM IP: 125.63.78.194 Code: QURb6mo, Fixed: QURb6mofuk, Link: http://acp.a3ultimate.com/auction-buy.php
+Date: 09-05-2013 09:16:39 AM IP: 125.63.78.194 Code: MyAuctions, Fixed: MyAuctionsfuk, Link: http://acp.a3ultimate.com/auction-view.php
+Date: 09-05-2013 09:16:50 AM IP: 125.63.78.194 Code: o81uecJ, Fixed: o81uecJfuk, Link: http://acp.a3ultimate.com/auction-buy.php
+Date: 09-05-2013 09:17:09 AM IP: 125.63.78.194 Code: F3RhdC5, Fixed: F3RhdC5fuk, Link: http://acp.a3ultimate.com/auction-buy.php
+Date: 09-05-2013 09:19:06 AM IP: 141.0.8.139 Code: nanducute, Fixed: nfukucutefuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:19:06 AM IP: 141.0.8.139 Code: nanducute, Fixed: nfukucutefuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:19:06 AM IP: 141.0.8.139 Code: , Fixed: fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:19:25 AM IP: 141.0.8.139 Code: nanducute, Fixed: nfukucutefuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:19:25 AM IP: 141.0.8.139 Code: nanducute, Fixed: nfukucutefuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:19:25 AM IP: 141.0.8.139 Code: , Fixed: fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:19:45 AM IP: 141.0.8.139 Code: nanducute, Fixed: nfukucutefuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:19:45 AM IP: 141.0.8.139 Code: nanducute, Fixed: nfukucutefuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:19:45 AM IP: 141.0.8.139 Code: , Fixed: fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:20:51 AM IP: 115.187.33.161 Code: actor123, Fixed: actor123fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:20:51 AM IP: 115.187.33.161 Code: carefull, Fixed: carefullfuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:20:51 AM IP: 115.187.33.161 Code: , Fixed: fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:21:02 AM IP: 117.194.9.7 Code: 1, Fixed: 1fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:21:10 AM IP: 117.194.9.7 Code: dipalisen, Fixed: dipalisenfuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:21:10 AM IP: 117.194.9.7 Code: dipalisen, Fixed: dipalisenfuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:21:10 AM IP: 117.194.9.7 Code: , Fixed: fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:21:22 AM IP: 117.194.9.7 Code: dipalisen, Fixed: dipalisenfuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:21:22 AM IP: 117.194.9.7 Code: dipalisen, Fixed: dipalisenfuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:21:22 AM IP: 117.194.9.7 Code: , Fixed: fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:21:47 AM IP: 117.194.9.7 Code: http://acp.a3ultimate.com/ACP/, Fixed: http://acp.a3ultimate.com/ACP/fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:21:56 AM IP: 117.194.9.7 Code: dipalisen, Fixed: dipalisenfuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:21:56 AM IP: 117.194.9.7 Code: dipalisen, Fixed: dipalisenfuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:21:56 AM IP: 117.194.9.7 Code: , Fixed: fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:22:11 AM IP: 141.0.8.139 Code: nanducute, Fixed: nfukucutefuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:22:11 AM IP: 141.0.8.139 Code: nanducute, Fixed: nfukucutefuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:22:11 AM IP: 141.0.8.139 Code: , Fixed: fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:22:17 AM IP: 66.119.41.34 Code: http://acp.a3ultimate.com/ACP, Fixed: http://acp.a3ultimate.com/ACPfuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:22:25 AM IP: 115.187.33.161 Code: 1, Fixed: 1fuk, Link: http://182.18.175.157/login.php
+Date: 09-05-2013 09:22:33 AM IP: 115.187.33.161 Code: actor123, Fixed: actor123fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:22:33 AM IP: 115.187.33.161 Code: carefull, Fixed: carefullfuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:22:33 AM IP: 115.187.33.161 Code: , Fixed: fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:22:39 AM IP: 117.194.9.7 Code: http://acp.a3ultimate.com/Auction/, Fixed: http://acp.a3ultimate.com/Auction/fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:22:51 AM IP: 117.194.9.7 Code: dipalisen, Fixed: dipalisenfuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:22:51 AM IP: 117.194.9.7 Code: dipalisen, Fixed: dipalisenfuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:22:51 AM IP: 117.194.9.7 Code: , Fixed: fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:22:59 AM IP: 66.119.41.34 Code: http://acp.a3ultimate.com/Auction, Fixed: http://acp.a3ultimate.com/Auctionfuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:23:21 AM IP: 173.225.17.50 Code: http://acp.a3ultimate.com/Auction, Fixed: http://acp.a3ultimate.com/Auctionfuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:23:22 AM IP: 173.225.17.50 Code: http://acp.a3ultimate.com/ACP, Fixed: http://acp.a3ultimate.com/ACPfuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:24:04 AM IP: 141.0.8.139 Code: nanducute, Fixed: nfukucutefuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:24:04 AM IP: 141.0.8.139 Code: nanducute, Fixed: nfukucutefuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:24:04 AM IP: 141.0.8.139 Code: , Fixed: fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:24:17 AM IP: 141.0.8.139 Code: nanducute, Fixed: nfukucutefuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:24:17 AM IP: 141.0.8.139 Code: nanducute, Fixed: nfukucutefuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:24:17 AM IP: 141.0.8.139 Code: , Fixed: fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:24:48 AM IP: 141.0.8.139 Code: nanducute, Fixed: nfukucutefuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:24:48 AM IP: 141.0.8.139 Code: nanducute, Fixed: nfukucutefuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:24:48 AM IP: 141.0.8.139 Code: , Fixed: fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:25:01 AM IP: 141.0.8.139 Code: nanducute16, Fixed: nfukucute16fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:25:01 AM IP: 141.0.8.139 Code: nanducute, Fixed: nfukucutefuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:25:01 AM IP: 141.0.8.139 Code: , Fixed: fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:25:02 AM IP: 117.194.9.7 Code: dipalisen, Fixed: dipalisenfuk, Link: http://acp.a3ultimate.com/forgot-password.php
+Date: 09-05-2013 09:25:02 AM IP: 117.194.9.7 Code: Recover, Fixed: Recoverfuk, Link: http://acp.a3ultimate.com/forgot-password.php
+Date: 09-05-2013 09:25:35 AM IP: 117.194.9.7 Code: dipalisen, Fixed: dipalisenfuk, Link: http://acp.a3ultimate.com/forgot-password.php
+Date: 09-05-2013 09:25:35 AM IP: 117.194.9.7 Code: Recover, Fixed: Recoverfuk, Link: http://acp.a3ultimate.com/forgot-password.php
+Date: 09-05-2013 09:25:53 AM IP: 117.194.9.7 Code: rabindra, Fixed: rabindrafuk, Link: http://acp.a3ultimate.com/forgot-password.php
+Date: 09-05-2013 09:25:53 AM IP: 117.194.9.7 Code: Recover, Fixed: Recoverfuk, Link: http://acp.a3ultimate.com/forgot-password.php
+Date: 09-05-2013 09:26:39 AM IP: 61.17.203.209 Code: dhvotu0, Fixed: dhvotu0fuk, Link: http://acp.a3ultimate.com/auction-buy.php
+Date: 09-05-2013 09:27:13 AM IP: 61.17.203.209 Code: Archer, Fixed: Archerfuk, Link: http://acp.a3ultimate.com/auction-view.php
+Date: 09-05-2013 09:27:35 AM IP: 49.14.208.146 Code: http://acp.a3ultimate.com/ACP/, Fixed: http://acp.a3ultimate.com/ACP/fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:27:50 AM IP: 49.14.208.146 Code: jayesh06, Fixed: jayesh06fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:27:50 AM IP: 49.14.208.146 Code: jayesh123, Fixed: jayesh123fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:27:50 AM IP: 49.14.208.146 Code: , Fixed: fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:28:01 AM IP: 49.14.208.146 Code: jayesh06, Fixed: jayesh06fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:28:01 AM IP: 49.14.208.146 Code: jayesh123, Fixed: jayesh123fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:28:01 AM IP: 49.14.208.146 Code: , Fixed: fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:28:34 AM IP: 49.14.208.146 Code: jayesh06, Fixed: jayesh06fuk, Link: http://acp.a3ultimate.com/forgot-password.php
+Date: 09-05-2013 09:28:34 AM IP: 49.14.208.146 Code: Recover, Fixed: Recoverfuk, Link: http://acp.a3ultimate.com/forgot-password.php
+Date: 09-05-2013 09:28:45 AM IP: 49.14.208.146 Code: jayeshbodh@gmail.com, Fixed: jayeshbodh@gmail.comfuk, Link: http://acp.a3ultimate.com/forgot-password.php
+Date: 09-05-2013 09:28:45 AM IP: 49.14.208.146 Code: Recover, Fixed: Recoverfuk, Link: http://acp.a3ultimate.com/forgot-password.php
+Date: 09-05-2013 09:29:40 AM IP: 117.194.9.7 Code: http://acp.a3ultimate.com/ACP/, Fixed: http://acp.a3ultimate.com/ACP/fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:29:48 AM IP: 117.194.9.7 Code: dipalisen, Fixed: dipalisenfuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:29:48 AM IP: 117.194.9.7 Code: dipalisen, Fixed: dipalisenfuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:29:48 AM IP: 117.194.9.7 Code: , Fixed: fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:29:59 AM IP: 117.194.9.7 Code: sonalibubun, Fixed: sonalibubunfuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:29:59 AM IP: 117.194.9.7 Code: sonaisen, Fixed: sonaisenfuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:29:59 AM IP: 117.194.9.7 Code: , Fixed: fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:30:21 AM IP: 49.14.208.146 Code: http://acp.a3ultimate.com/ACP/, Fixed: http://acp.a3ultimate.com/ACP/fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:30:32 AM IP: 49.14.208.146 Code: jayesh06, Fixed: jayesh06fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:30:32 AM IP: 49.14.208.146 Code: jayesh123, Fixed: jayesh123fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:30:32 AM IP: 49.14.208.146 Code: , Fixed: fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:30:56 AM IP: 27.54.180.185 Code: MyAuctions, Fixed: MyAuctionsfuk, Link: http://acp.a3ultimate.com/auction-view.php
+Date: 09-05-2013 09:32:21 AM IP: 117.194.9.7 Code: http://acp.a3ultimate.com/Auction/, Fixed: http://acp.a3ultimate.com/Auction/fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:32:33 AM IP: 117.194.9.7 Code: rabindra, Fixed: rabindrafuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:32:33 AM IP: 117.194.9.7 Code: rabindra, Fixed: rabindrafuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:32:33 AM IP: 117.194.9.7 Code: , Fixed: fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:34:42 AM IP: 113.193.166.235 Code: willysteward, Fixed: willystewardfuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:34:42 AM IP: 113.193.166.235 Code: 9979048010, Fixed: 9979048010fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:34:42 AM IP: 113.193.166.235 Code: , Fixed: fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:34:53 AM IP: 113.193.166.235 Code: willysteward, Fixed: willystewardfuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:34:53 AM IP: 113.193.166.235 Code: 9979048010, Fixed: 9979048010fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:34:53 AM IP: 113.193.166.235 Code: , Fixed: fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:35:17 AM IP: 113.193.166.235 Code: willysteward, Fixed: willystewardfuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:35:17 AM IP: 113.193.166.235 Code: 9979048010, Fixed: 9979048010fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:35:17 AM IP: 113.193.166.235 Code: , Fixed: fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:35:33 AM IP: 113.193.166.235 Code: willysteward, Fixed: willystewardfuk, Link: http://acp.a3ultimate.com/forgot-password.php
+Date: 09-05-2013 09:35:33 AM IP: 113.193.166.235 Code: Recover, Fixed: Recoverfuk, Link: http://acp.a3ultimate.com/forgot-password.php
+Date: 09-05-2013 09:35:40 AM IP: 117.194.9.7 Code: sonaisen, Fixed: sonaisenfuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:35:40 AM IP: 117.194.9.7 Code: sonaisen, Fixed: sonaisenfuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:35:40 AM IP: 117.194.9.7 Code: , Fixed: fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:35:44 AM IP: 113.193.166.235 Code: willysteward, Fixed: willystewardfuk, Link: http://acp.a3ultimate.com/forgot-password.php
+Date: 09-05-2013 09:35:44 AM IP: 113.193.166.235 Code: Recover, Fixed: Recoverfuk, Link: http://acp.a3ultimate.com/forgot-password.php
+Date: 09-05-2013 09:36:08 AM IP: 113.193.166.235 Code: bornliver2, Fixed: bornliver2fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:36:08 AM IP: 113.193.166.235 Code: 9979048010, Fixed: 9979048010fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:36:08 AM IP: 113.193.166.235 Code: , Fixed: fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:39:21 AM IP: 124.125.19.236 Code: 126348484, Fixed: 126348484fuk, Link: http://acp.a3ultimate.com/show_gall.php
+Date: 09-05-2013 09:39:29 AM IP: 124.125.19.236 Code: 126348484, Fixed: 126348484fuk, Link: http://acp.a3ultimate.com/show_gall.php
+Date: 09-05-2013 09:39:40 AM IP: 124.125.19.236 Code: 126348484, Fixed: 126348484fuk, Link: http://acp.a3ultimate.com/show_gall.php
+Date: 09-05-2013 09:39:47 AM IP: 124.125.19.236 Code: 83275241, Fixed: 83275241fuk, Link: http://acp.a3ultimate.com/show_gall.php
+Date: 09-05-2013 09:40:07 AM IP: 124.125.19.236 Code: 73616144, Fixed: 73616144fuk, Link: http://acp.a3ultimate.com/show_gall.php
+Date: 09-05-2013 09:41:39 AM IP: 1.38.27.27 Code: Archer, Fixed: Archerfuk, Link: http://acp.a3ultimate.com/auction-view.php
+Date: 09-05-2013 09:41:45 AM IP: 1.38.27.27 Code: Archer-Skill, Fixed: Archer-Skillfuk, Link: http://acp.a3ultimate.com/auction-view.php
+Date: 09-05-2013 09:41:54 AM IP: 1.38.27.27 Code: RB, Fixed: RBfuk, Link: http://acp.a3ultimate.com/auction-view.php
+Date: 09-05-2013 09:42:00 AM IP: 1.38.27.27 Code: Crafting, Fixed: Craftingfuk, Link: http://acp.a3ultimate.com/auction-view.php
+Date: 09-05-2013 09:42:07 AM IP: 203.147.88.194 Code: http://acp.a3ultimate.com/Eshop/, Fixed: http://acp.a3ultimate.com/Eshop/fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:42:09 AM IP: 1.38.27.27 Code: Extra, Fixed: Extrafuk, Link: http://acp.a3ultimate.com/auction-view.php
+Date: 09-05-2013 09:42:18 AM IP: 203.147.88.194 Code: anizzzzz, Fixed: anizzzzzfuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:42:18 AM IP: 203.147.88.194 Code: ninjutsu, Fixed: ninjutsufuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:42:18 AM IP: 203.147.88.194 Code: , Fixed: fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:42:33 AM IP: 203.147.88.194 Code: anizz, Fixed: anizzfuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:42:33 AM IP: 203.147.88.194 Code: vonoy, Fixed: vonoyfuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:42:33 AM IP: 203.147.88.194 Code: , Fixed: fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:42:55 AM IP: 203.147.88.194 Code: aniyasha, Fixed: aniyashafuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:42:55 AM IP: 203.147.88.194 Code: ninjutsu, Fixed: ninjutsufuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:42:55 AM IP: 203.147.88.194 Code: , Fixed: fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:42:55 AM IP: 120.59.126.69 Code: Extra, Fixed: Extrafuk, Link: http://acp.a3ultimate.com/auction-view.php
+Date: 09-05-2013 09:43:00 AM IP: 120.59.126.69 Code: Ring, Fixed: Ringfuk, Link: http://acp.a3ultimate.com/auction-view.php
+Date: 09-05-2013 09:43:05 AM IP: 120.59.126.69 Code: Holy-Knight-Skill, Fixed: Holy-Knight-Skillfuk, Link: http://acp.a3ultimate.com/auction-view.php
+Date: 09-05-2013 09:43:13 AM IP: 203.147.88.194 Code: Axeeeeee, Fixed: Axeeeeeefuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:43:13 AM IP: 203.147.88.194 Code: ninjutsu, Fixed: ninjutsufuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:43:13 AM IP: 203.147.88.194 Code: , Fixed: fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:43:36 AM IP: 203.147.88.194 Code: tredaxs@gmail.com, Fixed: tredaxs@gmail.comfuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:43:36 AM IP: 203.147.88.194 Code: ninjutsu, Fixed: ninjutsufuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:43:36 AM IP: 203.147.88.194 Code: , Fixed: fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:43:42 AM IP: 203.147.88.194 Code: http://acp.a3ultimate.com/ACP/, Fixed: http://acp.a3ultimate.com/ACP/fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:43:53 AM IP: 203.147.88.194 Code: anizz, Fixed: anizzfuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:43:53 AM IP: 203.147.88.194 Code: ninjutsu, Fixed: ninjutsufuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:43:53 AM IP: 203.147.88.194 Code: , Fixed: fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:44:01 AM IP: 203.147.88.194 Code: anizzzzz, Fixed: anizzzzzfuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:44:01 AM IP: 203.147.88.194 Code: ninjutsu, Fixed: ninjutsufuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:44:01 AM IP: 203.147.88.194 Code: , Fixed: fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:44:08 AM IP: 117.194.9.7 Code: sonalibubun, Fixed: sonalibubunfuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:44:08 AM IP: 117.194.9.7 Code: sonaisen, Fixed: sonaisenfuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:44:08 AM IP: 117.194.9.7 Code: , Fixed: fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:44:21 AM IP: 203.147.88.194 Code: anizzzzz, Fixed: anizzzzzfuk, Link: http://acp.a3ultimate.com/forgot-password.php
+Date: 09-05-2013 09:44:21 AM IP: 203.147.88.194 Code: Recover, Fixed: Recoverfuk, Link: http://acp.a3ultimate.com/forgot-password.php
+Date: 09-05-2013 09:44:21 AM IP: 117.194.9.7 Code: sonaisen, Fixed: sonaisenfuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:44:21 AM IP: 117.194.9.7 Code: sonaisen, Fixed: sonaisenfuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:44:21 AM IP: 117.194.9.7 Code: , Fixed: fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:44:28 AM IP: 203.147.88.194 Code: anizz, Fixed: anizzfuk, Link: http://acp.a3ultimate.com/forgot-password.php
+Date: 09-05-2013 09:44:28 AM IP: 203.147.88.194 Code: Recover, Fixed: Recoverfuk, Link: http://acp.a3ultimate.com/forgot-password.php
+Date: 09-05-2013 09:44:35 AM IP: 203.147.88.194 Code: anizzz, Fixed: anizzzfuk, Link: http://acp.a3ultimate.com/forgot-password.php
+Date: 09-05-2013 09:44:35 AM IP: 203.147.88.194 Code: Recover, Fixed: Recoverfuk, Link: http://acp.a3ultimate.com/forgot-password.php
+Date: 09-05-2013 09:44:43 AM IP: 203.147.88.194 Code: ninja, Fixed: ninjafuk, Link: http://acp.a3ultimate.com/forgot-password.php
+Date: 09-05-2013 09:44:43 AM IP: 203.147.88.194 Code: Recover, Fixed: Recoverfuk, Link: http://acp.a3ultimate.com/forgot-password.php
+Date: 09-05-2013 09:44:52 AM IP: 117.194.9.7 Code: http://acp.a3ultimate.com/Auction/, Fixed: http://acp.a3ultimate.com/Auction/fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:45:01 AM IP: 117.194.9.7 Code: dipalisen, Fixed: dipalisenfuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:45:01 AM IP: 117.194.9.7 Code: dipalisen, Fixed: dipalisenfuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:45:01 AM IP: 117.194.9.7 Code: , Fixed: fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:45:15 AM IP: 203.147.88.194 Code: aniz, Fixed: anizfuk, Link: http://acp.a3ultimate.com/forgot-password.php
+Date: 09-05-2013 09:45:15 AM IP: 203.147.88.194 Code: Recover, Fixed: Recoverfuk, Link: http://acp.a3ultimate.com/forgot-password.php
+Date: 09-05-2013 09:45:27 AM IP: 203.147.88.194 Code: anizzzz, Fixed: anizzzzfuk, Link: http://acp.a3ultimate.com/forgot-password.php
+Date: 09-05-2013 09:45:27 AM IP: 203.147.88.194 Code: Recover, Fixed: Recoverfuk, Link: http://acp.a3ultimate.com/forgot-password.php
+Date: 09-05-2013 09:47:32 AM IP: 141.0.9.77 Code: nanducute, Fixed: nfukucutefuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:47:32 AM IP: 141.0.9.77 Code: nanducute, Fixed: nfukucutefuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:47:32 AM IP: 141.0.9.77 Code: , Fixed: fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:48:25 AM IP: 49.14.208.146 Code: http://acp.a3ultimate.com/ACP/, Fixed: http://acp.a3ultimate.com/ACP/fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:48:35 AM IP: 101.212.4.128 Code: nanducute, Fixed: nfukucutefuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:48:35 AM IP: 101.212.4.128 Code: nanducute, Fixed: nfukucutefuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:48:35 AM IP: 101.212.4.128 Code: , Fixed: fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:48:38 AM IP: 49.14.208.146 Code: jayesh06, Fixed: jayesh06fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:48:38 AM IP: 49.14.208.146 Code: jayesh123, Fixed: jayesh123fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:48:38 AM IP: 49.14.208.146 Code: , Fixed: fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:48:56 AM IP: 101.212.4.128 Code: nanducute, Fixed: nfukucutefuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:48:56 AM IP: 101.212.4.128 Code: nanducute, Fixed: nfukucutefuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:48:56 AM IP: 101.212.4.128 Code: , Fixed: fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:49:15 AM IP: 101.212.4.128 Code: nanducute16@gmail.com, Fixed: nfukucute16@gmail.comfuk, Link: http://acp.a3ultimate.com/forgot-password.php
+Date: 09-05-2013 09:49:15 AM IP: 101.212.4.128 Code: Recover, Fixed: Recoverfuk, Link: http://acp.a3ultimate.com/forgot-password.php
+Date: 09-05-2013 09:49:25 AM IP: 101.212.4.128 Code: nanducute, Fixed: nfukucutefuk, Link: http://acp.a3ultimate.com/forgot-password.php
+Date: 09-05-2013 09:49:25 AM IP: 101.212.4.128 Code: Recover, Fixed: Recoverfuk, Link: http://acp.a3ultimate.com/forgot-password.php
+Date: 09-05-2013 09:49:40 AM IP: 101.212.4.128 Code: nanducute, Fixed: nfukucutefuk, Link: http://acp.a3ultimate.com/forgot-password.php
+Date: 09-05-2013 09:49:40 AM IP: 101.212.4.128 Code: Recover, Fixed: Recoverfuk, Link: http://acp.a3ultimate.com/forgot-password.php
+Date: 09-05-2013 09:50:03 AM IP: 203.147.88.194 Code: anizz, Fixed: anizzfuk, Link: http://acp.a3ultimate.com/register.php
+Date: 09-05-2013 09:50:03 AM IP: 203.147.88.194 Code: vonoy, Fixed: vonoyfuk, Link: http://acp.a3ultimate.com/register.php
+Date: 09-05-2013 09:50:03 AM IP: 203.147.88.194 Code: ninja, Fixed: ninjafuk, Link: http://acp.a3ultimate.com/register.php
+Date: 09-05-2013 09:50:03 AM IP: 203.147.88.194 Code: AxA, Fixed: AxAfuk, Link: http://acp.a3ultimate.com/register.php
+Date: 09-05-2013 09:50:03 AM IP: 203.147.88.194 Code: tredaxs@gmail.com, Fixed: tredaxs@gmail.comfuk, Link: http://acp.a3ultimate.com/register.php
+Date: 09-05-2013 09:50:03 AM IP: 203.147.88.194 Code: 1231323231, Fixed: 1231323231fuk, Link: http://acp.a3ultimate.com/register.php
+Date: 09-05-2013 09:50:03 AM IP: 203.147.88.194 Code: Nazlek, Fixed: Nazlekfuk, Link: http://acp.a3ultimate.com/register.php
+Date: 09-05-2013 09:50:03 AM IP: 203.147.88.194 Code: 03AHJ_VusfVwkQWRY_fXYmt2RRRcO_gCuScFdyYg8AjkPb4iEbqk8n0JHOLNch6K9XGXpR2bXs2uajwzNtXZ3A8B9le6TMljXepI6_FpmQ3i2N5NzsRrtxO_hVvoP41yCRDMNecFAYR7N1SIuA4ZsNSXQPs1LDhKdjwNJC6HMByYXWnqSNZgDIKXE, Fixed: 03AHJ_VusfVwkQWRY_fXYmt2RRRcO_gCuScFdyYg8AjkPb4iEbqk8n0JHOLNch6K9XGXpR2bXs2uajwzNtXZ3A8B9le6TMljXepI6_FpmQ3i2N5NzsRrtxO_hVvoP41yCRDMNecFAYR7N1SIuA4ZsNSXQPs1LDhKdjwNJC6HMByYXWnqSNZgDIKXEfuk, Link: http://acp.a3ultimate.com/register.php
+Date: 09-05-2013 09:50:03 AM IP: 203.147.88.194 Code: arusts James, Fixed: arusts Jamesfuk, Link: http://acp.a3ultimate.com/register.php
+Date: 09-05-2013 09:50:03 AM IP: 203.147.88.194 Code: on, Fixed: onfuk, Link: http://acp.a3ultimate.com/register.php
+Date: 09-05-2013 09:50:03 AM IP: 203.147.88.194 Code: , Fixed: fuk, Link: http://acp.a3ultimate.com/register.php
+Date: 09-05-2013 09:51:12 AM IP: 203.147.88.194 Code: anizzzzz, Fixed: anizzzzzfuk, Link: http://acp.a3ultimate.com/register.php
+Date: 09-05-2013 09:51:12 AM IP: 203.147.88.194 Code: ninjutsu, Fixed: ninjutsufuk, Link: http://acp.a3ultimate.com/register.php
+Date: 09-05-2013 09:51:12 AM IP: 203.147.88.194 Code: ninjafuk, Fixed: ninjafukfuk, Link: http://acp.a3ultimate.com/register.php
+Date: 09-05-2013 09:51:12 AM IP: 203.147.88.194 Code: AxA, Fixed: AxAfuk, Link: http://acp.a3ultimate.com/register.php
+Date: 09-05-2013 09:51:12 AM IP: 203.147.88.194 Code: tredaxs@gmail.com, Fixed: tredaxs@gmail.comfuk, Link: http://acp.a3ultimate.com/register.php
+Date: 09-05-2013 09:51:12 AM IP: 203.147.88.194 Code: 1231323231, Fixed: 1231323231fuk, Link: http://acp.a3ultimate.com/register.php
+Date: 09-05-2013 09:51:12 AM IP: 203.147.88.194 Code: Nazlek, Fixed: Nazlekfuk, Link: http://acp.a3ultimate.com/register.php
+Date: 09-05-2013 09:51:12 AM IP: 203.147.88.194 Code: 03AHJ_Vuvhu3b0gS3b5rgG4lwPOS24m7cGHdCImSWzaxmNENDsfT1k44HmNoLmb3AJ6lidwZ3Pm5bSfM2Nfcb6GDvLKCtRJoH85IPAI93ePUCYB1KYJ3CD3pA0d0C50rUSaBQoHxACkmQi-tt7_Znn2Qug7-kfDLl-Qwz6nCpRNn51mIekdrGvEFo, Fixed: 03AHJ_Vuvhu3b0gS3b5rgG4lwPOS24m7cGHdCImSWzaxmNENDsfT1k44HmNoLmb3AJ6lidwZ3Pm5bSfM2Nfcb6GDvLKCtRJoH85IPAI93ePUCYB1KYJ3CD3pA0d0C50rUSaBQoHxACkmQi-tt7_Znn2Qug7-kfDLl-Qwz6nCpRNn51mIekdrGvEFofuk, Link: http://acp.a3ultimate.com/register.php
+Date: 09-05-2013 09:51:12 AM IP: 203.147.88.194 Code: abode calaryd, Fixed: abode calarydfuk, Link: http://acp.a3ultimate.com/register.php
+Date: 09-05-2013 09:51:12 AM IP: 203.147.88.194 Code: on, Fixed: onfuk, Link: http://acp.a3ultimate.com/register.php
+Date: 09-05-2013 09:51:12 AM IP: 203.147.88.194 Code: , Fixed: fuk, Link: http://acp.a3ultimate.com/register.php
+Date: 09-05-2013 09:52:25 AM IP: 183.82.220.197 Code: RB, Fixed: RBfuk, Link: http://acp.a3ultimate.com/auction-view.php
+Date: 09-05-2013 09:52:30 AM IP: 203.147.88.194 Code: anizzz, Fixed: anizzzfuk, Link: http://acp.a3ultimate.com/register.php
+Date: 09-05-2013 09:52:30 AM IP: 203.147.88.194 Code: ninjutsu2, Fixed: ninjutsu2fuk, Link: http://acp.a3ultimate.com/register.php
+Date: 09-05-2013 09:52:30 AM IP: 203.147.88.194 Code: ninjutsu2, Fixed: ninjutsu2fuk, Link: http://acp.a3ultimate.com/register.php
+Date: 09-05-2013 09:52:30 AM IP: 203.147.88.194 Code: AxAma, Fixed: AxAmafuk, Link: http://acp.a3ultimate.com/register.php
+Date: 09-05-2013 09:52:30 AM IP: 203.147.88.194 Code: tredaxs@gmail.com, Fixed: tredaxs@gmail.comfuk, Link: http://acp.a3ultimate.com/register.php
+Date: 09-05-2013 09:52:30 AM IP: 203.147.88.194 Code: 1231323231, Fixed: 1231323231fuk, Link: http://acp.a3ultimate.com/register.php
+Date: 09-05-2013 09:52:30 AM IP: 203.147.88.194 Code: Nazlek, Fixed: Nazlekfuk, Link: http://acp.a3ultimate.com/register.php
+Date: 09-05-2013 09:52:30 AM IP: 203.147.88.194 Code: 03AHJ_VutzFBSJv_vwr79KYuUraAEMu_ZeUpfUIcNHDFbbgh8QAv37qK5vCU_7wZU8TeWY2xKp_0b3DuYrbgNtQiq3NM1bYbzntMfqOXZOSkKKPvB01Tp8Tj_b2HBbGNFzhD2qmVpT78OStlNyrwfvc93Msi4-YnJkSmOO6DA00A_uMlRZyq40qkU, Fixed: 03AHJ_VutzFBSJv_vwr79KYuUraAEMu_ZeUpfUIcNHDFbbgh8QAv37qK5vCU_7wZU8TeWY2xKp_0b3DuYrbgNtQiq3NM1bYbzntMfqOXZOSkKKPvB01Tp8Tj_b2HBbGNFzhD2qmVpT78OStlNyrwfvc93Msi4-YnJkSmOO6DA00A_uMlRZyq40qkUfuk, Link: http://acp.a3ultimate.com/register.php
+Date: 09-05-2013 09:52:30 AM IP: 203.147.88.194 Code: many laclpvd, Fixed: many laclpvdfuk, Link: http://acp.a3ultimate.com/register.php
+Date: 09-05-2013 09:52:30 AM IP: 203.147.88.194 Code: on, Fixed: onfuk, Link: http://acp.a3ultimate.com/register.php
+Date: 09-05-2013 09:52:30 AM IP: 203.147.88.194 Code: , Fixed: fuk, Link: http://acp.a3ultimate.com/register.php
+Date: 09-05-2013 09:54:06 AM IP: 203.147.88.194 Code: anizzz, Fixed: anizzzfuk, Link: http://acp.a3ultimate.com/register.php
+Date: 09-05-2013 09:54:06 AM IP: 203.147.88.194 Code: ninjutsu, Fixed: ninjutsufuk, Link: http://acp.a3ultimate.com/register.php
+Date: 09-05-2013 09:54:06 AM IP: 203.147.88.194 Code: ninjutsu, Fixed: ninjutsufuk, Link: http://acp.a3ultimate.com/register.php
+Date: 09-05-2013 09:54:06 AM IP: 203.147.88.194 Code: AxAma, Fixed: AxAmafuk, Link: http://acp.a3ultimate.com/register.php
+Date: 09-05-2013 09:54:06 AM IP: 203.147.88.194 Code: tredaxs@gmail.com, Fixed: tredaxs@gmail.comfuk, Link: http://acp.a3ultimate.com/register.php
+Date: 09-05-2013 09:54:06 AM IP: 203.147.88.194 Code: 1231323231, Fixed: 1231323231fuk, Link: http://acp.a3ultimate.com/register.php
+Date: 09-05-2013 09:54:06 AM IP: 203.147.88.194 Code: Nazlek, Fixed: Nazlekfuk, Link: http://acp.a3ultimate.com/register.php
+Date: 09-05-2013 09:54:06 AM IP: 203.147.88.194 Code: 03AHJ_Vus5XllOm9q3Pac9rOeeZblYD0SaLiCiY-W83FzJxJJhxvxLzwWzDSjndA-lDuWVRWiaV5GCxliTRuPYdaQ6_3_Pxz5Q6FGvGvse3lN8zx0EOjPe6HVOVS-1yaVC5C6TB6viweCLDN0oUc0sZrpPZCjyGPhzUJC26x4yQForGYqD7EC-w1g, Fixed: 03AHJ_Vus5XllOm9q3Pac9rOeeZblYD0SaLiCiY-W83FzJxJJhxvxLzwWzDSjndA-lDuWVRWiaV5GCxliTRuPYdaQ6_3_Pxz5Q6FGvGvse3lN8zx0EOjPe6HVOVS-1yaVC5C6TB6viweCLDN0oUc0sZrpPZCjyGPhzUJC26x4yQForGYqD7EC-w1gfuk, Link: http://acp.a3ultimate.com/register.php
+Date: 09-05-2013 09:54:06 AM IP: 203.147.88.194 Code: ierume success, Fixed: ierume successfuk, Link: http://acp.a3ultimate.com/register.php
+Date: 09-05-2013 09:54:06 AM IP: 203.147.88.194 Code: on, Fixed: onfuk, Link: http://acp.a3ultimate.com/register.php
+Date: 09-05-2013 09:54:06 AM IP: 203.147.88.194 Code: , Fixed: fuk, Link: http://acp.a3ultimate.com/register.php
+Date: 09-05-2013 09:57:08 AM IP: 203.147.88.194 Code: anizzz, Fixed: anizzzfuk, Link: http://acp.a3ultimate.com/register.php
+Date: 09-05-2013 09:57:08 AM IP: 203.147.88.194 Code: 222222222, Fixed: 222222222fuk, Link: http://acp.a3ultimate.com/register.php
+Date: 09-05-2013 09:57:08 AM IP: 203.147.88.194 Code: 222222222, Fixed: 222222222fuk, Link: http://acp.a3ultimate.com/register.php
+Date: 09-05-2013 09:57:08 AM IP: 203.147.88.194 Code: AxAma, Fixed: AxAmafuk, Link: http://acp.a3ultimate.com/register.php
+Date: 09-05-2013 09:57:08 AM IP: 203.147.88.194 Code: tredaxs@gmail.com, Fixed: tredaxs@gmail.comfuk, Link: http://acp.a3ultimate.com/register.php
+Date: 09-05-2013 09:57:08 AM IP: 203.147.88.194 Code: 1231323231, Fixed: 1231323231fuk, Link: http://acp.a3ultimate.com/register.php
+Date: 09-05-2013 09:57:08 AM IP: 203.147.88.194 Code: Nazlek, Fixed: Nazlekfuk, Link: http://acp.a3ultimate.com/register.php
+Date: 09-05-2013 09:57:08 AM IP: 203.147.88.194 Code: 03AHJ_VusZJGg6A7ee9Ma4yFTQ4YkZ8Zf01kPxVz3zo_SyfxcwCnKRQxT1goUn3Vp-g1VxqXg9DDxCmDd36ZEJiAR2gzB5IJX-9GWGApZjRf5uhdchc9Cu7pqhkc_ESibuBobgMvOUg_Yit1Z1HpZmkfVNF90TEL6WJEI1BHx9Rp5MFUtrSq9fTrw, Fixed: 03AHJ_VusZJGg6A7ee9Ma4yFTQ4YkZ8Zf01kPxVz3zo_SyfxcwCnKRQxT1goUn3Vp-g1VxqXg9DDxCmDd36ZEJiAR2gzB5IJX-9GWGApZjRf5uhdchc9Cu7pqhkc_ESibuBobgMvOUg_Yit1Z1HpZmkfVNF90TEL6WJEI1BHx9Rp5MFUtrSq9fTrwfuk, Link: http://acp.a3ultimate.com/register.php
+Date: 09-05-2013 09:57:08 AM IP: 203.147.88.194 Code: and FebSout, Fixed: fuk FebSoutfuk, Link: http://acp.a3ultimate.com/register.php
+Date: 09-05-2013 09:57:08 AM IP: 203.147.88.194 Code: on, Fixed: onfuk, Link: http://acp.a3ultimate.com/register.php
+Date: 09-05-2013 09:57:08 AM IP: 203.147.88.194 Code: , Fixed: fuk, Link: http://acp.a3ultimate.com/register.php
+Date: 09-05-2013 09:57:15 AM IP: 59.183.30.209 Code: eShop Money Rs.100, Fixed: eShop Money Rs.100fuk, Link: http://acp.a3ultimate.com/buy.php
+Date: 09-05-2013 09:57:24 AM IP: 59.183.30.209 Code: eShop Money Rs.100, Fixed: eShop Money Rs.100fuk, Link: http://acp.a3ultimate.com/buy.php
+Date: 09-05-2013 09:57:24 AM IP: 59.183.30.209 Code: Vendal              , Fixed: Vendal              fuk, Link: http://acp.a3ultimate.com/buy.php
+Date: 09-05-2013 09:57:24 AM IP: 59.183.30.209 Code: 9, Fixed: 9fuk, Link: http://acp.a3ultimate.com/buy.php
+Date: 09-05-2013 09:57:24 AM IP: 59.183.30.209 Code: Buy Item Via Gold, Fixed: Buy Item Via Goldfuk, Link: http://acp.a3ultimate.com/buy.php
+Date: 09-05-2013 09:58:22 AM IP: 203.147.88.194 Code: anizzz, Fixed: anizzzfuk, Link: http://acp.a3ultimate.com/register.php
+Date: 09-05-2013 09:58:22 AM IP: 203.147.88.194 Code: hitomi, Fixed: hitomifuk, Link: http://acp.a3ultimate.com/register.php
+Date: 09-05-2013 09:58:22 AM IP: 203.147.88.194 Code: hitomi, Fixed: hitomifuk, Link: http://acp.a3ultimate.com/register.php
+Date: 09-05-2013 09:58:22 AM IP: 203.147.88.194 Code: AxAma, Fixed: AxAmafuk, Link: http://acp.a3ultimate.com/register.php
+Date: 09-05-2013 09:58:22 AM IP: 203.147.88.194 Code: tredaxs@gmail.com, Fixed: tredaxs@gmail.comfuk, Link: http://acp.a3ultimate.com/register.php
+Date: 09-05-2013 09:58:22 AM IP: 203.147.88.194 Code: 1231323231, Fixed: 1231323231fuk, Link: http://acp.a3ultimate.com/register.php
+Date: 09-05-2013 09:58:22 AM IP: 203.147.88.194 Code: Nazlek, Fixed: Nazlekfuk, Link: http://acp.a3ultimate.com/register.php
+Date: 09-05-2013 09:58:22 AM IP: 203.147.88.194 Code: 03AHJ_VuswjXUkTg-rXBZpc95-ChpIHzLzzwgddLrbRI3Zayh7PwQe4vzKazs9_2Ycgpv_XT9EmOtTY6RaG8opo5tgeD6A2vcCAVYYsT51rVQQQX8hgHhZXlTCS0XtosZEh8kJJz2z3Gc5AfvfZeu8kV1B6P2EV3o-tkpPmJZ7HmsfMnFHwsonN8A, Fixed: 03AHJ_VuswjXUkTg-rXBZpc95-ChpIHzLzzwgddLrbRI3Zayh7PwQe4vzKazs9_2Ycgpv_XT9EmOtTY6RaG8opo5tgeD6A2vcCAVYYsT51rVQQQX8hgHhZXlTCSfuktosZEh8kJJz2z3Gc5AfvfZeu8kV1B6P2EV3o-tkpPmJZ7HmsfMnFHwsonN8Afuk, Link: http://acp.a3ultimate.com/register.php
+Date: 09-05-2013 09:58:22 AM IP: 203.147.88.194 Code: ureosw Gesta, Fixed: ureosw Gestafuk, Link: http://acp.a3ultimate.com/register.php
+Date: 09-05-2013 09:58:22 AM IP: 203.147.88.194 Code: on, Fixed: onfuk, Link: http://acp.a3ultimate.com/register.php
+Date: 09-05-2013 09:58:22 AM IP: 203.147.88.194 Code: , Fixed: fuk, Link: http://acp.a3ultimate.com/register.php
+Date: 09-05-2013 09:58:29 AM IP: 113.193.17.77 Code: victorgibbs, Fixed: victorgibbsfuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:58:29 AM IP: 113.193.17.77 Code: Windows7, Fixed: Windows7fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:58:29 AM IP: 113.193.17.77 Code: , Fixed: fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:58:34 AM IP: 113.193.17.77 Code: victorgibbs, Fixed: victorgibbsfuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:58:34 AM IP: 113.193.17.77 Code: Windows7, Fixed: Windows7fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:58:34 AM IP: 113.193.17.77 Code: , Fixed: fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:58:47 AM IP: 113.193.17.77 Code: http://acp.a3ultimate.com/ACP/, Fixed: http://acp.a3ultimate.com/ACP/fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:58:49 AM IP: 113.193.17.77 Code: victorgibbs, Fixed: victorgibbsfuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:58:49 AM IP: 113.193.17.77 Code: Windows7, Fixed: Windows7fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:58:49 AM IP: 113.193.17.77 Code: , Fixed: fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:59:00 AM IP: 113.193.17.77 Code: victorgibbs, Fixed: victorgibbsfuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:59:00 AM IP: 113.193.17.77 Code: Windows7, Fixed: Windows7fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:59:00 AM IP: 113.193.17.77 Code: , Fixed: fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:59:10 AM IP: 113.193.17.77 Code: victorgibbs, Fixed: victorgibbsfuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:59:10 AM IP: 113.193.17.77 Code: Windows7, Fixed: Windows7fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:59:10 AM IP: 113.193.17.77 Code: , Fixed: fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:59:18 AM IP: 59.183.30.209 Code: eShop Money Rs.100, Fixed: eShop Money Rs.100fuk, Link: http://acp.a3ultimate.com/buy.php
+Date: 09-05-2013 09:59:18 AM IP: 59.183.30.209 Code: Vendal              , Fixed: Vendal              fuk, Link: http://acp.a3ultimate.com/buy.php
+Date: 09-05-2013 09:59:18 AM IP: 59.183.30.209 Code: 9, Fixed: 9fuk, Link: http://acp.a3ultimate.com/buy.php
+Date: 09-05-2013 09:59:18 AM IP: 59.183.30.209 Code: Buy Item Via Gold, Fixed: Buy Item Via Goldfuk, Link: http://acp.a3ultimate.com/buy.php
+Date: 09-05-2013 09:59:30 AM IP: 113.193.17.77 Code: victorgibbs, Fixed: victorgibbsfuk, Link: http://acp.a3ultimate.com/forgot-password.php
+Date: 09-05-2013 09:59:30 AM IP: 113.193.17.77 Code: Recover, Fixed: Recoverfuk, Link: http://acp.a3ultimate.com/forgot-password.php
+Date: 09-05-2013 09:59:33 AM IP: 59.183.30.209 Code: eShop Money Rs.100, Fixed: eShop Money Rs.100fuk, Link: http://acp.a3ultimate.com/buy.php
+Date: 09-05-2013 09:59:33 AM IP: 59.183.30.209 Code: Vendal              , Fixed: Vendal              fuk, Link: http://acp.a3ultimate.com/buy.php
+Date: 09-05-2013 09:59:33 AM IP: 59.183.30.209 Code: 10, Fixed: 10fuk, Link: http://acp.a3ultimate.com/buy.php
+Date: 09-05-2013 09:59:33 AM IP: 59.183.30.209 Code: Buy Item Via Gold, Fixed: Buy Item Via Goldfuk, Link: http://acp.a3ultimate.com/buy.php
+Date: 09-05-2013 09:59:41 AM IP: 113.193.17.77 Code: victorgibbs, Fixed: victorgibbsfuk, Link: http://acp.a3ultimate.com/forgot-password.php
+Date: 09-05-2013 09:59:41 AM IP: 113.193.17.77 Code: Recover, Fixed: Recoverfuk, Link: http://acp.a3ultimate.com/forgot-password.php
+Date: 09-05-2013 09:59:55 AM IP: 1.22.80.142 Code: http://acp.a3ultimate.com/ACP/, Fixed: http://acp.a3ultimate.com/ACP/fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 09:59:58 AM IP: 113.193.17.77 Code: http://acp.a3ultimate.com/ACP/, Fixed: http://acp.a3ultimate.com/ACP/fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 10:00:00 AM IP: 59.183.30.209 Code: eShop Money Rs.100, Fixed: eShop Money Rs.100fuk, Link: http://acp.a3ultimate.com/buy.php
+Date: 09-05-2013 10:00:00 AM IP: 113.193.17.77 Code: victorgibbs, Fixed: victorgibbsfuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 10:00:00 AM IP: 113.193.17.77 Code: Windows7, Fixed: Windows7fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 10:00:00 AM IP: 113.193.17.77 Code: , Fixed: fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 10:00:07 AM IP: 59.183.30.209 Code: eShop Money Rs.100, Fixed: eShop Money Rs.100fuk, Link: http://acp.a3ultimate.com/buy.php
+Date: 09-05-2013 10:00:07 AM IP: 59.183.30.209 Code: Vendal              , Fixed: Vendal              fuk, Link: http://acp.a3ultimate.com/buy.php
+Date: 09-05-2013 10:00:07 AM IP: 59.183.30.209 Code: 13, Fixed: 13fuk, Link: http://acp.a3ultimate.com/buy.php
+Date: 09-05-2013 10:00:07 AM IP: 59.183.30.209 Code: Buy Item Via Gold, Fixed: Buy Item Via Goldfuk, Link: http://acp.a3ultimate.com/buy.php
+Date: 09-05-2013 10:00:16 AM IP: 117.194.9.7 Code: http://acp.a3ultimate.com/Auction/, Fixed: http://acp.a3ultimate.com/Auction/fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 10:00:18 AM IP: 1.22.80.142 Code: koolakash, Fixed: koolakashfuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 10:00:18 AM IP: 1.22.80.142 Code: bdrocks, Fixed: bdrocksfuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 10:00:18 AM IP: 1.22.80.142 Code: , Fixed: fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 10:00:23 AM IP: 117.194.9.7 Code: dipalisen, Fixed: dipalisenfuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 10:00:23 AM IP: 117.194.9.7 Code: dipalisen, Fixed: dipalisenfuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 10:00:23 AM IP: 117.194.9.7 Code: , Fixed: fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 10:01:15 AM IP: 182.237.169.39 Code: 126348484, Fixed: 126348484fuk, Link: http://acp.a3ultimate.com/show_gall.php
+Date: 09-05-2013 10:01:16 AM IP: 203.147.88.194 Code: http://acp.a3ultimate.com/ACP/, Fixed: http://acp.a3ultimate.com/ACP/fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 10:01:23 AM IP: 113.193.17.77 Code: http://acp.a3ultimate.com/ACP/, Fixed: http://acp.a3ultimate.com/ACP/fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 10:01:30 AM IP: 203.147.88.194 Code: anizz, Fixed: anizzfuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 10:01:30 AM IP: 203.147.88.194 Code: vonoy, Fixed: vonoyfuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 10:01:30 AM IP: 203.147.88.194 Code: , Fixed: fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 10:01:35 AM IP: 113.193.17.77 Code: victorgibbs, Fixed: victorgibbsfuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 10:01:35 AM IP: 113.193.17.77 Code: Windows7, Fixed: Windows7fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 10:01:35 AM IP: 113.193.17.77 Code: , Fixed: fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 10:01:47 AM IP: 203.147.88.194 Code: anizz, Fixed: anizzfuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 10:01:47 AM IP: 203.147.88.194 Code: ninja, Fixed: ninjafuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 10:01:47 AM IP: 203.147.88.194 Code: , Fixed: fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 10:02:12 AM IP: 203.147.88.194 Code: anizzzz, Fixed: anizzzzfuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 10:02:12 AM IP: 203.147.88.194 Code: ninja, Fixed: ninjafuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 10:02:12 AM IP: 203.147.88.194 Code: , Fixed: fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 10:03:03 AM IP: 124.123.132.250 Code: 126348484, Fixed: 126348484fuk, Link: http://acp.a3ultimate.com/show_gall.php
+Date: 09-05-2013 10:03:08 AM IP: 124.123.132.250 Code: 83275241, Fixed: 83275241fuk, Link: http://acp.a3ultimate.com/show_gall.php
+Date: 09-05-2013 10:03:15 AM IP: 124.123.132.250 Code: 87447348, Fixed: 87447348fuk, Link: http://acp.a3ultimate.com/show_gall.php
+Date: 09-05-2013 10:03:25 AM IP: 124.123.132.250 Code: 42901432, Fixed: 42901432fuk, Link: http://acp.a3ultimate.com/show_gall.php
+Date: 09-05-2013 10:04:26 AM IP: 117.194.9.7 Code: sonalibubun, Fixed: sonalibubunfuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 10:04:26 AM IP: 117.194.9.7 Code: sonaisen, Fixed: sonaisenfuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 10:04:26 AM IP: 117.194.9.7 Code: , Fixed: fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 10:04:33 AM IP: 117.194.9.7 Code: http://acp.a3ultimate.com/ACP/, Fixed: http://acp.a3ultimate.com/ACP/fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 10:04:43 AM IP: 117.194.9.7 Code: sonaisen, Fixed: sonaisenfuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 10:04:43 AM IP: 117.194.9.7 Code: sonaisen, Fixed: sonaisenfuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 10:04:43 AM IP: 117.194.9.7 Code: , Fixed: fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 10:09:54 AM IP: 117.195.7.207 Code: QURb6mo, Fixed: QURb6mofuk, Link: http://acp.a3ultimate.com/auction-buy.php
+Date: 09-05-2013 10:10:06 AM IP: 117.195.7.207 Code: QURb6mo, Fixed: QURb6mofuk, Link: http://acp.a3ultimate.com/auction-buy.php
+Date: 09-05-2013 10:10:17 AM IP: 117.195.7.207 Code: ndDKrC5, Fixed: ndDKrC5fuk, Link: http://acp.a3ultimate.com/auction-buy.php
+Date: 09-05-2013 10:10:27 AM IP: 117.195.7.207 Code: SHZvIfV, Fixed: SHZvIfVfuk, Link: http://acp.a3ultimate.com/auction-buy.php
+Date: 09-05-2013 10:10:43 AM IP: 117.195.7.207 Code: 2U0ce6P, Fixed: 2U0ce6Pfuk, Link: http://acp.a3ultimate.com/auction-buy.php
+Date: 09-05-2013 10:10:58 AM IP: 117.195.7.207 Code: 2u0ce6p, Fixed: 2u0ce6pfuk, Link: http://acp.a3ultimate.com/auction-buy.php
+Date: 09-05-2013 10:11:09 AM IP: 117.195.7.207 Code: 5jecx60, Fixed: 5jecx60fuk, Link: http://acp.a3ultimate.com/auction-buy.php
+Date: 09-05-2013 10:11:24 AM IP: 117.195.7.207 Code: GjmptWad, Fixed: GjmptWadfuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 10:11:24 AM IP: 117.195.7.207 Code: asdqwezxc, Fixed: asdqwezxcfuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 10:11:24 AM IP: 117.195.7.207 Code: , Fixed: fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 10:11:37 AM IP: 117.195.7.207 Code: GjmptWad, Fixed: GjmptWadfuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 10:11:37 AM IP: 117.195.7.207 Code: asdzxcqwe, Fixed: asdzxcqwefuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 10:11:37 AM IP: 117.195.7.207 Code: , Fixed: fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 10:12:14 AM IP: 117.195.7.207 Code: GjmptWad, Fixed: GjmptWadfuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 10:12:14 AM IP: 117.195.7.207 Code: asdqwezxc, Fixed: asdqwezxcfuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 10:12:14 AM IP: 117.195.7.207 Code: , Fixed: fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 10:12:21 AM IP: 117.195.7.207 Code: GjmptWad, Fixed: GjmptWadfuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 10:12:21 AM IP: 117.195.7.207 Code: asdqwezxc, Fixed: asdqwezxcfuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 10:12:21 AM IP: 117.195.7.207 Code: , Fixed: fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 10:12:41 AM IP: 117.195.7.207 Code: GjmptWad, Fixed: GjmptWadfuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 10:12:41 AM IP: 117.195.7.207 Code: asdqwezxc, Fixed: asdqwezxcfuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 10:12:41 AM IP: 117.195.7.207 Code: , Fixed: fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 10:13:03 AM IP: 117.195.7.207 Code: nooblol, Fixed: nooblolfuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 10:13:03 AM IP: 117.195.7.207 Code: coldplay, Fixed: coldplayfuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 10:13:03 AM IP: 117.195.7.207 Code: , Fixed: fuk, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 10:15:50 AM IP: 101.212.4.128 Code: nanducute, Fixed: nucute, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 10:15:50 AM IP: 101.212.4.128 Code: nanducute, Fixed: nucute, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 10:26:44 AM IP: 101.212.4.128 Code: nanducute, Fixed: nucute, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 10:26:44 AM IP: 101.212.4.128 Code: nanducute, Fixed: nucute, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 10:26:53 AM IP: 101.212.4.128 Code: nanducute, Fixed: nucute, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 10:26:53 AM IP: 101.212.4.128 Code: nanducute, Fixed: nucute, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 10:31:20 AM IP: 101.212.4.128 Code: nanducute, Fixed: nucute, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 10:31:20 AM IP: 101.212.4.128 Code: nanducute, Fixed: nucute, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 10:57:52 AM IP: 101.212.4.128 Code: nanducute, Fixed: nucute, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 10:57:52 AM IP: 101.212.4.128 Code: nanducute, Fixed: nucute, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 11:00:25 AM IP: 101.212.4.128 Code: nanducute, Fixed: nucute, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 11:00:25 AM IP: 101.212.4.128 Code: nanducute, Fixed: nucute, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 11:32:17 AM IP: 101.212.4.128 Code: nanducute, Fixed: nucute, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 11:32:17 AM IP: 101.212.4.128 Code: nanducute, Fixed: nucute, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 11:32:33 AM IP: 101.212.4.128 Code: nanducute, Fixed: nucute, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 11:32:33 AM IP: 101.212.4.128 Code: nanducute, Fixed: nucute, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 11:32:53 AM IP: 106.76.121.40 Code: Redyan Staff (Exta Hand Weapon), Fixed: Redyan Staff (Exta H Weapon), Link: http://acp.a3ultimate.com/buy.php
+Date: 09-05-2013 11:33:11 AM IP: 106.76.121.40 Code: Redyan Staff (Exta Hand Weapon), Fixed: Redyan Staff (Exta H Weapon), Link: http://acp.a3ultimate.com/buy.php
+Date: 09-05-2013 11:35:33 AM IP: 106.76.121.40 Code: Redyan Staff (Exta Hand Weapon), Fixed: Redyan Staff (Exta H Weapon), Link: http://acp.a3ultimate.com/buy.php
+Date: 09-05-2013 11:40:31 AM IP: 101.212.4.128 Code: nanducute16, Fixed: nucute16, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 11:40:31 AM IP: 101.212.4.128 Code: nanducute, Fixed: nucute, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 11:40:34 AM IP: 106.76.121.40 Code: Redyan Staff (Exta Hand Weapon), Fixed: Redyan Staff (Exta H Weapon), Link: http://acp.a3ultimate.com/buy.php
+Date: 09-05-2013 11:40:51 AM IP: 106.76.121.40 Code: Redyan Staff (Exta Hand Weapon), Fixed: Redyan Staff (Exta H Weapon), Link: http://acp.a3ultimate.com/buy.php
+Date: 09-05-2013 11:43:08 AM IP: 106.76.121.40 Code: Redyan Staff (Exta Hand Weapon), Fixed: Redyan Staff (Exta H Weapon), Link: http://acp.a3ultimate.com/buy.php
+Date: 09-05-2013 11:43:17 AM IP: 106.76.121.40 Code: Redyan Staff (Exta Hand Weapon), Fixed: Redyan Staff (Exta H Weapon), Link: http://acp.a3ultimate.com/buy.php
+Date: 09-05-2013 11:44:18 AM IP: 106.76.121.40 Code: Dragon Staff (Exta Hand Weapon), Fixed: Dragon Staff (Exta H Weapon), Link: http://acp.a3ultimate.com/buy.php
+Date: 09-05-2013 11:44:19 AM IP: 141.0.9.59 Code: nanducute, Fixed: nucute, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 11:44:19 AM IP: 141.0.9.59 Code: nanducute, Fixed: nucute, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 11:44:29 AM IP: 106.76.121.40 Code: Dragon Staff (Exta Hand Weapon), Fixed: Dragon Staff (Exta H Weapon), Link: http://acp.a3ultimate.com/buy.php
+Date: 09-05-2013 11:44:42 AM IP: 141.0.9.59 Code: nanducute, Fixed: nucute, Link: http://acp.a3ultimate.com/forgot-password.php
+Date: 09-05-2013 12:56:40 PM IP: 117.195.17.174 Code: UPDATE ACCOUNT INFO, Fixed:  ACCOUNT INFO, Link: http://acp.a3ultimate.com/eacct.php
+Date: 09-05-2013 05:11:14 PM IP: 24.22.137.66 Code: 03AHJ_VuvpYycBFahvgcozkmn7XvAJSztH5BGxaHcTixLbi68yw8t2Gzf15ILtzX3jGTHcYJhXXOQROYnhm2es0xuPZ9HZOIeovL_b9SiQ9WcDSuRk_X6SsNLiymx1QRW7n336cWG0zAIbg29UQnbNOX3cL7tB0iLNSIXVQ0XwJR1piHh6cPOdzLM, Fixed: 03AHJ_VuvpYycBFahvgcozkmn7XvAJSztH5BGxaHcTixLbi68yw8t2Gzf15ILtzX3jGTHcYJhXXOQROYnhm2esuPZ9HZOIeovL_b9SiQ9WcDSuRk_X6SsNLiymx1QRW7n336cWG0zAIbg29UQnbNOX3cL7tB0iLNSIXVQwJR1piHh6cPOdzLM, Link: http://acp.a3ultimate.com/register.php
+Date: 09-05-2013 06:05:05 PM IP: 123.236.48.103 Code: UPDATE ACCOUNT INFO, Fixed:  ACCOUNT INFO, Link: http://acp.a3ultimate.com/eacct.php
+Date: 09-05-2013 06:46:10 PM IP: 117.195.17.174 Code: 'or1=1, Fixed: or1=1, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:49:49 PM IP: 123.236.48.103 Code: &dir, Fixed: &, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:49:50 PM IP: 123.236.48.103 Code: '&dir&', Fixed: &&, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:49:50 PM IP: 123.236.48.103 Code: '+response.write(9029990*9770533)+', Fixed: +response.write(9029990*9770533)+, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:49:50 PM IP: 123.236.48.103 Code: ../../../../../../../../../../windows/win.ini .com/ACP/, Fixed: ../../../../../../../../../../windows/win.ini.com/ACP/, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:49:50 PM IP: 123.236.48.103 Code: "&dir&", Fixed: \"&&\", Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:49:50 PM IP: 123.236.48.103 Code: "+response.write(9029990*9770533)+", Fixed: \"+response.write(9029990*9770533)+\", Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:49:50 PM IP: 123.236.48.103 Code: |dir, Fixed: |, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:49:50 PM IP: 123.236.48.103 Code: '|dir, Fixed: |, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:49:50 PM IP: 123.236.48.103 Code: -1' or '29'='29, Fixed: -1 or 29=29, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:49:50 PM IP: 123.236.48.103 Code: "|dir, Fixed: \"|, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:49:50 PM IP: 123.236.48.103 Code: ..\..\..\..\..\..\..\..\windows\win.ini, Fixed: ................windowswin.ini, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:49:50 PM IP: 123.236.48.103 Code: -1' or '29'='0, Fixed: -1 or 29=0, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:49:51 PM IP: 123.236.48.103 Code: -1" or "58"="58, Fixed: -1\" or \"58\"=\"58, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:49:51 PM IP: 123.236.48.103 Code: -1" or "58"="0, Fixed: -1\" or \"58\"=\"0, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:49:51 PM IP: 123.236.48.103 Code: http://acp.a3ultimate.com/ACP/' and sleep(4)=', Fixed: http://acp.a3ultimate.com/ACP/ and (4)=, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:49:51 PM IP: 123.236.48.103 Code: Array, Fixed: , Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:49:51 PM IP: 123.236.48.103 Code: '"\'\");|]*{
+< >, Fixed: \"\\\");|]*{
+, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:49:51 PM IP: 123.236.48.103 Code: http://acp.a3ultimate.com/ACP/' and (sleep(4)+1) limit 1 -- , Fixed: http://acp.a3ultimate.com/ACP/ and ((4)+1)  1 -- , Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:49:51 PM IP: 123.236.48.103 Code: '"(), Fixed: \"(), Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:49:51 PM IP: 123.236.48.103 Code: http://acp.a3ultimate.com/ACP/" and sleep(4)=", Fixed: http://acp.a3ultimate.com/ACP/\" and (4)=\", Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:49:51 PM IP: 123.236.48.103 Code: unexisting/../../../../../../../../../../windows/win.ini.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\, Fixed: unexisting/../../../../../../../../../../windows/win.ini...................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................., Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:49:51 PM IP: 123.236.48.103 Code: ;print(md5(acunetix_wvs_security_test));, Fixed: ;(());, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:49:51 PM IP: 123.236.48.103 Code: Array, Fixed: , Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:49:51 PM IP: 123.236.48.103 Code: ';print(md5(acunetix_wvs_security_test));$a=', Fixed: ;(());$a=, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:49:51 PM IP: 123.236.48.103 Code: http://acp.a3ultimate.com/ACP/' or (sleep(4)+1) limit 1 -- , Fixed: http://acp.a3ultimate.com/ACP/ or ((4)+1)  1 -- , Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:49:52 PM IP: 123.236.48.103 Code: ";print(md5(acunetix_wvs_security_test));$a=", Fixed: \";(());$a=\", Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:49:52 PM IP: 123.236.48.103 Code: http://acp.a3ultimate.com/ACP/" or (sleep(4)+1) limit 1 -- , Fixed: http://acp.a3ultimate.com/ACP/\" or ((4)+1)  1 -- , Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:49:52 PM IP: 123.236.48.103 Code: 1'", Fixed: 1\", Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:49:52 PM IP: 123.236.48.103 Code: http://acp.a3ultimate.com/ACP/'=sleep(4)=', Fixed: http://acp.a3ultimate.com/ACP/=(4)=, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:49:52 PM IP: 123.236.48.103 Code: ${@print(md5(acunetix_wvs_security_test))}, Fixed: ${@(())}, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:49:52 PM IP: 123.236.48.103 Code: ${@print(md5(acunetix_wvs_security_test))}\, Fixed: ${@(())}, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:49:52 PM IP: 123.236.48.103 Code: \, Fixed: , Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:49:52 PM IP: 123.236.48.103 Code: http://acp.a3ultimate.com/ACP/"=sleep(4)=", Fixed: http://acp.a3ultimate.com/ACP/\"=(4)=\", Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:49:52 PM IP: 123.236.48.103 Code: <?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE acunetix [
+  <!ENTITY acunetixent SYSTEM "http://testasp.vulnweb.com/t/fit.txt">
+]>
+<xxx>&acunetixent;</xxx>
+, Fixed: 
+
+&acunetixent;
+, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:49:52 PM IP: 123.236.48.103 Code: login , Fixed: login, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:49:52 PM IP: 123.236.48.103 Code: http://acp.a3ultimate.com/ACP/ and sleep(4) , Fixed: http://acp.a3ultimate.com/ACP/ and (4) , Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:49:52 PM IP: 123.236.48.103 Code: 1À xa7À¢, Fixed: 1Àxa7À¢, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:49:52 PM IP: 123.236.48.103 Code: '", Fixed: \", Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:49:52 PM IP: 123.236.48.103 Code: '"()&%1<ScRiPt >prompt(900002)</ScRiPt>, Fixed: \"()&%1prompt(900002), Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:49:52 PM IP: 123.236.48.103 Code: http://acp.a3ultimate.com/ACP/ or (sleep(4)+1) limit 1 -- , Fixed: http://acp.a3ultimate.com/ACP/ or ((4)+1)  1 -- , Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:49:52 PM IP: 123.236.48.103 Code: <!--, Fixed: , Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:49:52 PM IP: 123.236.48.103 Code: http://acp.a3ultimate.com/ACP/';select pg_sleep(4); -- , Fixed: http://acp.a3ultimate.com/ACP/; pg_(4); -- , Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:49:53 PM IP: 123.236.48.103 Code: http://acp.a3ultimate.com/ACP/'; waitfor delay '0:0:4' -- , Fixed: http://acp.a3ultimate.com/ACP/;   0:0:4 -- , Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:49:53 PM IP: 123.236.48.103 Code: ¿'¿", Fixed: ¿¿\", Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:49:53 PM IP: 123.236.48.103 Code: ð''ð"", Fixed: ðð\"\", Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:49:53 PM IP: 123.236.48.103 Code: http://acp.a3ultimate.com/ACP/"; waitfor delay '0:0:4' -- , Fixed: http://acp.a3ultimate.com/ACP/\";   0:0:4 -- , Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:15 PM IP: 123.236.48.103 Code: '+response.write(9112333*9341583)+', Fixed: +response.write(9112333*9341583)+, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:15 PM IP: 123.236.48.103 Code: "+response.write(9112333*9341583)+", Fixed: \"+response.write(9112333*9341583)+\", Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:15 PM IP: 123.236.48.103 Code: '+response.write(9566061*9999980)+', Fixed: +response.write(9566061*9999980)+, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:16 PM IP: 123.236.48.103 Code: "+response.write(9566061*9999980)+", Fixed: \"+response.write(9566061*9999980)+\", Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:16 PM IP: 123.236.48.103 Code: '+response.write(9718116*9199589)+', Fixed: +response.write(9718116*9199589)+, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:16 PM IP: 123.236.48.103 Code: "+response.write(9718116*9199589)+", Fixed: \"+response.write(9718116*9199589)+\", Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:17 PM IP: 123.236.48.103 Code: -1' or '58'='58, Fixed: -1 or 58=58, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:17 PM IP: 123.236.48.103 Code: -1' or '58'='0, Fixed: -1 or 58=0, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:17 PM IP: 123.236.48.103 Code: -1" or "89"="89, Fixed: -1\" or \"89\"=\"89, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:17 PM IP: 123.236.48.103 Code: -1" or "89"="0, Fixed: -1\" or \"89\"=\"0, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:17 PM IP: 123.236.48.103 Code: Login' and sleep(4)=', Fixed: Login and (4)=, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:17 PM IP: 123.236.48.103 Code: Login' and (sleep(4)+1) limit 1 -- , Fixed: Login and ((4)+1)  1 -- , Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:18 PM IP: 123.236.48.103 Code: Login" and sleep(4)=", Fixed: Login\" and (4)=\", Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:18 PM IP: 123.236.48.103 Code: Login' or (sleep(4)+1) limit 1 -- , Fixed: Login or ((4)+1)  1 -- , Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:18 PM IP: 123.236.48.103 Code: Login" or (sleep(4)+1) limit 1 -- , Fixed: Login\" or ((4)+1)  1 -- , Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:18 PM IP: 123.236.48.103 Code: Login'=sleep(4)=', Fixed: Login=(4)=, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:18 PM IP: 123.236.48.103 Code: Login"=sleep(4)=", Fixed: Login\"=(4)=\", Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:18 PM IP: 123.236.48.103 Code: Login and sleep(4) , Fixed: Login and (4) , Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:18 PM IP: 123.236.48.103 Code: Login or (sleep(4)+1) limit 1 -- , Fixed: Login or ((4)+1)  1 -- , Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:18 PM IP: 123.236.48.103 Code: Login';select pg_sleep(4); -- , Fixed: Login; pg_(4); -- , Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:18 PM IP: 123.236.48.103 Code: Login'; waitfor delay '0:0:4' -- , Fixed: Login;   0:0:4 -- , Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:19 PM IP: 123.236.48.103 Code: Login"; waitfor delay '0:0:4' -- , Fixed: Login\";   0:0:4 -- , Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:19 PM IP: 123.236.48.103 Code: -1' or '87'='87, Fixed: -1 or 87=87, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:19 PM IP: 123.236.48.103 Code: -1' or '87'='0, Fixed: -1 or 87=0, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:20 PM IP: 123.236.48.103 Code: -1" or "100"="100, Fixed: -1\" or \"100\"=\"100, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:20 PM IP: 123.236.48.103 Code: -1" or "100"="0, Fixed: -1\" or \"100\"=\"0, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:20 PM IP: 123.236.48.103 Code: asdqwezxc' and sleep(4)=', Fixed: asdqwezxc and (4)=, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:20 PM IP: 123.236.48.103 Code: asdqwezxc' and (sleep(4)+1) limit 1 -- , Fixed: asdqwezxc and ((4)+1)  1 -- , Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:20 PM IP: 123.236.48.103 Code: asdqwezxc" and sleep(4)=", Fixed: asdqwezxc\" and (4)=\", Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:20 PM IP: 123.236.48.103 Code: asdqwezxc' or (sleep(4)+1) limit 1 -- , Fixed: asdqwezxc or ((4)+1)  1 -- , Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:20 PM IP: 123.236.48.103 Code: &dir, Fixed: &, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:21 PM IP: 123.236.48.103 Code: asdqwezxc" or (sleep(4)+1) limit 1 -- , Fixed: asdqwezxc\" or ((4)+1)  1 -- , Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:21 PM IP: 123.236.48.103 Code: '&dir&', Fixed: &&, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:21 PM IP: 123.236.48.103 Code: "&dir&", Fixed: \"&&\", Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:21 PM IP: 123.236.48.103 Code: |dir, Fixed: |, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:21 PM IP: 123.236.48.103 Code: '|dir, Fixed: |, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:21 PM IP: 123.236.48.103 Code: asdqwezxc'=sleep(4)=', Fixed: asdqwezxc=(4)=, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:21 PM IP: 123.236.48.103 Code: "|dir, Fixed: \"|, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:21 PM IP: 123.236.48.103 Code: asdqwezxc"=sleep(4)=", Fixed: asdqwezxc\"=(4)=\", Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:22 PM IP: 123.236.48.103 Code: asdqwezxc and sleep(4) , Fixed: asdqwezxc and (4) , Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:22 PM IP: 123.236.48.103 Code: &dir, Fixed: &, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:22 PM IP: 123.236.48.103 Code: '&dir&', Fixed: &&, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:22 PM IP: 123.236.48.103 Code: asdqwezxc or (sleep(4)+1) limit 1 -- , Fixed: asdqwezxc or ((4)+1)  1 -- , Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:22 PM IP: 123.236.48.103 Code: asdqwezxc';select pg_sleep(4); -- , Fixed: asdqwezxc; pg_(4); -- , Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:22 PM IP: 123.236.48.103 Code: "&dir&", Fixed: \"&&\", Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:22 PM IP: 123.236.48.103 Code: asdqwezxc'; waitfor delay '0:0:4' -- , Fixed: asdqwezxc;   0:0:4 -- , Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:22 PM IP: 123.236.48.103 Code: |dir, Fixed: |, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:22 PM IP: 123.236.48.103 Code: asdqwezxc"; waitfor delay '0:0:4' -- , Fixed: asdqwezxc\";   0:0:4 -- , Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:22 PM IP: 123.236.48.103 Code: '|dir, Fixed: |, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:23 PM IP: 123.236.48.103 Code: ../../../../../../../../../../windows/win.ini .jpg, Fixed: ../../../../../../../../../../windows/win.ini.jpg, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:23 PM IP: 123.236.48.103 Code: "|dir, Fixed: \"|, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:23 PM IP: 123.236.48.103 Code: &dir, Fixed: &, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:23 PM IP: 123.236.48.103 Code: '&dir&', Fixed: &&, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:23 PM IP: 123.236.48.103 Code: ..\..\..\..\..\..\..\..\windows\win.ini, Fixed: ................windowswin.ini, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:23 PM IP: 123.236.48.103 Code: "&dir&", Fixed: \"&&\", Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:23 PM IP: 123.236.48.103 Code: -1' or '97'='97, Fixed: -1 or 97=97, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:23 PM IP: 123.236.48.103 Code: |dir, Fixed: |, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:24 PM IP: 123.236.48.103 Code: -1' or '97'='0, Fixed: -1 or 97=0, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:24 PM IP: 123.236.48.103 Code: '|dir, Fixed: |, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:24 PM IP: 123.236.48.103 Code: -1" or "51"="51, Fixed: -1\" or \"51\"=\"51, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:24 PM IP: 123.236.48.103 Code: "|dir, Fixed: \"|, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:24 PM IP: 123.236.48.103 Code: -1" or "51"="0, Fixed: -1\" or \"51\"=\"0, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:24 PM IP: 123.236.48.103 Code: gjmptwad' and sleep(4)=', Fixed: gjmptwad and (4)=, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:24 PM IP: 123.236.48.103 Code: gjmptwad' and (sleep(4)+1) limit 1 -- , Fixed: gjmptwad and ((4)+1)  1 -- , Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:25 PM IP: 123.236.48.103 Code: gjmptwad" and sleep(4)=", Fixed: gjmptwad\" and (4)=\", Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:25 PM IP: 123.236.48.103 Code: unexisting/../../../../../../../../../../windows/win.ini.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\, Fixed: unexisting/../../../../../../../../../../windows/win.ini...................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................., Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:25 PM IP: 123.236.48.103 Code: gjmptwad' or (sleep(4)+1) limit 1 -- , Fixed: gjmptwad or ((4)+1)  1 -- , Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:25 PM IP: 123.236.48.103 Code: gjmptwad" or (sleep(4)+1) limit 1 -- , Fixed: gjmptwad\" or ((4)+1)  1 -- , Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:25 PM IP: 123.236.48.103 Code: gjmptwad'=sleep(4)=', Fixed: gjmptwad=(4)=, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:25 PM IP: 123.236.48.103 Code: ../../../../../../../../../../windows/win.ini .jpg, Fixed: ../../../../../../../../../../windows/win.ini.jpg, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:25 PM IP: 123.236.48.103 Code: gjmptwad"=sleep(4)=", Fixed: gjmptwad\"=(4)=\", Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:25 PM IP: 123.236.48.103 Code: '"\'\");|]*{
+< >, Fixed: \"\\\");|]*{
+, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:25 PM IP: 123.236.48.103 Code: gjmptwad and sleep(4) , Fixed: gjmptwad and (4) , Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:25 PM IP: 123.236.48.103 Code: Array, Fixed: , Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:25 PM IP: 123.236.48.103 Code: gjmptwad or (sleep(4)+1) limit 1 -- , Fixed: gjmptwad or ((4)+1)  1 -- , Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:26 PM IP: 123.236.48.103 Code: gjmptwad';select pg_sleep(4); -- , Fixed: gjmptwad; pg_(4); -- , Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:26 PM IP: 123.236.48.103 Code: ..\..\..\..\..\..\..\..\windows\win.ini, Fixed: ................windowswin.ini, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:26 PM IP: 123.236.48.103 Code: gjmptwad'; waitfor delay '0:0:4' -- , Fixed: gjmptwad;   0:0:4 -- , Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:26 PM IP: 123.236.48.103 Code: gjmptwad"; waitfor delay '0:0:4' -- , Fixed: gjmptwad\";   0:0:4 -- , Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:26 PM IP: 123.236.48.103 Code: unexisting/../../../../../../../../../../windows/win.ini.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\, Fixed: unexisting/../../../../../../../../../../windows/win.ini...................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................., Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:27 PM IP: 123.236.48.103 Code: '"\'\");|]*{
+< >, Fixed: \"\\\");|]*{
+, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:27 PM IP: 123.236.48.103 Code: ../../../../../../../../../../windows/win.ini .jpg, Fixed: ../../../../../../../../../../windows/win.ini.jpg, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:27 PM IP: 123.236.48.103 Code: Array, Fixed: , Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:27 PM IP: 123.236.48.103 Code: ..\..\..\..\..\..\..\..\windows\win.ini, Fixed: ................windowswin.ini, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:28 PM IP: 123.236.48.103 Code: '"\'\");|]*{
+< >, Fixed: \"\\\");|]*{
+, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:28 PM IP: 123.236.48.103 Code: unexisting/../../../../../../../../../../windows/win.ini.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\, Fixed: unexisting/../../../../../../../../../../windows/win.ini...................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................., Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:28 PM IP: 123.236.48.103 Code: Array, Fixed: , Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:29 PM IP: 123.236.48.103 Code: Array, Fixed: , Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:29 PM IP: 123.236.48.103 Code: '"(), Fixed: \"(), Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:29 PM IP: 123.236.48.103 Code: Array, Fixed: , Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:29 PM IP: 123.236.48.103 Code: ;print(md5(acunetix_wvs_security_test));, Fixed: ;(());, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:29 PM IP: 123.236.48.103 Code: '"(), Fixed: \"(), Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:29 PM IP: 123.236.48.103 Code: ';print(md5(acunetix_wvs_security_test));$a=', Fixed: ;(());$a=, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:29 PM IP: 123.236.48.103 Code: Array, Fixed: , Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:29 PM IP: 123.236.48.103 Code: ";print(md5(acunetix_wvs_security_test));$a=", Fixed: \";(());$a=\", Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:29 PM IP: 123.236.48.103 Code: '"(), Fixed: \"(), Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:30 PM IP: 123.236.48.103 Code: ${@print(md5(acunetix_wvs_security_test))}, Fixed: ${@(())}, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:30 PM IP: 123.236.48.103 Code: ${@print(md5(acunetix_wvs_security_test))}\, Fixed: ${@(())}, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:30 PM IP: 123.236.48.103 Code: ;print(md5(acunetix_wvs_security_test));, Fixed: ;(());, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:30 PM IP: 123.236.48.103 Code: ';print(md5(acunetix_wvs_security_test));$a=', Fixed: ;(());$a=, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:30 PM IP: 123.236.48.103 Code: ";print(md5(acunetix_wvs_security_test));$a=", Fixed: \";(());$a=\", Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:30 PM IP: 123.236.48.103 Code: ${@print(md5(acunetix_wvs_security_test))}, Fixed: ${@(())}, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:30 PM IP: 123.236.48.103 Code: ${@print(md5(acunetix_wvs_security_test))}\, Fixed: ${@(())}, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:30 PM IP: 123.236.48.103 Code: login , Fixed: login, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:30 PM IP: 123.236.48.103 Code: ;print(md5(acunetix_wvs_security_test));, Fixed: ;(());, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:31 PM IP: 123.236.48.103 Code: 1'", Fixed: 1\", Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:31 PM IP: 123.236.48.103 Code: ';print(md5(acunetix_wvs_security_test));$a=', Fixed: ;(());$a=, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:31 PM IP: 123.236.48.103 Code: ";print(md5(acunetix_wvs_security_test));$a=", Fixed: \";(());$a=\", Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:31 PM IP: 123.236.48.103 Code: \, Fixed: , Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:31 PM IP: 123.236.48.103 Code: ${@print(md5(acunetix_wvs_security_test))}, Fixed: ${@(())}, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:31 PM IP: 123.236.48.103 Code: 1À xa7À¢, Fixed: 1Àxa7À¢, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:31 PM IP: 123.236.48.103 Code: ${@print(md5(acunetix_wvs_security_test))}\, Fixed: ${@(())}, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:31 PM IP: 123.236.48.103 Code: <?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE acunetix [
+  <!ENTITY acunetixent SYSTEM "http://testasp.vulnweb.com/t/fit.txt">
+]>
+<xxx>&acunetixent;</xxx>
+, Fixed: 
+
+&acunetixent;
+, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:31 PM IP: 123.236.48.103 Code: ¿'¿", Fixed: ¿¿\", Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:31 PM IP: 123.236.48.103 Code: <?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE acunetix [
+  <!ENTITY acunetixent SYSTEM "http://testasp.vulnweb.com/t/fit.txt">
+]>
+<xxx>&acunetixent;</xxx>
+, Fixed: 
+
+&acunetixent;
+, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:31 PM IP: 123.236.48.103 Code: ð''ð"", Fixed: ðð\"\", Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:32 PM IP: 123.236.48.103 Code: '", Fixed: \", Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:32 PM IP: 123.236.48.103 Code: login , Fixed: login, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:32 PM IP: 123.236.48.103 Code: <!--, Fixed: , Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:32 PM IP: 123.236.48.103 Code: 1'", Fixed: 1\", Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:32 PM IP: 123.236.48.103 Code: '", Fixed: \", Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:32 PM IP: 123.236.48.103 Code: \, Fixed: , Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:32 PM IP: 123.236.48.103 Code: <?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE acunetix [
+  <!ENTITY acunetixent SYSTEM "http://testasp.vulnweb.com/t/fit.txt">
+]>
+<xxx>&acunetixent;</xxx>
+, Fixed: 
+
+&acunetixent;
+, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:32 PM IP: 123.236.48.103 Code: <!--, Fixed: , Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:32 PM IP: 123.236.48.103 Code: 1À xa7À¢, Fixed: 1Àxa7À¢, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:32 PM IP: 123.236.48.103 Code: '"()&%1<ScRiPt >prompt(934983)</ScRiPt>, Fixed: \"()&%1prompt(934983), Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:32 PM IP: 123.236.48.103 Code: '", Fixed: \", Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:32 PM IP: 123.236.48.103 Code: login , Fixed: login, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:32 PM IP: 123.236.48.103 Code: <!--, Fixed: , Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:33 PM IP: 123.236.48.103 Code: ¿'¿", Fixed: ¿¿\", Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:33 PM IP: 123.236.48.103 Code: ð''ð"", Fixed: ðð\"\", Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:33 PM IP: 123.236.48.103 Code: '"()&%1<ScRiPt >prompt(967130)</ScRiPt>, Fixed: \"()&%1prompt(967130), Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:33 PM IP: 123.236.48.103 Code: 1'", Fixed: 1\", Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:33 PM IP: 123.236.48.103 Code: \, Fixed: , Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:33 PM IP: 123.236.48.103 Code: '"()&%1<ScRiPt >prompt(900612)</ScRiPt>, Fixed: \"()&%1prompt(900612), Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:33 PM IP: 123.236.48.103 Code: 1À xa7À¢, Fixed: 1Àxa7À¢, Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:34 PM IP: 123.236.48.103 Code: ¿'¿", Fixed: ¿¿\", Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 06:51:34 PM IP: 123.236.48.103 Code: ð''ð"", Fixed: ðð\"\", Link: http://acp.a3ultimate.com/login.php
+Date: 09-05-2013 08:24:20 PM IP: 117.195.17.174 Code: &dir, Fixed: &, Link: http://acp.a3ultimate.com/login.php

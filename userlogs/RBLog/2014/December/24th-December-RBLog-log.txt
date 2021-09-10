@@ -1,0 +1,15 @@
+Date: 24-12-2014 03:55:38 AM  Account : jeetubaba User : Tauriel Reward: 9773;32;646454;0;, RB: 15, Item Used:9649 Item Replaced:9649;33;5;0; 
+Date: 24-12-2014 05:19:51 AM  Account : shubham00 User : Azure Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;1035081662;1; 
+Date: 24-12-2014 05:31:50 AM  Account : donbhai User : Iamkiller Reward: 9772;32;646454;0;, RB: 10, Item Used:9668 Item Replaced:9668;34;4;0; 
+Date: 24-12-2014 06:11:27 AM  Account : shubham00 User : Azure Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;35;9508;0; 
+Date: 24-12-2014 06:31:45 AM  Account : bichuu User : Bichuu Reward: 9773;32;646454;0;, RB: 15, Item Used:9649 Item Replaced:9649;33;1145;0; 
+Date: 24-12-2014 08:20:06 AM  Account : shubham00 User : Azure Reward: 9772;32;646454;0;, RB: 8, Item Used:9665 Item Replaced:9665;33;5;0; 
+Date: 24-12-2014 10:10:19 AM  Account : shubham00 User : Azure Reward: 9772;32;646454;0;, RB: 9, Item Used:9666,9667 Item Replaced:9666;34;9667;0;9667;33;86644670;1; 
+Date: 24-12-2014 11:07:04 AM  Account : Bharath1 User : Six Reward: 9773;32;646454;0;, RB: 15, Item Used:9649 Item Replaced:9649;33;9684;0; 
+Date: 24-12-2014 11:21:33 AM  Account : ctg50000 User : Dangerous Reward: 9773;32;646454;0;, RB: 15, Item Used:9649 Item Replaced:9649;33;;0; 
+Date: 24-12-2014 12:05:18 PM  Account : shubham00 User : Azure Reward: 9772;32;646454;0;, RB: 10, Item Used:9668 Item Replaced:9668;33;5;0; 
+Date: 24-12-2014 12:34:51 PM  Account : mitchell User : Mitchell Reward: 9773;32;646454;0;, RB: 13, Item Used:9682 Item Replaced:9682;33;17;0; 
+Date: 24-12-2014 01:00:13 PM  Account : Blacky101 User : Aa Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;32;;0; 
+Date: 24-12-2014 04:08:12 PM  Account : Morphine User : Chaosmage Reward: 9774;32;646454;0;, RB: 18, Item Used:9690 Item Replaced:9690;33;5;0; 
+Date: 24-12-2014 04:51:09 PM  Account : soham1992 User : Magic Reward: 9774;32;646454;0;, RB: 16, Item Used:9650 Item Replaced:9650;34;2206;0; 
+Date: 24-12-2014 08:34:23 PM  Account : rack259 User : Rack Reward: 9773;32;646454;0;, RB: 15, Item Used:9649 Item Replaced:9649;33;17;0; 

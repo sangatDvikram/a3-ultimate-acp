@@ -1,0 +1,16 @@
+Date: 28-01-2015 05:33:33 AM  Account : neil007 User : Loverkid Reward: -, RB: 5, Item Used:none Item Replaced:none 
+Date: 28-01-2015 05:37:09 AM  Account : CrazyDoc User : Suminoo Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 28-01-2015 10:18:06 AM  Account : dinesh2 User : Anjalika Reward: 9773;32;646454;0;, RB: 12, Item Used:9681 Item Replaced:9681;33;5;0; 
+Date: 28-01-2015 10:45:53 AM  Account : zealian User : Orchid Reward: 9772;32;646454;0;, RB: 8, Item Used:9665 Item Replaced:9665;33;5;0; 
+Date: 28-01-2015 11:38:15 AM  Account : LoneWolf User : LoneWolf Reward: 9773;32;646454;0;, RB: 12, Item Used:9681 Item Replaced:9681;33;17;0; 
+Date: 28-01-2015 12:26:18 PM  Account : vasoya User : Kriti Reward: -, RB: 3, Item Used:none Item Replaced:none 
+Date: 28-01-2015 12:58:55 PM  Account : ArthArch User : Arch Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 28-01-2015 02:11:22 PM  Account : swats1233 User : Darkcritfury Reward: -, RB: 2, Item Used:none Item Replaced:none 
+Date: 28-01-2015 02:36:25 PM  Account : CrazyDoc User : Skygod Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 28-01-2015 02:47:03 PM  Account : ArthArch User : Arch Reward: -, RB: 2, Item Used:none Item Replaced:none 
+Date: 28-01-2015 02:50:04 PM  Account : HealerHK User : Unbeatable Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 28-01-2015 02:56:19 PM  Account : Akash26 User : Girlsexy Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 28-01-2015 03:25:41 PM  Account : musa12345 User : Creative Reward: 9773;32;646454;0;, RB: 13, Item Used:9682 Item Replaced:9682;33;9558;0; 
+Date: 28-01-2015 03:35:57 PM  Account : itagvj User : Angelic Reward: 9773;32;646454;0;, RB: 11, Item Used:9669 Item Replaced:9669;33;9684;0; 
+Date: 28-01-2015 08:11:05 PM  Account : shockwave User : Ronan Reward: 9772;32;646454;0;, RB: 9, Item Used:9666,9667 Item Replaced:9666;34;9667;0;9667;33;96738319;1; 
+Date: 28-01-2015 11:11:46 PM  Account : musa12345 User : Creative Reward: 9773;32;646454;0;, RB: 14, Item Used:9683 Item Replaced:9683;33;33912;0; 

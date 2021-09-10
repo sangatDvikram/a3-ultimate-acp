@@ -1,0 +1,12 @@
+Date: 07-07-2015 12:41:17 AM IP: 43.224.221.66 User : Not loggedin Code: hacker' and '1'='1, Fixed: hacker and 1=1, Link: http://www.a3ultimate.com/login.php
+Date: 07-07-2015 12:41:18 AM IP: 43.224.221.66 User : Not loggedin Code: hacker' and '1'='1, Fixed: hacker and 1=1, Link: http://www.a3ultimate.com/login.php
+Date: 07-07-2015 12:41:18 AM IP: 43.224.221.66 User : Not loggedin Code: hacker%' and 1=1 and '%'=', Fixed: hacker% and 1=1 and %=, Link: http://www.a3ultimate.com/login.php
+Date: 07-07-2015 12:41:18 AM IP: 43.224.221.66 User : Not loggedin Code: hacker%' and 1=2 and '%'=', Fixed: hacker% and 1=2 and %=, Link: http://www.a3ultimate.com/login.php
+Date: 07-07-2015 12:41:19 AM IP: 43.224.221.66 User : Not loggedin Code: hackera', Fixed: hackera, Link: http://www.a3ultimate.com/login.php
+Date: 07-07-2015 12:41:19 AM IP: 43.224.221.66 User : Not loggedin Code: hackerb', Fixed: hackerb, Link: http://www.a3ultimate.com/login.php
+Date: 07-07-2015 12:41:34 AM IP: 43.224.221.66 User : Not loggedin Code: 88888' and '1'='1, Fixed: 88888 and 1=1, Link: http://www.a3ultimate.com/login.php
+Date: 07-07-2015 12:41:34 AM IP: 43.224.221.66 User : Not loggedin Code: 88888' and '1'='1, Fixed: 88888 and 1=1, Link: http://www.a3ultimate.com/login.php
+Date: 07-07-2015 12:41:35 AM IP: 43.224.221.66 User : Not loggedin Code: 88888%' and 1=1 and '%'=', Fixed: 88888% and 1=1 and %=, Link: http://www.a3ultimate.com/login.php
+Date: 07-07-2015 12:41:37 AM IP: 43.224.221.66 User : Not loggedin Code: 88888%' and 1=2 and '%'=', Fixed: 88888% and 1=2 and %=, Link: http://www.a3ultimate.com/login.php
+Date: 07-07-2015 12:41:38 AM IP: 43.224.221.66 User : Not loggedin Code: 88888a', Fixed: 88888a, Link: http://www.a3ultimate.com/login.php
+Date: 07-07-2015 12:41:39 AM IP: 43.224.221.66 User : Not loggedin Code: 88888b', Fixed: 88888b, Link: http://www.a3ultimate.com/login.php

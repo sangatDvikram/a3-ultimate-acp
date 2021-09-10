@@ -1,0 +1,17 @@
+Date: 22-05-2016 05:23:57 AM  Account : leynold User : Kirin Reward: -, RB: 5, Item Used:none Item Replaced:none 
+Date: 22-05-2016 06:36:09 AM  Account : gonxa2 User : Akeno Reward: -, RB: 3, Item Used:none Item Replaced:none 
+Date: 22-05-2016 12:38:57 PM  Account : prokikyo User : GoldenGirl Reward: 9773;32;646454;0;, RB: 15, Item Used:9649 Item Replaced:9649;33;1190;0; 
+Date: 22-05-2016 05:41:01 PM  Account : theshadow User : Nestle Reward: 9773;32;646454;0;, RB: 13, Item Used:9682 Item Replaced:9682;33;17;0; 
+Date: 22-05-2016 05:42:36 PM  Account : mayurpro User : Korra Reward: 9772;32;646454;0;, RB: 9, Item Used:9666,9667 Item Replaced:9666;34;9667;0;9667;34;50337088;1; 
+Date: 22-05-2016 08:35:37 PM  Account : swaraj77 User : Lightenqueen Reward: 9772;32;646454;0;, RB: 8, Item Used:9665 Item Replaced:9665;33;17;0; 
+Date: 22-05-2016 08:46:25 PM  Account : swaraj77 User : Lightenqueen Reward: 9772;32;646454;0;, RB: 9, Item Used:9666,9667 Item Replaced:9666;33;9667;0;9667;33;50730816;1; 
+Date: 22-05-2016 08:58:30 PM  Account : swaraj77 User : Lightenqueen Reward: 9772;32;646454;0;, RB: 10, Item Used:9668 Item Replaced:9668;33;17;0; 
+Date: 22-05-2016 09:00:34 PM  Account : theshadow User : Nestle Reward: 9773;32;646454;0;, RB: 14, Item Used:9683 Item Replaced:9683;33;33958;0; 
+Date: 22-05-2016 09:03:44 PM  Account : swaraj77 User : Lightenqueen Reward: 9773;32;646454;0;, RB: 11, Item Used:9669 Item Replaced:9669;33;17;0; 
+Date: 22-05-2016 09:11:39 PM  Account : swaraj77 User : Lightenqueen Reward: 9773;32;646454;0;, RB: 12, Item Used:9681 Item Replaced:9681;33;9669;0; 
+Date: 22-05-2016 09:15:42 PM  Account : swaraj77 User : Lightenqueen Reward: 9773;32;646454;0;, RB: 13, Item Used:9682 Item Replaced:9682;33;9669;0; 
+Date: 22-05-2016 09:23:09 PM  Account : swaraj77 User : Lightenqueen Reward: 9773;32;646454;0;, RB: 14, Item Used:9683 Item Replaced:9683;33;17;0; 
+Date: 22-05-2016 09:27:45 PM  Account : swaraj77 User : Lightenqueen Reward: 9773;32;646454;0;, RB: 15, Item Used:9649 Item Replaced:9649;33;17;0; 
+Date: 22-05-2016 10:35:56 PM  Account : swaraj77 User : Lightenqueen Reward: 9774;32;646454;0;, RB: 16, Item Used:9650 Item Replaced:9650;33;17;0; 
+Date: 22-05-2016 10:50:44 PM  Account : swaraj77 User : Lightenqueen Reward: 9774;32;646454;0;, RB: 17, Item Used:9931 Item Replaced:9931;33;9933;0; 
+Date: 22-05-2016 11:06:55 PM  Account : abultimate007 User : Lily Reward: 9773;32;646454;0;, RB: 12, Item Used:9681 Item Replaced:9681;34;;0; 

@@ -1,0 +1,13 @@
+Date: 03-08-2017 12:57:14 AM  Account : kaushik20 User : Raino Reward: 9772;32;646454;0;, RB: 13, Item Used:9682 Item Replaced:9682;35;17;0; 
+Date: 03-08-2017 01:08:52 AM  Account : rishjmdi User : Chief Reward: 9772;32;646454;0;, RB: 16, Item Used:9650 Item Replaced:9650;35;3832;0; 
+Date: 03-08-2017 12:15:01 PM  Account : austin2 User : Maximilian Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;65989071;1; 
+Date: 03-08-2017 12:16:10 PM  Account : austin2 User : Maximilian Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;32;5;0; 
+Date: 03-08-2017 12:23:32 PM  Account : akashni User : Niki Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 03-08-2017 02:14:05 PM  Account : parth123 User : Thelichking Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 03-08-2017 02:55:50 PM  Account : IamSudip User : Blackcat Reward: 9772;32;646454;0;, RB: 13, Item Used:9682 Item Replaced:9682;34;33913;0; 
+Date: 03-08-2017 03:01:39 PM  Account : ShinoIte User : Shinoite Reward: 9772;32;646454;0;, RB: 14, Item Used:9683 Item Replaced:9683;33;4;0; 
+Date: 03-08-2017 03:44:05 PM  Account : ruthless User : Lickmycritzz Reward: 9772;32;646454;0;, RB: 16, Item Used:9650 Item Replaced:9650;33;5;0; 
+Date: 03-08-2017 03:46:33 PM  Account : Di9999 User : Caitlyn Reward: 9772;32;646454;0;, RB: 11, Item Used:9669 Item Replaced:9669;35;198712;0; 
+Date: 03-08-2017 04:39:05 PM  Account : lelemale0 User : Screwyou Reward: 9772;32;646454;0;, RB: 15, Item Used:9649 Item Replaced:9649;33;5;0; 
+Date: 03-08-2017 08:17:25 PM  Account : kaushik20 User : Raino Reward: 9772;32;646454;0;, RB: 14, Item Used:9683 Item Replaced:9683;35;17;0; 
+Date: 03-08-2017 08:28:24 PM  Account : parth123 User : Thelichking Reward: -, RB: 2, Item Used:none Item Replaced:none 

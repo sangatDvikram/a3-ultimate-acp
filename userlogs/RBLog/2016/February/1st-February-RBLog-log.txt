@@ -1,0 +1,12 @@
+Date: 01-02-2016 05:20:38 AM  Account : akashn User : Sticks Reward: 9772;32;646454;0;, RB: 9, Item Used:9666,9667 Item Replaced:9666;33;9667;0;9667;32;17039632;1; 
+Date: 01-02-2016 06:12:52 AM  Account : akashn User : Sticks Reward: 9772;32;646454;0;, RB: 10, Item Used:9668 Item Replaced:9668;33;5;0; 
+Date: 01-02-2016 08:37:21 AM  Account : austin2 User : Ilana Reward: 9772;32;646454;0;, RB: 10, Item Used:9668 Item Replaced:9668;33;9669;0; 
+Date: 01-02-2016 08:38:40 AM  Account : austin2 User : Ilana Reward: 9773;32;646454;0;, RB: 11, Item Used:9669 Item Replaced:9669;33;9772;0; 
+Date: 01-02-2016 08:39:11 AM  Account : austin2 User : Ilana Reward: 9773;32;646454;0;, RB: 12, Item Used:9681 Item Replaced:9681;33;9772;0; 
+Date: 01-02-2016 08:39:32 AM  Account : austin2 User : Ilana Reward: 9773;32;646454;0;, RB: 13, Item Used:9682 Item Replaced:9682;33;9772;0; 
+Date: 01-02-2016 09:52:13 AM  Account : wildone User : Wildvvitch Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;140122624;1; 
+Date: 01-02-2016 10:40:07 AM  Account : wildheart User : Wildwitch Reward: -, RB: 4, Item Used:none Item Replaced:none 
+Date: 01-02-2016 11:49:03 AM  Account : Akash007 User : Khalnayak Reward: 9774;32;646454;0;, RB: 18, Item Used:9690 Item Replaced:9690;33;5176;0; 
+Date: 01-02-2016 04:22:56 PM  Account : SHOOTER User : Satana Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;33;;0; 
+Date: 01-02-2016 07:57:13 PM  Account : warma111 User : Deathnight Reward: 9773;32;646454;0;, RB: 13, Item Used:9682 Item Replaced:9682;33;17;0; 
+Date: 01-02-2016 08:01:52 PM  Account : staryeyed19 User : Jinchuriki Reward: 9774;32;646454;0;, RB: 16, Item Used:9650 Item Replaced:9650;33;17;0; 

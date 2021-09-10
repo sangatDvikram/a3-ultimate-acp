@@ -1,0 +1,13 @@
+Date: 07-11-2016 12:59:01 AM  Account : steven999 User : Neurone Reward: -, RB: 5, Item Used:none Item Replaced:none 
+Date: 07-11-2016 02:36:03 AM  Account : chanchan User : Blindshot Reward: -, RB: 5, Item Used:none Item Replaced:none 
+Date: 07-11-2016 03:14:37 AM  Account : ghostcom User : Lumina Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;33;17;0; 
+Date: 07-11-2016 10:14:48 AM  Account : chanchan User : Blindshot Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;705693600;1; 
+Date: 07-11-2016 01:40:57 PM  Account : rahulk User : Undeadmage Reward: 9773;32;646454;0;, RB: 15, Item Used:9649 Item Replaced:9649;33;5;0; 
+Date: 07-11-2016 03:59:46 PM  Account : grishma User : Demonic Reward: -, RB: 2, Item Used:none Item Replaced:none 
+Date: 07-11-2016 04:00:21 PM  Account : grishma User : Demonic Reward: -, RB: 3, Item Used:none Item Replaced:none 
+Date: 07-11-2016 04:00:52 PM  Account : grishma User : Demonic Reward: -, RB: 4, Item Used:none Item Replaced:none 
+Date: 07-11-2016 04:01:37 PM  Account : grishma User : Demonic Reward: -, RB: 5, Item Used:none Item Replaced:none 
+Date: 07-11-2016 05:17:44 PM  Account : a3gamer User : Badsaran Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;495458112;1; 
+Date: 07-11-2016 06:30:13 PM  Account : kiniboy User : Goosy Reward: 9773;32;646454;0;, RB: 14, Item Used:9683 Item Replaced:9683;33;5;0; 
+Date: 07-11-2016 07:49:33 PM  Account : steven999 User : Neurone Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;676989072;1; 
+Date: 07-11-2016 07:52:46 PM  Account : avinaships User : Evilrage Reward: 9772;32;646454;0;, RB: 9, Item Used:9666,9667 Item Replaced:9666;33;9667;0;9667;33;70518944;1; 

@@ -1,0 +1,9 @@
+Date: 11-10-2017 12:13:31 AM  Account : firemet User : Rbsix Reward: -, RB: 2, Item Used:none Item Replaced:none 
+Date: 11-10-2017 12:39:01 AM  Account : firemet User : Rbsix Reward: -, RB: 3, Item Used:none Item Replaced:none 
+Date: 11-10-2017 01:28:59 AM  Account : firemet User : Rbsix Reward: -, RB: 4, Item Used:none Item Replaced:none 
+Date: 11-10-2017 10:46:52 AM  Account : rooney10 User : Deadshot Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;33;17;0; 
+Date: 11-10-2017 11:01:37 AM  Account : Jagadesh User : Chinni Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;1717570449;1; 
+Date: 11-10-2017 04:11:32 PM  Account : SPNivas User : Suzuka Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;34;;0; 
+Date: 11-10-2017 05:51:44 PM  Account : rooney10 User : Deadshot Reward: 9772;32;646454;0;, RB: 8, Item Used:9665 Item Replaced:9665;33;4;0; 
+Date: 11-10-2017 09:06:28 PM  Account : firemet User : Rbsix Reward: -, RB: 5, Item Used:none Item Replaced:none 
+Date: 11-10-2017 09:40:24 PM  Account : firemet User : Rbsix Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;1719012241;1; 

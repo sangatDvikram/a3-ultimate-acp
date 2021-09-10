@@ -1,0 +1,15 @@
+Date: 02-12-2017 01:09:04 AM  Account : opwalac User : Jdjahjask Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;1804737185;1; 
+Date: 02-12-2017 03:08:13 AM  Account : Arohanix User : Bloodprince Reward: 9772;32;646454;0;, RB: 12, Item Used:9681 Item Replaced:9681;35;5;0; 
+Date: 02-12-2017 07:52:31 AM  Account : ramps143 User : Rockstar Reward: -, RB: 2, Item Used:none Item Replaced:none 
+Date: 02-12-2017 10:24:48 AM  Account : deadzone User : Wolf Reward: 9772;32;646454;0;, RB: 11, Item Used:9669 Item Replaced:9669;32;9681;0; 
+Date: 02-12-2017 10:25:12 AM  Account : deadzone User : Wolf Reward: 9772;32;646454;0;, RB: 12, Item Used:9681 Item Replaced:9681;32;9772;0; 
+Date: 02-12-2017 10:25:33 AM  Account : deadzone User : Wolf Reward: 9772;32;646454;0;, RB: 13, Item Used:9682 Item Replaced:9682;32;9772;0; 
+Date: 02-12-2017 10:25:56 AM  Account : deadzone User : Wolf Reward: 9772;32;646454;0;, RB: 14, Item Used:9683 Item Replaced:9683;32;9772;0; 
+Date: 02-12-2017 10:28:32 AM  Account : deadzone User : Wolf Reward: 9772;32;646454;0;, RB: 15, Item Used:9649 Item Replaced:9649;32;9650;0; 
+Date: 02-12-2017 10:30:37 AM  Account : deadzone User : Wolf Reward: 9772;32;646454;0;, RB: 16, Item Used:9650 Item Replaced:9650;32;9772;0; 
+Date: 02-12-2017 03:16:11 PM  Account : ritesh444 User : Archerx Reward: -, RB: 5, Item Used:none Item Replaced:none 
+Date: 02-12-2017 03:16:27 PM  Account : ritesh555 User : Despacito Reward: -, RB: 5, Item Used:none Item Replaced:none 
+Date: 02-12-2017 04:59:39 PM  Account : dnpatelkd User : Ranipadma Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 02-12-2017 05:11:42 PM  Account : rasputin1 User : Celebrity Reward: 9772;32;646454;0;, RB: 14, Item Used:9683 Item Replaced:9683;35;9673;0; 
+Date: 02-12-2017 07:06:11 PM  Account : demonskiller User : Auraqueen Reward: 9772;32;646454;0;, RB: 17, Item Used:9931 Item Replaced:9931;35;17;0; 
+Date: 02-12-2017 08:41:50 PM  Account : rasputin1 User : Celebrity Reward: 9772;32;646454;0;, RB: 15, Item Used:9649 Item Replaced:9649;33;8415;0; 

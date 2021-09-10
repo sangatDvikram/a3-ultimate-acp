@@ -1,0 +1,8 @@
+Date: 17-01-2016 07:37:10 AM  Account : rohith94 User : Kryztal Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 17-01-2016 09:33:02 AM  Account : kaishashank User : Azerknight Reward: -, RB: 5, Item Used:none Item Replaced:none 
+Date: 17-01-2016 09:36:03 AM  Account : vishnuv007 User : Himura Reward: 9773;32;646454;0;, RB: 11, Item Used:9669 Item Replaced:9669;33;2107;0; 
+Date: 17-01-2016 10:28:18 AM  Account : musapatel User : Musa Reward: 9773;32;646454;0;, RB: 13, Item Used:9682 Item Replaced:9682;33;9442;0; 
+Date: 17-01-2016 11:14:20 AM  Account : warma111 User : Deathnight Reward: 9772;32;646454;0;, RB: 10, Item Used:9668 Item Replaced:9668;33;17;0; 
+Date: 17-01-2016 02:08:25 PM  Account : zaxidan User : Archery Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;125178112;1; 
+Date: 17-01-2016 07:01:03 PM  Account : rohith94 User : Kryztal Reward: -, RB: 2, Item Used:none Item Replaced:none 
+Date: 17-01-2016 07:43:54 PM  Account : kaishashank User : Azerknight Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;99486399;1; 

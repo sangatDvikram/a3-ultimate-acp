@@ -1,0 +1,14 @@
+Date: 24-12-2017 12:00:45 AM  Account : vinoth185 User : Xiah Reward: 9772;32;646454;0;, RB: 8, Item Used:9665 Item Replaced:9665;33;17;0; 
+Date: 24-12-2017 12:21:32 PM  Account : ArohaniQ User : Moon Reward: 9772;32;646454;0;, RB: 11, Item Used:9669 Item Replaced:9669;34;34932;0; 
+Date: 24-12-2017 02:37:46 PM  Account : cherish2 User : Redhawk Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 24-12-2017 03:10:36 PM  Account : ikkians17 User : Queen Reward: 9772;32;646454;0;, RB: 11, Item Used:9669 Item Replaced:9669;33;9681;0; 
+Date: 24-12-2017 03:12:24 PM  Account : ikkians17 User : Queen Reward: 9772;32;646454;0;, RB: 12, Item Used:9681 Item Replaced:9681;33;9683;0; 
+Date: 24-12-2017 03:15:40 PM  Account : inferno17 User : Holyinferno Reward: 9772;32;646454;0;, RB: 13, Item Used:9682 Item Replaced:9682;34;3832;0; 
+Date: 24-12-2017 05:51:40 PM  Account : ikkians17 User : Queen Reward: 9772;32;646454;0;, RB: 13, Item Used:9682 Item Replaced:9682;35;9683;0; 
+Date: 24-12-2017 05:56:42 PM  Account : ikkians17 User : Queen Reward: 9772;32;646454;0;, RB: 14, Item Used:9683 Item Replaced:9683;33;9649;0; 
+Date: 24-12-2017 06:04:51 PM  Account : ikkians17 User : Queen Reward: 9772;32;646454;0;, RB: 15, Item Used:9649 Item Replaced:9649;34;33913;0; 
+Date: 24-12-2017 09:15:57 PM  Account : ston3r User : Prophecy Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 24-12-2017 09:20:04 PM  Account : baby758 User : Archerrock Reward: -, RB: 5, Item Used:none Item Replaced:none 
+Date: 24-12-2017 09:21:35 PM  Account : khushjazz User : Megika Reward: 9772;32;646454;0;, RB: 8, Item Used:9665 Item Replaced:9665;35;17;0; 
+Date: 24-12-2017 10:53:20 PM  Account : Smokej User : Graykandn Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;32;5;0; 
+Date: 24-12-2017 11:11:36 PM  Account : rajput01 User : Charlotte Reward: 9772;32;646454;0;, RB: 9, Item Used:9666,9667 Item Replaced:9666;33;9667;0;9667;35;155982001;1; 

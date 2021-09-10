@@ -1,0 +1,10 @@
+Date: 11-11-2017 12:13:13 AM  Account : booster1 User : Redone Reward: -, RB: 5, Item Used:none Item Replaced:none 
+Date: 11-11-2017 08:43:41 AM  Account : booster1 User : Redone Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;1786383265;1; 
+Date: 11-11-2017 10:43:57 AM  Account : booster1 User : Redone Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;35;5;0; 
+Date: 11-11-2017 11:02:45 AM  Account : booster2 User : Redtwo Reward: -, RB: 4, Item Used:none Item Replaced:none 
+Date: 11-11-2017 11:30:35 AM  Account : booster2 User : Redtwo Reward: -, RB: 5, Item Used:none Item Replaced:none 
+Date: 11-11-2017 12:13:28 PM  Account : booster2 User : Redtwo Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;1786776481;1; 
+Date: 11-11-2017 12:18:27 PM  Account : booster4 User : Redfour Reward: -, RB: 4, Item Used:none Item Replaced:none 
+Date: 11-11-2017 03:47:51 PM  Account : Nx0007 User : Neymar Reward: -, RB: 4, Item Used:none Item Replaced:none 
+Date: 11-11-2017 06:05:21 PM  Account : professor User : Professor Reward: 9772;32;646454;0;, RB: 15, Item Used:9649 Item Replaced:9649;34;5;0; 
+Date: 11-11-2017 09:30:01 PM  Account : ArohaniQ User : Moon Reward: -, RB: 5, Item Used:none Item Replaced:none 

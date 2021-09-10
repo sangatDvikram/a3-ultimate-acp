@@ -1,0 +1,11 @@
+Date: 20-10-2015 12:35:48 AM  Account : sami1991 User : Yoindi Reward: -, RB: 2, Item Used:none Item Replaced:none 
+Date: 20-10-2015 01:02:38 AM  Account : musapatel User : Musa Reward: -, RB: 5, Item Used:none Item Replaced:none 
+Date: 20-10-2015 01:19:27 AM  Account : Alpha11 User : Jackknight Reward: 9774;32;646454;0;, RB: 16, Item Used:9650 Item Replaced:9650;33;33938;0; 
+Date: 20-10-2015 05:52:23 AM  Account : Astrong User : Warmage Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 20-10-2015 06:39:58 AM  Account : Astrong User : Warmage Reward: -, RB: 2, Item Used:none Item Replaced:none 
+Date: 20-10-2015 10:01:58 AM  Account : Astrong User : Warmage Reward: -, RB: 3, Item Used:none Item Replaced:none 
+Date: 20-10-2015 10:53:22 AM  Account : musapatel User : Musa Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;79828127;1; 
+Date: 20-10-2015 11:33:02 AM  Account : sami1991 User : Yoindi Reward: -, RB: 3, Item Used:none Item Replaced:none 
+Date: 20-10-2015 08:34:29 PM  Account : musapatel User : Musa Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;33;5;0; 
+Date: 20-10-2015 09:26:11 PM  Account : kosmosis User : Kosmo Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;35;9684;0; 
+Date: 20-10-2015 11:45:22 PM  Account : Alpha11 User : Jackknight Reward: 9774;32;646454;0;, RB: 17, Item Used:9931 Item Replaced:9931;33;5;0; 

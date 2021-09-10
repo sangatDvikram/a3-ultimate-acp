@@ -1,0 +1,17 @@
+Date: 14-02-2015 03:48:06 AM  Account : zahooralamm User : AphroditE Reward: 9773;32;646454;0;, RB: 13, Item Used:9682 Item Replaced:9682;32;17;0; 
+Date: 14-02-2015 06:31:33 AM  Account : tatd117 User : Magneta Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;1177685535;1; 
+Date: 14-02-2015 06:42:43 AM  Account : gmbr123 User : Ceasefire Reward: 9773;32;646454;0;, RB: 12, Item Used:9681 Item Replaced:9681;33;17;0; 
+Date: 14-02-2015 06:47:09 AM  Account : itagvj User : Angelic Reward: 9773;32;646454;0;, RB: 14, Item Used:9683 Item Replaced:9683;33;4;0; 
+Date: 14-02-2015 07:51:25 AM  Account : ctg70000 User : Beautifly Reward: -, RB: 2, Item Used:none Item Replaced:none 
+Date: 14-02-2015 07:58:24 AM  Account : sasukemax User : Speedster Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;33;9646;0;9646;32;1176112415;1; 
+Date: 14-02-2015 08:55:38 AM  Account : dragon066 User : Exoticaim Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 14-02-2015 09:34:16 AM  Account : dinesh2 User : Anjalika Reward: 9774;32;646454;0;, RB: 16, Item Used:9650 Item Replaced:9650;34;5;0; 
+Date: 14-02-2015 12:59:56 PM  Account : musa12345 User : Creative Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;1178865183;1; 
+Date: 14-02-2015 01:45:02 PM  Account : Parth12 User : Rockforwar Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 14-02-2015 02:42:12 PM  Account : din3626 User : Stallon Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 14-02-2015 04:00:42 PM  Account : viroja User : Magicmage Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;1172572959;1; 
+Date: 14-02-2015 04:33:52 PM  Account : KingPatel User : Kingpatel Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 14-02-2015 05:02:29 PM  Account : vishnuv007 User : Himura Reward: -, RB: 3, Item Used:none Item Replaced:none 
+Date: 14-02-2015 07:33:00 PM  Account : zahooralamm User : AphroditE Reward: 9773;32;646454;0;, RB: 14, Item Used:9683 Item Replaced:9683;33;17;0; 
+Date: 14-02-2015 07:33:53 PM  Account : weeteck User : Metal Reward: 9774;32;646454;0;, RB: 16, Item Used:9650 Item Replaced:9650;34;5;0; 
+Date: 14-02-2015 10:38:38 PM  Account : dragon066 User : Exoticaim Reward: -, RB: 2, Item Used:none Item Replaced:none 

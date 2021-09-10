@@ -1,0 +1,13 @@
+Date: 06-02-2017 09:49:03 AM  Account : stylekid User : Patanjali Reward: -, RB: 4, Item Used:none Item Replaced:none 
+Date: 06-02-2017 10:28:27 AM  Account : dibesha User : Dibesh Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 06-02-2017 10:55:06 AM  Account : kinggomzy User : Kinggomzy Reward: 9772;32;646454;0;, RB: 8, Item Used:9665 Item Replaced:9665;35;3483;0; 
+Date: 06-02-2017 11:06:10 AM  Account : jaredrag User : Eviscerate Reward: 9773;32;646454;0;, RB: 14, Item Used:9683 Item Replaced:9683;33;33913;0; 
+Date: 06-02-2017 11:13:05 AM  Account : Snation User : Snation Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;742265776;1; 
+Date: 06-02-2017 03:16:27 PM  Account : evilrobot User : Evilrobot Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;33;17;0; 
+Date: 06-02-2017 05:11:43 PM  Account : tarun0154 User : Badasssss Reward: 9773;32;646454;0;, RB: 11, Item Used:9669 Item Replaced:9669;33;5;0; 
+Date: 06-02-2017 06:00:55 PM  Account : ajayarora User : Ajayboss Reward: 9772;32;646454;0;, RB: 9, Item Used:9666,9667 Item Replaced:9666;33;9667;0;9667;33;80872977;1; 
+Date: 06-02-2017 06:04:08 PM  Account : ajayarora User : Ajayboss Reward: 9772;32;646454;0;, RB: 10, Item Used:9668 Item Replaced:9668;33;14;0; 
+Date: 06-02-2017 06:06:15 PM  Account : ajayarora User : Ajayboss Reward: 9773;32;646454;0;, RB: 11, Item Used:9669 Item Replaced:9669;33;9934;0; 
+Date: 06-02-2017 06:18:37 PM  Account : ajayarora User : Ajayboss Reward: 9773;32;646454;0;, RB: 12, Item Used:9681 Item Replaced:9681;33;17;0; 
+Date: 06-02-2017 06:20:37 PM  Account : ajayarora User : Ajayboss Reward: 9773;32;646454;0;, RB: 13, Item Used:9682 Item Replaced:9682;33;17;0; 
+Date: 06-02-2017 07:29:11 PM  Account : ajayarora User : Ajayboss Reward: 9773;32;646454;0;, RB: 14, Item Used:9683 Item Replaced:9683;33;7395;0; 

@@ -1,0 +1,9 @@
+Date: 09-10-2016 06:51:43 AM  Account : rahul22 User : Eko Reward: 9773;32;646454;0;, RB: 14, Item Used:9683 Item Replaced:9683;33;9826;0; 
+Date: 09-10-2016 09:08:31 AM  Account : puni7676 User : Gastly Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;65988838;1; 
+Date: 09-10-2016 10:24:14 AM  Account : alioth User : Moneymaiden Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;677513616;1; 
+Date: 09-10-2016 11:01:34 AM  Account : rahul22 User : Eko Reward: 9773;32;646454;0;, RB: 15, Item Used:9649 Item Replaced:9649;33;9826;0; 
+Date: 09-10-2016 11:17:14 AM  Account : bhutboy User : Deathwalk Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;33;17;0; 
+Date: 09-10-2016 11:27:33 AM  Account : vishal11 User : Scorch Reward: 9774;32;646454;0;, RB: 18, Item Used:9690 Item Replaced:9690;33;9828;0; 
+Date: 09-10-2016 12:27:52 PM  Account : beast619 User : Oppe Reward: -, RB: 2, Item Used:none Item Replaced:none 
+Date: 09-10-2016 08:58:05 PM  Account : tram6183 User : Thriller Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;33;;0; 
+Date: 09-10-2016 10:36:38 PM  Account : alioth User : Moneymaiden Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;33;5;0; 

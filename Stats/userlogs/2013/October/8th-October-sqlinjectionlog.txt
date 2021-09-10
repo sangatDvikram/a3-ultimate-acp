@@ -1,0 +1,4 @@
+Date: 08-10-2013 05:05:31 PM IP: 59.94.52.231 User : Not loggedin Code: <script>alert("fuck you");</script>, Fixed: scriptalert(fuck you);/script, Link: http://www.a3ultimate.com/Stats/crafting.php
+Date: 08-10-2013 05:05:31 PM IP: 59.94.52.231 User : Not loggedin Code: <script>alert("fuck you");</script>, Fixed: scriptalert(fuck you);/script, Link: http://www.a3ultimate.com/Stats/crafting.php
+Date: 08-10-2013 05:17:27 PM IP: 59.94.52.231 User : Not loggedin Code: <script>alert("fuck you");</script>, Fixed: scriptalert(fuck you);/script, Link: http://www.a3ultimate.com/Stats/crafting.php
+Date: 08-10-2013 05:17:27 PM IP: 59.94.52.231 User : Not loggedin Code: <script>alert("fuck you");</script>, Fixed: scriptalert(fuck you);/script, Link: http://www.a3ultimate.com/Stats/crafting.php

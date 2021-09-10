@@ -1,0 +1,9 @@
+Date: 05-01-2017 01:25:16 AM  Account : wargasm User : Rudradaman Reward: 9774;32;646454;0;, RB: 16, Item Used:9650 Item Replaced:9650;33;33934;0; 
+Date: 05-01-2017 06:23:29 AM  Account : parth007 User : Melody Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;752223489;1; 
+Date: 05-01-2017 07:25:31 AM  Account : sagar95 User : Sensiusarrow Reward: 9772;32;646454;0;, RB: 8, Item Used:9665 Item Replaced:9665;33;;0; 
+Date: 05-01-2017 07:44:10 AM  Account : Prince1 User : Darkness Reward: 9773;32;646454;0;, RB: 15, Item Used:9649 Item Replaced:9649;33;5;0; 
+Date: 05-01-2017 08:57:12 AM  Account : bhingru01 User : Smashking Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 05-01-2017 10:47:36 AM  Account : ramps153 User : Magexxxs Reward: 9774;32;646454;0;, RB: 17, Item Used:9931 Item Replaced:9931;33;17;0; 
+Date: 05-01-2017 03:01:34 PM  Account : khatriji User : Kanika Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 05-01-2017 08:03:52 PM  Account : Prince1 User : Darkness Reward: 9774;32;646454;0;, RB: 16, Item Used:9650 Item Replaced:9650;33;17;0; 
+Date: 05-01-2017 10:37:11 PM  Account : Sanojch User : Sealbreaker Reward: 9773;32;646454;0;, RB: 15, Item Used:9649 Item Replaced:9649;33;17;0; 

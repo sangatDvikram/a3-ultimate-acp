@@ -1,0 +1,16 @@
+Date: 01-01-2017 12:34:35 AM  Account : rajeev2r2 User : Zorawar Reward: -, RB: 5, Item Used:none Item Replaced:none 
+Date: 01-01-2017 02:51:26 AM  Account : rajeev2r2 User : Zorawar Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;33;9646;0;9646;33;750649601;1; 
+Date: 01-01-2017 03:54:32 AM  Account : rajeev2r2 User : Zorawar Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;33;3681;0; 
+Date: 01-01-2017 05:53:46 AM  Account : manishg User : Jhoncina Reward: 9773;32;646454;0;, RB: 15, Item Used:9649 Item Replaced:9649;33;17;0; 
+Date: 01-01-2017 06:22:34 AM  Account : MegaDeath User : Elven Reward: 9773;32;646454;0;, RB: 14, Item Used:9683 Item Replaced:9683;33;1190;0; 
+Date: 01-01-2017 06:24:10 AM  Account : hardy1982 User : Hz Reward: 9774;32;646454;0;, RB: 18, Item Used:9690 Item Replaced:9690;33;5;0; 
+Date: 01-01-2017 03:20:11 PM  Account : AdarshWAR User : Lilith Reward: 9772;32;646454;0;, RB: 10, Item Used:9668 Item Replaced:9668;34;5;0; 
+Date: 01-01-2017 03:25:47 PM  Account : AdarshWAR User : Lilith Reward: 9773;32;646454;0;, RB: 11, Item Used:9669 Item Replaced:9669;33;5;0; 
+Date: 01-01-2017 03:29:40 PM  Account : AdarshWAR User : Lilith Reward: 9773;32;646454;0;, RB: 12, Item Used:9681 Item Replaced:9681;33;14;0; 
+Date: 01-01-2017 03:32:29 PM  Account : AdarshWAR User : Lilith Reward: 9773;32;646454;0;, RB: 13, Item Used:9682 Item Replaced:9682;33;14;0; 
+Date: 01-01-2017 03:38:03 PM  Account : AdarshWAR User : Lilith Reward: 9773;32;646454;0;, RB: 14, Item Used:9683 Item Replaced:9683;33;14;0; 
+Date: 01-01-2017 03:39:15 PM  Account : AdarshWAR User : Lilith Reward: 9773;32;646454;0;, RB: 15, Item Used:9649 Item Replaced:9649;33;14;0; 
+Date: 01-01-2017 04:00:58 PM  Account : AdarshWAR User : Lilith Reward: 9774;32;646454;0;, RB: 16, Item Used:9650 Item Replaced:9650;33;17;0; 
+Date: 01-01-2017 04:08:43 PM  Account : AdarshWAR User : Lilith Reward: 9774;32;646454;0;, RB: 17, Item Used:9931 Item Replaced:9931;33;14;0; 
+Date: 01-01-2017 09:02:43 PM  Account : Leitao05 User : Estaferabixo Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 01-01-2017 10:26:10 PM  Account : Leitao05 User : Estaferabixo Reward: -, RB: 2, Item Used:none Item Replaced:none 

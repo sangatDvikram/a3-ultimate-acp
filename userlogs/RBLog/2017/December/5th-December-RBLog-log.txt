@@ -1,0 +1,4 @@
+Date: 05-12-2017 09:12:54 AM  Account : rocky6036 User : Oracle Reward: 9772;32;646454;0;, RB: 10, Item Used:9668 Item Replaced:9668;33;5;0; 
+Date: 05-12-2017 10:07:34 AM  Account : firemet User : Grace Reward: 9772;32;646454;0;, RB: 16, Item Used:9650 Item Replaced:9650;32;34872;0; 
+Date: 05-12-2017 07:05:25 PM  Account : rasputin1 User : Celebrity Reward: 9772;32;646454;0;, RB: 17, Item Used:9931 Item Replaced:9931;35;198712;0; 
+Date: 05-12-2017 07:15:49 PM  Account : firemet User : Grace Reward: 9772;32;646454;0;, RB: 17, Item Used:9931 Item Replaced:9931;32;34872;0; 

@@ -1,0 +1,15 @@
+Date: 20-11-2014 09:16:25 AM  Account : zach69 User : Omnia Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;33;9646;0;9646;33;981865646;1; 
+Date: 20-11-2014 09:59:22 AM  Account : jeetubaba User : Tauriel Reward: 9773;32;646454;0;, RB: 12, Item Used:9681 Item Replaced:9681;33;17;0; 
+Date: 20-11-2014 12:14:42 PM  Account : anik002 User : Neonfight Reward: -, RB: 5, Item Used:none Item Replaced:none 
+Date: 20-11-2014 12:19:30 PM  Account : ganu28 User : Mishka Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;33;9646;0;9646;33;981996718;1; 
+Date: 20-11-2014 12:30:24 PM  Account : anishrocks User : Image Reward: 9772;32;646454;0;, RB: 7, Item Used:9664 Item Replaced:9664;33;4;0; 
+Date: 20-11-2014 02:08:05 PM  Account : holylover User : Soulreaver Reward: 9774;32;646454;0;, RB: 18, Item Used:9690 Item Replaced:9690;32;17;0; 
+Date: 20-11-2014 02:50:56 PM  Account : sameer07 User : Sameer Reward: -, RB: 5, Item Used:none Item Replaced:none 
+Date: 20-11-2014 03:06:24 PM  Account : ajay001 User : Littlebaby Reward: -, RB: 2, Item Used:none Item Replaced:none 
+Date: 20-11-2014 03:51:50 PM  Account : Mustang User : Kingstone Reward: 9772;32;646454;0;, RB: 6, Item Used:9645,9646 Item Replaced:9645;32;9646;0;9646;32;982127790;1; 
+Date: 20-11-2014 05:27:48 PM  Account : bishal100 User : Eirene Reward: 9772;32;646454;0;, RB: 8, Item Used:9665 Item Replaced:9665;33;17;0; 
+Date: 20-11-2014 09:11:04 PM  Account : rasputin User : Valentine Reward: 9774;32;646454;0;, RB: 16, Item Used:9650 Item Replaced:9650;34;10817;0; 
+Date: 20-11-2014 09:36:52 PM  Account : 19staryeyed User : Staryeyed Reward: 9772;32;646454;0;, RB: 8, Item Used:9665 Item Replaced:9665;33;9830;0; 
+Date: 20-11-2014 09:59:59 PM  Account : shadab User : Chutzpah Reward: -, RB: 2, Item Used:none Item Replaced:none 
+Date: 20-11-2014 11:25:30 PM  Account : holylover User : Soulreaver Reward: -, RB: 1, Item Used:none Item Replaced:none 
+Date: 20-11-2014 11:41:34 PM  Account : anishrocks User : Image Reward: 9772;32;646454;0;, RB: 8, Item Used:9665 Item Replaced:9665;33;17;0; 

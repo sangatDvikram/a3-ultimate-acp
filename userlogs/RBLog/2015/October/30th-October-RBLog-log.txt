@@ -1,0 +1,4 @@
+Date: 30-10-2015 03:41:20 AM  Account : baskaran72 User : CuteARCHER Reward: 9773;32;646454;0;, RB: 14, Item Used:9683 Item Replaced:9683;33;5;0; 
+Date: 30-10-2015 05:26:29 AM  Account : Raghav User : Mastery Reward: 9772;32;646454;0;, RB: 9, Item Used:9666,9667 Item Replaced:9666;33;9667;0;9667;33;9444767;1; 
+Date: 30-10-2015 07:10:30 AM  Account : Pearl00 User : Heyu Reward: 9773;32;646454;0;, RB: 11, Item Used:9669 Item Replaced:9669;33;9681;0; 
+Date: 30-10-2015 07:50:26 PM  Account : jaideep1 User : Aggressor Reward: 9773;32;646454;0;, RB: 14, Item Used:9683 Item Replaced:9683;33;17;0; 
