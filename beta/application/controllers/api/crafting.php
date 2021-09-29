@@ -39,7 +39,7 @@ class Crafting extends REST_Controller
                                                  <div class="row valign-wrapper" >
                                                      <div class="col s3">';
 
-                                     $data.= '<img src="http://root.a3ultimate.com/allitems/Blank.jpg" alt="" class=" responsive-img"> ';
+                                     $data.= '<img src=".//allitems/Blank.jpg" alt="" class=" responsive-img"> ';
 
                                      $data.= '</div><div class="col s9 ">';
 

@@ -223,8 +223,8 @@ while ($sup = odbc_fetch_array($query1))
 </div><!-- Main -->
 </div><!-- Cointainer -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>  
-<script src="http://www.a3ultimate.com/js/bootstrap-tooltip.js"></script>  
-<script src="http://www.a3ultimate.com/js/bootstrap-popover.js"></script>  
+<script src=".//js/bootstrap-tooltip.js"></script>  
+<script src=".//js/bootstrap-popover.js"></script>  
 <script type="text/javascript">
  $(document).ready(function() {
   $("[rel=drevil]").popover({

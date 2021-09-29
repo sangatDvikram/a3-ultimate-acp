@@ -17,11 +17,11 @@ $paypal_id='meprot@gmail.com'; //////you must create your own sandbox, replace t
 	<script language="javascript">
 	$(document).ready(function()
   {
-	 $('#coins').load('http://www.a3ultimate.com/Stats/coins.php?randval='+ Math.random());
+	 $('#coins').load('.//Stats/coins.php?randval='+ Math.random());
 	//ajaxTime.php is called every second to get time from server
    var refreshId = setInterval(function() 
    {
-		 $('#coins').load('http://www.a3ultimate.com/Stats/coins.php?randval='+ Math.random());
+		 $('#coins').load('.//Stats/coins.php?randval='+ Math.random());
 	}, 30000);
   });
 function check_r_stats(){
@@ -55,7 +55,7 @@ var c=Math.round(e * 100)/100;
 					
                     <input type='hidden' name='business' value='<?php echo $paypal_id;?>'> <!-- found on top -->
                     <input type='hidden' name='cmd' value="_xclick">
-					<input type='hidden' name='image_url' value='http://www.a3ultimate.com/images/1.png'> <!-- logo of your website -->
+					<input type='hidden' name='image_url' value='.//images/1.png'> <!-- logo of your website -->
 					<input type="hidden" name="rm" value="2" /> <!--1-get 0-get 2-POST -->
                     <input type='hidden' class="name" name='item_name' value='A3 Ultimate Premium Coins'>
 					<input type="hidden" name="business" value="meprot@gmail.com">
@@ -78,9 +78,9 @@ var c=Math.round(e * 100)/100;
 					<input type="hidden" name="lc" value="US">
 					<input type="hidden" name="cbt" value="Return to the hub">
 					<input type="hidden" name="bn" value="PP-BuyNowBF">
-                    <input type='hidden' name='cancel_return' value='http://www.a3ultimate.com/testpaypal/cancel.php'>
-                    <input type='hidden' name='return' value='http://www.a3ultimate.com/testpaypal/success.php'>
-					<input type="hidden" name="notify_url" value="http://www.a3ultimate.com/testpaypal/ipn.php" /> 
+                    <input type='hidden' name='cancel_return' value='.//testpaypal/cancel.php'>
+                    <input type='hidden' name='return' value='.//testpaypal/success.php'>
+					<input type="hidden" name="notify_url" value=".//testpaypal/ipn.php" /> 
                     
                     <img alt="" border="0" src="https://www.sandbox.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
 					<input type="hidden" name="custom" value='<?php echo $_SESSION['username']; ?>'><!-- custom field -->

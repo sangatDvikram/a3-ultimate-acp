@@ -7,9 +7,9 @@ $db_name = ""; //database name
 
 // PayPal settings
 $paypal_email = 'meprot@gmail.com';
-$return_url = 'http://www.a3ultimate.com/paypal/success.php';
-$cancel_url = 'http://www.a3ultimate.com/paypal/cancel.php';
-$notify_url = 'http://www.a3ultimate.com/testpaypal/ipn.php';
+$return_url = './/paypal/success.php';
+$cancel_url = './/paypal/cancel.php';
+$notify_url = './/testpaypal/ipn.php';
 
 $item_name = 'Test Item';
 $item_amount = 5.00;

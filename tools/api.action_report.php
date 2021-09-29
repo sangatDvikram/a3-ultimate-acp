@@ -13,7 +13,7 @@ if(isset($_SESSION['grade'])&&$_SESSION['grade'] == "BAN")
     		{
 
                 //GENERATE CURL 
-            $url = ($_POST['type']=='Yes') ? "http://www.a3ultimate.com/beta/index.php/api/pk/reportfake/format/json" : "http://www.a3ultimate.com/beta/index.php/api/pk/rejectfake/format/json";
+            $url = ($_POST['type']=='Yes') ? ".//beta/index.php/api/pk/reportfake/format/json" : ".//beta/index.php/api/pk/rejectfake/format/json";
             $fields = array(
                         'id'=>urlencode($_POST['id']),
                         'grade'=>urlencode($_SESSION['grade'])

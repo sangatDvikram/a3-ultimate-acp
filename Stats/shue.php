@@ -12,7 +12,7 @@ function shuedatacalc($shue)
 	$info += slot4info($slot4,$info['Lvl']);
 
 	$shuelvl = $info['Lvl'];
-	$imgname = 'http://root.a3ultimate.com/allitems/shue/';
+	$imgname = './/allitems/shue/';
 	$charclass ='';
 
 	if($slot1=='1012' || $slot1 == '66536')

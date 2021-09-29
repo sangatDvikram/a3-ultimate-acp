@@ -13,7 +13,7 @@
                 </div>
             </div>
         </div>
-        <div class="parallax green darken-1"><img src="/images/back-top.jpg" alt="Unsplashed background img 2"></div>
+        <div class="parallax green darken-1"><img src="./images/back-top.jpg" alt="Unsplashed background img 2"></div>
     </div>
 
 <div class="row main-page-container" style="margin-top: -3%;">
@@ -120,7 +120,7 @@
                                                 <div class="row valign-wrapper" >
                                                     <div class="col s4">';
 
-                                        echo '<img src="/allitems/monsters/'.$monsters['monster_code'].'.jpg" title="'.$monsters['monster_name'].'" class=" responsive-img"> ';
+                                        echo '<img src="./allitems/monsters/'.$monsters['monster_code'].'.jpg" title="'.$monsters['monster_name'].'" class=" responsive-img"> ';
 
                                         echo '</div><div class="col s8 " style="min-height:80px;font-size:14px" >';
 

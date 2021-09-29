@@ -74,8 +74,8 @@ if ($_POST['doRecover'] == 'Recover')
     $output .= "@" . $mailparts[1];
     $numm = truncate($contact);
 
-//$mail->AddAttachment("http://www.a3ultimate.com/images/phpmailer.gif");      // attachment
-//$mail->AddAttachment("http://www.a3ultimate.com/images/phpmailer_mini.gif"); // attachment
+//$mail->AddAttachment(".//images/phpmailer.gif");      // attachment
+//$mail->AddAttachment(".//images/phpmailer_mini.gif"); // attachment
 
     if (!$mail->Send())
     {

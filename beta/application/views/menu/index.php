@@ -1,8 +1,8 @@
 <nav class="white lighten-2">
     <div class="nav-wrapper">
         <div class="col s12">
-            <a href="/" class="brand-logo hide-on-med-and-down" style="font-size: 18px"><i class="mdi-navigation-chevron-left left"></i> Back to Main Website</a>
-            <a href="/" class="brand-logo hide-on-large-only" style="font-size: 18px"><i class="mdi-navigation-chevron-left left"></i>  Main Website</a>
+            <a href="./" class="brand-logo hide-on-med-and-down" style="font-size: 18px"><i class="mdi-navigation-chevron-left left"></i> Back to Main Website</a>
+            <a href="./" class="brand-logo hide-on-large-only" style="font-size: 18px"><i class="mdi-navigation-chevron-left left"></i>  Main Website</a>
 
             <!-- Side Navigation bar on the Small Devices-->
 

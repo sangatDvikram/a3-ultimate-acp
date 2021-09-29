@@ -32,12 +32,12 @@
               
               <li class="span6">
                 <div class="thumbnail">
-                  <img src="http://root.a3ultimate.com/images/client.jpg"  title=" Download Ultimate Client" height="100" alt="Download Ultimate Client">
+                  <img src=".//images/client.jpg"  title=" Download Ultimate Client" height="100" alt="Download Ultimate Client">
                   <div class="caption">
                     <h3>Ultimate Client</h3>
                     Used to download game client . <br>
 					<br>
-                    <a class="btn btn-large btn-inverse" href="http://root.a3ultimate.com/downloads/A3Ultimate.rar" title=" Download Ultimate Client"><i class="icon-chevron-down icon-white"></i> Download</a>
+                    <a class="btn btn-large btn-inverse" href=".//downloads/A3Ultimate.rar" title=" Download Ultimate Client"><i class="icon-chevron-down icon-white"></i> Download</a>
                   </div>
                 </div>
               </li> 
@@ -51,24 +51,24 @@
               
               <li class="span4">
                 <div class="thumbnail">
-                  <img src="http://root.a3ultimate.com/images/patch64.jpg"  title=" Download Ultimate Uploader x34" alt="Download Ultimate Uploader x34">
+                  <img src=".//images/patch64.jpg"  title=" Download Ultimate Uploader x34" alt="Download Ultimate Uploader x34">
                   <div class="caption">
                     <h3>Client Updater</h3>
                     Used to download game / update /patch game, Just run A3.exe or paste it into any other existing A3 Folder and then run it.<br>
 					<br>
-                    <a class="btn btn-large btn-danger" href="http://root.a3ultimate.com/downloads/A3.exe"><i class="icon-chevron-down"></i> Download</a>
+                    <a class="btn btn-large btn-danger" href=".//downloads/A3.exe"><i class="icon-chevron-down"></i> Download</a>
                   </div>
                 </div>
               </li>
 			  <li class="span4">
                 <div class="thumbnail">
-                  <img src="http://root.a3ultimate.com/images.jpg" width="195" alt="">
+                  <img src=".//images.jpg" width="195" alt="">
                   <div class="caption">
                     <h3>
 Microsoft .Net 2.0 Framework</h3>
                     Download only if running on Windows Xp.<br>
 					<br>
-                    <a class="btn btn-large " href="http://root.a3ultimate.com/downloads/dotnetfx.exe"><i class="icon-chevron-down"></i> Download</a>
+                    <a class="btn btn-large " href=".//downloads/dotnetfx.exe"><i class="icon-chevron-down"></i> Download</a>
                   </div>
                 </div>
               </li>

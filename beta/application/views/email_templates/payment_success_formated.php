@@ -4,13 +4,13 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
         <title>Payment Successfull</title>
-        <link rel="icon" href="/beta/assects/images/favicon/favicon.ico" sizes="32x32">
+        <link rel="icon" href="./beta/assects/images/favicon/favicon.ico" sizes="32x32">
     </head>
     <body style="background-color: #9e9e9e !important; box-sizing: inherit; margin: 0;" bgcolor="#9e9e9e !important">
         <div style="position: absolute; right: 2%; left: 2%; background-color: #FFFFFF !important; box-sizing: inherit; padding: 0 5px 5px;">
             <div style="box-sizing: inherit; padding-top: 1rem; padding-bottom: 1rem;">
                 <div style="box-sizing: inherit;">
-                    <a target="_blank" href="" style="box-sizing: inherit; color: #039be5; text-decoration: none; -webkit-tap-highlight-color: transparent; background-color: transparent;"><img src="/beta/assects/images/email/logo.png" width="150px" style="box-sizing: inherit; border: 0;"></a>
+                    <a target="_blank" href="" style="box-sizing: inherit; color: #039be5; text-decoration: none; -webkit-tap-highlight-color: transparent; background-color: transparent;"><img src="./beta/assects/images/email/logo.png" width="150px" style="box-sizing: inherit; border: 0;"></a>
 
 
 
@@ -25,7 +25,7 @@
                     <div style="color: #FFFFFF !important; box-sizing: border-box; float: left; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; width: 25%; margin-left: 0; padding: 0 0.75rem;">
                         <p style="box-sizing: inherit; line-height: 2rem;">
 
-                            <img src="/beta/assects/images/email/paypal.png" width="100px" style="box-sizing: inherit; max-width: 100%; height: auto; border: 0;"></p>
+                            <img src="./beta/assects/images/email/paypal.png" width="100px" style="box-sizing: inherit; max-width: 100%; height: auto; border: 0;"></p>
 
                     </div>
                 </div>
@@ -74,7 +74,7 @@
                     <ol style="box-sizing: inherit;">
                         <li style="box-sizing: inherit;">Do remember to reconnect before using eShop. </li>
                         <li style="box-sizing: inherit;">If you have any questions about the payment please let us know at <a ng-href="mailto:support@a3ultimate.com" href="mailto:support@a3ultimate.com" style="box-sizing: inherit; color: #039be5; text-decoration: none; -webkit-tap-highlight-color: transparent; background-color: transparent;">support@a3ultimate.com</a> </li>
-                        <li style="box-sizing: inherit;">Click here to read our <a href="/RefundPolicy/">Refund Policy</a>. </li>
+                        <li style="box-sizing: inherit;">Click here to read our <a href="./RefundPolicy/">Refund Policy</a>. </li>
                         <li style="box-sizing: inherit;">Never share your A3Ultimate ID password with others. </li>
                     </ol>
 
@@ -94,7 +94,7 @@
                 <p style="box-sizing: inherit; line-height: 2rem;">
                     Notes : This is an automated email. Please don't reply to this email. If you want to contact us, mail us at <a ng-href="mailto:support@a3ultimate.com" href="mailto:support@a3ultimate.com" style="box-sizing: inherit; color: #039be5; text-decoration: none; -webkit-tap-highlight-color: transparent; background-color: transparent;">support@a3ultimate.com</a>
                    <br style="box-sizing: inherit;">
-                   © 2011-2015 <a href="/">A3 Ultimate</a>. All Rights Reserved 
+                   © 2011-2015 <a href="./">A3 Ultimate</a>. All Rights Reserved 
                 </p>
             </div>
         </div>
@@ -102,6 +102,6 @@
 
 
 
-        <script src="/beta/assects/js/jquery-2.1.1.min.js" style="box-sizing: inherit;"></script><script src="/beta/assects/js/materialize.js" style="box-sizing: inherit;"></script><script src="/beta/assects/js/init.js" style="box-sizing: inherit;"></script>
+        <script src="./beta/assects/js/jquery-2.1.1.min.js" style="box-sizing: inherit;"></script><script src="./beta/assects/js/materialize.js" style="box-sizing: inherit;"></script><script src="./beta/assects/js/init.js" style="box-sizing: inherit;"></script>
     </body>
 </html>

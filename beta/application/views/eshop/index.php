@@ -24,7 +24,7 @@
                 </div>
             </div>
         </div>
-        <div class="parallax green darken-1"><img src="/images/mag.jpg" alt="Unsplashed background img 2"></div>
+        <div class="parallax green darken-1"><img src="./images/mag.jpg" alt="Unsplashed background img 2"></div>
     </div>
 
 

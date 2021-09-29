@@ -21,7 +21,7 @@ if($char!='x'){
 		$rebirth=$charInfo['rb'];
 		if($rebirth>=18){
 			echo "<div class='alert alert-info'><center>
-		   <h3><img src='http://www.a3ultimate.com/images/like-32.png' width='24' height='24'>  Congratulations $char is Max Rebirth $rebirth Player ^_^ !!
+		   <h3><img src='.//images/like-32.png' width='24' height='24'>  Congratulations $char is Max Rebirth $rebirth Player ^_^ !!
 		</h3></center></div>";
 		}
 		else
@@ -33,9 +33,9 @@ if($char!='x'){
 		if(is_online($charInfo['c_sheadera'])) { $OnlineErr[] = "Please logout in game before continuing."; }
 		//-------------------------------------------------------------------------------------------------------------------------
 		//Images
-		$errImg="<img src='http://www.a3ultimate.com/images/Delete.png'  width='24' height='24'>";
-		$SuccessImg="<img src='http://www.a3ultimate.com/images/Select.png'  width='24' height='24'>";
-		$InfoImg="<img src='http://www.a3ultimate.com/images/Info.png'  width='24' height='24'>";
+		$errImg="<img src='.//images/Delete.png'  width='24' height='24'>";
+		$SuccessImg="<img src='.//images/Select.png'  width='24' height='24'>";
+		$InfoImg="<img src='.//images/Info.png'  width='24' height='24'>";
 		//Text and Table
 		$errTxt="class='text-error'";
 		$sucTxt="class='text-success'";

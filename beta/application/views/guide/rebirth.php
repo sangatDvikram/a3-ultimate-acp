@@ -13,7 +13,7 @@
                 </div>
             </div>
         </div>
-        <div class="parallax green darken-1"><img src="/images/castle.jpg" alt="Unsplashed background img 2"></div>
+        <div class="parallax green darken-1"><img src="./images/castle.jpg" alt="Unsplashed background img 2"></div>
     </div>
 
     <div class="row main-page-container" style="margin-top: -3%;">

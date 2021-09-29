@@ -5,13 +5,13 @@
  
 	<meta name="site" content="a3ultimate.com">
 
-    <link rel="icon" type="image/ico" href="/images/favicon.ico">
-    <LINK REL="SHORTCUT ICON" HREF="/images/favicon.ico">
-	<link href="/css/my_nw.css" type="text/css" rel="stylesheet"/>
-	<link href="/css/bootstrap.css" rel="stylesheet">
-	<link href="/css/docs.css" rel="stylesheet">
-	<link href="/css/bootstrap-responsive.css" rel="stylesheet">
-	<script src="/js/jquery.min.js" ></script>
+    <link rel="icon" type="image/ico" href="./images/favicon.ico">
+    <LINK REL="SHORTCUT ICON" HREF="./images/favicon.ico">
+	<link href="./css/my_nw.css" type="text/css" rel="stylesheet"/>
+	<link href="./css/bootstrap.css" rel="stylesheet">
+	<link href="./css/docs.css" rel="stylesheet">
+	<link href="./css/bootstrap-responsive.css" rel="stylesheet">
+	<script src="./js/jquery.min.js" ></script>
 <style>
 /* unvisited link */
 a:link {
@@ -100,13 +100,13 @@ Webshout will now cost 3 coins per Shout.
 <br><br>
 <b>5-July 2017</b> <br><small><b>A3 Ultimate PvP Challenge Portal</b></small> <br>
 A3 Ultimate PvP Challenge Portal is new portal which allows players for eCoins PvP Challenge matches.<br>
-Check out the new Challenge portal <a href="http://www.a3ultimate.com/Challenge/View/" target="_blank">here.</a> <br>
+Check out the new Challenge portal <a href=".//Challenge/View/" target="_blank">here.</a> <br>
 
 
 <?php  
   if(curPageName()!='changelog.php')
   {
-    echo "To see more details, Jump to detailed view of Changelog <a href='http://www.a3ultimate.com/changelog.php' target='_blank'>here</a>
+    echo "To see more details, Jump to detailed view of Changelog <a href='.//changelog.php' target='_blank'>here</a>
 <p>";
   }
 	if(curPageName()=='changelog.php')
@@ -120,7 +120,7 @@ Check out the new Challenge portal <a href="http://www.a3ultimate.com/Challenge/
 </p>
 <div class="collapse" id="collapseExample">
   <div class="card card-block">
-   		1. Buy the <a href="http://www.a3ultimate.com/beta/eshop/buy?item=LWwVEyUMK7kuRdivxlvzhC8/Sbxnj9PhYZyhq+aeogoNHepI8pWGbqwEWym4i7cQDTLK9dttBPrNTlK6E5Ea3Q==" target="_blank">Challenge Ticket</a> from our eShop<br>
+   		1. Buy the <a href=".//beta/eshop/buy?item=LWwVEyUMK7kuRdivxlvzhC8/Sbxnj9PhYZyhq+aeogoNHepI8pWGbqwEWym4i7cQDTLK9dttBPrNTlK6E5Ea3Q==" target="_blank">Challenge Ticket</a> from our eShop<br>
    		2. After that goto our Challenges Portal, and Select Challenge a player.<br>
    		3. Here select the character, and then select Challenge Ticket.<br>
    		4. Then insert the name of player you wish to challenge and then input your desired eCoins challenge amount.<br>   The amount entered will be deducted from challenger ID and received by server.<br>
@@ -138,7 +138,7 @@ Happy PvP A3 Ultimate gamers!
 <br><br>
 <b>3-July 2017</b> <br> Players can now look at others' inventory and equipped items.<br>
 From Board of Heroes, clicking on any players' name will allow you to see his inventory and equip along with stats and Recent PKs.<br>
-For example: <a href='http://www.a3ultimate.com/player/Prot' target='_blank'>click here</a>
+For example: <a href='.//player/Prot' target='_blank'>click here</a>
 <br><br>
 <b>30-June 2017</b> <br> New quests added<br>
 <small><b>Level 30 to 79 : </b></small> Kinstone and Linsen<br>

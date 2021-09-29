@@ -6,7 +6,7 @@
             <h3 class="header  white-text text-lighten-2 valign ">Restore your old password</h3>
         </div>
   
-    <div class="parallax"><img src="/images/heroesbg.jpg"></div>
+    <div class="parallax"><img src="./images/heroesbg.jpg"></div>
 </div>
 <div class="section white z-depth-3">
     <div class="row container center">

@@ -16,7 +16,7 @@
                 document.getElementById('changelogframe').contentWindow.location.reload();
             }, 10000);
         </script>
-        <script type="text/javascript" async src="/js/css-pop.js"></script>
+        <script type="text/javascript" async src="./js/css-pop.js"></script>
     <div class="container-fluid">
         <div class="row-fluid">
             <div class="span12">
@@ -39,7 +39,7 @@
                     <div class="carousel-inner">
 
                         <div class="item active">
-                            <img src="/images/ma.JPG" width="100%" alt="">
+                            <img src="./images/ma.JPG" width="100%" alt="">
                             <div class="carousel-caption">
                                 <h4>MAGE</h4>
                                 <p>
@@ -48,7 +48,7 @@
                             </div>
                         </div>
                         <div class="item ">
-                            <img src="/images/arc.JPG" width="100%" alt="">
+                            <img src="./images/arc.JPG" width="100%" alt="">
                             <div class="carousel-caption">
                                 <h4>Archer</h4>
                                 <p>
@@ -57,7 +57,7 @@
                             </div>
                         </div>
                         <div class="item">
-                            <img src="/images/hk.JPG" width="100%" alt="">
+                            <img src="./images/hk.JPG" width="100%" alt="">
                             <div class="carousel-caption">
                                 <h4>Holy Knight</h4>
                                 <p>
@@ -66,7 +66,7 @@
                             </div>
                         </div>
                         <div class="item">
-                            <img src="/images/war.JPG" width="100%"  alt="">
+                            <img src="./images/war.JPG" width="100%"  alt="">
                             <div class="carousel-caption">
                                 <h4>Warrior</h4>
                                 <p>
@@ -86,10 +86,10 @@
                     <div class="span12" style="font-family:Calibri;" >
                         
                         <h2>Ingame Shout Chat</h2>
-                        <iframe src="http://www.a3ultimate.com/beta/game/homepageshout" style="border:2px solid blue;width:100%" height="250px"></iframe><br><br>
+                        <iframe src=".//beta/game/homepageshout" style="border:2px solid blue;width:100%" height="250px"></iframe><br><br>
                         
-                        <h2>Changelogs  <small>For detailed view:<a href="http://www.a3ultimate.com/changelog.php">Click here</a></h2>
-                        <iframe id='changelogframe' src="http://www.a3ultimate.com/changelogbox.php" style="border:2px solid blue;width:100%" height="250px"></iframe><br><br>
+                        <h2>Changelogs  <small>For detailed view:<a href=".//changelog.php">Click here</a></h2>
+                        <iframe id='changelogframe' src=".//changelogbox.php" style="border:2px solid blue;width:100%" height="250px"></iframe><br><br>
                         
                     </div>
 
@@ -133,10 +133,10 @@
             <div class="span9" style="font-family:Calibri;">
 
                 <div class="row" style=" margin:0 auto; width:100%" >
-                    <a href="/Downloads/"><div class="quickLinks downloads"></div></a>
-                    <a href="/ACP/"><div class="quickLinks acp"></div></a>
-                    <a href="/beta/Eshop/"><div class="quickLinks eshop"></div></a>
-                    <a href="/Challenge/View/"><div class="quickLinks Gall"></div></a>
+                    <a href="./Downloads/"><div class="quickLinks downloads"></div></a>
+                    <a href="./ACP/"><div class="quickLinks acp"></div></a>
+                    <a href="./beta/Eshop/"><div class="quickLinks eshop"></div></a>
+                    <a href="./Challenge/View/"><div class="quickLinks Gall"></div></a>
                 </div>
 
                 <hr>
@@ -180,7 +180,7 @@
                     <div class="span5"  align="center">
                         <h2 align="center">Stay Connected (FB)</h2>
                         <hr>
-                        <iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FA3Ultimate&amp;width=300&amp;height=290&amp;colorscheme=light&amp;show_faces=true&amp;header=true&amp;stream=false&amp;show_border=false" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:300px;width:300px" allowTransparency="true"></iframe>
+                        <iframe src=".//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FA3Ultimate&amp;width=300&amp;height=290&amp;colorscheme=light&amp;show_faces=true&amp;header=true&amp;stream=false&amp;show_border=false" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:300px;width:300px" allowTransparency="true"></iframe>
                     </div>
                 </div>
 

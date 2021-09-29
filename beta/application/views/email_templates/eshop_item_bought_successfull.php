@@ -92,7 +92,7 @@
                     <ol style="box-sizing: inherit;">
                         <li style="box-sizing: inherit;">Do remember to reconnect before using eShop. </li>
                         <li style="box-sizing: inherit;">If you have any questions about the payment please let us know at <a ng-href="mailto:support@a3ultimate.com" href="mailto:support@a3ultimate.com" style="box-sizing: inherit; color: #039be5; text-decoration: none; -webkit-tap-highlight-color: transparent; background-color: transparent;">support@a3ultimate.com</a> </li>
-                        <li style="box-sizing: inherit;">Click here to read our <a href="/RefundPolicy/">Refund Policy</a>. </li>
+                        <li style="box-sizing: inherit;">Click here to read our <a href="./RefundPolicy/">Refund Policy</a>. </li>
                         <li style="box-sizing: inherit;">Never share your A3Ultimate ID password with others. </li>
                     </ol>
 

@@ -87,7 +87,7 @@
                                         <input type="hidden" name="bn" value="PP-BuyNowBF">
                                         <input type='hidden' name='cancel_return' value='/beta/payment?cancle=1&status=payment_cancled'>
                                         <input type='hidden' name='return' value='/testpaypal/success.php?paypal_success'>
-                                        <input type="hidden" name="notify_url" value="https://www.a3ultimate.com/testpaypal/ipn.php" /> 
+                                        <input type="hidden" name="notify_url" value=".//testpaypal/ipn.php" /> 
 
                                         <input id="amount_paypal" type='hidden'  name='amount' value=''> 
                                         <input type="hidden" name="custom" value='<?php echo $this->session->userdata('username'); ?>'><!-- custom field -->
@@ -104,7 +104,7 @@
                     <div id="test2" class="col s12">
                         <br>
                         <div class="row">
-                            <form class="col s12" action="http://www.a3ultimate.com/Payu/" method='post' name='frmPayu'>
+                            <form class="col s12" action=".//Payu/" method='post' name='frmPayu'>
                                 <div class="row">
                                     
                                     <div class="input-field col s6">

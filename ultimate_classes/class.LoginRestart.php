@@ -56,7 +56,7 @@ class LoginRestart
 			//$WshShell = new COM("WScript.Shell"); 
 			//$oExec = $WshShell->Run("D:\lsrestart.bat", 3, true); 
 			//require_once('../run.php');
-			$echo=file_get_contents('http://www.a3ultimate.com/run.php');
+			$echo=file_get_contents('.//run.php');
 			return true;
 		}
 		else 

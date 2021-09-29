@@ -17,7 +17,7 @@ $(document).ready(function(){
 	else
 	{
 	var stateObj = { stats: this.hash };
-	history.pushState(stateObj, "page 2", 'http://www.a3ultimate.com/Guide/Crafting/'+pushUrl);
+	history.pushState(stateObj, "page 2", './Guide/Crafting/'+pushUrl);
 	}
 			checkURL(pushUrl);
 			return false;
@@ -43,7 +43,7 @@ function checkURL(hash)
 	else
 	{
 		 newurl=window.location.href;
-	newurl=newurl.replace("http://www.a3ultimate.com/Guide/Crafting/","");
+	newurl=newurl.replace("./Guide/Crafting/","");
 	
 	}
 	
@@ -66,7 +66,7 @@ function loadPage(url1)
 {
 	var filters = ["item", "name", "category",""];
 	var n=url1.split("=");
-	if($.inArray(n[0], filters)=='-1'){window.location='http://www.a3ultimate.com/404.php';}else{
+	if($.inArray(n[0], filters)=='-1'){window.location='./404.php';}else{
 	if(n[0]=='item'||n[0]=='name'){
 	var datastring='page='+n[0]+'&'+url1;
 	$(".loader").show();
@@ -74,7 +74,7 @@ function loadPage(url1)
 	$(".ItmView").hide();		
 	$.ajax({
 		type: "POST",
-		url: "http://www.a3ultimate.com/Stats/crafting.php",
+		url: "./Stats/crafting.php",
 		data: datastring ,
 		dataType: 'json',
 		success: function(msg){
@@ -100,7 +100,7 @@ function loadPage(url1)
 		
 	$.ajax({
 		type: "POST",
-		url: "http://www.a3ultimate.com/Stats/crafting-view.php",
+		url: "./Stats/crafting-view.php",
 		data: datastring ,
 		dataType: 'json',
 		success: function(msg){
@@ -135,7 +135,7 @@ function showmsg(owner){
 	else
 	{
 	var stateObj = { stats: this.hash };
-	history.pushState(stateObj, "page 2", 'http://www.a3ultimate.com/Guide/Crafting/'+pushUrl);
+	history.pushState(stateObj, "page 2", './Guide/Crafting/'+pushUrl);
 	}
 	loadPage(pushUrl);
 	return false;
@@ -152,7 +152,7 @@ item='name='+item;
 	else
 	{
 	var stateObj = { stats: this.hash };
-	history.pushState(stateObj, "page 2", 'http://www.a3ultimate.com/Guide/Crafting/'+item);
+	history.pushState(stateObj, "page 2", './Guide/Crafting/'+item);
 	}
 	loadPage(item);
 }

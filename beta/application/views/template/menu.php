@@ -4,7 +4,7 @@
         <ul id="nav-mobiles" class="right hide-on-med-and-down">
          
 
-                <li class="bold"><a href="/" >Home</i></a></li>
+                <li class="bold"><a href="./" >Home</i></a></li>
                 <li class="bold"><a href="<?php echo site_url()?>">Guide</i></a></li>
                 <?php if(!$this->session->userdata('logged_in')){?>
                 <li class="bold"><a href="<?php echo site_url('login')?>">Login</i></a></li>
@@ -23,7 +23,7 @@
             <ul id="nav-mobile" class="full side-nav">
          
 
-                <li class="bold"><a href="/" >Home</i></a></li>
+                <li class="bold"><a href="./" >Home</i></a></li>
                 <li class="bold"><a href="<?php echo site_url()?>">Guide</i></a></li>
                 <?php if(!$this->session->userdata('logged_in')){?>
                 <li class="bold"><a href="<?php echo site_url('login')?>">Login</i></a></li>

@@ -123,18 +123,18 @@ box-shadow: inset 0px 0px 40px 10px rgba(0,0,0,0.6);
 }
 
 .downloads{
-    background: url(http://www.a3ultimate.com/images/title.jpg);
+    background: url(./images/title.jpg);
 }
 .acp{
  
 
-   background: url(http://www.a3ultimate.com/images/acp1.jpg);
+   background: url(./images/acp1.jpg);
 }
 .eshop{
-     background: url(http://www.a3ultimate.com/images/eshop.jpg);
+     background: url(./images/eshop.jpg);
 }
 .Gall{
-     background: url(http://www.a3ultimate.com/images/Gallery.jpg);
+     background: url(./images/Gallery.jpg);
 }
 .mdl-cell  .overlay {
     position: absolute;

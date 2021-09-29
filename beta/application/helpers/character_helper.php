@@ -155,10 +155,10 @@ if (!function_exists('get_character_info')) {
 
             if ($online == 1) {
                 $status = 'Online';
-                $statusImage = "<img src='/images/status.png' title='Online'>";
+                $statusImage = "<img src='./images/status.png' title='Online'>";
             } else {
                 $status = 'Offline';
-                $statusImage = "<img src='/images/status-offline.png' title='Offline'>";
+                $statusImage = "<img src='./images/status-offline.png' title='Offline'>";
             }
             //Nation Status
             $town = '';
@@ -179,7 +179,7 @@ if (!function_exists('get_character_info')) {
             }
 
 
-            $townImage = "<img src='/images/town$town.png' alt='$town' title='$town'>";
+            $townImage = "<img src='./images/town$town.png' alt='$town' title='$town'>";
 
             $styledName = "<span style='$style' title='$rank'>$name</span>";
 

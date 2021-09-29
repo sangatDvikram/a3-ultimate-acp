@@ -3,7 +3,7 @@
       <div class="nav-wrapper white">
         <a href="#" class="brand-logo">A3ultimate</a>
         <ul id="slide-out" class="side-nav">
-    <li class="bold"><a href="/" >Home</i></a></li>
+    <li class="bold"><a href="./" >Home</i></a></li>
     <li class="bold"><a href="<?php echo site_url()?>">Guide</i></a></li>
       <?php if(!$this->session->userdata('logged_in')){?>
       <li class="bold"><a href="<?php echo site_url('login')?>">Login</i></a></li>
@@ -33,7 +33,7 @@
      <?php } ?>
   </ul>
   <ul class="right hide-on-med-and-down">
-    <li class="bold"><a href="/" >Home</i></a></li>
+    <li class="bold"><a href="./" >Home</i></a></li>
     <li class="bold"><a href="<?php echo site_url()?>">Guide</i></a></li>
      <?php if(!$this->session->userdata('logged_in')){?>
                 <li class="bold"><a href="<?php echo site_url('login')?>">Login</i></a></li>

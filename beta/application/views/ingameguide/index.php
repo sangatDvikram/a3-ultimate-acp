@@ -14,7 +14,7 @@
                 </div>
             </div>
         </div>
-        <div class="parallax green darken-1"><img src="/images/back-top-war.jpg" alt="Unsplashed background img 2"></div>
+        <div class="parallax green darken-1"><img src="./images/back-top-war.jpg" alt="Unsplashed background img 2"></div>
     </div>
 
 
@@ -89,7 +89,7 @@
                             <h4>Welcome to A3ultimate Ingame Guide</h4>
                             <div class='divider'></div>
                             
-                             <p>Here you can find Guides for A3 Ultimate, Created by players for players. <br> Also, You can Share your own Guide by <a href="/beta/writer">Clicking here</a>. </p>
+                             <p>Here you can find Guides for A3 Ultimate, Created by players for players. <br> Also, You can Share your own Guide by <a href="./beta/writer">Clicking here</a>. </p>
 
 
 

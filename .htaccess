@@ -16,7 +16,7 @@ RewriteEngine on
 RewriteCond %{HTTP_HOST} !^acp\.$
 RewriteCond %{HTTP_HOST} !^www\. [NC]
 RewriteCond %{HTTPS}s ^on(s)|
-RewriteRule ^ http%1://www.a3ultimate.com%{REQUEST_URI} [R=301,L]
+# RewriteRule ^ http%1://www.a3ultimate.com%{REQUEST_URI} [R=301,L]
 #-----Force www -----#
 RewriteCond %{SCRIPT_FILENAME} !-d   
 RewriteCond %{SCRIPT_FILENAME} !-f  
@@ -352,22 +352,23 @@ RewriteRule ^.* - [F,L]
 
 #-----------------------------------------------new-----------------------------#
 php_value date.timezone Asia/Kolkata
+<IfModule mod_headers.c>
+  # 480 weeks
+  <FilesMatch "\.(ico|pdf|flv|jpg|jpeg|png|gif|js|css|swf|ttf|eot|woff|otf)$">
+  Header set Cache-Control "max-age=290304000, public"
+  </FilesMatch>
 
-# 480 weeks
-<FilesMatch "\.(ico|pdf|flv|jpg|jpeg|png|gif|js|css|swf|ttf|eot|woff|otf)$">
-Header set Cache-Control "max-age=290304000, public"
-</FilesMatch>
+  # 2 DAYS
+  <FilesMatch "\.(xml|txt)$">
+  Header set Cache-Control "max-age=172800, public, must-revalidate"
+  </FilesMatch>
 
-# 2 DAYS
-<FilesMatch "\.(xml|txt)$">
-Header set Cache-Control "max-age=172800, public, must-revalidate"
-</FilesMatch>
+  # 2 HOURS
 
-# 2 HOURS
-<FilesMatch "\.(html|htm|php)$">
-Header set Cache-Control "max-age=7200, must-revalidate"
-</FilesMatch>
-
+  <FilesMatch "\.(html|htm|php)$">
+  Header set Cache-Control "max-age=7200, must-revalidate"
+  </FilesMatch>
+</IfModule>
 <IfModule mod_headers.c>
   <FilesMatch "\.(js|css|xml|gz)$">
     Header append Vary: Accept-Encoding
@@ -404,11 +405,11 @@ ErrorDocument 500 /404.php
 <FilesMatch "\.(js)$">
   ForceType 'text/javascript; charset=UTF-8'
 </FilesMatch>
-
+<IfModule mod_headers.c>
 <FilesMatch "\.(css|js)$">
   Header append Vary Accept-Encoding
 </FilesMatch>
-
+</IfModule>
 # log to file
 php_flag log_errors on
 php_value error_log /errors/php_errors.log

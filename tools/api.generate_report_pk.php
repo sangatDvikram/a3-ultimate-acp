@@ -19,7 +19,7 @@
             $query=$OdbcConnect->prepare($statement);
             $query->execute(array(":sr_no"=>$value['report_sr']));
             $result=$query->fetch(PDO::FETCH_NAMED);
-            $details="Killer: <a href='http://www.a3ultimate.com/player/$result[killer]'>$result[killer]</a> (RS$result[killer_reset],RB$result[killer_rb],LVL$result[killer_lv])<br> Victim: <a href='http://www.a3ultimate.com/player/$result[victim]'>$result[victim]</a> (RS$result[victim_reset],RB$result[victim_rb],LVL$result[victim_lv]) ";
+            $details="Killer: <a href='.//player/$result[killer]'>$result[killer]</a> (RS$result[killer_reset],RB$result[killer_rb],LVL$result[killer_lv])<br> Victim: <a href='.//player/$result[victim]'>$result[victim]</a> (RS$result[victim_reset],RB$result[victim_rb],LVL$result[victim_lv]) ";
             $killtime=$result['killtime'];
 
             $operations = '<a href="#take_action" class="btn btn-danger take_action yes" data-toggle="modal" id='.$value['report_sr'].' title="Yes"><i class="icon-ok icon-white" title="Yes"></i></a> | <a href="#take_action" class="btn btn-success take_action no" data-toggle="modal" id='.$value['report_sr'].' title="No"><i class=" icon-remove icon-white" title="No"></i></a>';

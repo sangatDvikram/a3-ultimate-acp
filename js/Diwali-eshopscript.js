@@ -19,7 +19,7 @@ $(document).ready(function(){
 	else
 	{
 	var stateObj = { stats: this.hash };
-	history.pushState(stateObj, "page 2", 'http://www.a3ultimate.com/Diwali-Eshop/'+pushUrl);
+	history.pushState(stateObj, "page 2", './Diwali-Eshop/'+pushUrl);
 	}
 			checkURL(pushUrl);
 			return false;
@@ -36,7 +36,7 @@ $(document).ready(function(){
 	else
 	{
 	var stateObj = { stats: this.hash };
-	history.pushState(stateObj, "page 2", 'http://www.a3ultimate.com/Diwali-Eshop/'+pushUrl);
+	history.pushState(stateObj, "page 2", './Diwali-Eshop/'+pushUrl);
 	}
 	loadPage(pushUrl);
 });
@@ -54,7 +54,7 @@ function checkURL(hash)
 	else
 	{
 	newurl=window.location.href;
-	newurl=newurl.replace("http://www.a3ultimate.com/Diwali-Eshop/","");
+	newurl=newurl.replace("./Diwali-Eshop/","");
 	
 	}
 	
@@ -78,14 +78,14 @@ function loadPage(url1)
 {
 	var filters = ["item", "user", "category",""];
 	var n=url1.split("=");
-	if($.inArray(n[0], filters)=='-1'){window.location='http://www.a3ultimate.com/404.php';}else{
+	if($.inArray(n[0], filters)=='-1'){window.location='./404.php';}else{
 	
 	//alert(url1);
 	var datastring='page='+n[0]+'&'+url1;
 	$(".loader").show();	
 	$.ajax({
 		type: "POST",
-		url: "http://www.a3ultimate.com/Stats/Diwali-eshop-view.php",
+		url: "./Stats/Diwali-eshop-view.php",
 		data: datastring ,
 		dataType: 'json',
 		success: function(msg){
@@ -128,7 +128,7 @@ item='item='+item;
 	else
 	{
 	var stateObj = { stats: this.hash };
-	history.pushState(stateObj, "page 2", 'http://www.a3ultimate.com/Diwali-Eshop/'+item);
+	history.pushState(stateObj, "page 2", './Diwali-Eshop/'+item);
 	}
 	loadPage(item);
 }

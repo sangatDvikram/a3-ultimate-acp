@@ -28,7 +28,7 @@ var dataString = 'char='+ id;
 $.ajax
 ({
 type: "POST",
-url: "http://www.a3ultimate.com/Stats/get_opinfo.php",
+url: ".//Stats/get_opinfo.php",
 data: dataString,
 cache: false,
 dataType: 'json',
@@ -186,7 +186,7 @@ email_action($_SESSION['username'],$subject,$log,$con);
 <form class="form-inline" method='POST'>
 
 			   <fieldset id="item">
-   <legend>Select Character: <small>You can convert 5,000 Online points to OP1(sharable 4,000 Online Points)</small><img src="http://www.a3ultimate.com/images/ajax-loader.gif" class="loader"></legend>
+   <legend>Select Character: <small>You can convert 5,000 Online points to OP1(sharable 4,000 Online Points)</small><img src=".//images/ajax-loader.gif" class="loader"></legend>
 			<center>   Character
 <select name="char" class="char owner">
 
