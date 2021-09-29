@@ -351,7 +351,15 @@ RewriteRule ^.* - [F,L]
 </IfModule>
 
 #-----------------------------------------------new-----------------------------#
+<IfModule mod_php5.c>
 php_value date.timezone Asia/Kolkata
+<FilesMatch "!\.(gif|css|js|jpg|jpe?g|png)$">
+    php_value session.cookie_domain www.a3ultimate.com
+</FilesMatch>
+# log to file
+php_flag log_errors on
+php_value error_log /errors/php_errors.log
+</IfModule>
 <IfModule mod_headers.c>
   # 480 weeks
   <FilesMatch "\.(ico|pdf|flv|jpg|jpeg|png|gif|js|css|swf|ttf|eot|woff|otf)$">
@@ -386,9 +394,7 @@ SetOutputFilter DEFLATE
 </IFModule>	
 #---------------------------------Settings-----------------------------------#
 ## EXPIRES CACHING ##
-<FilesMatch "!\.(gif|css|js|jpg|jpe?g|png)$">
-    php_value session.cookie_domain www.a3ultimate.com
-</FilesMatch>
+
 ErrorDocument 401 /404.php
 ErrorDocument 404 /404.php
 ErrorDocument 403 /404.php
@@ -410,9 +416,7 @@ ErrorDocument 500 /404.php
   Header append Vary Accept-Encoding
 </FilesMatch>
 </IfModule>
-# log to file
-php_flag log_errors on
-php_value error_log /errors/php_errors.log
+
 
 <FilesMatch "^.*?api.*?$">
 SetHandler php5-script
