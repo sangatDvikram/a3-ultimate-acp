@@ -1,4 +1,6 @@
-﻿<?php require_once "inc/config.php";
+﻿<?php
+require_once "env.php";
+require_once "inc/config.php";
 require_once "inc/secondary_functions.php";
 
 ini_set( "display_errors", 0);

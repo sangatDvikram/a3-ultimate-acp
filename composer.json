@@ -1,0 +1,6 @@
+{
+    "require": {
+      "ext-mysqli": "*",
+        "phpseclib/mcrypt_compat": "^2.0"
+    }
+  }
