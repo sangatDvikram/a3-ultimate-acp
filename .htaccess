@@ -11,7 +11,7 @@ RewriteEngine on
 #Allow from 117.248.180.33										
 #ErrorDocument 403 /404.php 								
 #-----------------------------------------------------------#|
-
+SetEnv CLEARDB_DATABASE_URL mysql://b7c442c2800ed3:8207bb5c@us-cdbr-east-04.cleardb.com/heroku_f9aa4becaa6c405?reconnect=true
 #----Force www ------#
 RewriteCond %{HTTP_HOST} !^acp\.$
 RewriteCond %{HTTP_HOST} !^www\. [NC]

@@ -59,10 +59,10 @@
         <div class="section">
             <h4>Changes Log : </h4>
             <ol>
-                <li><span class="red-text"> * </span>Added - Added Paging in Guides Category information 12 items at a time <a href="./beta/guides/items">click here</a> - 26.2.2015</li>
+                <li><span class="red-text"> * </span>Added - Added Paging in Guides Category information 12 items at a time <a href="/beta/guides/items">click here</a> - 26.2.2015</li>
                 <li><span class="red-text"> * </span>Added - Changed ingame guide delete function to jquery + dialog which as for yes | no. - 25.2.2015</li>
                 <li><span class="red-text"> * </span>Added - /controlpanel shifted to /beta. - 21.2.2015</li>
-                <li><span class="red-text"> * </span>Added - Item Search and Update in Site Data section <a href="./beta/admin/items">Click Here</a>. - 21.2.2015</li>
+                <li><span class="red-text"> * </span>Added - Item Search and Update in Site Data section <a href="/beta/admin/items">Click Here</a>. - 21.2.2015</li>
                 <li><span class="red-text"> * </span>Modified - Paypal Success and Cancle Pages. - 21.2.2015</li>
                 <li><span class="red-text"> * </span>Modified - Modified Admin Log table generation for faster page load. - 21.2.2015</li>
                 <li><span class="red-text"> * </span>Modified - Made Game Guide Management Easy (Select Change Game Guide Status to change visibility Status of the guide.) - 21.2.2015 </li>

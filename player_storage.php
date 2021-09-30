@@ -77,8 +77,8 @@ if(($j+1)%5==0){echo "</tr><tr>";}
 </div><!-- Cointainer -->
 <hr>
 
-<script src=".//js/bootstrap-tooltip.js"></script>  
-<script src=".//js/bootstrap-popover.js"></script>  
+<script src="/js/bootstrap-tooltip.js"></script>  
+<script src="/js/bootstrap-popover.js"></script>  
 <script type="text/javascript">
  $(document).ready(function() {
   $("[rel=drevil]").popover({

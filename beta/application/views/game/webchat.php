@@ -4,7 +4,7 @@
         <!-- Dropdown Structure -->
         <ul id='character-options' class='dropdown-content'>
             <li><a href="<?php echo site_url('game/change') ?>" title="Change Character">Change Character</a></li>
-            <li><a href="./">Home</a></li>
+            <li><a href="/">Home</a></li>
             <li class="divider"></li>
             <li><a href="<?php echo site_url('login/logout') ?>">Logout</a></li>
         </ul>

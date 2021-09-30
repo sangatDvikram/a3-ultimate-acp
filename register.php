@@ -291,9 +291,9 @@ if (isset($_POST['register']))
                     <div class="controls">
                         <label class="checkbox">
                             <input type="checkbox" name="Accept" required validationMessage="Acceptance is required!"/>
-                            I accept the <a href=".//TermOfServices/">Terms of Service</a>,<a
-                                href=".//RefundPolicy/">Refund Policy</a> and <a
-                                href=".//PrivacyPolicy/">Privacy Policy</a>.
+                            I accept the <a href="/TermOfServices/">Terms of Service</a>,<a
+                                href="/RefundPolicy/">Refund Policy</a> and <a
+                                href="/PrivacyPolicy/">Privacy Policy</a>.
                         </label>
                         <button type="submit" name="register" class="btn btn-primary">Register</button>
                     </div>

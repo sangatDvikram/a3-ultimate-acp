@@ -93,7 +93,7 @@
                                     <h3>How to buy all the good stuffs??</h3>
                                     <p>
 
-                                        Don't have enough money for goods? A faster and secure payment getway is now available for <b>Indian</b> and <b>Forgien</b> Players as well . Take a look at it <a href="./beta/payment"> <b>Right Here.</b></a>
+                                        Don't have enough money for goods? A faster and secure payment getway is now available for <b>Indian</b> and <b>Forgien</b> Players as well . Take a look at it <a href="/beta/payment"> <b>Right Here.</b></a>
 
 
                                     </p>
@@ -118,7 +118,7 @@
 
                                     <h3>Like to exploit people?</h3>
                                     <p>
-                                        Why don't you start enjoying your victories? After all you earned it. Not for RC PK player's but all time famous <a href="./Gallery/View/"><b>The Ultimate Gallery</b></a> is opening shortly. So it will be worth a wait.
+                                        Why don't you start enjoying your victories? After all you earned it. Not for RC PK player's but all time famous <a href="/Gallery/View/"><b>The Ultimate Gallery</b></a> is opening shortly. So it will be worth a wait.
 
 
                                     </p>

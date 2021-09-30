@@ -129,7 +129,7 @@
 					    	var monster_info=monster.monster_info;
 					    	var info='';
 
-					    	info='<a href="./beta/guides/maps?monster='+monster_link+'"><div class="col s12 m4" ><div class="card-panel grey lighten-2 black-text" style="cursor:pointer" id="'+monster_code+'" data-href="./beta/guides/maps.html?monster='+monster_link+'"><div class="row valign-wrapper" ><div class="col s4"><img src="./allitems/monsters/'+monster_code+'.jpg" alt="" class=" responsive-img"></div><div class="col s8 "style="min-height:80px;font-size:14px" > <span>Name : <b> '+monster_name+' </b></span> <br><span>Map : <b> '+map_name+' </b></span> <br> <span>Info : '+monster_info+'<br></span></div></div></div></div></a>';
+					    	info='<a href="/beta/guides/maps?monster='+monster_link+'"><div class="col s12 m4" ><div class="card-panel grey lighten-2 black-text" style="cursor:pointer" id="'+monster_code+'" data-href="/beta/guides/maps.html?monster='+monster_link+'"><div class="row valign-wrapper" ><div class="col s4"><img src="/allitems/monsters/'+monster_code+'.jpg" alt="" class=" responsive-img"></div><div class="col s8 "style="min-height:80px;font-size:14px" > <span>Name : <b> '+monster_name+' </b></span> <br><span>Map : <b> '+map_name+' </b></span> <br> <span>Info : '+monster_info+'<br></span></div></div></div></div></a>';
                                  $( ".result-data" ).append(info);
 
 					})
@@ -171,7 +171,7 @@
 
 					    	var info='';
 
-					    	info='<a href="./beta/guides/items?item='+item_link+'"><div class="col s12 m4" ><div class="card-panel grey lighten-2 black-text" style="cursor:pointer;max-height:125px;" id="'+item_name+'" data-href="./beta/guides/items.html?item='+item_link+'"><div class="row valign-wrapper" ><div class="col s3"><img src="'+item_image+'" alt="" class=" responsive-img"></div><div class="col s9 "> <span>Name : <b> '+item_name+' </b></span> <br><span>Type : <b> '+item_type+' </b></span> <br> <span>Class : '+item_class+'<br></span></div></div></div></div></a>';
+					    	info='<a href="/beta/guides/items?item='+item_link+'"><div class="col s12 m4" ><div class="card-panel grey lighten-2 black-text" style="cursor:pointer;max-height:125px;" id="'+item_name+'" data-href="/beta/guides/items.html?item='+item_link+'"><div class="row valign-wrapper" ><div class="col s3"><img src="'+item_image+'" alt="" class=" responsive-img"></div><div class="col s9 "> <span>Name : <b> '+item_name+' </b></span> <br><span>Type : <b> '+item_type+' </b></span> <br> <span>Class : '+item_class+'<br></span></div></div></div></div></a>';
                                  $( ".result-data" ).append(info);
 
 					})

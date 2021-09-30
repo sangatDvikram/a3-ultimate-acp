@@ -43,7 +43,7 @@ function checkURL(hash)
 	else
 	{
 		 newurl=window.location.href;
-	newurl=newurl.replace("./Guide/Crafting/","");
+	newurl=newurl.replace("/Guide/Crafting/","");
 	
 	}
 	
@@ -74,7 +74,7 @@ function loadPage(url1)
 	$(".ItmView").hide();		
 	$.ajax({
 		type: "POST",
-		url: "./Stats/crafting.php",
+		url: "/Stats/crafting.php",
 		data: datastring ,
 		dataType: 'json',
 		success: function(msg){
@@ -100,7 +100,7 @@ function loadPage(url1)
 		
 	$.ajax({
 		type: "POST",
-		url: "./Stats/crafting-view.php",
+		url: "/Stats/crafting-view.php",
 		data: datastring ,
 		dataType: 'json',
 		success: function(msg){

@@ -59,7 +59,7 @@
         <script type="text/javascript">var cssLink = "<link rel='stylesheet' type='text/css' href='https://cdn.datatables.net/1.10.4/css/jquery.dataTables.min.css'><link rel='stylesheet' type='text/css' href='.//beta/assects/css/autocomplete.css'>";
             $("head").append(cssLink); </script>
         <script type="text/javascript" src="https://cdn.datatables.net/1.10.4/js/jquery.dataTables.min.js"></script>
-        <script type="text/javascript" src=".//beta/assects/js/jquery.autocomplete.min.js"></script>
+        <script type="text/javascript" src="/beta/assects/js/jquery.autocomplete.min.js"></script>
         <script type="text/javascript">
 
             $(document).ready(function() {
@@ -75,7 +75,7 @@
                     "searching": false,
                     "ajax":
                     {
-                        "url": ".//beta/api/admin/registerd_accounts/format/json",
+                        "url": "/beta/api/admin/registerd_accounts/format/json",
                         "type": "POST"
                     }
                 } );
@@ -87,7 +87,7 @@
                         "scrollX": true,
                         "searching": false,
                         "ajax": {
-                            "url": ".//beta/api/admin/registerd_accounts/char/"+id+"/format/json",
+                            "url": "/beta/api/admin/registerd_accounts/char/"+id+"/format/json",
                             "type": "POST",
                             "data": function ( d ) {
                                 d.char = id;

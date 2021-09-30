@@ -80,7 +80,7 @@ var c=Math.round(e * 100)/100;
 					<input type="hidden" name="bn" value="PP-BuyNowBF">
                     <input type='hidden' name='cancel_return' value='.//testpaypal/cancel.php'>
                     <input type='hidden' name='return' value='.//testpaypal/success.php'>
-					<input type="hidden" name="notify_url" value=".//testpaypal/ipn.php" /> 
+					<input type="hidden" name="notify_url" value="/testpaypal/ipn.php" /> 
                     
                     <img alt="" border="0" src="https://www.sandbox.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
 					<input type="hidden" name="custom" value='<?php echo $_SESSION['username']; ?>'><!-- custom field -->

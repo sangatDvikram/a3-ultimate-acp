@@ -54,7 +54,7 @@ function checkURL(hash)
 	else
 	{
 	newurl=window.location.href;
-	newurl=newurl.replace("./Diwali-Eshop/","");
+	newurl=newurl.replace("/Diwali-Eshop/","");
 	
 	}
 	
@@ -85,7 +85,7 @@ function loadPage(url1)
 	$(".loader").show();	
 	$.ajax({
 		type: "POST",
-		url: "./Stats/Diwali-eshop-view.php",
+		url: "/Stats/Diwali-eshop-view.php",
 		data: datastring ,
 		dataType: 'json',
 		success: function(msg){

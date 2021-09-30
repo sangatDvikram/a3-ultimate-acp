@@ -12,7 +12,7 @@ var Id = element.attr("id");
 var dataString = 'id='+Id ;
 $.ajax({
 type: "POST",
-url: "./Stats/getgall.php",
+url: "/Stats/getgall.php",
 data: dataString,
 cache: false,
 dataType: 'json',
@@ -26,7 +26,7 @@ if(html.nxt=='0'){ $(".nxt").hide(); }else{$(".nxt").show(); $(".nxt").attr("id"
 $(".details").html(html.data);
 //$(".details").html(html.prev+" & "+html.nxt);
 $(".num").html(html.num);
- $(".comment").attr("href", "./Gallery/Show/"+html.id+"/#commentMe");
+ $(".comment").attr("href", "/Gallery/Show/"+html.id+"/#commentMe");
 }
 });
 return false;
@@ -41,7 +41,7 @@ var Id = element.attr("id");
 var dataString = 'id='+Id ;
 $.ajax({
 type: "POST",
-url: "./Stats/getgall.php",
+url: "/Stats/getgall.php",
 data: dataString,
 cache: false,
 dataType: 'json',
@@ -54,7 +54,7 @@ if(html.nxt=='0'){$(".nxt").hide(); }else{$(".nxt").show(); $(".nxt").attr("id",
 $(".details").html(html.data);
 //$(".details").html(html.prev+" & "+html.nxt);
 $(".num").html(html.num);
- $(".comment").attr("href", "./Gallery/Show/"+html.id+"/#commentMe");
+ $(".comment").attr("href", "/Gallery/Show/"+html.id+"/#commentMe");
 }
 });
 return false;
@@ -70,7 +70,7 @@ var Id = element.attr("id");
 var dataString = 'id='+Id ;
 $.ajax({
 type: "POST",
-url: "./Stats/getgall.php",
+url: "/Stats/getgall.php",
 data: dataString,
 cache: false,
 dataType: 'json',
@@ -82,7 +82,7 @@ if(html.nxt=='0'){$(".nxt").hide(); }else{$(".nxt").show(); $(".nxt").attr("id",
 $(".details").html(html.data);
 //$(".details").html(html.prev+" & "+html.nxt);
 $(".num").html(html.num);
- $(".comment").attr("href", "./Gallery/Show/"+html.id+"/#commentMe");
+ $(".comment").attr("href", "/Gallery/Show/"+html.id+"/#commentMe");
 }
 });
 return false;

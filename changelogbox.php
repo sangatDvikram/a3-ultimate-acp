@@ -5,13 +5,13 @@
  
 	<meta name="site" content="a3ultimate.com">
 
-    <link rel="icon" type="image/ico" href="./images/favicon.ico">
-    <LINK REL="SHORTCUT ICON" HREF="./images/favicon.ico">
-	<link href="./css/my_nw.css" type="text/css" rel="stylesheet"/>
-	<link href="./css/bootstrap.css" rel="stylesheet">
-	<link href="./css/docs.css" rel="stylesheet">
-	<link href="./css/bootstrap-responsive.css" rel="stylesheet">
-	<script src="./js/jquery.min.js" ></script>
+    <link rel="icon" type="image/ico" href="/images/favicon.ico">
+    <LINK REL="SHORTCUT ICON" HREF="/images/favicon.ico">
+	<link href="/css/my_nw.css" type="text/css" rel="stylesheet"/>
+	<link href="/css/bootstrap.css" rel="stylesheet">
+	<link href="/css/docs.css" rel="stylesheet">
+	<link href="/css/bootstrap-responsive.css" rel="stylesheet">
+	<script src="/js/jquery.min.js" ></script>
 <style>
 /* unvisited link */
 a:link {
@@ -100,7 +100,7 @@ Webshout will now cost 3 coins per Shout.
 <br><br>
 <b>5-July 2017</b> <br><small><b>A3 Ultimate PvP Challenge Portal</b></small> <br>
 A3 Ultimate PvP Challenge Portal is new portal which allows players for eCoins PvP Challenge matches.<br>
-Check out the new Challenge portal <a href=".//Challenge/View/" target="_blank">here.</a> <br>
+Check out the new Challenge portal <a href="/Challenge/View/" target="_blank">here.</a> <br>
 
 
 <?php  
@@ -120,7 +120,7 @@ Check out the new Challenge portal <a href=".//Challenge/View/" target="_blank">
 </p>
 <div class="collapse" id="collapseExample">
   <div class="card card-block">
-   		1. Buy the <a href=".//beta/eshop/buy?item=LWwVEyUMK7kuRdivxlvzhC8/Sbxnj9PhYZyhq+aeogoNHepI8pWGbqwEWym4i7cQDTLK9dttBPrNTlK6E5Ea3Q==" target="_blank">Challenge Ticket</a> from our eShop<br>
+   		1. Buy the <a href="/beta/eshop/buy?item=LWwVEyUMK7kuRdivxlvzhC8/Sbxnj9PhYZyhq+aeogoNHepI8pWGbqwEWym4i7cQDTLK9dttBPrNTlK6E5Ea3Q==" target="_blank">Challenge Ticket</a> from our eShop<br>
    		2. After that goto our Challenges Portal, and Select Challenge a player.<br>
    		3. Here select the character, and then select Challenge Ticket.<br>
    		4. Then insert the name of player you wish to challenge and then input your desired eCoins challenge amount.<br>   The amount entered will be deducted from challenger ID and received by server.<br>

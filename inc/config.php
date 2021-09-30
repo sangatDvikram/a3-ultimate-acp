@@ -29,11 +29,15 @@ session_start();
 session_regenerate_id(true);
 
 try{
-
-define( "DB_HOST", "localhost" ); //DNS HOST
-define( "DB_NAME", "a3acp" ); //Database
-define( "DB_USER", "root" ); //username of the database
-define( "DB_PASS", "" ); //password of the database
+$cleardb_url      = parse_url(getenv("CLEARDB_DATABASE_URL"));
+$cleardb_server   = $cleardb_url["host"];
+$cleardb_username = $cleardb_url["user"];
+$cleardb_password = $cleardb_url["pass"];
+$cleardb_db       = substr($cleardb_url["path"], 1);
+define( "DB_HOST",$cleardb_server ); //DNS HOST
+define( "DB_NAME",$cleardb_db ); //Database
+define( "DB_USER", $cleardb_username ); //username of the database
+define( "DB_PASS",$cleardb_password ); //password of the database
 require 'class.MySqlDatabase.php';
 $mysql=new MySqlDatabase();
 $date = date('Y-m-d H:i:s');
@@ -52,10 +56,10 @@ $session->start_session('_s', false);
  * ---------------------------------------------------------------------------------
  */
 
-define( "MYSQL_DB_HOST", "localhost" ); //DNS HOST
-define( "MYSQL_DB_DBNAME", "a3acp" ); //Database
-define( "MYSQL_DB_USERNAME", "root" ); //username of the database
-define( "MYSQL_DB_PASSWORD", "" ); //password of the database
+define( "MYSQL_DB_HOST", $cleardb_server ); //DNS HOST
+define( "MYSQL_DB_DBNAME", $cleardb_db ); //Database
+define( "MYSQL_DB_USERNAME",$cleardb_username ); //username of the database
+define( "MYSQL_DB_PASSWORD",$cleardb_password ); //password of the database
 $MysqlConnect = new PDO("mysql:host=".MYSQL_DB_HOST.";dbname=".MYSQL_DB_DBNAME, MYSQL_DB_USERNAME, MYSQL_DB_PASSWORD);
 $MysqlConnect->setAttribute(PDO::ATTR_TIMEOUT, '1');
 $MysqlConnect->setAttribute(PDO::ATTR_PERSISTENT, 'false');
@@ -77,10 +81,10 @@ try{
 define( "ODBC_DB_HOST", "odbc:webasd" ); //DNS HOST
 define( "ODBC_DB_USERNAME", "sa" ); //username of the database
 define( "ODBC_DB_PASSWORD", "Valid789" ); //password of the database
-define( "MYSQL_DB_HOST1", "localhost" ); //DNS HOST
-define( "MYSQL_DB_DBNAME1", "webacp" ); //Database
-define( "MYSQL_DB_USERNAME1", "root" ); //username of the database
-define( "MYSQL_DB_PASSWORD1", "" ); //password of the database
+define( "MYSQL_DB_HOST1",$cleardb_server ); //DNS HOST
+define( "MYSQL_DB_DBNAME1", $cleardb_db ); //Database
+define( "MYSQL_DB_USERNAME1",$cleardb_username ); //username of the database
+define( "MYSQL_DB_PASSWORD1",$cleardb_password ); //password of the database
 $OdbcConnect= new PDO("mysql:host=".MYSQL_DB_HOST1.";dbname=".MYSQL_DB_DBNAME1, MYSQL_DB_USERNAME1, MYSQL_DB_PASSWORD1);
 $OdbcConnect->setAttribute(PDO::ATTR_TIMEOUT, '1');
 $OdbcConnect->setAttribute(PDO::ATTR_PERSISTENT, 'false');
@@ -93,4 +97,3 @@ catch(PDOException $ex)
 }
 
 require 'report_pk_function.php';
-?>

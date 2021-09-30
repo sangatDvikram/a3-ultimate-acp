@@ -597,7 +597,7 @@ function rewardref($char, $user, $con)
     $query4 = odbc_exec($con, "UPDATE account SET coins = '$ncoins' WHERE c_id = '$ruser'");
     if ($query4) {
         $subject = "A3 Ultimate : 1000 coins credited to your account.";
-        $message = "Hello,<br>Your account : <b>" . $ruser . "</b> has been credited with 1000 coins.<br> These coins were gifted to you because the character <b>" . $char . "</b> which was referred by you has taken its 10th rebirth!<br>You can use these coins to shop at our awesome E-Shop.<br><a href=\".//ACP/Eshop/\">Click Here</a> to go to our E-Shop. <br>- Team Ultimate";
+        $message = "Hello,<br>Your account : <b>" . $ruser . "</b> has been credited with 1000 coins.<br> These coins were gifted to you because the character <b>" . $char . "</b> which was referred by you has taken its 10th rebirth!<br>You can use these coins to shop at our awesome E-Shop.<br><a href=\"/ACP/Eshop/\">Click Here</a> to go to our E-Shop. <br>- Team Ultimate";
         //  email_action($ruser,$subject,$message,$con);
         log_action($ruser, $rchar, $message, $con);
     }

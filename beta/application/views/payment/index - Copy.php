@@ -103,7 +103,7 @@
                     </div>
                     <div id="test2" class="col s12 ">
                         <br>
-                        <div class='alert alert-info center'><a href="./Donate/" target="_blank"><img src="./images/payu.jpg" alt="Donate to get Premium Coins" class="center" width="200" height="100"></a></div>
+                        <div class='alert alert-info center'><a href="/Donate/" target="_blank"><img src="/images/payu.jpg" alt="Donate to get Premium Coins" class="center" width="200" height="100"></a></div>
                     </div>
                 </div>
             </div>

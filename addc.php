@@ -32,7 +32,7 @@ $query2 = odbc_exec($con, "INSERT INTO coinlog(GMName,eshopper,coinsadded,extra,
 if($query)
 { 
 $msg[] = "$data[pcoins] + $data[extra] Premium Coins have been successfully added, Into account $data[username] !!";
-$log = "Hello,<br>You have successfully purchased ".$data['pcoins']." Premium coins in id: ".$username.".<br>You have recived ".$extra." extra Premium coins as an offer. Total Premium coins added to your account is ".$newcoins."<br> Thus, You now have ".$ncoins." Premium Coins in your account.<br>You can use these Premium coins to shop at our awesome E-Shop.<br><a href=\".//Eshop/\">Click Here</a> to go to our E-Shop. <br><br> - Eshop Admin Ultimate";
+$log = "Hello,<br>You have successfully purchased ".$data['pcoins']." Premium coins in id: ".$username.".<br>You have recived ".$extra." extra Premium coins as an offer. Total Premium coins added to your account is ".$newcoins."<br> Thus, You now have ".$ncoins." Premium Coins in your account.<br>You can use these Premium coins to shop at our awesome E-Shop.<br><a href=\"/Eshop/\">Click Here</a> to go to our E-Shop. <br><br> - Eshop Admin Ultimate";
 log_action($username,"N.A",$log,$con);
 $subject = "A3 Ultimate : ".$newcoins." Premium coins credited to your account.";
 email_action($username,$subject,$log,$con);
@@ -61,7 +61,7 @@ $query2 = odbc_exec($con, "INSERT INTO coinlog(GMName,eshopper,coinsadded,extra,
 if($query)
 { 
 $msg[] = "$data[pcoins] + $data[extra] Premium Coins have been successfully added, Into character $data[username] !!";
-$log = "Hello,<br>You have successfully purchased ".$data['pcoins']." Premium coins in id: ".$name.".<br>You have recived ".$data['extra']." extra Premium coins as an offer. Total Premium coins added to your account is ".$newcoins."<br> Thus, You now have ".$ncoins." Premium Coins in your account.<br>You can use these Premium coins to shop at our awesome E-Shop.<br><a href=\".//Eshop/\">Click Here</a> to go to our E-Shop. <br><br> - Eshop Admin Ultimate";
+$log = "Hello,<br>You have successfully purchased ".$data['pcoins']." Premium coins in id: ".$name.".<br>You have recived ".$data['extra']." extra Premium coins as an offer. Total Premium coins added to your account is ".$newcoins."<br> Thus, You now have ".$ncoins." Premium Coins in your account.<br>You can use these Premium coins to shop at our awesome E-Shop.<br><a href=\"/Eshop/\">Click Here</a> to go to our E-Shop. <br><br> - Eshop Admin Ultimate";
 log_action($name,"N.A",$log,$con);
 $subject = "A3 Ultimate : ".$newcoins." Premium coins credited to your account.";
 email_action($name,$subject,$log,$con);

@@ -6,7 +6,4 @@ $cleardb_username = $cleardb_url["user"];
 $cleardb_password = $cleardb_url["pass"];
 $cleardb_db       = substr($cleardb_url["path"],1);
 
-echo($cleardb_server);
-echo($cleardb_url);
-
 ?>

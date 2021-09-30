@@ -8,7 +8,7 @@
 <nav>
     <div class="nav-wrapper white">
         <div class="col s12"><a href="#" data-activates="slide-out" class="button-collapse top-nav full"><i class="mdi-navigation-menu"></i></a> 
-            <a href="./" class="brand-logo"><i class="mdi-navigation-chevron-left left"></i> Back</a>
+            <a href="/" class="brand-logo"><i class="mdi-navigation-chevron-left left"></i> Back</a>
             <ul id="slide-out" class="side-nav">
                 <li class="bold"><a href="<?php echo site_url('') ?>" >Home</i></a></li>
                 <li class="no-padding">

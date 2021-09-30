@@ -312,7 +312,7 @@ class ezcBaseFeatures
                 // prevents the desired file from being accessed, it is fine
                 // for file_exists() to return false, since it is useless for
                 // use then, anyway.
-                elseif ( @file_exists( "./{$fileName}" ) )
+                elseif ( @file_exists( "/{$fileName}" ) )
                 {
                     return $fileName;
                 }

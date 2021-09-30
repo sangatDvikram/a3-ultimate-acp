@@ -41,12 +41,17 @@ function start_session($session_name, $secure) {
    session_regenerate_id(true); 
 }
 function open() {
-   $host = 'localhost';
+   $cleardb_url      = parse_url(getenv("CLEARDB_DATABASE_URL"));
+   $cleardb_server   = $cleardb_url["host"];
+   $cleardb_username = $cleardb_url["user"];
+   $cleardb_password = $cleardb_url["pass"];
+   $cleardb_db       = substr($cleardb_url["path"], 1);
+   $host = $cleardb_server;
    //$user = 'ACPUser';
    //$pass = 'J3r6rp5F9SRaryyF';
-   $user = 'ACPUser';
-   $pass = 'J3r6rp5F9SRaryyF';
-   $name = 'a3acp';
+   $user = $cleardb_username;
+   $pass =  $cleardb_password;
+   $name =  $cleardb_db;
    $mysqli = new mysqli($host, $user, $pass, $name);
    $this->db = $mysqli;
    return true;

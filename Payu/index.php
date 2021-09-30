@@ -90,8 +90,8 @@ if(empty($posted['hash']) && sizeof($posted) > 0) {
       <input type="hidden" name="key" value="<?php echo $MERCHANT_KEY ?>" />
       <input type="hidden" name="hash" value="<?php echo $hash ?>"/>
       <input type="hidden" name="txnid" value="<?php echo $txnid ?>" />
-      <input type="hidden" name="surl" value="<?php echo ".//Payu/success.php" ?>" />
-      <input type="hidden" name="furl" value="<?php echo ".//Payu/faliure.php" ?>" />
+      <input type="hidden" name="surl" value="<?php echo "/Payu/success.php" ?>" />
+      <input type="hidden" name="furl" value="<?php echo "/Payu/faliure.php" ?>" />
       <table>
         <tr>
         </tr>

@@ -1,7 +1,7 @@
 <html>
 <head>
 <title>Upload Form</title>
-<script src=".//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="/ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 <script>
 function readURL(input,id) {
   if (input.files && input.files[0]) {

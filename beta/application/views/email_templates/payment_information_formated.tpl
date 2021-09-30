@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
 <title>Received payment successfully</title>
-<link rel="icon" href="./beta/assects/images/favicon/favicon.ico" sizes="32x32">
+<link rel="icon" href="/beta/assects/images/favicon/favicon.ico" sizes="32x32">
 </head>
 <body style="background-color: #9e9e9e !important; box-sizing: inherit; margin: 0;" bgcolor="#9e9e9e !important">
 <style type="text/css">
@@ -174,7 +174,7 @@ ul.side-nav:hover { overflow-y: auto !important; }
         <div style="position: absolute; right: 2%; left: 2%; background-color: #FFFFFF !important; box-sizing: inherit; padding: 0 5px 5px;">
             <div style="box-sizing: inherit; padding-top: 1rem; padding-bottom: 1rem;">
                 <div style="box-sizing: inherit;">
-                    <a target="_blank" href="" style="box-sizing: inherit; color: #039be5; text-decoration: none; -webkit-tap-highlight-color: transparent; background-color: transparent;"><img src="./beta/assects/images/email/logo.png" width="150px" style="box-sizing: inherit; border: 0;"></a>
+                    <a target="_blank" href="" style="box-sizing: inherit; color: #039be5; text-decoration: none; -webkit-tap-highlight-color: transparent; background-color: transparent;"><img src="/beta/assects/images/email/logo.png" width="150px" style="box-sizing: inherit; border: 0;"></a>
 
 
 
@@ -189,7 +189,7 @@ ul.side-nav:hover { overflow-y: auto !important; }
                     <div style="color: #FFFFFF !important; box-sizing: border-box; float: left; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; width: 25%; margin-left: 0; padding: 0 0.75rem;">
                         <p style="box-sizing: inherit; line-height: 2rem;">
 
-                            <img src="./beta/assects/images/email/paypal.png" width="100px" style="box-sizing: inherit; max-width: 100%; height: auto; border: 0;"></p>
+                            <img src="/beta/assects/images/email/paypal.png" width="100px" style="box-sizing: inherit; max-width: 100%; height: auto; border: 0;"></p>
 
                     </div>
                 </div>
@@ -270,6 +270,6 @@ ul.side-nav:hover { overflow-y: auto !important; }
 
 
         
-        <script src="./beta/assects/js/jquery-2.1.1.min.js" style="box-sizing: inherit;"></script><script src="./beta/assects/js/materialize.js" style="box-sizing: inherit;"></script><script src="./beta/assects/js/init.js" style="box-sizing: inherit;"></script>
+        <script src="/beta/assects/js/jquery-2.1.1.min.js" style="box-sizing: inherit;"></script><script src="/beta/assects/js/materialize.js" style="box-sizing: inherit;"></script><script src="/beta/assects/js/init.js" style="box-sizing: inherit;"></script>
 </body>
 </html>
