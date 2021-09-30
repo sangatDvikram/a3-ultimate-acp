@@ -9,7 +9,7 @@ class eshop extends REST_Controller {
         $this->load->model('eshop/eshop_model');
 
         check_page_access(true);
-        $this->load->library('encrypt');
+        // $this->load->library('encrypt');
     }
 
     function getcategorylist_post() {
