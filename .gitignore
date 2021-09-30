@@ -106,5 +106,6 @@ gallary
 images
 allItems
 vendor/
+composer-lock
 .env
 backup
