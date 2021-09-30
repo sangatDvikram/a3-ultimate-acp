@@ -169,9 +169,9 @@ if (logged_in()) {?>
 <?php } ?>
 
 <?php echo (curPageName()=='B-eshop.php')||(curPageName()=='eshop-buy.php') ? "<li class=\"active\">": "<li>"  ?><a href="/beta/Eshop/">E-Shop</a></li>
-<?php echo (curPageName()=='bhero.php') ? "<li class=\"active\">": "<li>"  ?><?php $charquery = odbc_exec($con,"SELECT * FROM charac0 WHERE pnline='1'");
+<!-- <?php echo (curPageName()=='bhero.php') ? "<li class=\"active\">": "<li>"  ?><?php $charquery = odbc_exec($con,"SELECT * FROM charac0 WHERE pnline='1'");
 			$numb=odbc_num_rows($charquery);
-			echo "<a href='/Board_Of_Heroes/' title='The Heroes !!' >Board of Heroes<span class='label label-info'></span>";?></a></li>
+			echo "<a href='/Board_Of_Heroes/' title='The Heroes !!' >Board of Heroes<span class='label label-info'></span>";?></a></li> -->
 
 
 <!--<li><a href="/beta/game/webchat/" title="Chat with ingame players">Web Chat</a></li>-->

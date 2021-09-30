@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "17307761ec8beebd9eddc704bd2dc3d4",
+    "content-hash": "b598ff3f0d4c1a76ce5d195ede609348",
     "packages": [
         {
             "name": "dbt/odbc-driver",
@@ -2064,7 +2064,8 @@
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
-        "ext-mysqli": "*"
+        "ext-mysqli": "*",
+        "ext-mcrypt": "^1.0"
     },
     "platform-dev": [],
     "plugin-api-version": "2.1.0"
