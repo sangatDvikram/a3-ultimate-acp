@@ -2,6 +2,6 @@
     "require": {
       "ext-mysqli": "*",
         "phpseclib/mcrypt_compat": "*",
-        "ext-odbc": "*"
+        "dbt/odbc-driver": "^0.4.0"
     }
   }
