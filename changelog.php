@@ -15,7 +15,7 @@
               <div class="page-header" style="margin-top:0;">
  			  
 <tr><td align="center" width="960"><div id="login" align="center">
-		<h1>A3 Ultimate : <span style="color:#B60404;text-shadow: 1px 1px 3px #E55E5E;font-family:Calibri;font-size:32px">Changelogs</span></h1></div>
+		<h1>A3 Ultimate : <span style="color:#B60404;text-shadow: 1px 1px 3px #E55E5E;font-family:Lato;font-size:32px">Changelogs</span></h1></div>
 </div></td></tr>
 
 <?php include 'changelogbox.php' ?>

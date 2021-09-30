@@ -83,7 +83,7 @@
                 <p style="font-weight:normal;padding:0"><b> <font size="5">Welcome to A3 Ultimate. :</font></b><big><big> The place to unleash the Ultimate Gamer in You. </big></big><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A3 (Art, Alive, Attraction) is an Online MMORPG where you can create character, Level Up, Perform Quests, Make Knighthoods/Alliances. A3 Ultimate serving players since Nov' 2011, by providing a great platform to perform the Tasks ingame.</p><br>
                 <hr>
                 <div class="row-fluid" style=" margin:0 auto; width:100%" >
-                    <div class="span12" style="font-family:Calibri;" >
+                    <div class="span12" style="font-family:Lato;" >
                         
                         <h2>Ingame Shout Chat</h2>
                         <iframe src="/beta/game/homepageshout" style="border:2px solid blue;width:100%" height="250px"></iframe><br><br>
@@ -130,7 +130,7 @@
                     </ul>
                 </div>
             </div>
-            <div class="span9" style="font-family:Calibri;">
+            <div class="span9" style="font-family:Lato;">
 
                 <div class="row" style=" margin:0 auto; width:100%" >
                     <a href="/Downloads/"><div class="quickLinks downloads"></div></a>

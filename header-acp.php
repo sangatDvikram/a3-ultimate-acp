@@ -24,7 +24,7 @@ if (logged_in()) {
 	<meta name="site" content="a3ultimate.com">
 	<meta name="distribution" content="web">
 	<!--GOOGLE FONTS
-	<link href="http://fonts.googleapis.com/css?family=Calibri" rel="stylesheet" type="text/css">-->
+	<link href="http://fonts.googleapis.com/css?family=Lato" rel="stylesheet" type="text/css">-->
 
     <!-- Le styles -->
  	<link rel="icon" type="image/ico" href="/images/favicon.ico">

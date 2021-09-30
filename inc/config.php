@@ -21,8 +21,8 @@ $db = "webasd";
 $db2 = "weba3itemevent";
 $user = "sa";
 $password = "Valid789";
-// $con = odbc_connect($db,$user,$password);
-// $con2 = odbc_connect($db2,$user,$password);
+$con = odbc_connect($db,$user,$password);
+$con2 = odbc_connect($db2,$user,$password);
 //putenv("Asia/Kolkata");
 
 session_start();

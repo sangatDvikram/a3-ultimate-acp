@@ -15,7 +15,7 @@ header("Location: http://$_SERVER[SERVER_NAME]/ACP/"); }
               <div class="page-header" style="margin-top:0;">
  			   <h1>Inventory
 </h1></div>
-	 <div class="well" style="font-family:Calibri" >
+	 <div class="well" style="font-family:Lato" >
 	 <center>
 	 <form action='' method='POST'>
 	

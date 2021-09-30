@@ -40,7 +40,7 @@ require_once "inc/secondary_functions.php";
 ini_set( "display_errors", 0);
 $cur=curPageURL();
 ?>
-<div class="alert alert-info" style='font-family:Calibri;font-size:18px'>
+<div class="alert alert-info" style='font-family:Lato;font-size:18px'>
 <tr><td align="center" width="960" height="25"></td></tr>
 
 <b>19-Jan 2017</b> <br><b>Auction and few Converters Shifted ingame</b><br>
