@@ -57,7 +57,7 @@ $active_record = TRUE;
 $db['default']['hostname'] = $cleardb_server;
 $db['default']['username'] = $cleardb_username;
 $db['default']['password'] = $cleardb_password;
-$db['default']['database'] = $cleardb_password;
+$db['default']['database'] = $cleardb_db;
 $db['default']['dbdriver'] = 'mysqli';
 $db['default']['dbprefix'] = '';
 $db['default']['pconnect'] = TRUE;
@@ -73,14 +73,14 @@ $db['default']['stricton'] = FALSE;
 
 /*
  * ODBC SETTINGS
- *
+ *  odbcASD
  * */
 
-$db['odbcASD']['hostname'] = 'webasd';
-$db['odbcASD']['username'] = 'sa';
-$db['odbcASD']['password'] = 'Valid789';
-$db['odbcASD']['database'] = '';
-$db['odbcASD']['dbdriver'] = 'odbc';
+$db['odbcASD']['hostname'] = $cleardb_server;
+$db['odbcASD']['username'] = $cleardb_username;
+$db['odbcASD']['password'] = $cleardb_password;
+$db['odbcASD']['database'] = $cleardb_db;
+$db['odbcASD']['dbdriver'] = 'mysqli';
 $db['odbcASD']['dbprefix'] = '';
 $db['odbcASD']['pconnect'] = TRUE;
 $db['odbcASD']['db_debug'] = TRUE;

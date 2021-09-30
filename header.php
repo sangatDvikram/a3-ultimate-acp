@@ -17,6 +17,22 @@ if(curPageName()!='login.php')
 
    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />  
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=Varela:300,400,500,700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=Lato:300,400,500,700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=Lobster:300,400,500,700&display=swap"
+    />
     <meta name="description" content="Welcome to A3Ultimate.com. Project A3 Episode 5 Server Ultimate Server for Ultimate Gamers. With some interface changes for refreshing experience in A3  ">
 	<meta name="keywords" content="A3 Ultimate,A3 Ultimate MMORPG, A3ultimate,A3, MMORPG,ultiamte">
  

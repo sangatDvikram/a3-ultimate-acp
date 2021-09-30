@@ -17,7 +17,7 @@ if (!defined('BASEPATH'))
   | path to your installation.
   |
  */
-$config['base_url'] = './beta/';
+$config['base_url'] = '/beta/';
 
 /*
   |--------------------------------------------------------------------------

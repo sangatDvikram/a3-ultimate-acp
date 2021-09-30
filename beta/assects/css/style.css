@@ -51,10 +51,10 @@ footer.page-footer {
 ul.side-nav:hover {
     overflow-y: auto; }
 
-    .char0{background:url(../images/char.png) bottom left no-repeat;width:auto;height:160px;padding-top:70px}
-    .char1{background:url(../images/char1.png) bottom right no-repeat;width:auto;height:160px;padding-top:70px}
-    .char2{background:url(../images/char3.png) bottom left no-repeat;width:auto;height:160px;padding-top:70px}
-    .char3{background:url(../images/char2.png) right bottom no-repeat;width:auto;height:160px;padding-top:70px} 
+    .char0{background:url(/images/char.png) bottom left no-repeat;width:auto;height:160px;padding-top:70px}
+    .char1{background:url(/images/char1.png) bottom right no-repeat;width:auto;height:160px;padding-top:70px}
+    .char2{background:url(/images/char3.png) bottom left no-repeat;width:auto;height:160px;padding-top:70px}
+    .char3{background:url(/images/char2.png) right bottom no-repeat;width:auto;height:160px;padding-top:70px} 
     
     #loader {
 	position: relative;
@@ -63,7 +63,7 @@ ul.side-nav:hover {
 	width: 100%;
 	height: 100%;
 	z-index: 9999;
-        background: url(../images/loader/FlipFlop.gif) center no-repeat;
+        background: url(/images/loader/FlipFlop.gif) center no-repeat;
       
 }
     

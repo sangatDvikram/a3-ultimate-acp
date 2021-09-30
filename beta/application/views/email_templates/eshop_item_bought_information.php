@@ -34,7 +34,7 @@
                 <div class="row valign-wrapper red">
                     <div class=" col s9  white-text">
 
-                        <span style="font-family: Calibri;font-size: 2em "> Player bought premium coins using paypal.</span>
+                        <span style="font-family: Lato;font-size: 2em "> Player bought premium coins using paypal.</span>
 
 
                     </div>
@@ -49,7 +49,7 @@
                 <div class="section">
                     <p>
                         Dear Protbhai@gmail.com,<br>
-                        <span style="font-family: Calibri;font-size: 16pz ">
+                        <span style="font-family: Lato;font-size: 16pz ">
                             Player with account id <b> gmrevo98 </b> has bought <b> item </b> using eshop coins in <b> character </b> <b> Slot </b>. so  make sure you take proper action on this matter. 
                             <br>
                             Please Take a look at following transaction details.
@@ -125,7 +125,7 @@
 
 
             </div>
-            <div class="section grey lighten-4" style="font-family: Calibri"> 
+            <div class="section grey lighten-4" style="font-family: Lato"> 
                 <p>
                     Notes : This is an automated email. Please don't reply to this email. If you want to contact us, mail us at <a class="mail_thrw ng-binding" ng-href="mailto:support@a3ultimate.com" href="mailto:support@a3ultimate.com">support@a3ultimate.com</a>
                     <br>
