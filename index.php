@@ -7,14 +7,14 @@
         <script>
 
             
-            var refreshId = setInterval(function()
-            {
-                $('#hero').load('/Stats/hero.php?randval=' + Math.random());
-                $('#server').load('/Stats/server.php?randval=' + Math.random());
-                $('#ping').load('/macchk.php?randval=' + Math.random());
-                $('#status').load('/ini.php?randval=' + Math.random());
-                document.getElementById('changelogframe').contentWindow.location.reload();
-            }, 10000);
+            // var refreshId = setInterval(function()
+            // {
+            //     $('#hero').load('/Stats/hero.php?randval=' + Math.random());
+            //     $('#server').load('/Stats/server.php?randval=' + Math.random());
+            //     $('#ping').load('/macchk.php?randval=' + Math.random());
+            //     $('#status').load('/ini.php?randval=' + Math.random());
+            //     document.getElementById('changelogframe').contentWindow.location.reload();
+            // }, 10000);
         </script>
         <script type="text/javascript" async src="/js/css-pop.js"></script>
     <div class="container-fluid">
@@ -163,20 +163,6 @@
                 </div>
 
                 <div class="row" style=" margin:0 auto; width:100%" >
-                    <div class="span5" style="margin-right:6%" >
-                        <!--<h2  align="center">Gallery</h2>
-                        <hr>
-
-                        <span id="gal"><?php
-                            $query1 = "SELECT top 9 * FROM gallery_info where verify=1 order by sr_no desc  ";
-                            $rs1 = odbc_exec($con2, $query1);
-                            while ($dd = odbc_fetch_array($rs1)) {
-                                echo "<a class='pop' href='#' id='$dd[unq_id]'>
-                  <img src=' $dd[thumb]' title='$dd[descr]' class='img-polaroid'  >
-                  </a>";
-                            }
-                            ?></span>-->
-                    </div>
                     <div class="span5"  align="center">
                         <h2 align="center">Stay Connected (FB)</h2>
                         <hr>

@@ -11,6 +11,7 @@ RewriteEngine on
 #Allow from 117.248.180.33										
 #ErrorDocument 403 /404.php 								
 #-----------------------------------------------------------#|
+SetEnv CLEARDB_DATABASE_URL mysql://admin:admin123@database-1.cluster-ro-cvxcptf7usam.us-east-2.rds.amazonaws.com:3306/a3ultimate
 #----Force www ------#
 RewriteCond %{HTTP_HOST} !^acp\.$
 RewriteCond %{HTTP_HOST} !^www\. [NC]

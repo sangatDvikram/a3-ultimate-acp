@@ -59,7 +59,7 @@
 </div>
 
 <!--  Scripts-->
-<script src="<?php echo base_url(); ?>assects/js/jquery-2.1.1.min.js"></script>
+<script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
 <script src="https://storage.googleapis.com/code.getmdl.io/1.0.1/material.min.js"></script>
 
 <?php

@@ -1,4 +1,9 @@
 <?php
+$cleardb_url      = parse_url(getenv("CLEARDB_DATABASE_URL"));
+$cleardb_server   = $cleardb_url["host"];
+$cleardb_username = $cleardb_url["user"];
+$cleardb_password = $cleardb_url["pass"];
+$cleardb_db       = substr($cleardb_url["path"], 1);
 function sanitize_output($buffer)
 {
 	$search = array(
@@ -23,8 +28,21 @@ try {
 	$db2 = "weba3itemevent";
 	$user = "sa";
 	$password = "Valid789";
-	$con = odbc_connect($db, $user, $password);
-	$con2 = odbc_connect($db2, $user, $password);
+	// $con = odbc_connect($db, $user, $password);
+	// $con2 = odbc_connect($db2, $user, $password);
+	// Create connection
+	$con = mysqli_connect($cleardb_server, $cleardb_username, $cleardb_password,$cleardb_db);
+	$con2 = mysqli_connect($cleardb_server, $cleardb_username, $cleardb_password,$cleardb_db);
+
+	// Check connection
+	if (!$con) {
+		echo("Connection failed: " . mysqli_connect_error());
+	}
+	// Check connection
+	if (!$con2) {
+		echo("Connection failed: " . mysqli_connect_error());
+	}
+	echo "Connected successfully";
 } catch (Throwable $ex) {
 	echo ("Sorry Not able to connect to odbc database!!");
 }
@@ -34,11 +52,7 @@ session_start();
 session_regenerate_id(true);
 
 try {
-	$cleardb_url      = parse_url(getenv("CLEARDB_DATABASE_URL"));
-	$cleardb_server   = $cleardb_url["host"];
-	$cleardb_username = $cleardb_url["user"];
-	$cleardb_password = $cleardb_url["pass"];
-	$cleardb_db       = substr($cleardb_url["path"], 1);
+
 	define("DB_HOST", $cleardb_server); //DNS HOST
 	define("DB_NAME", $cleardb_db); //Database
 	define("DB_USER", $cleardb_username); //username of the database
