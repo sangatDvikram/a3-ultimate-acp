@@ -76,7 +76,7 @@ $pvp = odbc_fetch_array($pvpquery);
          <table>
          <tr>
          <td rowspan="3" align="center"><?php echo "$playerInfo[NationImage]";?></td>&nbsp&nbsp&nbsp
-         <td rowspan="3" align="center"><?php echo "<img src='./images/chars$playerInfo[TypeNum].jpg' alt='$playerInfo[Type]' title='$playerInfo[Type]'>";?></td>
+         <td rowspan="3" align="center"><?php echo "<img src='/images/chars$playerInfo[TypeNum].jpg' alt='$playerInfo[Type]' title='$playerInfo[Type]'>";?></td>
          <td><?php echo " <h1> $playerInfo[StyledName]</h1>"; ?></td>
          </tr>
          <tr>

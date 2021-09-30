@@ -99,7 +99,7 @@
                                 <div class="mdl-cell mdl-cell--6-col">
                                     <h4>Stay Connected</h4>
                                     <hr>
-                                    <iframe src="://www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FA3Ultimate&amp;width=300&amp;height=290&amp;colorscheme=light&amp;show_faces=true&amp;header=true&amp;stream=false&amp;show_border=false" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:300px;width:100%" allowTransparency="true"></iframe>
+                                    <iframe src="https://www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FA3Ultimate&amp;width=300&amp;height=290&amp;colorscheme=light&amp;show_faces=true&amp;header=true&amp;stream=false&amp;show_border=false" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:300px;width:100%" allowTransparency="true"></iframe>
                                 </div>
                             </div>
                         </div>

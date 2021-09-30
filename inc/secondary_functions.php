@@ -19,7 +19,7 @@ function antisql($sql)
     }
     if ($check != $sql) {
         $pageURL = 'http';
-        $pageURL .= "://";
+        $pageURL .= "http://";
         $pageURL .= $_SERVER["SERVER_NAME"] . $_SERVER["PHP_SELF"];
         @mkdir("userlogs/" . date("Y") . "/" . date("F") . "", 0755, true);
         $logf = fopen("userlogs/" . date("Y") . "/" . date("F") . "/" . date("jS") . "-" . date("F") . "-sqlinjectionlog.txt", "a+");
@@ -334,7 +334,7 @@ function curPageURL()
 {
     $pageURL = 'http';
     //if ($_SERVER["HTTPS"] == "on") {$pageURL .= "s";}
-    $pageURL .= "://";
+    $pageURL .= "http://";
     if ($_SERVER["SERVER_PORT"] != "80") {
         $pageURL .= $_SERVER["SERVER_NAME"] . ":" . $_SERVER["SERVER_PORT"] . $_SERVER["REQUEST_URI"];
     } else {
@@ -1194,10 +1194,10 @@ function playerInfo($char, $townW = null, $townH = null)
 
     if ($online == 1) {
         $status = 'Online';
-        $statusImage = "<img src='./images/status.png' title='Online'>";
+        $statusImage = "<img src='/images/status.png' title='Online'>";
     } else {
         $status = 'Offline';
-        $statusImage = "<img src='./images/status-offline.png' title='Offline'>";
+        $statusImage = "<img src='/images/status-offline.png' title='Offline'>";
     }
     //Nation Status
     $town = '';
@@ -1218,9 +1218,9 @@ function playerInfo($char, $townW = null, $townH = null)
     }
     //Town Image
     if ($townW > 0 && $townH > 0) {
-        $townImage = "<img src='./images/town$town.png' alt='$town' title='$town' width='$townW' height='$townH'>";
+        $townImage = "<img src='/images/town$town.png' alt='$town' title='$town' width='$townW' height='$townH'>";
     } else {
-        $townImage = "<img src='./images/town$town.png' alt='$town' title='$town'>";
+        $townImage = "<img src='/images/town$town.png' alt='$town' title='$town'>";
     }
 
     $styledName = "<span style='$style' title='$rank'>$name</span>";
