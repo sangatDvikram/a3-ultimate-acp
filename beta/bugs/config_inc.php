@@ -1,9 +1,4 @@
 <?php
-$cleardb_url      = parse_url(getenv("CLEARDB_DATABASE_URL"));
-$cleardb_server   = $cleardb_url["host"];
-$cleardb_username = $cleardb_url["user"];
-$cleardb_password = $cleardb_url["pass"];
-$cleardb_db       = substr($cleardb_url["path"], 1);
 # MantisBT - a php based bugtracking system
 
 # MantisBT is free software: you can redistribute it and/or modify
@@ -48,30 +43,30 @@ $cleardb_db       = substr($cleardb_url["path"], 1);
 	 * If you need to supply a port to connect to, set hostname as 'localhost:3306'.
 	 * @global string $g_hostname
 	 */
-	$g_hostname				= $cleardb_server;
+	$g_hostname				= 'localhost';
 	/**
 	 * User name to use for connecting to the database. The user needs to have read/write access to the MantisBT database.
 	 * The default user name is "root".
 	 * @global string $g_db_username
 	 */
-	$g_db_username			= $cleardb_username;
+	$g_db_username			= 'ACPUser';
 	/**
 	 * Password for the specified user name. The default password is empty.
 	 * @global string $g_db_password
 	 */
-	$g_db_password			= $cleardb_password;
+	$g_db_password			= 'J3r6rp5F9SRaryyF';
 	 /**
 	  * Name of database that contains MantisBT tables.
 	  * The default database name is "bugtracker".
 	  * @global string $g_database_name
 	  */
-	$g_database_name		= $cleardb_db;
+	$g_database_name		= 'a3bugs';
 
 	/**
 	 * Database Schema Name - used in the case of db2.
 	 * @global string $g_db_schema
 	 */
-	$g_db_schema			= $cleardb_db;
+	$g_db_schema			= 'a3bugs';
 
 	/**
 	 * Defines the database type. Supported types are listed below;

@@ -12,7 +12,7 @@ class Eshop extends CI_Controller {
         $this->data['css'] = array();
         $this->data['menu'] = "/menu/index";
         
-        // $this->load->library('encrypt');
+        $this->load->library('encrypt');
     }
 
     public function index() {

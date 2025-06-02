@@ -94,27 +94,27 @@
                             print "<td style='cursor:pointer'><img src='$pic[Necklace]' class='thumbnail drevil' rel='drevil'  data-trigger='hover' data-content=\"$stat[Necklace]\" data-original-title=\"<b>$names[Necklace]</b>\" ></td>";
                             //echo "<br>Slot 1:".$wear['Name'];
                         }
-                        else { print "<td style='cursor:pointer'><img src='.//allitems/Blank.jpg' rel='drevil' class='thumbnail'  data-trigger='hover' data-content='' data-original-title='<b>Empty Inventory</b>' > </td>";}
+                        else { print "<td style='cursor:pointer'><img src='http://www.a3ultimate.com/allitems/Blank.jpg' rel='drevil' class='thumbnail'  data-trigger='hover' data-content='' data-original-title='<b>Empty Inventory</b>' > </td>";}
                         if($pic['Helmet']!=''){
                             print "<td style='cursor:pointer'><img src='$pic[Helmet]' class='thumbnail drevil' rel='drevil'  data-trigger='hover' data-content=\"$stat[Helmet]\" data-original-title=\"<b>$names[Helmet]</b>\" ></td>";
                             //echo "<br>Slot 2:".$wear['Name'];
                         }
-                        else { print "<td style='cursor:pointer'><img src='.//allitems/Blank.jpg' rel='drevil' class='thumbnail'  data-trigger='hover' data-content='' data-original-title='<b>Empty Inventory</b>' > </td>";}
+                        else { print "<td style='cursor:pointer'><img src='http://www.a3ultimate.com/allitems/Blank.jpg' rel='drevil' class='thumbnail'  data-trigger='hover' data-content='' data-original-title='<b>Empty Inventory</b>' > </td>";}
                         if($pic['Ring']!=''){
                             print "<td style='cursor:pointer'><img src='$pic[Ring]' class='thumbnail drevil' rel='drevil'  data-trigger='hover' data-content=\"$stat[Ring]\" data-original-title=\"<b>$names[Ring]</b>\" > </td></tr><tr>";
                             //echo "<br>Slot 3:".$wear['Name'];
                         }
-                        else { print "<td style='cursor:pointer'><img src='.//allitems/Blank.jpg' rel='drevil' class='thumbnail'  data-trigger='hover' data-content='' data-original-title='<b>Empty Inventory</b>' > </td></tr><tr>";}
+                        else { print "<td style='cursor:pointer'><img src='http://www.a3ultimate.com/allitems/Blank.jpg' rel='drevil' class='thumbnail'  data-trigger='hover' data-content='' data-original-title='<b>Empty Inventory</b>' > </td></tr><tr>";}
                         if($pic['Weapon']!=''){
                             print "<td style='cursor:pointer'><img src='$pic[Weapon]' class='thumbnail drevil' rel='drevil'  data-trigger='hover' data-content=\"$stat[Weapon]\" data-original-title=\"<b>$names[Weapon]</b>\" ></td>";
                             //echo "<br>Slot 4:".$wear['Name'];
                         }
-                        else { print "<td style='cursor:pointer'><img src='.//allitems/Blank.jpg' rel='drevil' class='thumbnail'  data-trigger='hover' data-content='' data-original-title='<b>Empty Inventory</b>' > </td>";}
+                        else { print "<td style='cursor:pointer'><img src='http://www.a3ultimate.com/allitems/Blank.jpg' rel='drevil' class='thumbnail'  data-trigger='hover' data-content='' data-original-title='<b>Empty Inventory</b>' > </td>";}
                         if($pic['Armor']!=''){
                             print "<td style='cursor:pointer'><img src='$pic[Armor]' class='thumbnail drevil' rel='drevil'  data-trigger='hover' data-content=\"$stat[Armor]\" data-original-title=\"<b>$names[Armor]</b>\" > </td>";
                             //echo "<br>Slot 5:".$wear['Name'];
                         }
-                        else { print "<td style='cursor:pointer'><img src='.//allitems/Blank.jpg' rel='drevil' class='thumbnail'  data-trigger='hover' data-content='' data-original-title='<b>Empty Inventory</b>' > </td>";}
+                        else { print "<td style='cursor:pointer'><img src='http://www.a3ultimate.com/allitems/Blank.jpg' rel='drevil' class='thumbnail'  data-trigger='hover' data-content='' data-original-title='<b>Empty Inventory</b>' > </td>";}
                         if($pic['Shield']!=''){
                             print "<td style='cursor:pointer'><img src='$pic[Shield]' class='thumbnail drevil' rel='drevil'  data-trigger='hover' data-content=\"$stat[Shield]\" data-original-title=\"<b>$names[Shield]</b>\" ></td></tr><tr>";
                             //echo "<br>Slot 6:".$wear['Name'];
@@ -124,22 +124,22 @@
                                 print "<td style='cursor:pointer'><img src='$pic[Weapon]' class='thumbnail drevil' dissabled ></td></tr><tr>";
                             }
                             else{
-                                print "<td style='cursor:pointer'><img src='.//allitems/Blank.jpg' rel='drevil' class='thumbnail'  data-trigger='hover' data-content='' data-original-title='<b>Empty Inventory</b>' > </td></tr><tr>";}}
+                                print "<td style='cursor:pointer'><img src='http://www.a3ultimate.com/allitems/Blank.jpg' rel='drevil' class='thumbnail'  data-trigger='hover' data-content='' data-original-title='<b>Empty Inventory</b>' > </td></tr><tr>";}}
                         if($pic['Gloves']!=''){
                             print "<td style='cursor:pointer'><img src='$pic[Gloves]' class='thumbnail drevil' rel='drevil'  data-trigger='hover' data-content=\"$stat[Gloves]\" data-original-title=\"<b>$names[Gloves]</b>\" ></td>";
                             //echo "<br>Slot 7:".$wear['Name'];
                         }
-                        else { print "<td style='cursor:pointer'><img src='.//allitems/Blank.jpg' rel='drevil' class='thumbnail'  data-trigger='hover' data-content='' data-original-title='<b>Empty Inventory</b>' > </td>";}
+                        else { print "<td style='cursor:pointer'><img src='http://www.a3ultimate.com/allitems/Blank.jpg' rel='drevil' class='thumbnail'  data-trigger='hover' data-content='' data-original-title='<b>Empty Inventory</b>' > </td>";}
                         if($pic['Pant']!=''){
                             print "<td style='cursor:pointer'><img src='$pic[Pant]' class='thumbnail drevil' rel='drevil'  data-trigger='hover' data-content=\"$stat[Pant]\" data-original-title=\"<b>$names[Pant]</b>\" ></td>";
                             //echo "<br>Slot 8:".$wear['Name'];
                         }
-                        else { print "<td style='cursor:pointer'><img src='.//allitems/Blank.jpg' rel='drevil' class='thumbnail'  data-trigger='hover' data-content='' data-original-title='<b>Empty Inventory</b>' > </td>";}
+                        else { print "<td style='cursor:pointer'><img src='http://www.a3ultimate.com/allitems/Blank.jpg' rel='drevil' class='thumbnail'  data-trigger='hover' data-content='' data-original-title='<b>Empty Inventory</b>' > </td>";}
                         if($pic['Boots']!=''){
                             print "<td style='cursor:pointer'><img src='$pic[Boots]' class='thumbnail drevil' rel='drevil'  data-trigger='hover' data-content=\"$stat[Boots]\" data-original-title=\"<b>$names[Boots]</b>\" ></td>";
                             //echo "<br>Slot 9:".$wear['Name'];
                         }
-                        else { print "<td style='cursor:pointer'><img src='.//allitems/Blank.jpg' rel='drevil' class='thumbnail'  data-trigger='hover' data-content='' data-original-title='<b>Empty Inventory</b>' > </td>";}
+                        else { print "<td style='cursor:pointer'><img src='http://www.a3ultimate.com/allitems/Blank.jpg' rel='drevil' class='thumbnail'  data-trigger='hover' data-content='' data-original-title='<b>Empty Inventory</b>' > </td>";}
                     } ?>
                 </tr>
                 </tbody>
@@ -192,7 +192,7 @@
                             $new1++;
                         }
                         if (in_array($value1, $result1)) {
-                            print "<td style='cursor:pointer'><img src='.//allitems/Blank.jpg' class='thumbnail drevil' rel='drevil'  data-trigger='hover' data-content='<b>Slot:</b> $value1' data-original-title='<b>Empty Inventory</b>' > </td>";
+                            print "<td style='cursor:pointer'><img src='http://www.a3ultimate.com/allitems/Blank.jpg' class='thumbnail drevil' rel='drevil'  data-trigger='hover' data-content='<b>Slot:</b> $value1' data-original-title='<b>Empty Inventory</b>' > </td>";
                         }
                         if(($j+1)%6==0){echo "</tr><tr>";}
                         $j++;
@@ -221,8 +221,8 @@
 </div><!-- Cointainer -->
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-<script src="/js/bootstrap-tooltip.js"></script>
-<script src="/js/bootstrap-popover.js"></script>
+<script src="http://www.a3ultimate.com/js/bootstrap-tooltip.js"></script>
+<script src="http://www.a3ultimate.com/js/bootstrap-popover.js"></script>
 <script type="text/javascript">
     $(document).ready(function() {
         $("body .drevil").popover({

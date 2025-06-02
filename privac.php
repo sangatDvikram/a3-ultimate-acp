@@ -17,10 +17,10 @@
               <div class="page-header" style="margin-top:0;">
  			  
 <tr><td  width="960"><div id="login" >
-		<h1>A3 Ultimate :<span style="color:#B60404;text-shadow: 1px 1px 3px #E55E5E;font-family:Lato;font-size:32px">Privacy Policy</span></h1></div>
+		<h1>A3 Ultimate :<span style="color:#B60404;text-shadow: 1px 1px 3px #E55E5E;font-family:Calibri;font-size:32px">Privacy Policy</span></h1></div>
 </div></td></tr>
 
-<div class="alert alert-info" style='font-family:Lato;font-size:18px'>
+<div class="alert alert-info" style='font-family:Calibri;font-size:18px'>
 <tr><td align="center" width="960" height="25"></td></tr>
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A3 Ultimate Private MMORPG is committed to ensuring that your privacy is protected. This privacy policy explains how we use the information we collect about you, how you can instruct us if you prefer to limit the use of that information and procedures that we have in place to safeguard your privacy.<br><br>

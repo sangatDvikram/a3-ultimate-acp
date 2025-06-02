@@ -15,9 +15,9 @@
               <div class="page-header" style="margin-top:0;">
  			  
 <tr><td align="center" width="960"><div id="login" align="center">
-		<h1>A3 Ultimate :<span style="color:#B60404;text-shadow: 1px 1px 3px #E55E5E;font-family:Lato;font-size:32px">Terms Of Service</span></h1></div>
+		<h1>A3 Ultimate :<span style="color:#B60404;text-shadow: 1px 1px 3px #E55E5E;font-family:Calibri;font-size:32px">Terms Of Service</span></h1></div>
 </div></td></tr>
-<div class="alert alert-info" style='font-family:Lato;font-size:18px'>
+<div class="alert alert-info" style='font-family:Calibri;font-size:18px'>
 <tr><td align="center" width="960" height="25"></td></tr>
 <br>
 1. While playing A3 Ultimate, you must respect the rights of others and their rights to play and enjoy the game. To this end, you may not defraud, harass, threaten, or cause distress and/or unwanted attention to other players.

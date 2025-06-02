@@ -149,7 +149,7 @@ $query2 = odbc_exec($con, "INSERT INTO coinlog(GMName,eshopper,coinsadded,extra,
 if($query)
 { 
 $msg[] = "$pc Premium Coins have been successfully added, Into account $username using paypal donation!!";
-$log = "Hello,<br>You have successfully purchased ".$pc." Premium coins in id: ".$username." using paypal donation. <br>The paypal transaction ID is $txn_id <br> Total Premium coins added to your account is ".$newcoins."<br> Thus, You now have ".$ncoins." Premium Coins in your account.<br>You can use these Premium coins to shop at our awesome E-Shop.<br><a href=\"/beta/eshop\">Click Here</a> to go to our E-Shop. <br><br> - Eshop Admin Ultimate";
+$log = "Hello,<br>You have successfully purchased ".$pc." Premium coins in id: ".$username." using paypal donation. <br>The paypal transaction ID is $txn_id <br> Total Premium coins added to your account is ".$newcoins."<br> Thus, You now have ".$ncoins." Premium Coins in your account.<br>You can use these Premium coins to shop at our awesome E-Shop.<br><a href=\"http://www.a3ultimate.com/beta/eshop\">Click Here</a> to go to our E-Shop. <br><br> - Eshop Admin Ultimate";
 log_action($username,"N.A",$log,$con);
 $subject = "A3 Ultimate : ".$newcoins." Premium coins credited to your account.";
 email_action($username,$subject,$log,$con);

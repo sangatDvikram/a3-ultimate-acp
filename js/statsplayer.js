@@ -15,7 +15,7 @@ $(document).ready(function ()
         $.ajax
         ({
             type: "POST",
-            url: "/Stats/stats.php",
+            url: "http://www.a3ultimate.com/Stats/stats.php",
             data: dataString,
             cache: false,
             success: function (html)

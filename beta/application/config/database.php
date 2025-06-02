@@ -1,4 +1,4 @@
-<?php if (!defined('BASEPATH')) exit('No direct script access allowed');
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 /*
 | -------------------------------------------------------------------
 | DATABASE CONNECTIVITY SETTINGS
@@ -45,19 +45,13 @@
 | the active record class
 */
 
-$cleardb_url      = parse_url(getenv("CLEARDB_DATABASE_URL"));
-$cleardb_server   = $cleardb_url["host"];
-$cleardb_username = $cleardb_url["user"];
-$cleardb_password = $cleardb_url["pass"];
-$cleardb_db       = substr($cleardb_url["path"], 1);
-
 $active_group = 'default';
 $active_record = TRUE;
 
-$db['default']['hostname'] = $cleardb_server;
-$db['default']['username'] = $cleardb_username;
-$db['default']['password'] = $cleardb_password;
-$db['default']['database'] = $cleardb_db;
+$db['default']['hostname'] = 'localhost';
+$db['default']['username'] = 'ACPUser';
+$db['default']['password'] = 'J3r6rp5F9SRaryyF';
+$db['default']['database'] = 'a3acp';
 $db['default']['dbdriver'] = 'mysqli';
 $db['default']['dbprefix'] = '';
 $db['default']['pconnect'] = TRUE;
@@ -73,14 +67,14 @@ $db['default']['stricton'] = FALSE;
 
 /*
  * ODBC SETTINGS
- *  odbcASD
+ *
  * */
 
-$db['odbcASD']['hostname'] = $cleardb_server;
-$db['odbcASD']['username'] = $cleardb_username;
-$db['odbcASD']['password'] = $cleardb_password;
-$db['odbcASD']['database'] = $cleardb_db;
-$db['odbcASD']['dbdriver'] = 'mysqli';
+$db['odbcASD']['hostname'] = 'webasd';
+$db['odbcASD']['username'] = 'sa';
+$db['odbcASD']['password'] = 'Valid789';
+$db['odbcASD']['database'] = '';
+$db['odbcASD']['dbdriver'] = 'odbc';
 $db['odbcASD']['dbprefix'] = '';
 $db['odbcASD']['pconnect'] = TRUE;
 $db['odbcASD']['db_debug'] = TRUE;

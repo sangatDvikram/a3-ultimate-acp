@@ -67,7 +67,7 @@ include 'Stats/str.php'  ;
 $new1++;
 }
 if (in_array($value1, $result1)) {
-    print "<td style='cursor:pointer'><img src='.//allitems/Blank.jpg' rel='drevil' class='thumbnail'  data-trigger='hover' data-content='<b>Slot:</b> $value1' data-original-title='<b>Empty Inventory</b>' > </td>";
+    print "<td style='cursor:pointer'><img src='http://www.a3ultimate.com/allitems/Blank.jpg' rel='drevil' class='thumbnail'  data-trigger='hover' data-content='<b>Slot:</b> $value1' data-original-title='<b>Empty Inventory</b>' > </td>";
 }
 if(($j+1)%5==0){echo "</tr><tr>";}
   $j++;
@@ -84,8 +84,8 @@ if(($j+1)%5==0){echo "</tr><tr>";}
 </div><!-- Main -->
 </div><!-- Cointainer -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>  
-<script src="/js/bootstrap-tooltip.js"></script>  
-<script src="/js/bootstrap-popover.js"></script>  
+<script src="http://www.a3ultimate.com/js/bootstrap-tooltip.js"></script>  
+<script src="http://www.a3ultimate.com/js/bootstrap-popover.js"></script>  
 <script type="text/javascript">
  $(document).ready(function() {
   $("[rel=drevil]").popover({

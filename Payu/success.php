@@ -48,7 +48,7 @@ If (isset($_POST["additionalCharges"])) {
                 $query4 = odbc_exec($con,"UPDATE account SET pcoins = pcoins + $newcoins WHERE c_id = '$productinfo'");
                 $query2 = odbc_exec($con, "INSERT INTO coinlog(GMName,eshopper,coinsadded,extra,DateTime) VALUES('$txnid','$productinfo','$amount','$amount', CONVERT(DATETIME, '$date', 102))");
                 $msg[] = "$amount + $discount Premium Coins have been successfully added, Into account $productinfo !!";
-$log = "Hello,<br>You have successfully purchased ".$amount." Premium coins in account ID: ".$productinfo.".<br>You have also received ".$discount." extra Premium coins as an offer. Total Premium coins added to your account is ".$newcoins."<br>You now have ".$ncoins." Premium Coins in your account.<br>You can use these Premium coins to shop at our awesome E-Shop.<br><a href=\"/beta/Eshop/\">Click Here</a> to go to our E-Shop. <br><br> - Eshop Admin Ultimate";
+$log = "Hello,<br>You have successfully purchased ".$amount." Premium coins in account ID: ".$productinfo.".<br>You have also received ".$discount." extra Premium coins as an offer. Total Premium coins added to your account is ".$newcoins."<br>You now have ".$ncoins." Premium Coins in your account.<br>You can use these Premium coins to shop at our awesome E-Shop.<br><a href=\"http://www.a3ultimate.com/beta/Eshop/\">Click Here</a> to go to our E-Shop. <br><br> - Eshop Admin Ultimate";
 log_action($productinfo,"N.A",$log,$con);
 $subject = "A3 Ultimate : ".$newcoins." Premium coins credited to your account.";
 email_action($productinfo,$subject,$log,$con);
@@ -56,7 +56,7 @@ echo $htmlHeader;
           while($stuff){
             echo $stuff;
            }
-           echo "<script>window.location = './/ACP/'</script>";
+           echo "<script>window.location = 'http://www.a3ultimate.com/ACP/'</script>";
           }
            // echo "<br>Executed $count";
             
@@ -66,7 +66,7 @@ echo $htmlHeader;
           while($stuff){
             echo $stuff;
            }
-           echo "<script>window.location = './/ACP/'</script>";
+           echo "<script>window.location = 'http://www.a3ultimate.com/ACP/'</script>";
           }
 
           }         

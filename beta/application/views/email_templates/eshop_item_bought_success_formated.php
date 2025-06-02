@@ -1087,7 +1087,7 @@ ul.side-nav:hover { overflow-y: auto !important; }
                 <div style="background-color: #F44336 !important; box-sizing: inherit; display: flex; -webkit-flex-align: center; -ms-flex-align: center; -webkit-align-items: center; align-items: center; margin-left: auto; margin-right: auto; margin-bottom: 20px;">
                     <div style="color: #FFFFFF !important; box-sizing: border-box; float: left; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; width: 75%; margin-left: 0; padding: 0 0.75rem;">
 
-                        <span style="font-family: Lato; font-size: 2em; box-sizing: inherit;"> You have successfully bought <b style="font-weight: bold; box-sizing: inherit;"><?=$item;?></b> using <?=$transaction_type;?> coin.</span>
+                        <span style="font-family: Calibri; font-size: 2em; box-sizing: inherit;"> You have successfully bought <b style="font-weight: bold; box-sizing: inherit;"><?=$item;?></b> using <?=$transaction_type;?> coin.</span>
 
 
                     </div>
@@ -1169,7 +1169,7 @@ ul.side-nav:hover { overflow-y: auto !important; }
 
 
             </div>
-            <div style="font-family: Lato; background-color: #f5f5f5 !important; box-sizing: inherit; padding-top: 1rem; padding-bottom: 1rem;"> 
+            <div style="font-family: Calibri; background-color: #f5f5f5 !important; box-sizing: inherit; padding-top: 1rem; padding-bottom: 1rem;"> 
                 <p style="box-sizing: inherit;">
                     Notes : This is an automated email. Please don't reply to this email. If you want to contact us, mail us at <a ng-href="mailto:support@a3ultimate.com" href="mailto:support@a3ultimate.com" style="box-sizing: inherit; color: #039be5; text-decoration: none; -webkit-tap-highlight-color: transparent; background-color: transparent;">support@a3ultimate.com</a>
                 </p>

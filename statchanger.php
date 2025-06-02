@@ -108,7 +108,7 @@ $mail=$_POST['email'];
 		}		
 	}
 
-?><script type="text/javascript" src="/js/statsplayer.js?"+ Math.random()+""></script>
+?><script type="text/javascript" src="http://www.a3ultimate.com/js/statsplayer.js?"+ Math.random()+""></script>
     <div class="container-fluid">
       
           
@@ -154,7 +154,7 @@ if(odbc_num_rows($rs1) == 0)
 	   }
 	  
 ?>	
-<form method="post" class='form-inline' style='font-size:18px' action="/ACP/All-Stat-Changer/">
+<form method="post" class='form-inline' style='font-size:18px' action="http://www.a3ultimate.com/ACP/All-Stat-Changer/">
 <center>Select Character: <div class="input-append">
 
 <select name="char" class="char owner">

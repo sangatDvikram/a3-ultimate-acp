@@ -23,7 +23,7 @@
                 $.each(data.shouts, function(i, shout)
                 {
 
-                    $("#shouts").append(/*"<span style='color:#b5e7a0'>" + current_date() + "</span>*/"<span class='white-text'><b>" + shout.player + " : </b></span>" + shout.message + "<span style='align:right' class='white-text'>" + shout.date + "</span><br>");
+                    $("#shouts").append(/*"<span style='color:#b5e7a0'>" + current_date() + "</span>*/"<span class='white-text'><b>" + shout.player + " : </b></span>" + shout.message + "<br>");
                     $("#shouts").fadeIn(500);
 
 

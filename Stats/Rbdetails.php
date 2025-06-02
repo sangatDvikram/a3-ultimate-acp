@@ -132,23 +132,23 @@ if($num!=0){
 <h4>Crafting Info for $Info[Name]: </h4>
 <table cellspacing='5' cellpadding='5'>
 <tr> 
-<td class='tip2'><a href='.//Guide/Crafting/item=".strTohex($itm['firstrune'])."'><img style='cursor:pointer' width='32px' height='64px' src='$frune[Image]' class='thumbnail scaler' alt='$frune[Name]' title='$frune[Name]'></a><span>$frune[Name]</span></td>
-<td class='tip2'><a href='.//Guide/Crafting/item=".strTohex($itm['secondrune'])."'><img style='cursor:pointer' width='32px' height='64px' src='$srune[Image]' class='thumbnail scaler' alt='$srune[Name]' title='$srune[Name]'></a><span>$srune[Name]</span></td>
-<td class='tip2'><a href='.//Guide/Crafting/item=".strTohex($itm['thirdrune'])."'><img style='cursor:pointer' width='32px' height='64px' src='$trune[Image]' class='thumbnail scaler' alt='$trune[Name]' title='$trune[Name]'></a><span>$trune[Name]</span></td>
+<td class='tip2'><a href='http://www.a3ultimate.com/Guide/Crafting/item=".strTohex($itm['firstrune'])."'><img style='cursor:pointer' width='32px' height='64px' src='$frune[Image]' class='thumbnail scaler' alt='$frune[Name]' title='$frune[Name]'></a><span>$frune[Name]</span></td>
+<td class='tip2'><a href='http://www.a3ultimate.com/Guide/Crafting/item=".strTohex($itm['secondrune'])."'><img style='cursor:pointer' width='32px' height='64px' src='$srune[Image]' class='thumbnail scaler' alt='$srune[Name]' title='$srune[Name]'></a><span>$srune[Name]</span></td>
+<td class='tip2'><a href='http://www.a3ultimate.com/Guide/Crafting/item=".strTohex($itm['thirdrune'])."'><img style='cursor:pointer' width='32px' height='64px' src='$trune[Image]' class='thumbnail scaler' alt='$trune[Name]' title='$trune[Name]'></a><span>$trune[Name]</span></td>
 </tr>
 <tr>
-<td class='tip2'><a href='.//Guide/Crafting/item=".strTohex($itm['first'])."'><img style='cursor:pointer' width='32px' height='64px' src='$first[Image]' class='thumbnail scaler' alt='$first[Name]' title='$first[Name]'></a><span>$first[Name]</span></td>
-<td class='tip2'><a href='.//Guide/Crafting/item=".strTohex($itm['second'])."'><img style='cursor:pointer' width='32px' height='64px' src='$second[Image]' class='thumbnail scaler' alt='$second[Name]' title='$second[Name]'></a><span>$second[Name]</span></td>
-<td class='tip2'><a href='.//Guide/Crafting/item=".strTohex($itm['thrid'])."'><img style='cursor:pointer' width='32px' height='64px' src='$third[Image]' class='thumbnail scaler' alt='$third[Name]' title='$third[Name]'></a><span>$third[Name]</span></td>
+<td class='tip2'><a href='http://www.a3ultimate.com/Guide/Crafting/item=".strTohex($itm['first'])."'><img style='cursor:pointer' width='32px' height='64px' src='$first[Image]' class='thumbnail scaler' alt='$first[Name]' title='$first[Name]'></a><span>$first[Name]</span></td>
+<td class='tip2'><a href='http://www.a3ultimate.com/Guide/Crafting/item=".strTohex($itm['second'])."'><img style='cursor:pointer' width='32px' height='64px' src='$second[Image]' class='thumbnail scaler' alt='$second[Name]' title='$second[Name]'></a><span>$second[Name]</span></td>
+<td class='tip2'><a href='http://www.a3ultimate.com/Guide/Crafting/item=".strTohex($itm['thrid'])."'><img style='cursor:pointer' width='32px' height='64px' src='$third[Image]' class='thumbnail scaler' alt='$third[Name]' title='$third[Name]'></a><span>$third[Name]</span></td>
 </tr>
 <tr>
-<td class='tip2'><a href='.//Guide/Crafting/item=".strTohex($itm['fourth'])."'><img style='cursor:pointer' width='32px' height='64px' src='$fourth[Image]' class='thumbnail scaler' alt='$fourth[Name]' title='$fourth[Name]'></a><span>$fourth[Name]</span></td>
-<td class='tip2'><a href='.//Guide/Crafting/item=".strTohex($itm['fifth'])."'><img style='cursor:pointer' width='32px' height='64px' src='$fifth[Image]' class='thumbnail scaler' alt='$fifth[Name]' title='$fifth[Name]'></a><span>$fifth[Name]</span></td>
-<td class='tip2'><a href='.//Guide/Crafting/item=".strTohex($itm['sixth'])."'><img style='cursor:pointer' width='32px' height='64px' src='$sixth[Image]' class='thumbnail scaler' alt='$sixth[Name]' title='$sixth[Name]'></a><span>$sixth[Name]</span></td>
+<td class='tip2'><a href='http://www.a3ultimate.com/Guide/Crafting/item=".strTohex($itm['fourth'])."'><img style='cursor:pointer' width='32px' height='64px' src='$fourth[Image]' class='thumbnail scaler' alt='$fourth[Name]' title='$fourth[Name]'></a><span>$fourth[Name]</span></td>
+<td class='tip2'><a href='http://www.a3ultimate.com/Guide/Crafting/item=".strTohex($itm['fifth'])."'><img style='cursor:pointer' width='32px' height='64px' src='$fifth[Image]' class='thumbnail scaler' alt='$fifth[Name]' title='$fifth[Name]'></a><span>$fifth[Name]</span></td>
+<td class='tip2'><a href='http://www.a3ultimate.com/Guide/Crafting/item=".strTohex($itm['sixth'])."'><img style='cursor:pointer' width='32px' height='64px' src='$sixth[Image]' class='thumbnail scaler' alt='$sixth[Name]' title='$sixth[Name]'></a><span>$sixth[Name]</span></td>
 </tr>
 <tr>
 <td class='tip2'></td>
-<td class='tip2'><a href='.//Guide/Crafting/item=".strTohex($itm['final'])."'><img style='cursor:pointer' width='32px' height='64px' src='$final[Image]' class='thumbnail scaler' alt='$final[Name]' title='$final[Name]'></a><span>$final[Name]</span></td>
+<td class='tip2'><a href='http://www.a3ultimate.com/Guide/Crafting/item=".strTohex($itm['final'])."'><img style='cursor:pointer' width='32px' height='64px' src='$final[Image]' class='thumbnail scaler' alt='$final[Name]' title='$final[Name]'></a><span>$final[Name]</span></td>
 <td class='tip2'></td>
 </tr>
 
@@ -185,23 +185,23 @@ if($num!=0){
 <h4>Crafting Info for $Info[Name]: </h4>
 <table cellspacing='5' cellpadding='5'>
 <tr>
-<td class='tip2'><a href='.//Guide/Crafting/item=".strTohex($itm['firstrune'])."'><img style='cursor:pointer' width='32px' height='64px' src='$frune[Image]' class='thumbnail scaler' alt='$frune[Name]' title='$frune[Name]'></a><span>$frune[Name]</span></td>
-<td class='tip2'><a href='.//Guide/Crafting/item=".strTohex($itm['secondrune'])."'><img style='cursor:pointer' width='32px' height='64px' src='$srune[Image]' class='thumbnail scaler' alt='$srune[Name]' title='$srune[Name]'></a><span>$srune[Name]</span></td>
-<td class='tip2'><a href='.//Guide/Crafting/item=".strTohex($itm['thirdrune'])."'><img style='cursor:pointer' width='32px' height='64px' src='$trune[Image]' class='thumbnail scaler' alt='$trune[Name]' title='$trune[Name]'></a><span>$trune[Name]</span></td>
+<td class='tip2'><a href='http://www.a3ultimate.com/Guide/Crafting/item=".strTohex($itm['firstrune'])."'><img style='cursor:pointer' width='32px' height='64px' src='$frune[Image]' class='thumbnail scaler' alt='$frune[Name]' title='$frune[Name]'></a><span>$frune[Name]</span></td>
+<td class='tip2'><a href='http://www.a3ultimate.com/Guide/Crafting/item=".strTohex($itm['secondrune'])."'><img style='cursor:pointer' width='32px' height='64px' src='$srune[Image]' class='thumbnail scaler' alt='$srune[Name]' title='$srune[Name]'></a><span>$srune[Name]</span></td>
+<td class='tip2'><a href='http://www.a3ultimate.com/Guide/Crafting/item=".strTohex($itm['thirdrune'])."'><img style='cursor:pointer' width='32px' height='64px' src='$trune[Image]' class='thumbnail scaler' alt='$trune[Name]' title='$trune[Name]'></a><span>$trune[Name]</span></td>
 </tr>
 <tr>
-<td class='tip2'><a href='.//Guide/Crafting/item=".strTohex($itm['first'])."'><img style='cursor:pointer' width='32px' height='64px' src='$first[Image]' class='thumbnail scaler' alt='$first[Name]' title='$first[Name]'></a><span>$first[Name]</span></td>
-<td class='tip2'><a href='.//Guide/Crafting/item=".strTohex($itm['second'])."'><img style='cursor:pointer' width='32px' height='64px' src='$second[Image]' class='thumbnail scaler' alt='$second[Name]' title='$second[Name]'></a><span>$second[Name]</span></td>
-<td class='tip2'><a href='.//Guide/Crafting/item=".strTohex($itm['thrid'])."'><img style='cursor:pointer' width='32px' height='64px' src='$third[Image]' class='thumbnail scaler' alt='$third[Name]' title='$third[Name]'></a><span>$third[Name]</span></td>
+<td class='tip2'><a href='http://www.a3ultimate.com/Guide/Crafting/item=".strTohex($itm['first'])."'><img style='cursor:pointer' width='32px' height='64px' src='$first[Image]' class='thumbnail scaler' alt='$first[Name]' title='$first[Name]'></a><span>$first[Name]</span></td>
+<td class='tip2'><a href='http://www.a3ultimate.com/Guide/Crafting/item=".strTohex($itm['second'])."'><img style='cursor:pointer' width='32px' height='64px' src='$second[Image]' class='thumbnail scaler' alt='$second[Name]' title='$second[Name]'></a><span>$second[Name]</span></td>
+<td class='tip2'><a href='http://www.a3ultimate.com/Guide/Crafting/item=".strTohex($itm['thrid'])."'><img style='cursor:pointer' width='32px' height='64px' src='$third[Image]' class='thumbnail scaler' alt='$third[Name]' title='$third[Name]'></a><span>$third[Name]</span></td>
 </tr>
 <tr>
-<td class='tip2'><a href='.//Guide/Crafting/item=".strTohex($itm['fourth'])."'><img style='cursor:pointer' width='32px' height='64px' src='$fourth[Image]' class='thumbnail scaler' alt='$fourth[Name]' title='$fourth[Name]'></a><span>$fourth[Name]</span></td>
-<td class='tip2'><a href='.//Guide/Crafting/item=".strTohex($itm['fifth'])."'><img style='cursor:pointer' width='32px' height='64px' src='$fifth[Image]' class='thumbnail scaler' alt='$fifth[Name]' title='$fifth[Name]'></a><span>$fifth[Name]</span></td>
-<td class='tip2'><a href='.//Guide/Crafting/item=".strTohex($itm['sixth'])."'><img style='cursor:pointer' width='32px' height='64px' src='$sixth[Image]' class='thumbnail scaler' alt='$sixth[Name]' title='$sixth[Name]'></a><span>$sixth[Name]</span></td>
+<td class='tip2'><a href='http://www.a3ultimate.com/Guide/Crafting/item=".strTohex($itm['fourth'])."'><img style='cursor:pointer' width='32px' height='64px' src='$fourth[Image]' class='thumbnail scaler' alt='$fourth[Name]' title='$fourth[Name]'></a><span>$fourth[Name]</span></td>
+<td class='tip2'><a href='http://www.a3ultimate.com/Guide/Crafting/item=".strTohex($itm['fifth'])."'><img style='cursor:pointer' width='32px' height='64px' src='$fifth[Image]' class='thumbnail scaler' alt='$fifth[Name]' title='$fifth[Name]'></a><span>$fifth[Name]</span></td>
+<td class='tip2'><a href='http://www.a3ultimate.com/Guide/Crafting/item=".strTohex($itm['sixth'])."'><img style='cursor:pointer' width='32px' height='64px' src='$sixth[Image]' class='thumbnail scaler' alt='$sixth[Name]' title='$sixth[Name]'></a><span>$sixth[Name]</span></td>
 </tr>
 <tr>
 <td class='tip2'></td>
-<td class='tip2'><a href='.//Guide/Crafting/item=".strTohex($itm['final'])."'><img style='cursor:pointer' width='32px' height='64px' src='$final[Image]' class='thumbnail scaler' alt='$final[Name]' title='$final[Name]'></a><span>$final[Name]</span></td>
+<td class='tip2'><a href='http://www.a3ultimate.com/Guide/Crafting/item=".strTohex($itm['final'])."'><img style='cursor:pointer' width='32px' height='64px' src='$final[Image]' class='thumbnail scaler' alt='$final[Name]' title='$final[Name]'></a><span>$final[Name]</span></td>
 <td class='tip2'></td>
 </tr>
 
@@ -231,23 +231,23 @@ echo "
 <h4>Crafting Info for $Info[Name]: </h4>
 <table cellspacing='5' cellpadding='5'>
 <tr>
-<td class='tip2'><a href='.//Guide/Crafting/item=".strTohex($itm['firstrune'])."'><img style='cursor:pointer' width='32px' height='64px' src='$frune[Image]' class='thumbnail scaler' alt='$frune[Name]' title='$frune[Name]'></a><span>$frune[Name]</span></td>
-<td class='tip2'><a href='.//Guide/Crafting/item=".strTohex($itm['secondrune'])."'><img style='cursor:pointer' width='32px' height='64px' src='$srune[Image]' class='thumbnail scaler' alt='$srune[Name]' title='$srune[Name]'></a><span>$srune[Name]</span></td>
-<td class='tip2'><a href='.//Guide/Crafting/item=".strTohex($itm['thirdrune'])."'><img style='cursor:pointer' width='32px' height='64px' src='$trune[Image]' class='thumbnail scaler' alt='$trune[Name]' title='$trune[Name]'></a><span>$trune[Name]</span></td>
+<td class='tip2'><a href='http://www.a3ultimate.com/Guide/Crafting/item=".strTohex($itm['firstrune'])."'><img style='cursor:pointer' width='32px' height='64px' src='$frune[Image]' class='thumbnail scaler' alt='$frune[Name]' title='$frune[Name]'></a><span>$frune[Name]</span></td>
+<td class='tip2'><a href='http://www.a3ultimate.com/Guide/Crafting/item=".strTohex($itm['secondrune'])."'><img style='cursor:pointer' width='32px' height='64px' src='$srune[Image]' class='thumbnail scaler' alt='$srune[Name]' title='$srune[Name]'></a><span>$srune[Name]</span></td>
+<td class='tip2'><a href='http://www.a3ultimate.com/Guide/Crafting/item=".strTohex($itm['thirdrune'])."'><img style='cursor:pointer' width='32px' height='64px' src='$trune[Image]' class='thumbnail scaler' alt='$trune[Name]' title='$trune[Name]'></a><span>$trune[Name]</span></td>
 </tr>
 <tr>
-<td class='tip2'><a href='.//Guide/Crafting/item=".strTohex($itm['first'])."'><img style='cursor:pointer' width='32px' height='64px' src='$first[Image]' class='thumbnail scaler' alt='$first[Name]' title='$first[Name]'></a><span>$first[Name]</span></td>
-<td class='tip2'><a href='.//Guide/Crafting/item=".strTohex($itm['second'])."'><img style='cursor:pointer' width='32px' height='64px' src='$second[Image]' class='thumbnail scaler' alt='$second[Name]' title='$second[Name]'></a><span>$second[Name]</span></td>
-<td class='tip2'><a href='.//Guide/Crafting/item=".strTohex($itm['thrid'])."'><img style='cursor:pointer' width='32px' height='64px' src='$third[Image]' class='thumbnail scaler' alt='$third[Name]' title='$third[Name]'></a><span>$third[Name]</span></td>
+<td class='tip2'><a href='http://www.a3ultimate.com/Guide/Crafting/item=".strTohex($itm['first'])."'><img style='cursor:pointer' width='32px' height='64px' src='$first[Image]' class='thumbnail scaler' alt='$first[Name]' title='$first[Name]'></a><span>$first[Name]</span></td>
+<td class='tip2'><a href='http://www.a3ultimate.com/Guide/Crafting/item=".strTohex($itm['second'])."'><img style='cursor:pointer' width='32px' height='64px' src='$second[Image]' class='thumbnail scaler' alt='$second[Name]' title='$second[Name]'></a><span>$second[Name]</span></td>
+<td class='tip2'><a href='http://www.a3ultimate.com/Guide/Crafting/item=".strTohex($itm['thrid'])."'><img style='cursor:pointer' width='32px' height='64px' src='$third[Image]' class='thumbnail scaler' alt='$third[Name]' title='$third[Name]'></a><span>$third[Name]</span></td>
 </tr>
 <tr>
-<td class='tip2'><a href='.//Guide/Crafting/item=".strTohex($itm['fourth'])."'><img style='cursor:pointer' width='32px' height='64px' src='$fourth[Image]' class='thumbnail scaler' alt='$fourth[Name]' title='$fourth[Name]'></a><span>$fourth[Name]</span></td>
-<td class='tip2'><a href='.//Guide/Crafting/item=".strTohex($itm['fifth'])."'><img style='cursor:pointer' width='32px' height='64px' src='$fifth[Image]' class='thumbnail scaler' alt='$fifth[Name]' title='$fifth[Name]'></a><span>$fifth[Name]</span></td>
-<td class='tip2'><a href='.//Guide/Crafting/item=".strTohex($itm['sixth'])."'><img style='cursor:pointer' width='32px' height='64px' src='$sixth[Image]' class='thumbnail scaler' alt='$sixth[Name]' title='$sixth[Name]'></a><span>$sixth[Name]</span></td>
+<td class='tip2'><a href='http://www.a3ultimate.com/Guide/Crafting/item=".strTohex($itm['fourth'])."'><img style='cursor:pointer' width='32px' height='64px' src='$fourth[Image]' class='thumbnail scaler' alt='$fourth[Name]' title='$fourth[Name]'></a><span>$fourth[Name]</span></td>
+<td class='tip2'><a href='http://www.a3ultimate.com/Guide/Crafting/item=".strTohex($itm['fifth'])."'><img style='cursor:pointer' width='32px' height='64px' src='$fifth[Image]' class='thumbnail scaler' alt='$fifth[Name]' title='$fifth[Name]'></a><span>$fifth[Name]</span></td>
+<td class='tip2'><a href='http://www.a3ultimate.com/Guide/Crafting/item=".strTohex($itm['sixth'])."'><img style='cursor:pointer' width='32px' height='64px' src='$sixth[Image]' class='thumbnail scaler' alt='$sixth[Name]' title='$sixth[Name]'></a><span>$sixth[Name]</span></td>
 </tr>
 <tr>
 <td class='tip2'></td>
-<td class='tip2'><a href='.//Guide/Crafting/item=".strTohex($itm['final'])."'><img style='cursor:pointer' width='32px' height='64px' src='$final[Image]' class='thumbnail scaler' alt='$final[Name]' title='$final[Name]'></a><span>$final[Name]</span></td>
+<td class='tip2'><a href='http://www.a3ultimate.com/Guide/Crafting/item=".strTohex($itm['final'])."'><img style='cursor:pointer' width='32px' height='64px' src='$final[Image]' class='thumbnail scaler' alt='$final[Name]' title='$final[Name]'></a><span>$final[Name]</span></td>
 <td class='tip2'></td>
 </tr>
 

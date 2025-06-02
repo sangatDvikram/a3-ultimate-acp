@@ -11,7 +11,7 @@ RewriteEngine on
 #Allow from 117.248.180.33										
 #ErrorDocument 403 /404.php 								
 #-----------------------------------------------------------#|
-SetEnv CLEARDB_DATABASE_URL mysql://admin:admin123@database-1.cluster-ro-cvxcptf7usam.us-east-2.rds.amazonaws.com:3306/a3ultimate
+
 #----Force www ------#
 RewriteCond %{HTTP_HOST} !^acp\.$
 RewriteCond %{HTTP_HOST} !^www\. [NC]
@@ -351,32 +351,23 @@ RewriteRule ^.* - [F,L]
 </IfModule>
 
 #-----------------------------------------------new-----------------------------#
-<IfModule mod_php5.c>
 php_value date.timezone Asia/Kolkata
-<FilesMatch "!\.(gif|css|js|jpg|jpe?g|png)$">
-    php_value session.cookie_domain www.a3ultimate.com
+
+# 480 weeks
+<FilesMatch "\.(ico|pdf|flv|jpg|jpeg|png|gif|js|css|swf|ttf|eot|woff|otf)$">
+Header set Cache-Control "max-age=290304000, public"
 </FilesMatch>
-# log to file
-php_flag log_errors on
-php_value error_log /errors/php_errors.log
-</IfModule>
-<IfModule mod_headers.c>
-  # 480 weeks
-  <FilesMatch "\.(ico|pdf|flv|jpg|jpeg|png|gif|js|css|swf|ttf|eot|woff|otf)$">
-  Header set Cache-Control "max-age=290304000, public"
-  </FilesMatch>
 
-  # 2 DAYS
-  <FilesMatch "\.(xml|txt)$">
-  Header set Cache-Control "max-age=172800, public, must-revalidate"
-  </FilesMatch>
+# 2 DAYS
+<FilesMatch "\.(xml|txt)$">
+Header set Cache-Control "max-age=172800, public, must-revalidate"
+</FilesMatch>
 
-  # 2 HOURS
+# 2 HOURS
+<FilesMatch "\.(html|htm|php)$">
+Header set Cache-Control "max-age=7200, must-revalidate"
+</FilesMatch>
 
-  <FilesMatch "\.(html|htm|php)$">
-  Header set Cache-Control "max-age=7200, must-revalidate"
-  </FilesMatch>
-</IfModule>
 <IfModule mod_headers.c>
   <FilesMatch "\.(js|css|xml|gz)$">
     Header append Vary: Accept-Encoding
@@ -394,7 +385,9 @@ SetOutputFilter DEFLATE
 </IFModule>	
 #---------------------------------Settings-----------------------------------#
 ## EXPIRES CACHING ##
-
+# <FilesMatch "!\.(gif|css|js|jpg|jpe?g|png)$">
+#     php_value session.cookie_domain www.a3ultimate.com
+# </FilesMatch>
 ErrorDocument 401 /404.php
 ErrorDocument 404 /404.php
 ErrorDocument 403 /404.php
@@ -411,12 +404,14 @@ ErrorDocument 500 /404.php
 <FilesMatch "\.(js)$">
   ForceType 'text/javascript; charset=UTF-8'
 </FilesMatch>
-<IfModule mod_headers.c>
+
 <FilesMatch "\.(css|js)$">
   Header append Vary Accept-Encoding
 </FilesMatch>
-</IfModule>
 
+# log to file
+php_flag log_errors on
+php_value error_log /errors/php_errors.log
 
 <FilesMatch "^.*?api.*?$">
 SetHandler php5-script

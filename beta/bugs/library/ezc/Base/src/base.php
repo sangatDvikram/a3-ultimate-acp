@@ -491,15 +491,15 @@ class ezcBase
      * Example:
      * Take the following facts:
      * <ul>
-     * <li>there is a class repository stored in the directory "/repos"</li>
-     * <li>autoload files for that repository are stored in "/repos/autoloads"</li>
+     * <li>there is a class repository stored in the directory "./repos"</li>
+     * <li>autoload files for that repository are stored in "./repos/autoloads"</li>
      * <li>there are two components in this repository: "Me" and "You"</li>
      * <li>the "Me" component has the classes "erMyClass1" and "erMyClass2"</li>
      * <li>the "You" component has the classes "erYourClass1" and "erYourClass2"</li>
      * </ul>
      *
      * In this case you would need to create the following files in
-     * "/repos/autoloads". Please note that the part before _autoload.php in
+     * "./repos/autoloads". Please note that the part before _autoload.php in
      * the filename is the first part of the <b>classname</b>, not considering
      * the all lower-case letter prefix.
      *

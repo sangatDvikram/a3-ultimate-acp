@@ -143,19 +143,19 @@ if($numb!=0||$numb==1){
 			{
 				echo "<img src='http://$_SERVER[SERVER_NAME]/images/status-offline.png' title='offline'>";
 			}
-		echo "<b title='Game Master' style=\"background:url(/images/backround21.gif) -30px -17px repeat;z-index:6;Padding:5px;color:#FF8000;text-shadow: 0.1em 0.1em 0.2em #FE9A2E;\">".$heroes2."</b></td><td >$id</td><td >$status</td><td >$class</td><td >$level2</td><td >$rblevel2</td><td>$rank</td><td >$numrow</td><td >$date2</td><td>$town_txt</td><td>$ipaddr</td></tr>";
+		echo "<b title='Game Master' style=\"background:url(../images/backround21.gif) -30px -17px repeat;z-index:6;Padding:5px;color:#FF8000;text-shadow: 0.1em 0.1em 0.2em #FE9A2E;\">".$heroes2."</b></td><td >$id</td><td >$status</td><td >$class</td><td >$level2</td><td >$rblevel2</td><td>$rank</td><td >$numrow</td><td >$date2</td><td>$town_txt</td><td>$ipaddr</td></tr>";
 		}
 		else if($reset2 == '2')
 		{
 			echo "<tr><span class='text-warning'><td>$i</td><td >";
 			if($online == 1){echo "<img src='http://$_SERVER[SERVER_NAME]/images/status.png' title='online'>";}else{echo "<img src='http://$_SERVER[SERVER_NAME]/images/status-offline.png' title='offline'>";}
-			echo "<b title='King' style=\"background:url(/images/backround17.gif) 0 -5px repeat;z-index:6;Padding:2px;color:#2E9AFE;text-shadow: 1px 1px 3px #58ACFA;zoom:1\">".$heroes2."</b></td><td >$id</td><td >$status</td><td >$class</td><td >$level2</td><td >$rblevel2</td><td>$rank</td><td >$numrow</td><td >$date2</td></span><td>$town_txt</td><td>$ipaddr</td></tr>";
+			echo "<b title='King' style=\"background:url(../images/backround17.gif) 0 -5px repeat;z-index:6;Padding:2px;color:#2E9AFE;text-shadow: 1px 1px 3px #58ACFA;zoom:1\">".$heroes2."</b></td><td >$id</td><td >$status</td><td >$class</td><td >$level2</td><td >$rblevel2</td><td>$rank</td><td >$numrow</td><td >$date2</td></span><td>$town_txt</td><td>$ipaddr</td></tr>";
 		}
 		else if($reset2 == '1')
 		{
 			echo "<tr><span class='text-warning'><td>$i</td><td >";
 			if($online == 1){echo "<img src='http://$_SERVER[SERVER_NAME]/images/status.png' title='online'>";}else{echo "<img src='http://$_SERVER[SERVER_NAME]/images/status-offline.png' title='offline'>";}
-			echo "<b title='Viscount' style=\"background:url(/images/backround7.gif) 0 -5px repeat;z-index:6;Padding:2px;color:#FE2E2E;text-shadow: 1px 1px 3px #FA5858;zoom:1\">".$heroes2."</b></td><td >$id</td><td >$status</td><td >$class</td><td >$level2</td><td >$rblevel2</td><td>$rank</td><td >$numrow</td><td >$date2</td></span><td>$town_txt</td><td>$ipaddr</td></tr>";
+			echo "<b title='Viscount' style=\"background:url(../images/backround7.gif) 0 -5px repeat;z-index:6;Padding:2px;color:#FE2E2E;text-shadow: 1px 1px 3px #FA5858;zoom:1\">".$heroes2."</b></td><td >$id</td><td >$status</td><td >$class</td><td >$level2</td><td >$rblevel2</td><td>$rank</td><td >$numrow</td><td >$date2</td></span><td>$town_txt</td><td>$ipaddr</td></tr>";
 		}
 		else
 		{

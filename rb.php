@@ -200,7 +200,7 @@ if(isset($_POST['R1']))
             }
         }
     }
-}?><script type="text/javascript" src="/js/rbscipt.js"></script>
+}?><script type="text/javascript" src="http://www.a3ultimate.com/js/rbscipt.js"></script>
 <div class="container-fluid">
 
 
@@ -248,7 +248,7 @@ if(isset($_POST['R1']))
 
                     ?><form class="form-inline" method='POST'>
                     <fieldset id="item">
-                        <legend>Select Character: <img src="/images/ajax-loader.gif" class="loader"></legend><center>
+                        <legend>Select Character: <img src="http://www.a3ultimate.com/images/ajax-loader.gif" class="loader"></legend><center>
                             Character
                             <select name="char" class="char owner">
 

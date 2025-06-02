@@ -24,7 +24,7 @@ if (logged_in()) {
 	<meta name="site" content="a3ultimate.com">
 	<meta name="distribution" content="web">
 	<!--GOOGLE FONTS
-	<link href="http://fonts.googleapis.com/css?family=Lato" rel="stylesheet" type="text/css">-->
+	<link href="http://fonts.googleapis.com/css?family=Calibri" rel="stylesheet" type="text/css">-->
 
     <!-- Le styles -->
  	<link rel="icon" type="image/ico" href="/images/favicon.ico">
@@ -34,7 +34,7 @@ if (logged_in()) {
 	<link href="/css/docs.css" rel="stylesheet">
 	
     <link href="/css/bootstrap-responsive.css" rel="stylesheet">
-	<script src="https://code.jquery.com/jquery-1.12.4.min.js" ></script>
+	<script src="/js/jquery.min.js" ></script>
 
     
     <style type="text/css">

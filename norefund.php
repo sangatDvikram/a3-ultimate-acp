@@ -13,10 +13,10 @@
             </div> Menu -->
               <div class="span12"><!-- Main -->
               <div class="page-header" style="margin-top:0;">
- 			  		<h1>A3 Ultimate :<span style='color:#B60404;text-shadow: 1px 1px 3px #E55E5E;font-family:Lato;font-size:32px'>Refund Policy</span></h1></div>
+ 			  		<h1>A3 Ultimate :<span style='color:#B60404;text-shadow: 1px 1px 3px #E55E5E;font-family:Calibri;font-size:32px'>Refund Policy</span></h1></div>
 
 
-<div class="alert alert-info" style='font-family:Lato;font-size:18px'>
+<div class="alert alert-info" style='font-family:Calibri;font-size:18px'>
 <br>
 1.We would like to be happy with your purchase/Donation to the website. However, before placing your order, please read our terms regarding our Returns and Cancellation Policy relating to digital products.
 <br><br>

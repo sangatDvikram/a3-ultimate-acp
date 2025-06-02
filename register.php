@@ -100,17 +100,17 @@ if (isset($_POST['register']))
             } else
             {
                 $log = "Hello " . $data['fullname'] . ",<br><br>Your Account has been registered.<br>
-                     Please keep this email safe for future reference<br><br><br>
-                     <br>Username - $username
-                     <br>Secret Question - $data[question]
-                     <br>Secret Answer - $data[answer]
-                     <br>Your Full Name - $data[fullname]
-                     <br>You were reffered by - $data[referrer]
-                     <br><a href='http://$_SERVER[SERVER_NAME]/verifyemail.php?acc=$username&code=$actcode'>Click here</a> to activate your account.
-                     <br>If you face problem in accessing above link, copy paste this URL into your browser: <br>http://$_SERVER[SERVER_NAME]/verifyemail.php?acc=$username&code=$actcode
-                     <br><br>
-                     For any queries, you can contact us on 09555511333 or raise a support ticket by visiting http://support.a3ultimate.com
-                     <br>- Admin Ultimate";
+             Please keep this email safe for future reference<br><br><br>
+             <br>Username - $username
+             <br>Secret Question - $data[question]
+             <br>Secret Answer - $data[answer]
+             <br>Your Full Name - $data[fullname]
+             <br>You were reffered by - $data[referrer]
+             <br><a href='http://$_SERVER[SERVER_NAME]/verifyemail.php?acc=$username&code=$actcode'>Click here</a> to activate your account.
+             <br>If you face problem in accessing above link, copy paste this URL into your browser: <br>http://$_SERVER[SERVER_NAME]/verifyemail.php?acc=$username&code=$actcode
+             <br><br>
+             For any queries, you can contact us on 09555511333 or raise a support ticket by visiting http://support.a3ultimate.com
+             <br>- Admin Ultimate";
                 log_action($username, "N.A", $log, $con);
                 $subject = "Welcome to A3 Ultimate.";
                 email_action($username, $subject, $log, $con);
@@ -291,9 +291,9 @@ if (isset($_POST['register']))
                     <div class="controls">
                         <label class="checkbox">
                             <input type="checkbox" name="Accept" required validationMessage="Acceptance is required!"/>
-                            I accept the <a href="/TermOfServices/">Terms of Service</a>,<a
-                                href="/RefundPolicy/">Refund Policy</a> and <a
-                                href="/PrivacyPolicy/">Privacy Policy</a>.
+                            I accept the <a href="http://www.a3ultimate.com/TermOfServices/">Terms of Service</a>,<a
+                                href="http://www.a3ultimate.com/RefundPolicy/">Refund Policy</a> and <a
+                                href="http://www.a3ultimate.com/PrivacyPolicy/">Privacy Policy</a>.
                         </label>
                         <button type="submit" name="register" class="btn btn-primary">Register</button>
                     </div>

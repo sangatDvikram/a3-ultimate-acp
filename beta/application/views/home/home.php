@@ -40,7 +40,7 @@
                             <p style="font-weight:normal;padding:0"><b><big>The place to unleash the Ultimate Gamer in You. </big></b><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A3 (Art, Alive, Attraction) is an Online MMORPG where you can create character, Level Up, Perform Quests, Make Knighthoods/Alliances. A3 Ultimate serving players since Nov' 2011, by providing a great platform to perform the Tasks ingame.</p>
                         </div>
                         <div class="mdl-card__actions mdl-card--border">
-                            <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect" href="/beta/ingameguide">
+                            <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect" href="http://www.a3ultimate.com/beta/ingameguide">
                                 Learn More
                             </a>
                         </div>
@@ -50,7 +50,7 @@
                     <div class="mdl-cell mdl-cell--12-col mdl-color--white">
                         <div class="span12"  >
                             <h2>Ingame Shout Chat</h2>
-                            <iframe class="ingame-shouts" src="/beta/game/homepageshout" style="border:2px solid blue;" height="250px"></iframe>
+                            <iframe class="ingame-shouts" src="http://www.a3ultimate.com/beta/game/homepageshout" style="border:2px solid blue;" height="250px"></iframe>
                         </div>
                     </div>
                 </div>
@@ -99,7 +99,7 @@
                                 <div class="mdl-cell mdl-cell--6-col">
                                     <h4>Stay Connected</h4>
                                     <hr>
-                                    <iframe src="https://www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FA3Ultimate&amp;width=300&amp;height=290&amp;colorscheme=light&amp;show_faces=true&amp;header=true&amp;stream=false&amp;show_border=false" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:300px;width:100%" allowTransparency="true"></iframe>
+                                    <iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FA3Ultimate&amp;width=300&amp;height=290&amp;colorscheme=light&amp;show_faces=true&amp;header=true&amp;stream=false&amp;show_border=false" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:300px;width:100%" allowTransparency="true"></iframe>
                                 </div>
                             </div>
                         </div>

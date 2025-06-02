@@ -34,7 +34,7 @@
                 <div class="row valign-wrapper red">
                     <div class=" col s9  white-text">
 
-                        <span style="font-family: Lato;font-size: 2em "> Player bought premium coins using paypal.</span>
+                        <span style="font-family: Calibri;font-size: 2em "> Player bought premium coins using paypal.</span>
 
 
                     </div>
@@ -49,7 +49,7 @@
                 <div class="section">
                     <p>
                         Dear Protbhai@gmail.com,<br>
-                        <span style="font-family: Lato;font-size: 16pz ">
+                        <span style="font-family: Calibri;font-size: 16pz ">
                             Player with account id <b> gmrevo98 </b> has bought <b> 1000 </b> eshop coins through  paypal ipn. so  make sure you take proper action on this matter. 
                             <br>
                             Please Take a look at following transaction details.
@@ -115,7 +115,7 @@
 
 
             </div>
-            <div class="section grey lighten-4" style="font-family: Lato"> 
+            <div class="section grey lighten-4" style="font-family: Calibri"> 
                 <p>
                     Notes : Some good good notes like if your have any thing mail us at <a class="mail_thrw ng-binding" ng-href="mailto:support@a3ultimate.com" href="mailto:support@a3ultimate.com">support@a3ultimate.com</a>
                     <br>
@@ -127,7 +127,7 @@
 
 
         <!--  Scripts-->
-        <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+        <script src="<?php echo base_url(); ?>assects/js/jquery-2.1.1.min.js"></script>
         <script src="<?php echo base_url(); ?>assects/js/materialize.js"></script>
 
         <script src="<?php echo base_url(); ?>assects/js/init.js"></script>

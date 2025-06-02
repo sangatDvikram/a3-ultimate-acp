@@ -15,7 +15,7 @@ header("Location: http://$_SERVER[SERVER_NAME]/ACP/"); }
               <div class="page-header" style="margin-top:0;">
  			   <h1>Inventory
 </h1></div>
-	 <div class="well" style="font-family:Lato" >
+	 <div class="well" style="font-family:Calibri" >
 	 <center>
 	 <form action='' method='POST'>
 	
@@ -223,8 +223,8 @@ while ($sup = odbc_fetch_array($query1))
 </div><!-- Main -->
 </div><!-- Cointainer -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>  
-<script src="/js/bootstrap-tooltip.js"></script>  
-<script src="/js/bootstrap-popover.js"></script>  
+<script src="http://www.a3ultimate.com/js/bootstrap-tooltip.js"></script>  
+<script src="http://www.a3ultimate.com/js/bootstrap-popover.js"></script>  
 <script type="text/javascript">
  $(document).ready(function() {
   $("[rel=drevil]").popover({

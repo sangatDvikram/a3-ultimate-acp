@@ -9,7 +9,7 @@
 	$salt          = "zkJcusHPtv";
 	$payu_base_url = "https://test.payu.in"; // For Test environment
 	$action        = '';
-	$currentDir	   = './/Payu/';
+	$currentDir	   = 'http://www.a3ultimate.com/Payu/';
 	$posted = array();
 	if(!empty($_POST)) {
 	  foreach($_POST as $key => $value) {    

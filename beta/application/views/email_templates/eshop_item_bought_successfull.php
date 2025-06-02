@@ -34,7 +34,7 @@
                 <div class="row valign-wrapper red">
                     <div class=" col s9  white-text">
 
-                        <span style="font-family: Lato;font-size: 2em "> You have successfully bought <b>Item</b> using premium coin.</span>
+                        <span style="font-family: Calibri;font-size: 2em "> You have successfully bought <b>Item</b> using premium coin.</span>
 
 
                     </div>
@@ -109,7 +109,7 @@
 
 
             </div>
-            <div class="section grey lighten-4" style="font-family: Lato"> 
+            <div class="section grey lighten-4" style="font-family: Calibri"> 
                 <p>
                     Notes : This is an automated email. Please don't reply to this email. If you want to contact us, mail us at <a class="mail_thrw ng-binding" ng-href="mailto:support@a3ultimate.com" href="mailto:support@a3ultimate.com">support@a3ultimate.com</a>
                 </p>
@@ -119,7 +119,7 @@
 
 
         <!--  Scripts-->
-        <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+        <script src="<?php echo base_url(); ?>assects/js/jquery-2.1.1.min.js"></script>
         <script src="<?php echo base_url(); ?>assects/js/materialize.js"></script>
 
         <script src="<?php echo base_url(); ?>assects/js/init.js"></script>

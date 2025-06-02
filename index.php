@@ -7,14 +7,14 @@
         <script>
 
             
-            // var refreshId = setInterval(function()
-            // {
-            //     $('#hero').load('/Stats/hero.php?randval=' + Math.random());
-            //     $('#server').load('/Stats/server.php?randval=' + Math.random());
-            //     $('#ping').load('/macchk.php?randval=' + Math.random());
-            //     $('#status').load('/ini.php?randval=' + Math.random());
-            //     document.getElementById('changelogframe').contentWindow.location.reload();
-            // }, 10000);
+            var refreshId = setInterval(function()
+            {
+                $('#hero').load('/Stats/hero.php?randval=' + Math.random());
+                $('#server').load('/Stats/server.php?randval=' + Math.random());
+                $('#ping').load('/macchk.php?randval=' + Math.random());
+                $('#status').load('/ini.php?randval=' + Math.random());
+                document.getElementById('changelogframe').contentWindow.location.reload();
+            }, 10000);
         </script>
         <script type="text/javascript" async src="/js/css-pop.js"></script>
     <div class="container-fluid">
@@ -83,13 +83,13 @@
                 <p style="font-weight:normal;padding:0"><b> <font size="5">Welcome to A3 Ultimate. :</font></b><big><big> The place to unleash the Ultimate Gamer in You. </big></big><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A3 (Art, Alive, Attraction) is an Online MMORPG where you can create character, Level Up, Perform Quests, Make Knighthoods/Alliances. A3 Ultimate serving players since Nov' 2011, by providing a great platform to perform the Tasks ingame.</p><br>
                 <hr>
                 <div class="row-fluid" style=" margin:0 auto; width:100%" >
-                    <div class="span12" style="font-family:Lato;" >
+                    <div class="span12" style="font-family:Calibri;" >
                         
                         <h2>Ingame Shout Chat</h2>
-                        <iframe src="/beta/game/homepageshout" style="border:2px solid blue;width:100%" height="250px"></iframe><br><br>
+                        <iframe src="http://www.a3ultimate.com/beta/game/homepageshout" style="border:2px solid blue;width:100%" height="250px"></iframe><br><br>
                         
-                        <h2>Changelogs  <small>For detailed view:<a href="/changelog.php">Click here</a></h2>
-                        <iframe id='changelogframe' src="/changelogbox.php" style="border:2px solid blue;width:100%" height="250px"></iframe><br><br>
+                        <h2>Changelogs  <small>For detailed view:<a href="http://www.a3ultimate.com/changelog.php">Click here</a></h2>
+                        <iframe id='changelogframe' src="http://www.a3ultimate.com/changelogbox.php" style="border:2px solid blue;width:100%" height="250px"></iframe><br><br>
                         
                     </div>
 
@@ -130,7 +130,7 @@
                     </ul>
                 </div>
             </div>
-            <div class="span9" style="font-family:Lato;">
+            <div class="span9" style="font-family:Calibri;">
 
                 <div class="row" style=" margin:0 auto; width:100%" >
                     <a href="/Downloads/"><div class="quickLinks downloads"></div></a>
@@ -163,10 +163,24 @@
                 </div>
 
                 <div class="row" style=" margin:0 auto; width:100%" >
+                    <div class="span5" style="margin-right:6%" >
+                        <!--<h2  align="center">Gallery</h2>
+                        <hr>
+
+                        <span id="gal"><?php
+                            $query1 = "SELECT top 9 * FROM gallery_info where verify=1 order by sr_no desc  ";
+                            $rs1 = odbc_exec($con2, $query1);
+                            while ($dd = odbc_fetch_array($rs1)) {
+                                echo "<a class='pop' href='#' id='$dd[unq_id]'>
+                  <img src=' $dd[thumb]' title='$dd[descr]' class='img-polaroid'  >
+                  </a>";
+                            }
+                            ?></span>-->
+                    </div>
                     <div class="span5"  align="center">
                         <h2 align="center">Stay Connected (FB)</h2>
                         <hr>
-                        <iframe src="https://www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FA3Ultimate&amp;width=300&amp;height=290&amp;colorscheme=light&amp;show_faces=true&amp;header=true&amp;stream=false&amp;show_border=false" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:300px;width:300px" allowTransparency="true"></iframe>
+                        <iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FA3Ultimate&amp;width=300&amp;height=290&amp;colorscheme=light&amp;show_faces=true&amp;header=true&amp;stream=false&amp;show_border=false" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:300px;width:300px" allowTransparency="true"></iframe>
                     </div>
                 </div>
 
